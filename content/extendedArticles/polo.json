@@ -1,0 +1,17 @@
+{
+  "group": "herren",
+  "urlPath": "polo",
+  "sort": 1,
+  "name": "Pullover POLO RALPH LAUREN",
+  "image": "/img/sortimenterweiterung/Herren/RALPHLAUREN-Pullover/1539177139000.jpeg",
+  "priceFull": 499.9,
+  "price25": 124.9,
+  "variationName": "Grösse",
+  "variations": [
+    { "name": "S", "article": 1 },
+    { "name": "M", "article": 2 },
+    { "name": "L", "article": 3 },
+    { "name": "XL", "article": 4 },
+    { "name": "XXL", "article": 5 }
+  ]
+}

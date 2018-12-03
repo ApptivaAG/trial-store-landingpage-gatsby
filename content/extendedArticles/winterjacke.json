@@ -1,0 +1,14 @@
+{
+  "group": "herren",
+  "urlPath": "winterjacke",
+  "sort": 2,
+  "name": "Winterjacke",
+  "image": "/img/sortimenterweiterung/Herren/SANDRO-Winterjacke/1541574852000.jpeg",
+  "priceFull": 709,
+  "price25": 177,
+  "variationName": "Grösse",
+  "variations": [
+    { "name": "S", "article": 1 },
+    { "name": "L", "article": 3 }
+  ]
+}

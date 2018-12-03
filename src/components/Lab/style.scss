@@ -1,0 +1,16 @@
+@import 'scss/colors.scss';
+
+#lab {
+  [class*="col-"] {
+    margin-bottom: 0.5em;
+  }
+
+  .gutschein {
+    font-weight: bold;
+    color: #d10000;
+  }
+
+  img {
+    width: 100%;
+  }
+}

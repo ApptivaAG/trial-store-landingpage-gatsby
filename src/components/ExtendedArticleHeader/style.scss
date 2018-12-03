@@ -1,0 +1,12 @@
+@import 'scss/colors.scss';
+@import 'scss/fonts.scss';
+
+.article-heading {
+  padding-bottom: 1em;
+  .info-text {
+    font-size: 0.8em;
+    margin: 3em 0 0;
+    text-align: right;
+  }
+
+}
