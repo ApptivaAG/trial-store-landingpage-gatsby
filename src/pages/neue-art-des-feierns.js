@@ -73,7 +73,13 @@ export const feiernQuery = graphql`
           urlPath
           sort
           name
-          image
+          image {
+            childImageSharp {
+              fluid(maxWidth: 700) {
+                ...GatsbyImageSharpFluid_withWebp
+              }
+            }
+          }
           priceFull
           price25
           variationName

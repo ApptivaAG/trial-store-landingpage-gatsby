@@ -78,6 +78,7 @@
   },
   "main": "n/a",
   "scripts": {
+    "start": "npm run develop",
     "build": "gatsby build",
     "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "develop": "gatsby develop",

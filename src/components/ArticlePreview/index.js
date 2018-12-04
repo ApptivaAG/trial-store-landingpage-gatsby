@@ -1,12 +1,14 @@
 import { Link } from 'gatsby'
+import Img from 'gatsby-image'
 import React from 'react'
 import './style.scss'
 
 const ArticlePreview = ({ root, article }) => {
+  console.log('img', article.node.image)
   return (
     <div className="col-lg-4">
       <Link to={root + article.node.urlPath + '/' + article.node.variations[0].article}>
-        <img className="article-img" src={article.node.image} alt={article.node.name} />
+        <Img className="article-img" fluid={article.node.image.childImageSharp.fluid} alt={article.node.name} />
       </Link>
       <h3>{article.node.name}</h3>
       <p>
