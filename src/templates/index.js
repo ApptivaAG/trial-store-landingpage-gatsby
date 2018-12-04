@@ -10,10 +10,7 @@ import Page from 'templates/Page'
 const Template = ({ data, location }) => (
   <div>
     <Layout location={location}>
-      <Meta
-        title={get(data, 'post.frontmatter.title')}
-        site={get(data, 'site.meta')}
-      />
+      <Meta title={get(data, 'post.frontmatter.title')} site={get(data, 'site.meta')} />
       {get(data, 'post.frontmatter.layout') != 'page' ? (
         <Post
           data={get(data, 'post')}

@@ -26,14 +26,7 @@ exports.createPages = ({ graphql, actions }) => {
                   }
                   extendedArticle: childExtendedArticlesJson {
                     urlPath
-                    sort
-                    name
-                    image
-                    priceFull
-                    price25
-                    variationName
                     variations {
-                      name
                       article
                     }
                   }
@@ -82,7 +75,6 @@ exports.createPages = ({ graphql, actions }) => {
               component: ArticleTemplate,
               context: {
                 pathRoot: '/neue-art-des-feierns/',
-                article: node.extendedArticle,
                 articleNumber: variation.article,
               },
             })
