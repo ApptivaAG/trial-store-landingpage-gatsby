@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'gatsby'
 import './style.scss'
 
 class Navi extends React.Component {
@@ -14,15 +15,15 @@ class Navi extends React.Component {
               <div className="subline">by GLOBUS</div>
             </a>
           </div>
-          <a className="nav-locations text-uppercase js-scroll-trigger" href={root + '#articles'}>
+          <Link className="nav-locations text-uppercase js-scroll-trigger" to={root + '#articles'}>
             Produkte
-          </a>
-          <a className="nav-locations text-uppercase js-scroll-trigger" href={root + '#howitworks'}>
+          </Link>
+          <Link className="nav-locations text-uppercase js-scroll-trigger" to={root + '#howitworks'}>
             So funktionierts
-          </a>
-          <a href={root} className="snipcart-checkout nav-locations text-uppercase">
+          </Link>
+          <Link to={root} className="snipcart-checkout nav-locations text-uppercase">
             Warenkorb
-          </a>
+          </Link>
         </div>
       </nav>
     )

@@ -4,10 +4,10 @@ import { Link } from 'gatsby'
 import Img from 'gatsby-image'
 import Layout from 'components/Layout'
 
-const Article = ({ data, pageContext, pageResources }) => {
+const Article = ({ data, pageContext, location }) => {
   const { pathRoot, articleNumber } = pageContext
   const article = data.articles
-  const currentUrl = '/'
+  const currentUrl = location.pathname
   const currentVariation = article.variations.find(v => v.article === articleNumber)
   return (
     <Layout root={pathRoot}>
