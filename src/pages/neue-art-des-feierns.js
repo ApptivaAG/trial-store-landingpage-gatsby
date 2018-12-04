@@ -1,4 +1,4 @@
-import { graphql } from 'gatsby'
+import { graphql, Link } from 'gatsby'
 import React from 'react'
 import get from 'lodash/get'
 
@@ -24,7 +24,9 @@ const NeueArtDesFeierns = ({ data, location }) => {
   return (
     <Layout root="/neue-art-des-feierns/">
       <Meta site={get(data, 'site.meta')} />
-      <Header image={data.hero.fluid} />
+      <Header image={data.hero.fluid}>
+        <Link className="js-scroll-trigger header-button" to="/#locations" />
+      </Header>
       <ExtendedArticleHeader />
       <ExtendedArticleSection heading="Herren – Ausleihen mit Stil">
         {herren.map((article, i) => (

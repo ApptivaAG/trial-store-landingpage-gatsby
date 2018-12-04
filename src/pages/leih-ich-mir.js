@@ -1,4 +1,4 @@
-import { graphql } from 'gatsby'
+import { graphql, Link } from 'gatsby'
 import React from 'react'
 import get from 'lodash/get'
 
@@ -19,7 +19,9 @@ const DasLeihIchMir = ({ data }) => {
   return (
     <Layout root="/leih-ich-mir/">
       <Meta site={get(data, 'site.meta')} />
-      <Header imageUrl="/img/das-leih-ich-mir.jpg" />
+      <Header image={data.hero.fluid}>
+        <Link className="js-scroll-trigger header-button" to="/#locations" />
+      </Header>
       <LeihIchMirArticleHeader />
       <LeihIchMirArticleSection>
         {articles.map((article, i) => (
@@ -47,6 +49,11 @@ export const feiernQuery = graphql`
         author
         twitter
         adsense
+      }
+    }
+    hero: imageSharp(fluid: { originalName: { regex: "/das-leih-ich-mir/" } }) {
+      fluid(maxWidth: 2400, quality: 80) {
+        ...GatsbyImageSharpFluid_withWebp
       }
     }
     articles: allArticlesJson(sort: { fields: [sort], order: DESC }, filter: { group: { eq: "bags" } }) {
