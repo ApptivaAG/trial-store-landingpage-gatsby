@@ -2,16 +2,16 @@
   "group": "herren",
   "urlPath": "polo",
   "sort": 1,
-  "name": "Pullover POLO RALPH LAUREN",
+  "name": "Strickpullover POLO RALPH LAUREN",
   "image": "./img/Herren/RALPHLAUREN-Pullover/1539177139000.jpeg",
   "priceFull": 499.9,
   "price25": 124.9,
   "variationName": "Grösse",
   "variations": [
-    { "name": "S", "article": 1 },
-    { "name": "M", "article": 2 },
-    { "name": "L", "article": 3 },
-    { "name": "XL", "article": 4 },
-    { "name": "XXL", "article": 5 }
+    { "name": "S", "article": 1257112306 },
+    { "name": "M", "article": 1257112307 },
+    { "name": "L", "article": 1257112308 },
+    { "name": "XL", "article": 1257112309 },
+    { "name": "XXL", "article": 1257112310 }
   ]
 }
