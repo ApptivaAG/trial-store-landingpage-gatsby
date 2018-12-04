@@ -1,23 +1,23 @@
 @import 'scss/colors.scss';
 @import 'scss/fonts.scss';
 
-section {
+section#article {
   padding: 140px 0;
   min-height: 300px;
-}
-.variations {
-  margin-bottom: 3em;
-}
 
-.variation {
-  border: 1px solid black;
-  margin-right: 0.3em;
-  float: left;
-  width: 2.3em;
-  text-align: center;
+  .variations {
+    margin-bottom: 3em;
+  }
 
+  .variation {
+    border: 1px solid black;
+    margin-right: 0.3em;
+    float: left;
+    width: 2.3em;
+    text-align: center;
+  }
+  .active {
+    background: black;
+    color: $gold;
+  }
 }
-    .active {
-      background: black;
-      color: $gold;
-    }

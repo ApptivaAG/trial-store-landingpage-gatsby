@@ -12,7 +12,7 @@ const Article = ({ data, pageContext, pageResources }) => {
   const currentVariation = article.variations.find(v => v.article === articleNumber)
   return (
     <Layout root={pathRoot}>
-      <section>
+      <section id="article">
         <div className="container">
           <div className="row">
             <div className="col-lg-6">
