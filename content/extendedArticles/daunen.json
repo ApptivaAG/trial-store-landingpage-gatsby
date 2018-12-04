@@ -6,6 +6,7 @@
   "image": "./img/Herren/ETHUDES-Daunenmantel/1542097831000.jpeg",
   "priceFull": 989.9,
   "price25": 249,
+  "mainVariation": 1255698002,
   "variationName": "Grösse",
   "variations": [{ "name": "46", "article": 1255698001 }, { "name": "48", "article": 1255698002 }, { "name": "50", "article": 1255698003 }]
 }

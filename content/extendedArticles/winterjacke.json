@@ -6,6 +6,7 @@
   "image": "./img/Herren/SANDRO-Winterjacke/1541574852000.jpeg",
   "priceFull": 709,
   "price25": 177,
+  "mainVariation": 1261063011,
   "variationName": "Grösse",
   "variations": [{ "name": "S", "article": 1261063009 }, {"name": "M", "article": 1261063010}, { "name": "L", "article": 1261063011 }]
 }

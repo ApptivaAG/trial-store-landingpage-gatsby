@@ -83,6 +83,7 @@ export const feiernQuery = graphql`
           priceFull
           price25
           variationName
+          mainVariation
           variations {
             name
             article

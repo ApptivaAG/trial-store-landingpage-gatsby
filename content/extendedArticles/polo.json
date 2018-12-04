@@ -6,6 +6,7 @@
   "image": "./img/Herren/RALPHLAUREN-Pullover/1539177139000.jpeg",
   "priceFull": 499.9,
   "price25": 124.9,
+  "mainVariation": 1257112308,
   "variationName": "Grösse",
   "variations": [
     { "name": "S", "article": 1257112306 },
