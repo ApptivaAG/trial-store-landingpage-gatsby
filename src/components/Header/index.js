@@ -1,10 +1,11 @@
 import { Link } from 'gatsby'
+import Img from 'gatsby-image'
 import React from 'react'
 import './style.scss'
 
-const Header = ({ imageUrl }) => (
+const Header = ({ image }) => (
   <header className="masthead">
-    <img src={imageUrl} /> <Link className="js-scroll-trigger header-button" to="/#locations" />
+    <Img fluid={image} /> <Link className="js-scroll-trigger header-button" to="/#locations" />
   </header>
 )
 

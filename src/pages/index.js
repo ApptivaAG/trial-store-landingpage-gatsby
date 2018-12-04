@@ -11,10 +11,10 @@ import Lab from 'components/Lab'
 import FAQ from 'components/FAQ'
 import Newsletter from 'components/Newsletter'
 
-const Index = ({ location }) => {
+const Index = ({ data, location }) => {
   return (
     <Layout root="/">
-      <Header imageUrl="/img/neue-art-des-feierns.png" />
+      <Header image={data.hero.fluid} />
       <HowItWorks />
       <Locations />
       <Lab />
@@ -25,3 +25,23 @@ const Index = ({ location }) => {
 }
 
 export default Index
+
+export const rootQuery = graphql`
+  query rootQuery {
+    hero: imageSharp(fluid: { originalName: { regex: "/root/" } }) {
+      fluid(maxWidth: 2400, quality: 80) {
+        ...GatsbyImageSharpFluid_withWebp
+      }
+    }
+    site {
+      meta: siteMetadata {
+        title
+        description
+        url: siteUrl
+        author
+        twitter
+        adsense
+      }
+    }
+  }
+`

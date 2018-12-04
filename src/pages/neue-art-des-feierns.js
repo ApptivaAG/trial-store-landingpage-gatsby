@@ -24,7 +24,7 @@ const NeueArtDesFeierns = ({ data, location }) => {
   return (
     <Layout root="/neue-art-des-feierns/">
       <Meta site={get(data, 'site.meta')} />
-      <Header imageUrl="/img/neue-art-des-feierns.png" />
+      <Header image={data.hero.fluid} />
       <ExtendedArticleHeader />
       <ExtendedArticleSection heading="Herren – Ausleihen mit Stil">
         {herren.map((article, i) => (
@@ -54,6 +54,11 @@ export default NeueArtDesFeierns
 
 export const feiernQuery = graphql`
   query feiernQuery {
+    hero: imageSharp(fluid: { originalName: { regex: "/neue-art-des-feierns/" } }) {
+      fluid(maxWidth: 2400, quality: 80) {
+        ...GatsbyImageSharpFluid_withWebp
+      }
+    }
     site {
       meta: siteMetadata {
         title
