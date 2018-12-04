@@ -7,7 +7,7 @@ import SnipCart from 'components/SnipCart/index'
 
 const Article = ({ data, pageContext, pageResources }) => {
   const { pathRoot, articleNumber } = pageContext
-  const article = data.extendedArticlesJson
+  const article = data.articles
   const currentUrl = pageResources.page.path
   const currentVariation = article.variations.find(v => v.article === articleNumber)
   return (
@@ -73,7 +73,7 @@ export const pageArticleQuery = graphql`
         adsense
       }
     }
-    extendedArticlesJson(variations: { elemMatch: { article: { eq: $articleNumber } } }) {
+    articles: articlesJson(variations: { elemMatch: { article: { eq: $articleNumber } } }) {
       id
       group
       urlPath

@@ -66,7 +66,7 @@ export const feiernQuery = graphql`
         adsense
       }
     }
-    articles: allExtendedArticlesJson(sort: { fields: [priceFull], order: DESC }) {
+    articles: allArticlesJson(sort: { fields: [priceFull], order: DESC }) {
       edges {
         node {
           group

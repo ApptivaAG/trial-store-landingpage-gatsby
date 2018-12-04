@@ -24,7 +24,7 @@ exports.createPages = ({ graphql, actions }) => {
                       path
                     }
                   }
-                  extendedArticle: childExtendedArticlesJson {
+                  extendedArticle: childrenArticlesJson {
                     urlPath
                     variations {
                       article
@@ -66,17 +66,19 @@ exports.createPages = ({ graphql, actions }) => {
 
         const extendedArticles = items.filter(({ node }) => /extendedArticles/.test(node.name))
         const ArticleTemplate = path.resolve(`src/templates/Article/index.js`)
-        console.log('Creating pages for articles...')
+        console.log('Creating pages for articles...', extendedArticles)
         each(extendedArticles, ({ node }) => {
           if (!node.extendedArticle) return
-          each(node.extendedArticle.variations, variation => {
-            createPage({
-              path: '/neue-art-des-feierns/' + node.extendedArticle.urlPath + '/' + variation.article,
-              component: ArticleTemplate,
-              context: {
-                pathRoot: '/neue-art-des-feierns/',
-                articleNumber: variation.article,
-              },
+          each(node.extendedArticle, article => {
+            each(article.variations, variation => {
+              createPage({
+                path: '/neue-art-des-feierns/' + article.urlPath + '/' + variation.article,
+                component: ArticleTemplate,
+                context: {
+                  pathRoot: '/neue-art-des-feierns/',
+                  articleNumber: variation.article,
+                },
+              })
             })
           })
         })
