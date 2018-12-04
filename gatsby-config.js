@@ -57,10 +57,10 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Gatstrap',
-        short_name: 'Gatstrap',
-        description: 'Gatsby starter for bootstrap a blog',
-        homepage_url: 'https://gatstrap.netlify.com',
+        name: 'Trial Store by Globus',
+        short_name: 'Trial Store',
+        description: 'Trial Store by Globus',
+        homepage_url: 'https://trialstore.ch',
         start_url: '/',
         background_color: '#fff',
         theme_color: '#673ab7',
@@ -82,7 +82,13 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-google-analytics',
       options: {
-        trackingId: '',
+        trackingId: 'UA-124581203-1',
+      },
+    },
+    {
+      resolve: `gatsby-plugin-facebook-pixel`,
+      options: {
+        pixelId: '2217779911879262',
       },
     },
     {
@@ -94,7 +100,6 @@ module.exports = {
       },
     },
     'gatsby-transformer-json',
-    // 'gatsby-plugin-catch-links',
     'gatsby-plugin-offline',
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-react-next',
