@@ -3,7 +3,6 @@ import './style.scss'
 import { Link } from 'gatsby'
 import Img from 'gatsby-image'
 import Layout from 'components/Layout'
-import SnipCart from 'components/SnipCart/index'
 
 const Article = ({ data, pageContext, pageResources }) => {
   const { pathRoot, articleNumber } = pageContext
@@ -46,7 +45,6 @@ const Article = ({ data, pageContext, pageResources }) => {
           </div>
         </div>
       </section>
-      {/* <SnipCart /> */}
     </Layout>
   )
 }

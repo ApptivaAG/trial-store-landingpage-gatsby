@@ -13,7 +13,6 @@ import Newsletter from 'components/Newsletter'
 import ExtendedArticleHeader from 'components/ExtendedArticleHeader'
 import ArticlePreview from 'components/ArticlePreview'
 import ExtendedArticleSection from 'components/ExtendesArticleSection'
-import SnipCart from 'components/SnipCart'
 
 const NeueArtDesFeierns = () => {
   return (
@@ -24,7 +23,6 @@ const NeueArtDesFeierns = () => {
       <Lab />
       <FAQ />
       <Newsletter />
-      <SnipCart />
     </Layout>
   )
 }
