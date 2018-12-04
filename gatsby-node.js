@@ -8,77 +8,39 @@ exports.createPages = ({ graphql, actions }) => {
 
   return new Promise((resolve, reject) => {
     resolve(
-      graphql(
-        `
-          {
-            allFile(filter: { extension: { regex: "/md|js/" } }, limit: 1000) {
-              edges {
-                node {
-                  id
-                  name: sourceInstanceName
-                  path: absolutePath
-                  remark: childMarkdownRemark {
-                    id
-                    frontmatter {
-                      layout
-                      path
-                    }
-                  }
-                  extendedArticle: childrenArticlesJson {
-                    urlPath
-                    variations {
-                      article
-                    }
-                  }
+      graphql(`
+        {
+          allArticlesJson {
+            edges {
+              node {
+                urlPath
+                variations {
+                  name
+                  article
                 }
               }
             }
           }
-        `
-      ).then(({ errors, data }) => {
+        }
+      `).then(({ errors, data }) => {
         if (errors) {
           console.log(errors)
           reject(errors)
         }
 
-        // Create blog posts & pages.
-        const items = data.allFile.edges
-        const posts = items.filter(({ node }) => /posts/.test(node.name))
-        each(posts, ({ node }) => {
-          if (!node.remark) return
-          const { path } = node.remark.frontmatter
-          createPage({
-            path,
-            component: PostTemplate,
-          })
-        })
-
-        const pages = items.filter(({ node }) => /page/.test(node.name))
-        each(pages, ({ node }) => {
-          if (!node.remark) return
-          const { name } = path.parse(node.path)
-          const PageTemplate = path.resolve(node.path)
-          createPage({
-            path: name,
-            component: PageTemplate,
-          })
-        })
-
-        const extendedArticles = items.filter(({ node }) => /extendedArticles/.test(node.name))
+        // Create article pages pages.
+        const items = data.allArticlesJson.edges
         const ArticleTemplate = path.resolve(`src/templates/Article/index.js`)
-        console.log('Creating pages for articles...', extendedArticles)
-        each(extendedArticles, ({ node }) => {
-          if (!node.extendedArticle) return
-          each(node.extendedArticle, article => {
-            each(article.variations, variation => {
-              createPage({
-                path: '/neue-art-des-feierns/' + article.urlPath + '/' + variation.article,
-                component: ArticleTemplate,
-                context: {
-                  pathRoot: '/neue-art-des-feierns/',
-                  articleNumber: variation.article,
-                },
-              })
+        console.log('Creating pages for articles...')
+        each(items, ({ node }) => {
+          each(node.variations, variation => {
+            createPage({
+              path: '/neue-art-des-feierns/' + node.urlPath + '/' + variation.article,
+              component: ArticleTemplate,
+              context: {
+                pathRoot: '/neue-art-des-feierns/',
+                articleNumber: variation.article,
+              },
             })
           })
         })
