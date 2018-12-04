@@ -1,0 +1,52 @@
+[
+  {
+    "group": "herren",
+    "urlPath": "daunen",
+    "sort": 3,
+    "name": "Daunenmantel von ÉTUDES",
+    "image": "./img/Herren/ETHUDES-Daunenmantel/1542097831000.jpeg",
+    "priceFull": 989.9,
+    "price25": 249,
+    "mainVariation": 1255698002,
+    "variationName": "Grösse",
+    "variations": [
+      { "name": "46", "article": 1255698001 },
+      { "name": "48", "article": 1255698002 },
+      { "name": "50", "article": 1255698003 }
+    ]
+  },
+  {
+    "group": "herren",
+    "urlPath": "polo",
+    "sort": 1,
+    "name": "Strickpullover POLO RALPH LAUREN",
+    "image": "./img/Herren/RALPHLAUREN-Pullover/1539177139000.jpeg",
+    "priceFull": 499.9,
+    "price25": 124.9,
+    "mainVariation": 1257112308,
+    "variationName": "Grösse",
+    "variations": [
+      { "name": "S", "article": 1257112306 },
+      { "name": "M", "article": 1257112307 },
+      { "name": "L", "article": 1257112308 },
+      { "name": "XL", "article": 1257112309 },
+      { "name": "XXL", "article": 1257112310 }
+    ]
+  },
+  {
+    "group": "herren",
+    "urlPath": "winterjacke",
+    "sort": 2,
+    "name": "Winterjacke",
+    "image": "./img/Herren/SANDRO-Winterjacke/1541574852000.jpeg",
+    "priceFull": 709,
+    "price25": 177,
+    "mainVariation": 1261063011,
+    "variationName": "Grösse",
+    "variations": [
+      { "name": "S", "article": 1261063009 },
+      { "name": "M", "article": 1261063010 },
+      { "name": "L", "article": 1261063011 }
+    ]
+  }
+]

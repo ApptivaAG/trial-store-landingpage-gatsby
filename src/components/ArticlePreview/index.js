@@ -4,10 +4,9 @@ import React from 'react'
 import './style.scss'
 
 const ArticlePreview = ({ root, article }) => {
-  console.log('img', article.node.image)
   return (
     <div className="col-lg-4">
-      <Link to={root + article.node.urlPath + '/' + article.node.variations[0].article}>
+      <Link to={root + article.node.urlPath + '/' + article.node.mainVariation}>
         <Img className="article-img" fluid={article.node.image.childImageSharp.fluid} alt={article.node.name} />
       </Link>
       <h3>{article.node.name}</h3>
@@ -18,7 +17,7 @@ const ArticlePreview = ({ root, article }) => {
       <p>
         {article.node.variationName}: {article.node.variations.map(v => v.name).join(', ')}
       </p>
-      <Link to={root + article.node.urlPath + '/' + article.node.variations[0].article}>
+      <Link to={root + article.node.urlPath + '/' + article.node.mainVariation}>
         <button className="btn btn-primary">Ausleihen für 100 Tage</button>
       </Link>
     </div>

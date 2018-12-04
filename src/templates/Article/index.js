@@ -1,22 +1,22 @@
 import React from 'react'
 import './style.scss'
 import { Link } from 'gatsby'
-
+import Img from 'gatsby-image'
 import Layout from 'components/Layout'
 import SnipCart from 'components/SnipCart/index'
 
-const Article = data => {
-  const pathRoot = data.pageContext.pathRoot
-  const article = data.pageContext.article
-  const articleNumber = data.pageContext.articleNumber
-  const currentUrl = data['*']
+const Article = ({ data, pageContext, pageResources }) => {
+  const { pathRoot, articleNumber } = pageContext
+  const article = data.extendedArticlesJson
+  const currentUrl = pageResources.page.path
+  const currentVariation = article.variations.find(v => v.article === articleNumber)
   return (
     <Layout root={pathRoot}>
       <section>
         <div className="container">
           <div className="row">
             <div className="col-lg-6">
-              <img src={article.image} />
+              <Img fluid={article.image.childImageSharp.fluid} />
             </div>
             <div className="col-lg-6">
               <h2>{article.name}</h2>
@@ -32,14 +32,14 @@ const Article = data => {
                 <button
                   className="snipcart-add-item btn btn-primary"
                   data-item-id={articleNumber}
-                  data-item-name={article.name}
+                  data-item-name={article.name + ' ' + article.variationName + ' ' + currentVariation.name}
                   data-item-price={article.price25}
                   data-item-url={currentUrl}
                   data-item-description={`Vollpreis CHF ` + article.priceFull.toFixed(2)}
                   data-item-custom1-name="75% nach 100 Tagen*"
                   data-item-custom1-value={`CHF ` + (article.priceFull - article.price25).toFixed(2)}
                 >
-                  Ausleihen für 100 Tage
+                  Ausleihen f&uuml;r 100 Tage
                 </button>
               </p>
             </div>
@@ -60,3 +60,38 @@ const VariationButton = (variation, active, currentUrl) => {
   )
 }
 export default Article
+
+export const pageArticleQuery = graphql`
+  query PageArticle($articleNumber: Int!) {
+    site {
+      meta: siteMetadata {
+        title
+        description
+        url: siteUrl
+        author
+        twitter
+        adsense
+      }
+    }
+    extendedArticlesJson(variations: { elemMatch: { article: { eq: $articleNumber } } }) {
+      id
+      group
+      urlPath
+      name
+      image {
+        childImageSharp {
+          fluid(maxWidth: 700) {
+            ...GatsbyImageSharpFluid_withWebp
+          }
+        }
+      }
+      priceFull
+      price25
+      variationName
+      variations {
+        name
+        article
+      }
+    }
+  }
+`
