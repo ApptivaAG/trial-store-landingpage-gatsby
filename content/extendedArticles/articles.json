@@ -48,5 +48,52 @@
       { "name": "M", "article": 1261063010 },
       { "name": "L", "article": 1261063011 }
     ]
+  },
+  {
+    "group": "herren",
+    "urlPath": "cinque-baukasten-veston",
+    "sort": 4,
+    "name": "Baukasten Veston Slim Fit \"Cidon\" von CINQUE",
+    "image": "./img/Herren/CINQUE-Cidon/1536683825000.jpeg",
+    "priceFull": 369,
+    "price25": 92,
+    "mainVariation": 1261586003,
+    "variationName": "Grösse",
+    "variations": [
+      { "name": "50", "article": 1261586003 },
+      { "name": "52", "article": 1261586004 }
+    ]
+  },
+  {
+    "group": "herren",
+    "urlPath": "baukasten-veston-globus-studio",
+    "sort": 5,
+    "name": "Baukasten Veston Slim Fit von GLOBUS STUDIO",
+    "image": "./img/Herren/CINQUE-Slim-Fit/1538388098000.jpeg",
+    "priceFull": 349.90,
+    "price25": 89,
+    "mainVariation": 1255681603,
+    "variationName": "Grösse",
+    "variations": [
+      { "name": "46", "article": 1255681602 },
+      { "name": "48", "article": 1255681603 },
+      { "name": "50", "article": 1255681604 },
+      { "name": "52", "article": 1255681605 }
+    ]
+  }
+  ,
+  {
+    "group": "herren",
+    "urlPath": "armbanduhr-emporio-armani",
+    "sort": 6,
+    "name": "Armbanduhr von EMPORIO ARMANI",
+    "image": "./img/Herren/ARMANI-Armbanduhr/1519741434000.jpeg",
+    "priceFull": 569,
+    "price25": 142,
+    "mainVariation": 1046658500,
+    "variationName": "Farbe",
+    "variations": [
+      { "name": "silberfarben", "article": 1046658500 }
+    ]
   }
 ]
