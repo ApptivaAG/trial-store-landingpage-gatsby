@@ -14,7 +14,7 @@ import ExtendedArticleHeader from 'components/ExtendedArticleHeader'
 import ArticlePreview from 'components/ArticlePreview'
 import ExtendedArticleSection from 'components/ExtendesArticleSection'
 
-const NeueArtDesFeierns = ({ data }) => {
+const NeueArtDesFeierns = ({ data, location }) => {
   const articles = get(data, 'articles.edges').sort((a, b) => {
     return a.node.sort - b.node.sort
   })
@@ -45,7 +45,7 @@ const NeueArtDesFeierns = ({ data }) => {
       <Locations />
       <Lab />
       <FAQ />
-      <Newsletter />
+      <Newsletter path={location.pathname} />
     </Layout>
   )
 }

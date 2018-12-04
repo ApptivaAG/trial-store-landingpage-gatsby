@@ -21,10 +21,8 @@ class NewsletterForm extends React.Component {
       /* eslint-disable-next-line no-alert */
       alert('Ups, ein zwingendes Feld ist noch nicht ausgefüllt.')
     } else {
-      const data = { ...this.state, 'form-name': 'newsletter-merged' }
-      console.log('state', data)
-      const body = encode(data)
-      console.log('state encoded', body)
+      const body = encode({ ...this.state, ...this.props, 'form-name': 'newsletter-merged' })
+
       fetch('/', {
         method: 'POST',
         headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
@@ -85,7 +83,7 @@ class NewsletterForm extends React.Component {
   }
 }
 
-const Newsletter = () => (
+const Newsletter = ({ path }) => (
   <>
     <section id="newsletter">
       <div className="container">
@@ -105,7 +103,7 @@ const Newsletter = () => (
       </div>
     </section>
     <div className="container" id="newsletter-form">
-      <NewsletterForm />
+      <NewsletterForm path={path} />
     </div>
   </>
 )

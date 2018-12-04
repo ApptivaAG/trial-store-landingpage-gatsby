@@ -10,11 +10,8 @@ import Locations from 'components/Locations'
 import Lab from 'components/Lab'
 import FAQ from 'components/FAQ'
 import Newsletter from 'components/Newsletter'
-import ExtendedArticleHeader from 'components/ExtendedArticleHeader'
-import ArticlePreview from 'components/ArticlePreview'
-import ExtendedArticleSection from 'components/ExtendesArticleSection'
 
-const NeueArtDesFeierns = () => {
+const Index = ({ location }) => {
   return (
     <Layout root="/">
       <Header imageUrl="/img/neue-art-des-feierns.png" />
@@ -22,9 +19,9 @@ const NeueArtDesFeierns = () => {
       <Locations />
       <Lab />
       <FAQ />
-      <Newsletter />
+      <Newsletter path={location.pathname} />
     </Layout>
   )
 }
 
-export default NeueArtDesFeierns
+export default Index
