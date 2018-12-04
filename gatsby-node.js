@@ -46,6 +46,46 @@ exports.createPages = ({ graphql, actions }) => {
         })
       })
     )
+
+    resolve(
+      graphql(`
+        {
+          allArticlesJson(filter: { group: { eq: "bags" } }) {
+            edges {
+              node {
+                urlPath
+                variations {
+                  name
+                  article
+                }
+              }
+            }
+          }
+        }
+      `).then(({ errors, data }) => {
+        if (errors) {
+          console.log(errors)
+          reject(errors)
+        }
+
+        // Create bags pages pages.
+        const items = data.allArticlesJson.edges
+        const ArticleTemplate = path.resolve(`src/templates/Article/index.js`)
+        console.log('Creating pages for bags...')
+        each(items, ({ node }) => {
+          each(node.variations, variation => {
+            createPage({
+              path: '/leih-ich-mir/' + node.urlPath + '/' + variation.article,
+              component: ArticleTemplate,
+              context: {
+                pathRoot: '/leih-ich-mir/',
+                articleNumber: variation.article,
+              },
+            })
+          })
+        })
+      })
+    )
   })
 }
 

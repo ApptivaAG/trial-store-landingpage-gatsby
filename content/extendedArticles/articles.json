@@ -159,13 +159,11 @@
     "sort": 5,
     "name": "Clutch von OLGA BERG",
     "image": "./img/Frauen/OLGA-BERG-Clutch/1536136656000.jpeg",
-    "priceFull": 169.90,
+    "priceFull": 169.9,
     "price25": 42,
     "mainVariation": 1262520401,
     "variationName": "Grösse",
-    "variations": [
-      { "name": "One Size", "article": 1262520401 }
-    ]
+    "variations": [{ "name": "One Size", "article": 1262520401 }]
   },
   {
     "group": "frauen",
@@ -177,9 +175,7 @@
     "price25": 325,
     "mainVariation": 1255397202,
     "variationName": "Farbe",
-    "variations": [
-      { "name": "cognac", "article": 1255397202 }
-    ]
+    "variations": [{ "name": "cognac", "article": 1255397202 }]
   },
   {
     "group": "haushalt",
@@ -191,9 +187,7 @@
     "price25": 249,
     "mainVariation": 1188636500,
     "variationName": "Farbe",
-    "variations": [
-      { "name": "mittelgrau", "article": 1188636500 }
-    ]
+    "variations": [{ "name": "mittelgrau", "article": 1188636500 }]
   },
   {
     "group": "haushalt",
@@ -205,9 +199,7 @@
     "price25": 349,
     "mainVariation": 1190062400,
     "variationName": "Farbe",
-    "variations": [
-      { "name": "schwarz", "article": 1190062400 }
-    ]
+    "variations": [{ "name": "schwarz", "article": 1190062400 }]
   },
   {
     "group": "haushalt",
@@ -219,9 +211,7 @@
     "price25": 322,
     "mainVariation": 1254880300,
     "variationName": "Farbe",
-    "variations": [
-      { "name": "schwarz", "article": 1254880300 }
-    ]
+    "variations": [{ "name": "schwarz", "article": 1254880300 }]
   },
   {
     "group": "haushalt",
@@ -233,9 +223,7 @@
     "price25": 1749,
     "mainVariation": 1247916200,
     "variationName": "Farbe",
-    "variations": [
-      { "name": "dunkelbeige gestreift", "article": 1247916200 }
-    ]
+    "variations": [{ "name": "dunkelbeige gestreift", "article": 1247916200 }]
   },
   {
     "group": "haushalt",
@@ -247,9 +235,7 @@
     "price25": 1450,
     "mainVariation": 1183295500,
     "variationName": "Farbe",
-    "variations": [
-      { "name": "dunkelrot", "article": 1183295500 }
-    ]
+    "variations": [{ "name": "dunkelrot", "article": 1183295500 }]
   },
   {
     "group": "haushalt",
@@ -261,9 +247,7 @@
     "price25": 989,
     "mainVariation": 1000636000,
     "variationName": "Farbe",
-    "variations": [
-      { "name": "schwarz", "article": 1000636000 }
-    ]
+    "variations": [{ "name": "schwarz", "article": 1000636000 }]
   },
   {
     "group": "haushalt",
@@ -275,9 +259,7 @@
     "price25": 149,
     "mainVariation": 1174394900,
     "variationName": "Farbe",
-    "variations": [
-      { "name": "olive", "article": 1174394900 }
-    ]
+    "variations": [{ "name": "olive", "article": 1174394900 }]
   },
   {
     "group": "haushalt",
@@ -285,13 +267,11 @@
     "sort": 8,
     "name": "Hi-Fi Lautsprecher von NATIVE UNION",
     "image": "./img/Haushalt/NATIVE-UNION-Lautsprecher/1537861851000.jpeg",
-    "priceFull": 999.90,
+    "priceFull": 999.9,
     "price25": 249,
     "mainVariation": 1261258400,
     "variationName": "Grösse",
-    "variations": [
-      { "name": "41cm x 25.6cm x 23.7cm", "article": 1261258400 }
-    ]
+    "variations": [{ "name": "41cm x 25.6cm x 23.7cm", "article": 1261258400 }]
   },
   {
     "group": "haushalt",
@@ -303,8 +283,22 @@
     "price25": 199,
     "mainVariation": 1256492000,
     "variationName": "Grösse",
+    "variations": [{ "name": "120cm x 180cm", "article": 1256492000 }]
+  },
+  {
+    "group": "bags",
+    "urlPath": "coach",
+    "sort": 1,
+    "name": "Shopper von COACH",
+    "image": "./img/Bags/coach-black-1529565400000.jpg",
+    "priceFull": 349.9,
+    "price25": 87.4,
+    "mainVariation": 1181509414,
+    "variationName": "Farbe",
     "variations": [
-      { "name": "120cm x 180cm", "article": 1256492000 }
+      { "name": "schwarz", "article": 1181509414, "image": "./img/Bags/coach-black-1529565400000.jpg" },
+      { "name": "petrol", "article": 1181509413, "image": "./img/Bags/coach-petrol-1530600622000.jpg" },
+      { "name": "tabak", "article": 1181509415, "image": "./img/Bags/coach-tabak-1530777643000.jpg" }
     ]
   }
 ]

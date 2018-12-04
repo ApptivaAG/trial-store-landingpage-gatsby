@@ -9,13 +9,16 @@ const Article = ({ data, pageContext, location }) => {
   const article = data.articles
   const currentUrl = location.pathname
   const currentVariation = article.variations.find(v => v.article === articleNumber)
+  const fluidImage = currentVariation.image
+    ? currentVariation.image.childImageSharp.fluid
+    : article.image.childImageSharp.fluid
   return (
     <Layout root={pathRoot}>
       <section id="article">
         <div className="container">
           <div className="row">
             <div className="col-lg-6">
-              <Img fluid={article.image.childImageSharp.fluid} />
+              <Img fluid={fluidImage} />
             </div>
             <div className="col-lg-6">
               <h2>{article.name}</h2>
@@ -89,6 +92,13 @@ export const pageArticleQuery = graphql`
       variations {
         name
         article
+        image {
+          childImageSharp {
+            fluid(maxWidth: 700) {
+              ...GatsbyImageSharpFluid_withWebp
+            }
+          }
+        }
       }
     }
   }
