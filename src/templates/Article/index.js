@@ -8,7 +8,7 @@ import SnipCart from 'components/SnipCart/index'
 const Article = ({ data, pageContext, pageResources }) => {
   const { pathRoot, articleNumber } = pageContext
   const article = data.articles
-  const currentUrl = pageResources.page.path
+  const currentUrl = '/'
   const currentVariation = article.variations.find(v => v.article === articleNumber)
   return (
     <Layout root={pathRoot}>
@@ -46,7 +46,7 @@ const Article = ({ data, pageContext, pageResources }) => {
           </div>
         </div>
       </section>
-      <SnipCart />
+      {/* <SnipCart /> */}
     </Layout>
   )
 }
