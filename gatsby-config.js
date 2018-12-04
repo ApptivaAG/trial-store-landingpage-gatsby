@@ -86,6 +86,7 @@ module.exports = {
         mergeCachingHeaders: true,
       },
     },
+    'gatsby-plugin-netlify-cache',
     'gatsby-transformer-json',
     'gatsby-plugin-offline',
     'gatsby-plugin-react-helmet',
