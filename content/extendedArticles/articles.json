@@ -59,10 +59,7 @@
     "price25": 92,
     "mainVariation": 1261586003,
     "variationName": "Grösse",
-    "variations": [
-      { "name": "50", "article": 1261586003 },
-      { "name": "52", "article": 1261586004 }
-    ]
+    "variations": [{ "name": "50", "article": 1261586003 }, { "name": "52", "article": 1261586004 }]
   },
   {
     "group": "herren",
@@ -70,7 +67,7 @@
     "sort": 5,
     "name": "Baukasten Veston Slim Fit von GLOBUS STUDIO",
     "image": "./img/Herren/CINQUE-Slim-Fit/1538388098000.jpeg",
-    "priceFull": 349.90,
+    "priceFull": 349.9,
     "price25": 89,
     "mainVariation": 1255681603,
     "variationName": "Grösse",
@@ -80,8 +77,7 @@
       { "name": "50", "article": 1255681604 },
       { "name": "52", "article": 1255681605 }
     ]
-  }
-  ,
+  },
   {
     "group": "herren",
     "urlPath": "armbanduhr-emporio-armani",
@@ -92,8 +88,223 @@
     "price25": 142,
     "mainVariation": 1046658500,
     "variationName": "Farbe",
+    "variations": [{ "name": "silberfarben", "article": 1046658500 }]
+  },
+  {
+    "group": "frauen",
+    "urlPath": "blugirl-folies",
+    "sort": 1,
+    "name": "Cocktailkleid von BLUGIRL FOLIES",
+    "image": "./img/Frauen/BLUGIRL-FOLIES-Cocktailkleid/1538737386000.jpeg",
+    "priceFull": 479.9,
+    "price25": 119,
+    "mainVariation": 1257608102,
+    "variationName": "Grösse",
     "variations": [
-      { "name": "silberfarben", "article": 1046658500 }
+      { "name": "36", "article": 1257608101 },
+      { "name": "38", "article": 1257608102 },
+      { "name": "40", "article": 1257608103 },
+      { "name": "42", "article": 1257608104 }
+    ]
+  },
+  {
+    "group": "frauen",
+    "urlPath": "blazer-maje",
+    "sort": 2,
+    "name": "Blazer von MAJE",
+    "image": "./img/Frauen/MAJE-Blazer/1542097459000.jpeg",
+    "priceFull": 499,
+    "price25": 124,
+    "mainVariation": 1266463202,
+    "variationName": "Grösse",
+    "variations": [{ "name": "T38", "article": 1266463202 }, { "name": "T38", "article": 1266463203 }]
+  },
+  {
+    "group": "frauen",
+    "urlPath": "abendkleid-coast",
+    "sort": 3,
+    "name": "Abendkleid von COAST",
+    "image": "./img/Frauen/COAST-Abendkleid/1539770838000.jpeg",
+    "priceFull": 399.9,
+    "price25": 99,
+    "mainVariation": 1262115602,
+    "variationName": "Grösse",
+    "variations": [
+      { "name": "34", "article": 1262115601 },
+      { "name": "36", "article": 1262115602 },
+      { "name": "38", "article": 1262115603 },
+      { "name": "40", "article": 1262115604 },
+      { "name": "42", "article": 1262115605 }
+    ]
+  },
+  {
+    "group": "frauen",
+    "urlPath": "ana-alcazar-cocktailkleid",
+    "sort": 4,
+    "name": "Cocktailkleid von ANA ALCAZAR",
+    "image": "./img/Frauen/ANA-ALCAZAR-Cocktailkleid/1539770842000.jpeg",
+    "priceFull": 299.9,
+    "price25": 75,
+    "mainVariation": 1262614406,
+    "variationName": "Grösse",
+    "variations": [
+      { "name": "36", "article": 1262614406 },
+      { "name": "40", "article": 1262614408 },
+      { "name": "42", "article": 1262614409 }
+    ]
+  },
+  {
+    "group": "frauen",
+    "urlPath": "clutch-olga-berg",
+    "sort": 5,
+    "name": "Clutch von OLGA BERG",
+    "image": "./img/Frauen/OLGA-BERG-Clutch/1536136656000.jpeg",
+    "priceFull": 169.90,
+    "price25": 42,
+    "mainVariation": 1262520401,
+    "variationName": "Grösse",
+    "variations": [
+      { "name": "OS", "article": 1262520401 }
+    ]
+  },
+  {
+    "group": "frauen",
+    "urlPath": "reisetasche-mcm",
+    "sort": 6,
+    "name": "Reisetasche cognac von MCM",
+    "image": "./img/Frauen/MCM-Reisetasche/1537359339000.jpeg",
+    "priceFull": 1299,
+    "price25": 325,
+    "mainVariation": 1255397202,
+    "variationName": "Farbe",
+    "variations": [
+      { "name": "cognac", "article": 1255397202 }
+    ]
+  },
+  {
+    "group": "haushalt",
+    "urlPath": "reisetasche-mcm",
+    "sort": 1,
+    "name": "KitchenAid KSM175 PLATINUM SET",
+    "image": "./img/Haushalt/KITCHENAID-Platinum-Set/1519741903000.jpeg",
+    "priceFull": 999,
+    "price25": 249,
+    "mainVariation": 1188636500,
+    "variationName": "Farbe",
+    "variations": [
+      { "name": "mittelgrau", "article": 1188636500 }
+    ]
+  },
+  {
+    "group": "haushalt",
+    "urlPath": "magimix-cook-expert",
+    "sort": 2,
+    "name": "Magimix COOK EXPERT",
+    "image": "./img/Haushalt/COOK-EXPERT-Magimix/1529652967000.jpeg",
+    "priceFull": 1399,
+    "price25": 349,
+    "mainVariation": 1190062400,
+    "variationName": "Farbe",
+    "variations": [
+      { "name": "schwarz", "article": 1190062400 }
+    ]
+  },
+  {
+    "group": "haushalt",
+    "urlPath": "herrenvelo-martone",
+    "sort": 3,
+    "name": "Herrenvelo von MARTONE",
+    "image": "./img/Haushalt/MARTONE-Herrenvelo/1520855387000.jpeg",
+    "priceFull": 1290,
+    "price25": 322,
+    "mainVariation": 1254880300,
+    "variationName": "Farbe",
+    "variations": [
+      { "name": "schwarz", "article": 1254880300 }
+    ]
+  },
+  {
+    "group": "haushalt",
+    "urlPath": "kaesewagen-globus",
+    "sort": 4,
+    "name": "Käsewagen von GLOBUS",
+    "image": "./img/Haushalt/GLOBUS-Kaesewagen/1519655780000.jpeg",
+    "priceFull": 6999,
+    "price25": 1749,
+    "mainVariation": 1247916200,
+    "variationName": "Farbe",
+    "variations": [
+      { "name": "dunkelbeige gestreift", "article": 1247916200 }
+    ]
+  },
+  {
+    "group": "haushalt",
+    "urlPath": "aufschnittmaschine-berkel",
+    "sort": 5,
+    "name": "Aufschnittmaschine VOLANO B2",
+    "image": "./img/Haushalt/BERKEL-Aufschnittmaschine/1530183574000.jpeg",
+    "priceFull": 5808,
+    "price25": 1450,
+    "mainVariation": 1183295500,
+    "variationName": "Farbe",
+    "variations": [
+      { "name": "dunkelrot", "article": 1183295500 }
+    ]
+  },
+  {
+    "group": "haushalt",
+    "urlPath": "kolbenmaschine-maximatic",
+    "sort": 6,
+    "name": "Kolbenmaschine MAXIMATIC von OLYMPIA",
+    "image": "./img/Haushalt/MAXIMATIC-Kolbenmaschine/1489524041000.jpeg",
+    "priceFull": 3950,
+    "price25": 989,
+    "mainVariation": 1000636000,
+    "variationName": "Farbe",
+    "variations": [
+      { "name": "schwarz", "article": 1000636000 }
+    ]
+  },
+  {
+    "group": "haushalt",
+    "urlPath": "trolley-samsonite",
+    "sort": 7,
+    "name": "Trolley LITE-CUBE-DLX von SAMSONITE",
+    "image": "./img/Haushalt/SAMSONITE-Trolley/1496384914000.jpeg",
+    "priceFull": 610,
+    "price25": 149,
+    "mainVariation": 1174394900,
+    "variationName": "Farbe",
+    "variations": [
+      { "name": "olive", "article": 1174394900 }
+    ]
+  },
+  {
+    "group": "haushalt",
+    "urlPath": "lautsprecher-native-union",
+    "sort": 8,
+    "name": "Hi-Fi Lautsprecher von NATIVE UNION",
+    "image": "./img/Haushalt/NATIVE-UNION-Lautsprecher/1537861851000.jpeg",
+    "priceFull": 999.90,
+    "price25": 249,
+    "mainVariation": 1261258400,
+    "variationName": "Grösse",
+    "variations": [
+      { "name": "41cm x 25.6cm x 23.7cm", "article": 1261258400 }
+    ]
+  },
+  {
+    "group": "haushalt",
+    "urlPath": "weihnachtsbaum",
+    "sort": 9,
+    "name": "Weihnachtsbaum von GLOBUS",
+    "image": "./img/Haushalt/GLOBUS-Weihnachtsbaum/1540462409000.jpeg",
+    "priceFull": 799.9,
+    "price25": 199,
+    "mainVariation": 1256492000,
+    "variationName": "Grösse",
+    "variations": [
+      { "name": "120cm x 180cm", "article": 1256492000 }
     ]
   }
 ]
