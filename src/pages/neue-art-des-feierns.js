@@ -13,6 +13,7 @@ import Newsletter from 'components/Newsletter'
 import ExtendedArticleHeader from 'components/ExtendedArticleHeader'
 import ArticlePreview from 'components/ArticlePreview'
 import ExtendedArticleSection from 'components/ExtendesArticleSection'
+import Mission from 'components/Mission'
 
 const NeueArtDesFeierns = ({ data, location }) => {
   const articles = get(data, 'articles.edges').sort((a, b) => {
@@ -47,6 +48,7 @@ const NeueArtDesFeierns = ({ data, location }) => {
       <Locations />
       <Lab />
       <FAQ />
+      <Mission />
       <Newsletter path={location.pathname} />
     </Layout>
   )

@@ -13,8 +13,9 @@ import Newsletter from 'components/Newsletter'
 import LeihIchMirArticleHeader from 'components/LeihIchMirArticleHeader'
 import LeihIchMirArticleSection from 'components/LeihIchMirArticleSection'
 import ArticlePreview from 'components/ArticlePreview'
+import Mission from 'components/Mission'
 
-const DasLeihIchMir = ({ data }) => {
+const DasLeihIchMir = ({ data, location }) => {
   const articles = get(data, 'articles.edges')
   return (
     <Layout root="/leih-ich-mir/">
@@ -32,7 +33,8 @@ const DasLeihIchMir = ({ data }) => {
       <Locations />
       <Lab />
       <FAQ />
-      <Newsletter />
+      <Mission />
+      <Newsletter path={location.pathname} />
     </Layout>
   )
 }

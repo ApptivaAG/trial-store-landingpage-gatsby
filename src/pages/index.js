@@ -13,6 +13,7 @@ import Locations from 'components/Locations'
 import Lab from 'components/Lab'
 import FAQ from 'components/FAQ'
 import Newsletter from 'components/Newsletter'
+import Mission from 'components/Mission'
 
 const Index = ({ data, location }) => {
   return (
@@ -70,6 +71,7 @@ const Index = ({ data, location }) => {
       <Locations />
       <Lab />
       <FAQ />
+      <Mission />
       <Newsletter path={location.pathname} />
     </Layout>
   )
