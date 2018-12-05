@@ -160,7 +160,7 @@
     "name": "Clutch von OLGA BERG",
     "image": "./img/Frauen/OLGA-BERG-Clutch/1536136656000.jpeg",
     "priceFull": 169.9,
-    "price25": 42,
+    "price25": 42.95,
     "mainVariation": 1262520401,
     "variationName": "Grösse",
     "variations": [{ "name": "One Size", "article": 1262520401 }]
@@ -290,10 +290,10 @@
     "urlPath": "coach",
     "sort": 1,
     "name": "Shopper von COACH",
-    "image": "./img/Bags/coach-black-1529565400000.jpg",
+    "image": "./img/Bags/coach-tabak-1530777643000.jpg",
     "priceFull": 349.9,
     "price25": 87.4,
-    "mainVariation": 1181509414,
+    "mainVariation": 1181509415,
     "variationName": "Farbe",
     "variations": [
       { "name": "blauschwarz", "article": 1181509414, "image": "./img/Bags/coach-black-1529565400000.jpg", "color": "#0d3558" },
@@ -304,17 +304,135 @@
   {
     "group": "bags",
     "urlPath": "flura-beuteltasche",
-    "sort": 1,
+    "sort": 2,
     "name": "Beuteltasche von FURLA",
-    "image": "./img/Bags/Furla-perle-1-1534776340000.jpg",
+    "image": "./img/Bags/Furla-blue-1528292452000.jpg",
     "priceFull": 359.9,
     "price25": 89.90,
-    "mainVariation": 1254556106,
+    "mainVariation": 1254556105,
     "variationName": "Farbe",
     "variations": [
       { "name": "schwarz", "article": 1254556109, "image": "./img/Bags/Furla-black-1534776359000.jpg", "color": "#000000" },
       { "name": "blau", "article": 1254556105, "image": "./img/Bags/Furla-blue-1528292452000.jpg", "color": "#9ac0cd" },
-      { "name": "perle", "article": 1254556106, "image": "./img/Bags/Furla-perle-1-1534776340000.jpg", "color": "#fffff7" }
+      { "name": "perle", "article": 1254556106, "image": "./img/Bags/Furla-perle-1-1534776340000.jpg", "color": "#fffff7" },
+      { "name": "rosa", "article": 1254556108, "image": "./img/Bags/Furla-rosa-1-1534776349000.jpg", "color": "#ffc6de" }
+    ]
+  },
+  {
+    "group": "bags",
+    "urlPath": "rucksack-lagerfeld",
+    "sort": 3,
+    "name": "Rucksack von Karl Lagerfeld",
+    "image": "./img/Bags/Karl-1535444992000.jpg",
+    "priceFull": 379.9,
+    "price25": 94.9,
+    "mainVariation": 1259094101,
+    "variationName": "Farbe",
+    "variations": [
+      { "name": "schwarz", "article": 1259094101, "image": "./img/Bags/Furla-black-1534776359000.jpg", "color": "#000000" }
+    ]
+  },
+  {
+    "group": "bags",
+    "urlPath": "rucksack-kate-spade",
+    "sort": 4,
+    "name": "Rucksack von KATE SPADE",
+    "image": "./img/Bags/katespade-1519897599000.jpg",
+    "priceFull": 279.9,
+    "price25": 69.90,
+    "mainVariation": 1253843801,
+    "variationName": "Farbe",
+    "variations": [
+      { "name": "schwarz", "article": 1253843801, "image": "./img/Bags/katespade-1519897599000.jpg", "color": "#000000" }
+    ]
+  },
+  {
+    "group": "bags",
+    "urlPath": "umhaengtasche-liebeskind",
+    "sort": 5,
+    "name": "Umhängetasche von LIEBESKIND",
+    "image": "./img/Bags/Liebeskind-black-1535383439000.jpg",
+    "priceFull": 189.9,
+    "price25": 47.5,
+    "mainVariation": 1261777704,
+    "variationName": "Farbe",
+    "variations": [
+      { "name": "schwarz", "article": 1261777704, "image": "./img/Bags/Liebeskind-black-1535383439000.jpg", "color": "#000000" },
+      { "name": "grau", "article": 1261777703, "image": "./img/Bags/Liebeskind-lightgrey-1535383520000.jpg", "color": "lightgrey" }
+    ]
+  },
+  {
+    "group": "bags",
+    "urlPath": "rucksack-mcm",
+    "sort": 6,
+    "name": "Rucksack von MCM",
+    "image": "./img/Bags/MCM-BEIGE-1530689538000.jpg",
+    "priceFull": 795,
+    "price25": 198.7,
+    "mainVariation": 1256539703,
+    "variationName": "Farbe",
+    "variations": [
+      { "name": "schwarz", "article": 1256539702, "image": "./img/Bags/MCM-1530689525000.jpg", "color": "#000000" },
+      { "name": "cognac", "article": 1256539703, "image": "./img/Bags/MCM-BEIGE-1530689538000.jpg", "color": "#ab5c00" }
+    ]
+  },
+  {
+    "group": "bags",
+    "urlPath": "beutel-mollerus",
+    "sort": 7,
+    "name": "Beutel von MOLLERUS",
+    "image": "./img/Bags/mollerus--white-1520597373000.jpg",
+    "priceFull": 849,
+    "price25": 212,
+    "mainVariation": 1179383807,
+    "variationName": "Farbe",
+    "variations": [
+      { "name": "weiss", "article": 1179383807, "image": "./img/Bags/mollerus--white-1520597373000.jpg", "color": "#ffffff" },
+      { "name": "grau", "article": 1179383809, "image": "./img/Bags/mollerus--grau-1528874580000.jpg", "color": "grey" }
+    ]
+  },
+  {
+    "group": "bags",
+    "urlPath": "shopper-mollerus",
+    "sort": 8,
+    "name": "Shopper von MOLLERUS",
+    "image": "./img/Bags/Mollerus-Shopper-red-1-1524560250000.jpg",
+    "priceFull": 499,
+    "price25": 125,
+    "mainVariation": 1185230102,
+    "variationName": "Farbe",
+    "variations": [
+      { "name": "schwarz", "article": 1185230101, "image": "./img/Bags/Mollerus-Shopper-Black-1-1522938560000.jpg", "color": "#000000" },
+      { "name": "dunkelrot", "article": 1185230102, "image": "./img/Bags/Mollerus-Shopper-red-1-1524560250000.jpg", "color": "#990101" },
+      { "name": "taube", "article": 1185230104, "image": "./img/Bags/Mollerus-Shopper-taupe-1-1524560266000.jpg", "color": "#a18e7e" }
+    ]
+  },
+  {
+    "group": "bags",
+    "urlPath": "clutch-olga-berg",
+    "sort": 9,
+    "name": "Clutch von OLGA BERG",
+    "image": "./img/Bags/olgaberg-1536136656000.jpg",
+    "priceFull": 169.9,
+    "price25": 42.95,
+    "mainVariation": 1262520401,
+    "variationName": "Farbe",
+    "variations": [
+      { "name": "schwarz", "article": 1262520401, "image": "./img/Bags/olgaberg-1536136656000.jpg", "color": "#000000" }
+    ]
+  },
+  {
+    "group": "bags",
+    "urlPath": "rucksack-ralph-lauren",
+    "sort": 10,
+    "name": "Rucksack von RALPH LAUREN",
+    "image": "./img/Bags/ralphlauren-black-1536564637000.jpg",
+    "priceFull": 319.90,
+    "price25": 79.95,
+    "mainVariation": 1263323901,
+    "variationName": "Farbe",
+    "variations": [
+      { "name": "schwarz", "article": 1263323901, "image": "./img/Bags/ralphlauren-black-1536564637000.jpg", "color": "#000000" }
     ]
   }
 ]
