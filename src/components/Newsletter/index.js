@@ -53,7 +53,6 @@ class NewsletterForm extends React.Component {
     return (
       <form name="newsletter-merged" netlify="true" onSubmit={this.handleSubmit}>
         <div className="row">
-          <input type="text" name="path" hidden />
           <div className="col-lg-6">
             <input
               className="form-control"
@@ -65,6 +64,7 @@ class NewsletterForm extends React.Component {
               required
             />
           </div>
+          <input type="text" name="path" hidden />
           <div className="col-lg-6">
             <button className="btn btn-primary text-uppercase" type="submit">
               Registrieren
