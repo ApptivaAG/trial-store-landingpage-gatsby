@@ -17,6 +17,15 @@ const Article = ({ data, pageContext, location }) => {
     <Layout root={pathRoot}>
       <section id="article">
         <div className="container">
+          <div className="back">
+            <Link to={`${pathRoot}#${article.group}`}>
+              <svg viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg">
+                <line x1="1" y1="11" x2="11" y2="1" strokeWidth="2" />
+                <line x1="1" y1="1" x2="11" y2="11" strokeWidth="2" />
+              </svg>
+              Zurück zur Übersicht
+            </Link>
+          </div>
           <div className="row">
             <div className="col-lg-6">
               <Img fluid={fluidImage} />

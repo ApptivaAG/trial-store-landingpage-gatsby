@@ -29,17 +29,21 @@ const NeueArtDesFeierns = ({ data, location }) => {
         <Link className="js-scroll-trigger header-button" to="/#locations" />
       </Header>
       <ExtendedArticleHeader />
-      <ExtendedArticleSection heading="Herren – Ausleihen mit Stil">
+      <ExtendedArticleSection heading="Herren – Ausleihen mit Stil" group="herren">
         {herren.map((article, i) => (
           <ArticlePreview root="neue-art-des-feierns/" article={article} key={i} />
         ))}
       </ExtendedArticleSection>
-      <ExtendedArticleSection heading="Frauen – Dein Blickfang f&uuml;r den Winter" backgroundColor="#efe9e3">
+      <ExtendedArticleSection
+        heading="Frauen – Dein Blickfang f&uuml;r den Winter"
+        backgroundColor="#efe9e3"
+        group="frauen"
+      >
         {frauen.map((article, i) => (
           <ArticlePreview root="neue-art-des-feierns/" article={article} key={i} />
         ))}
       </ExtendedArticleSection>
-      <ExtendedArticleSection heading="Haushalt – Highlights f&uuml;r deine vier W&auml;nde">
+      <ExtendedArticleSection heading="Haushalt – Highlights f&uuml;r deine vier W&auml;nde" group="haushalt">
         {haushalt.map((article, i) => (
           <ArticlePreview root="neue-art-des-feierns/" article={article} key={i} />
         ))}

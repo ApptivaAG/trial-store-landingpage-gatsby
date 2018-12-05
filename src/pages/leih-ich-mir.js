@@ -35,7 +35,7 @@ const DasLeihIchMir = ({ data, location }) => {
         </Link>
       </Header>
       <LeihIchMirArticleHeader />
-      <LeihIchMirArticleSection>
+      <LeihIchMirArticleSection group="bags">
         {articles.map((article, i) => (
           <ArticlePreview root="leih-ich-mir/" article={article} key={i} />
         ))}
