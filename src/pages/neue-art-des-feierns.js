@@ -33,7 +33,7 @@ const NeueArtDesFeierns = ({ data, location }) => {
           <ArticlePreview root="neue-art-des-feierns/" article={article} key={i} />
         ))}
       </ExtendedArticleSection>
-      <ExtendedArticleSection heading="Frauen – Dein Blickfang f&uuml;r den Winter">
+      <ExtendedArticleSection heading="Frauen – Dein Blickfang f&uuml;r den Winter" backgroundColor="#efe9e3">
         {frauen.map((article, i) => (
           <ArticlePreview root="neue-art-des-feierns/" article={article} key={i} />
         ))}
