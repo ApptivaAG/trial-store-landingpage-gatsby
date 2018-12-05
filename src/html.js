@@ -66,9 +66,7 @@ export default class HTML extends React.Component {
                 letzte Rechnung über die restlichen 75% des Originalpreises. Mit der Überweisung gehört der Artikel dir.
                 Keine versteckten Kosten, keine Zinsen, kein Risiko.
               </p>
-              <a data-toggle="modal" data-target="#agbsModal">
-                Allgemeine Geschäftsbedingungen
-              </a>
+              <a className="agbs-link">Allgemeine Geschäftsbedingungen</a>
             </div>
           </script>
         </body>

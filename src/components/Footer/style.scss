@@ -19,6 +19,34 @@ footer {
     margin-bottom: 0;
     text-transform: none;
     @include heading-font;
+
+    a[data-toggle='modal'] {
+      cursor: pointer;
+    }
+  }
+
+  .modal-gatsby {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1050;
+    overflow-x: hidden;
+    overflow-y: auto;
+    outline: 0;
+    color: $primary;
+
+    .close-modal {
+      text-align: right;
+
+      padding-right: 0.5em;
+
+      svg {
+        height: 1em;
+        width: 1em;
+      }
+    }
   }
 }
 

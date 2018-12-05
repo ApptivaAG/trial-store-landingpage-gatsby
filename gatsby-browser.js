@@ -4,6 +4,10 @@ exports.onInitialClientRender = () => {
 
     var html = $('#cart-content-text').html()
     $(html).insertBefore($('#snipcart-footer'))
+
+    $('.agbs-link').click(() => {
+      window.dispatchEvent(new CustomEvent('modal-open', { detail: 'agbs' }))
+    })
   })
   Snipcart.subscribe('page.changed', function() {
     $("td.snip-customfields input[type='text']").prop('disabled', true)
