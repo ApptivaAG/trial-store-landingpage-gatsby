@@ -53,7 +53,7 @@ Snipcart.execute('bind', 'app.ready', function() {
     print: 'Drucken',
     download_as_pdf: 'Als PDF herunterladen',
     checkout: 'Zur Kasse',
-    close: 'Schließen',
+    close: 'Schliessen',
     name: 'Name',
     company_name: 'Firma',
     share_by_email: 'Via E-Mail teilen',
@@ -131,7 +131,7 @@ Snipcart.execute('bind', 'app.ready', function() {
       'Eine E-Mail mit einer Anleitung zum Zurücksetzen Ihres Passworts wurde an Sie gesendet. Öffnen Sie diese und folgen Sie den angegebenen Schritten.',
     login_checkout_as_guest: 'Als Gast bezahlen',
     login_checkout_as_guest_notice:
-      'Nach dem Abschließen der Bestellung haben Sie die Möglichkeit, mit den gemachten Angaben einfach ein Konto zu erstellen.',
+      'Nach dem Abschliessen der Bestellung haben Sie die Möglichkeit, mit den gemachten Angaben einfach ein Konto zu erstellen.',
     shipping_address_same_as_billing: 'Diese Adresse als Lieferadresse verwenden',
     shipping_method_method_name: 'Versandart',
     shipping_method_shipping_price: 'Versandkosten',
@@ -169,9 +169,9 @@ Snipcart.execute('bind', 'app.ready', function() {
     error_payment_items_empty:
       'Ihre Bestellung scheint ungültig zu sein. Bitte laden Sie die Seite neu. Es wurde keine Zahlung ausgelöst.',
     error_payment_items_are_invalid:
-      'Wir konnten Ihre Bestellung nicht abschließen. Eines der Produkte in Ihrem Warenkorb scheint einen ungültigen Preis zu haben.',
+      'Wir konnten Ihre Bestellung nicht abschliessen. Eines der Produkte in Ihrem Warenkorb scheint einen ungültigen Preis zu haben.',
     error_crawling_failed:
-      'Wir konnten Ihre Bestellung nicht abschließen. Ihre Kreditkarte wurde nicht belastet. Bitte versuchen Sie es in wenigen Augenblicken nochmal.',
+      'Wir konnten Ihre Bestellung nicht abschliessen. Ihre Kreditkarte wurde nicht belastet. Bitte versuchen Sie es in wenigen Augenblicken nochmal.',
     powered_by: 'Powered by',
     promocode_rate_format: '{0}% Rabatt auf Ihre Bestellung',
     promocode_amount_format: '{0} Rabatt auf Ihre Bestellung',

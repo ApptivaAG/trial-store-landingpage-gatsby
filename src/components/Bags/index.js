@@ -13,7 +13,7 @@ const Bags = ({ children }) => (
           spontan! Anstatt zu kaufen, leih dir jetzt dein exklusives Luxus-Modell – solange es dir gefällt.
         </p>
       </div>
-      <p className="info-text">Nur Online und in allen teilnehmenden Filialen erhältlich!</p>
+      <p className="info-text">Nur Online und in allen teilnehmenden Filialen erhältlich!</p>
       <div id="product-list" className="row">
         {children}
       </div>
