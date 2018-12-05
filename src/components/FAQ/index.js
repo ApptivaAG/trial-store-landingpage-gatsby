@@ -11,7 +11,7 @@ const FAQ = () => (
           <blockquote>Damit keine Fragen offen bleiben.</blockquote>
           <p style={{ marginBottom: '3em' }}>
             Wir wollen, dass du rundum glücklich bist. <br />
-            Hier findest du all die Antworten die dir noch zu deinem Glück fehlen.
+            Hier findest du all die Antworten, die dir noch zu deinem Glück fehlen.
           </p>
         </div>
       </div>
@@ -28,7 +28,7 @@ const FAQ = () => (
           <h3 className="faq-f">Wie läuft das Retournieren ab?</h3>
           <p className="faq-a">
             Innerhalb der Laufzeit kannst du deinen Artikel jederzeit in derselben Filiale retournieren, in der du ihn
-            bekommen hast. Kontaktiere bitte einfach den Kundendienst vorort, lege die Quittung des Kaufes vor und
+            bekommen hast. Kontaktiere bitte einfach den Kundendienst vor Ort, lege die Quittung des Kaufes vor und
             begleiche die erste Rechnung. Wenn du die Ware innerhalb von 100 Tagen retournierst, erhältst du keine
             weitere Rechnung.
           </p>
@@ -48,7 +48,7 @@ const FAQ = () => (
         <div className="col-lg-12">
           <h3 className="faq-f">Was passiert, wenn ich defekte Ware retourniere?</h3>
           <p className="faq-a">
-            Solange der Artikel komplett retourniert wird, entstehen keine Kosten für dich. Bei defekten Artikel prüfen
+            Solange der Artikel komplett retourniert wird, entstehen keine Kosten für dich. Bei defekten Artikeln prüfen
             wir in Absprache mit dem Hersteller, ob der Artikel repariert werden kann. Falls das nicht möglich ist, wird
             der Artikel umweltfreundlich recycelt.
           </p>

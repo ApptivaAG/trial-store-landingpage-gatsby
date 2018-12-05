@@ -35,7 +35,7 @@ const HowItWorks = () => (
           <h3>BEHALTEN ODER ZURÜCKGEBEN</h3>
           <p className="text-muted">
             Ob nur für heute oder für immer entscheidest du. In der Ausleihphase kannst du die Tasche jederzeit
-            zurückschicken. Aber keine Sorge – bevor der Trennungsschmerz einsetzt , leihst du dir einfach die nächste.
+            zurückschicken. Aber keine Sorge – bevor der Trennungsschmerz einsetzt, leihst du dir einfach die nächste.
           </p>
         </div>
       </div>

@@ -20,12 +20,12 @@ class Locations extends React.Component {
           <div className="row">
             <div className="col-lg-12 text-center">
               <h2 className="section-heading text-uppercase">Teilnehmende Filialen</h2>
-              <blockquote>Hol’ dir deine Lieblingtasche vor Ort!</blockquote>
+              <blockquote>Hol’ dir deine Lieblingstasche vor Ort!</blockquote>
               <p className="section-heading">
-                In den folgenden Flagship-Stores in Zurich und St. Gallen kannst du trendige Designer Bags und viele
-                weitere Premiumprodukte aus den Bereichen Fashion, Elektronik, Haushalt und Wohnen direkt ausleihen und
-                abholen. Schau’ einfach mal rein und lass dich inspirieren. Unser Service-Personal vor Ort freut sich
-                auf dich und berät dich gern!*
+                In den folgenden Flagship-Stores in Z&uuml;rich und St. Gallen kannst du trendige Designer Bags und
+                viele weitere Premiumprodukte aus den Bereichen Fashion, Elektronik, Haushalt und Wohnen direkt
+                ausleihen und abholen. Schau’ einfach mal rein und lass dich inspirieren. Unser Service-Personal vor Ort
+                freut sich auf dich und berät dich gern!*
               </p>
             </div>
           </div>
@@ -33,10 +33,10 @@ class Locations extends React.Component {
             <div className="col-lg-4 text-center">
               <img src="/img/locations/schweizergasse.jpg" alt="Fasade Globus Schweizergasse Zürich" />
               <h3>
-                GLOBUS Zürich Warenhaus <br />
+                GLOBUS Z&uuml;rich Warenhaus <br />
                 Schweizergasse 11
               </h3>
-              <p>8001 Zürich</p>
+              <p>8001 Z&uuml;rich</p>
               <Link
                 className="btn btn-primary js-location-schweizergasse"
                 to="#location-links"
@@ -48,7 +48,7 @@ class Locations extends React.Component {
             <div className="col-lg-4 text-center">
               <img src="/img/locations/roesslitor.jpg" alt="Fasade Globus Rösslitor St. Gallen" />
               <h3>
-                GLOBUS St.Gallen Warenhaus <br />
+                GLOBUS St. Gallen Warenhaus <br />
                 Multergasse 47
               </h3>
               <p>9001 St. Gallen</p>
@@ -63,7 +63,7 @@ class Locations extends React.Component {
             <div id="location-links" className="col-lg-4 text-center">
               <img src="/img/locations/vaadianstrasse.jpg" alt="Fasade Globus Vadiaanstrasse St. Gallen" />
               <h3>
-                GLOBUS St.Gallen Warenhaus <br />
+                GLOBUS St. Gallen Warenhaus <br />
                 Vaadianstraße 11
               </h3>
               <p>9001 St. Gallen</p>
