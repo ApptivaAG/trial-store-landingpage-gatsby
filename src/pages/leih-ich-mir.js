@@ -56,7 +56,7 @@ export const feiernQuery = graphql`
         ...GatsbyImageSharpFluid_withWebp
       }
     }
-    articles: allArticlesJson(sort: { fields: [sort], order: DESC }, filter: { group: { eq: "bags" } }) {
+    articles: allArticlesJson(sort: { fields: [sort], order: ASC }, filter: { group: { eq: "bags" } }) {
       edges {
         node {
           group
