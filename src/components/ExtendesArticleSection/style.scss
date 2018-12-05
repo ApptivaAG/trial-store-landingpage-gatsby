@@ -2,7 +2,8 @@
 @import 'scss/fonts.scss';
 
 .article-section {
-  padding-top: 2em;
+  padding-top: 4em;
+  padding-bottom: 2em;
 
   .article-img {
     width: 100%;
@@ -18,5 +19,4 @@
     font-size: 2em;
     font-weight: 300;
   }
-
 }
