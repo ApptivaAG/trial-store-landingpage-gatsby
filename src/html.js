@@ -39,7 +39,7 @@ export default class HTML extends React.Component {
           <script
             src="https://cdn.snipcart.com/scripts/2.0/snipcart.js"
             id="snipcart"
-            data-api-key="YzAwODQyZjgtODMzNi00NWZjLTljOGYtODY1NGJmY2M4ZGYzNjM2NzU4MTcwNzI0MTI4Njcy"
+            data-api-key="YzdiMjc4MDctNDc3Yy00NWRhLWFlOWEtZjBlZTQ4MTI0ODY1NjM2NzU4MTcwNzI0MTI4Njcy"
             data-cart-custom1-name="Jahrgang"
             data-cart-custom1-required="true"
             data-cart-custom2-name="Allgemeine Geschäftsbedingungen akzeptieren"
