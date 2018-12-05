@@ -51,7 +51,7 @@ export const feiernQuery = graphql`
         adsense
       }
     }
-    hero: imageSharp(fluid: { originalName: { regex: "/das-leih-ich-mir/" } }) {
+    hero: imageSharp(fluid: { originalName: { regex: "/das-leih-ich-mir-dez/" } }) {
       fluid(maxWidth: 2400, quality: 80) {
         ...GatsbyImageSharpFluid_withWebp
       }
