@@ -54,7 +54,7 @@ Snipcart.execute('bind', 'app.ready', function() {
     download_as_pdf: 'Als PDF herunterladen',
     checkout: 'Zur Kasse',
     close: 'Schliessen',
-    name: 'Name',
+    name: 'Vorname & Nachname',
     company_name: 'Firma',
     share_by_email: 'Via E-Mail teilen',
     email: 'E-Mail',
