@@ -4,7 +4,7 @@ import './style.scss'
 
 class Navi extends React.Component {
   render() {
-    const { root, title } = this.props
+    const { root, detail = false } = this.props
 
     return (
       <nav className="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
@@ -15,12 +15,25 @@ class Navi extends React.Component {
               <div className="subline">by GLOBUS</div>
             </a>
           </div>
-          <Link className="nav-locations text-uppercase js-scroll-trigger" to={root + '#articles'}>
-            Produkte
-          </Link>
-          <Link className="nav-locations text-uppercase js-scroll-trigger" to={root + '#howitworks'}>
-            So funktionierts
-          </Link>
+          {detail ? (
+            <>
+              <Link className="nav-locations text-uppercase" to={root + '#articles'}>
+                Produkte
+              </Link>
+              <Link className="nav-locations text-uppercase" to={root + '#howitworks'}>
+                So funktionierts
+              </Link>
+            </>
+          ) : (
+            <>
+              <a className="nav-locations text-uppercase" href="#articles">
+                Produkte
+              </a>
+              <a className="nav-locations text-uppercase" href="#howitworks">
+                So funktionierts
+              </a>
+            </>
+          )}
           <Link to={root} className="snipcart-checkout nav-locations text-uppercase">
             Warenkorb
           </Link>

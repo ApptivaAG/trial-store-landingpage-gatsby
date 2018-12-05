@@ -14,6 +14,14 @@ import 'font-awesome/css/font-awesome.css'
 class Layout extends React.Component {
   componentDidMount() {
     emergence.init()
+
+    // make scroll behavior of internal links smooth
+    // eslint-disable-next-line global-require, no-undef
+    require('smooth-scroll')('a[href*="#"]', {
+      // integer or function returning an integer. How far to offset the scrolling anchor location in pixels
+      offset: 40,
+      speed: 200,
+    })
   }
 
   componentDidUpdate() {

@@ -14,7 +14,7 @@ const Article = ({ data, pageContext, location }) => {
     ? currentVariation.image.childImageSharp.fluid
     : article.image.childImageSharp.fluid
   return (
-    <Layout root={pathRoot}>
+    <Layout root={pathRoot} detail>
       <section id="article">
         <div className="container">
           <div className="back">
