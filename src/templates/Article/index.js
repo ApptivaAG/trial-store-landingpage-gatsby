@@ -1,8 +1,9 @@
 import React from 'react'
-import './style.scss'
-import { Link } from 'gatsby'
+import { Link, graphql } from 'gatsby'
 import Img from 'gatsby-image'
 import Layout from 'components/Layout'
+
+import './style.scss'
 
 const Article = ({ data, pageContext, location }) => {
   const { pathRoot, articleNumber } = pageContext
