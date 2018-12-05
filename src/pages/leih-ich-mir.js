@@ -21,7 +21,18 @@ const DasLeihIchMir = ({ data, location }) => {
     <Layout root="/leih-ich-mir/">
       <Meta site={get(data, 'site.meta')} />
       <Header image={data.hero.fluid}>
-        <Link className="js-scroll-trigger header-button" to="/#locations" />
+        <Link className="js-scroll-trigger header-button" to="/leih-ich-mir/#locations">
+          <div className="round-button">
+            <div>
+              Nur Online <br />
+              und in allen teilnehmenden Filialen.
+              <br />
+              <u>
+                <small>MEHR</small>
+              </u>
+            </div>
+          </div>
+        </Link>
       </Header>
       <LeihIchMirArticleHeader />
       <LeihIchMirArticleSection>
@@ -58,7 +69,7 @@ export const feiernQuery = graphql`
         ...GatsbyImageSharpFluid_withWebp
       }
     }
-    articles: allArticlesJson(sort: { fields: [sort], order: DESC }, filter: { group: { eq: "bags" } }) {
+    articles: allArticlesJson(sort: { fields: [sort], order: ASC }, filter: { group: { eq: "bags" } }) {
       edges {
         node {
           group

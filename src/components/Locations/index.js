@@ -25,7 +25,7 @@ class Locations extends React.Component {
                 In den folgenden Flagship-Stores in Z&uuml;rich und St. Gallen kannst du trendige Designer Bags und
                 viele weitere Premiumprodukte aus den Bereichen Fashion, Elektronik, Haushalt und Wohnen direkt
                 ausleihen und abholen. Schau’ einfach mal rein und lass dich inspirieren. Unser Service-Personal vor Ort
-                freut sich auf dich und berät dich gern!*
+                freut sich auf dich und berät dich gern!*
               </p>
             </div>
           </div>
@@ -64,7 +64,7 @@ class Locations extends React.Component {
               <img src="/img/locations/vaadianstrasse.jpg" alt="Fasade Globus Vadiaanstrasse St. Gallen" />
               <h3>
                 GLOBUS St. Gallen Warenhaus <br />
-                Vaadianstraße 11
+                Vaadianstrasse 11
               </h3>
               <p>9001 St. Gallen</p>
               <Link

@@ -21,7 +21,7 @@ const Index = ({ data, location }) => {
       <Meta site={get(data, 'site.meta')} />
 
       <Header image={data.hero.fluid}>
-        <a className="js-scroll-trigger header-button" href="#locations">
+        <Link className="js-scroll-trigger header-button" to="/#locations">
           <div className="round-button">
             <div>
               Nur Online <br />
@@ -32,7 +32,7 @@ const Index = ({ data, location }) => {
               </u>
             </div>
           </div>
-        </a>
+        </Link>
       </Header>
 
       <section id="teaser">
