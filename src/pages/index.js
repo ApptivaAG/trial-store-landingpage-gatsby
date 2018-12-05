@@ -20,8 +20,8 @@ const Index = ({ data, location }) => {
       <Meta site={get(data, 'site.meta')} />
 
       <Header image={data.hero.fluid}>
-        <a class="js-scroll-trigger header-button" href="#locations">
-          <div class="round-button">
+        <a className="js-scroll-trigger header-button" href="#locations">
+          <div className="round-button">
             <div>
               Nur Online <br />
               und in allen teilnehmenden Filialen.
@@ -35,31 +35,31 @@ const Index = ({ data, location }) => {
       </Header>
 
       <section id="teaser">
-        <div class="container">
-          <div class="text-center">
-            <h2 class="section-heading text-uppercase">Premium-Vielfalt zum Ausleihen</h2>
+        <div className="container">
+          <div className="text-center">
+            <h2 className="section-heading text-uppercase">Premium-Vielfalt zum Ausleihen</h2>
             <blockquote>Luxus ist, sich jeden Tag neu zu entscheiden!</blockquote>
-            <p class="section-heading">
+            <p className="section-heading">
               Das Leben ändert sich ständig. Bleibe deshalb flexibel – mit der Premium-Vielfalt von GLOBUS. Bereichere
               dein Leben und leih' dir aus, was dir gefällt. Nur solange du's brauchst. Unkompliziert, online und zu
               einem Bruchteil des Kaufpreises.
             </p>
           </div>
-          <div class="row bag-teaser">
-            <div class="col-lg-6">
-              <h2 class="section-heading text-uppercase">Trend</h2>
+          <div className="row bag-teaser">
+            <div className="col-lg-6">
+              <h2 className="section-heading text-uppercase">Trend</h2>
               <blockquote>Lass deine Traumtaschen wahr werden!</blockquote>
-              <p class="text-muted">
+              <p className="text-muted">
                 Entdecke jetzt die neuesten Luxus-Handtaschen der Saison. In der GLOBUS-Kollektion warten exklusive
                 Modelle und Marken auf dich – von Lagerfeld über Mollerus, COACH, MCM bis hin zu Ralph Lauren. Wähle die
                 Handtasche, die am besten zu dir passt und leih’ sie dir online aus: 100 Tage lang, für nur 25% des
                 Preises. Und entscheide bis dahin, ob du sie behalten möchtest.
               </p>
-              <Link class="btn btn-primary btn-xl" to="/leih-ich-mir/">
+              <Link className="btn btn-primary btn-xl" to="/leih-ich-mir/">
                 Jetzt Handtasche wählen
               </Link>
             </div>
-            <div class="col-lg-6">
+            <div className="col-lg-6">
               <Img fluid={data.bags.fluid} alt="Unterschiedliche Handtaschen in einer Reihe" />
             </div>
           </div>
