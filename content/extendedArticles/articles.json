@@ -296,9 +296,9 @@
     "mainVariation": 1181509414,
     "variationName": "Farbe",
     "variations": [
-      { "name": "schwarz", "article": 1181509414, "image": "./img/Bags/coach-black-1529565400000.jpg" },
-      { "name": "petrol", "article": 1181509413, "image": "./img/Bags/coach-petrol-1530600622000.jpg" },
-      { "name": "tabak", "article": 1181509415, "image": "./img/Bags/coach-tabak-1530777643000.jpg" }
+      { "name": "blauschwarz", "article": 1181509414, "image": "./img/Bags/coach-black-1529565400000.jpg", "color": "#0d3558" },
+      { "name": "petrol", "article": 1181509413, "image": "./img/Bags/coach-petrol-1530600622000.jpg", "color": "#006080" },
+      { "name": "tabak", "article": 1181509415, "image": "./img/Bags/coach-tabak-1530777643000.jpg", "color": "#a65000" }
     ]
   }
 ]

@@ -54,11 +54,22 @@ const Article = ({ data, pageContext, location }) => {
 
 const VariationButton = (variation, active, currentUrl) => {
   const variationUrl = currentUrl.substr(0, currentUrl.lastIndexOf('/')) + '/' + variation.article
-  return (
-    <Link to={variationUrl} key={variation.article}>
-      <span className={'variation ' + (active ? 'active' : '')}>{variation.name}</span>
-    </Link>
-  )
+  if (variation.color) {
+    const style = { background: variation.color }
+    const className = 'variation-with-color ' + (active ? 'variation-with-color-active' : '')
+    return (
+      <Link to={variationUrl} key={variation.article}>
+        <span className={className} style={style} />
+      </Link>
+    )
+  } else {
+    const className = 'variation ' + (active ? 'variation-active' : '')
+    return (
+      <Link to={variationUrl} key={variation.article}>
+        <span className={className}>{variation.name}</span>
+      </Link>
+    )
+  }
 }
 export default Article
 
@@ -92,6 +103,7 @@ export const pageArticleQuery = graphql`
       variations {
         name
         article
+        color
         image {
           childImageSharp {
             fluid(maxWidth: 700) {
