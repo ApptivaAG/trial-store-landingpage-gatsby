@@ -9,7 +9,9 @@ class Modal extends React.Component {
 
     this.handleOpen = this.handleOpen.bind(this)
     this.handleClick = this.handleClick.bind(this)
+  }
 
+  componentDidMount() {
     window.addEventListener('modal-open', this.handleOpen)
   }
 
