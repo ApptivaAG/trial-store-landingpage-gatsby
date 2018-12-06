@@ -1,7 +1,8 @@
 @import 'scss/colors.scss';
 @import 'scss/fonts.scss';
 
-.article-heading {
+#articles.article-heading {
+  position: relative;
   padding-bottom: 1em;
   .info-text {
     font-size: 0.8em;
@@ -9,4 +10,17 @@
     text-align: right;
   }
 
+  .snowflakes {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
+
+    img {
+      position: absolute;
+      width: 5vw;
+      height: 5vw;
+    }
+  }
 }

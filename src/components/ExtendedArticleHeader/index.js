@@ -2,6 +2,31 @@ import { Link } from 'gatsby'
 import React from 'react'
 import './style.scss'
 
+const snowflake = (leftOrRight = 'left') => (
+  <img
+    style={{
+      top: `${Math.random() * 20}vw`,
+      [leftOrRight]: `${Math.random() * 20}vw`,
+      height: `${Math.random() * 6}vw`,
+      transform: `rotate(${Math.random() * 50}deg)`,
+    }}
+    src="/img/snowflake.svg"
+    alt=""
+  />
+)
+
+const snowflakes = () => {
+  var count
+  var flakes = []
+  for (count = 0; count < 8; count++) {
+    flakes.push(snowflake('left'))
+  }
+  for (count = 0; count < 8; count++) {
+    flakes.push(snowflake('right'))
+  }
+  return flakes
+}
+
 const ExtendedArticleHeader = () => (
   <section id="articles" className="article-heading">
     <div className="container">
@@ -18,6 +43,7 @@ const ExtendedArticleHeader = () => (
       </div>
       <p className="info-text">Nur Online und in allen teilnehmenden Filialen erh&auml;ltlich!</p>
     </div>
+    <div className="snowflakes">{snowflakes()}</div>
   </section>
 )
 
