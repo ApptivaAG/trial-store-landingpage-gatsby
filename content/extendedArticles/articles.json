@@ -296,9 +296,24 @@
     "mainVariation": 1181509415,
     "variationName": "Farbe",
     "variations": [
-      { "name": "blauschwarz", "article": 1181509414, "image": "./img/Bags/coach-black-1529565400000.jpg", "color": "#0d3558" },
-      { "name": "petrol", "article": 1181509413, "image": "./img/Bags/coach-petrol-1530600622000.jpg", "color": "#006080" },
-      { "name": "tabak", "article": 1181509415, "image": "./img/Bags/coach-tabak-1530777643000.jpg", "color": "#a65000" }
+      {
+        "name": "blauschwarz",
+        "article": 1181509414,
+        "image": "./img/Bags/coach-black-1529565400000.jpg",
+        "color": "#0d3558"
+      },
+      {
+        "name": "petrol",
+        "article": 1181509413,
+        "image": "./img/Bags/coach-petrol-1530600622000.jpg",
+        "color": "#006080"
+      },
+      {
+        "name": "tabak",
+        "article": 1181509415,
+        "image": "./img/Bags/coach-tabak-1530777643000.jpg",
+        "color": "#a65000"
+      }
     ]
   },
   {
@@ -308,14 +323,29 @@
     "name": "Beuteltasche von FURLA",
     "image": "./img/Bags/Furla-blue-1528292452000.jpg",
     "priceFull": 359.9,
-    "price25": 89.90,
+    "price25": 89.9,
     "mainVariation": 1254556105,
     "variationName": "Farbe",
     "variations": [
-      { "name": "schwarz", "article": 1254556109, "image": "./img/Bags/Furla-black-1534776359000.jpg", "color": "#000000" },
+      {
+        "name": "schwarz",
+        "article": 1254556109,
+        "image": "./img/Bags/Furla-black-1534776359000.jpg",
+        "color": "#000000"
+      },
       { "name": "blau", "article": 1254556105, "image": "./img/Bags/Furla-blue-1528292452000.jpg", "color": "#9ac0cd" },
-      { "name": "perle", "article": 1254556106, "image": "./img/Bags/Furla-perle-1-1534776340000.jpg", "color": "#fffff7" },
-      { "name": "rosa", "article": 1254556108, "image": "./img/Bags/Furla-rosa-1-1534776349000.jpg", "color": "#ffc6de" }
+      {
+        "name": "perle",
+        "article": 1254556106,
+        "image": "./img/Bags/Furla-perle-1-1534776340000.jpg",
+        "color": "#fffff7"
+      },
+      {
+        "name": "rosa",
+        "article": 1254556108,
+        "image": "./img/Bags/Furla-rosa-1-1534776349000.jpg",
+        "color": "#ffc6de"
+      }
     ]
   },
   {
@@ -329,7 +359,12 @@
     "mainVariation": 1259094101,
     "variationName": "Farbe",
     "variations": [
-      { "name": "schwarz", "article": 1259094101, "image": "./img/Bags/Furla-black-1534776359000.jpg", "color": "#000000" }
+      {
+        "name": "schwarz",
+        "article": 1259094101,
+        "image": "./img/Bags/Furla-black-1534776359000.jpg",
+        "color": "#000000"
+      }
     ]
   },
   {
@@ -339,11 +374,16 @@
     "name": "Rucksack von KATE SPADE",
     "image": "./img/Bags/katespade-1519897599000.jpg",
     "priceFull": 279.9,
-    "price25": 69.90,
+    "price25": 69.9,
     "mainVariation": 1253843801,
     "variationName": "Farbe",
     "variations": [
-      { "name": "schwarz", "article": 1253843801, "image": "./img/Bags/katespade-1519897599000.jpg", "color": "#000000" }
+      {
+        "name": "schwarz",
+        "article": 1253843801,
+        "image": "./img/Bags/katespade-1519897599000.jpg",
+        "color": "#000000"
+      }
     ]
   },
   {
@@ -357,8 +397,18 @@
     "mainVariation": 1261777704,
     "variationName": "Farbe",
     "variations": [
-      { "name": "schwarz", "article": 1261777704, "image": "./img/Bags/Liebeskind-black-1535383439000.jpg", "color": "#000000" },
-      { "name": "grau", "article": 1261777703, "image": "./img/Bags/Liebeskind-lightgrey-1535383520000.jpg", "color": "lightgrey" }
+      {
+        "name": "schwarz",
+        "article": 1261777704,
+        "image": "./img/Bags/Liebeskind-black-1535383439000.jpg",
+        "color": "#000000"
+      },
+      {
+        "name": "grau",
+        "article": 1261777703,
+        "image": "./img/Bags/Liebeskind-lightgrey-1535383520000.jpg",
+        "color": "lightgrey"
+      }
     ]
   },
   {
@@ -387,7 +437,12 @@
     "mainVariation": 1179383807,
     "variationName": "Farbe",
     "variations": [
-      { "name": "weiss", "article": 1179383807, "image": "./img/Bags/mollerus--white-1520597373000.jpg", "color": "#ffffff" },
+      {
+        "name": "weiss",
+        "article": 1179383807,
+        "image": "./img/Bags/mollerus--white-1520597373000.jpg",
+        "color": "#ffffff"
+      },
       { "name": "grau", "article": 1179383809, "image": "./img/Bags/mollerus--grau-1528874580000.jpg", "color": "grey" }
     ]
   },
@@ -402,9 +457,24 @@
     "mainVariation": 1185230102,
     "variationName": "Farbe",
     "variations": [
-      { "name": "schwarz", "article": 1185230101, "image": "./img/Bags/Mollerus-Shopper-Black-1-1522938560000.jpg", "color": "#000000" },
-      { "name": "dunkelrot", "article": 1185230102, "image": "./img/Bags/Mollerus-Shopper-red-1-1524560250000.jpg", "color": "#990101" },
-      { "name": "taube", "article": 1185230104, "image": "./img/Bags/Mollerus-Shopper-taupe-1-1524560266000.jpg", "color": "#a18e7e" }
+      {
+        "name": "schwarz",
+        "article": 1185230101,
+        "image": "./img/Bags/Mollerus-Shopper-Black-1-1522938560000.jpg",
+        "color": "#000000"
+      },
+      {
+        "name": "dunkelrot",
+        "article": 1185230102,
+        "image": "./img/Bags/Mollerus-Shopper-red-1-1524560250000.jpg",
+        "color": "#990101"
+      },
+      {
+        "name": "taube",
+        "article": 1185230104,
+        "image": "./img/Bags/Mollerus-Shopper-taupe-1-1524560266000.jpg",
+        "color": "#a18e7e"
+      }
     ]
   },
   {
@@ -427,12 +497,387 @@
     "sort": 10,
     "name": "Rucksack von RALPH LAUREN",
     "image": "./img/Bags/ralphlauren-black-1536564637000.jpg",
-    "priceFull": 319.90,
+    "priceFull": 319.9,
     "price25": 79.95,
     "mainVariation": 1263323901,
     "variationName": "Farbe",
     "variations": [
-      { "name": "schwarz", "article": 1263323901, "image": "./img/Bags/ralphlauren-black-1536564637000.jpg", "color": "#000000" }
+      {
+        "name": "schwarz",
+        "article": 1263323901,
+        "image": "./img/Bags/ralphlauren-black-1536564637000.jpg",
+        "color": "#000000"
+      }
+    ]
+  },
+  {
+    "group": "bags",
+    "urlPath": "becksondergaard-shopper",
+    "sort": 11,
+    "name": "Shopper von BECKSÖNDERGAARD",
+    "image": "./img/Bags/becksondergaard/blue/1538648294000.jpg",
+    "priceFull": 199.9,
+    "price25": 49.75,
+    "mainVariation": 1259405103,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "bordeaux",
+        "article": 1259405102,
+        "image": "./img/Bags/becksondergaard/bordeaux/1538648290000.jpg",
+        "color": "#6b1200"
+      },
+      {
+        "name": "grün",
+        "article": 1259405104,
+        "image": "./img/Bags/becksondergaard/green/1538648294000.jpg",
+        "color": "#00940c"
+      },
+      {
+        "name": "nachtblau",
+        "article": 1259405103,
+        "image": "./img/Bags/becksondergaard/blue/1538648294000.jpg",
+        "color": "#00183d"
+      }
+    ]
+  },
+  {
+    "group": "bags",
+    "urlPath": "mcm-clutch-millie",
+    "sort": 12,
+    "name": "Clutch \"Millie\" von MCM",
+    "image": "./img/Bags/mcm-clutch-millie/gray/1538124388000.jpg",
+    "priceFull": 450,
+    "price25": 112.5,
+    "mainVariation": 1256540302,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "grau",
+        "article": 1256540302,
+        "image": "./img/Bags/mcm-clutch-millie/gray/1538124388000.jpg",
+        "color": "#8f8f8f"
+      }
+    ]
+  },
+  {
+    "group": "bags",
+    "urlPath": "mcm-umhangetasche-patricia",
+    "sort": 13,
+    "name": "Umhängetasche \"Patricia\" von MCM",
+    "image": "./img/Bags/mcm-umhangetasche-patricia/black/1538648317000.jpg",
+    "priceFull": 625,
+    "price25": 156.25,
+    "mainVariation": 1256532803,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "schwarz",
+        "article": 1256532803,
+        "image": "./img/Bags/mcm-umhangetasche-patricia/black/1538648317000.jpg",
+        "color": "#8f8f8f"
+      },
+      {
+        "name": "grün",
+        "article": 1256532802,
+        "image": "./img/Bags/mcm-umhangetasche-patricia/green/1538648318000.jpg",
+        "color": "#166063"
+      }
+    ]
+  },
+  {
+    "group": "bags",
+    "urlPath": "marc-jacobs-handtasche",
+    "sort": 14,
+    "name": "Handtasche von MARC JACOBS",
+    "image": "./img/Bags/marc-jacobs-handtasche/white/1528292459000.jpeg",
+    "priceFull": 399.9,
+    "price25": 99.95,
+    "mainVariation": 1249864010,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "pink",
+        "article": 1249864011,
+        "image": "./img/Bags/marc-jacobs-handtasche/pink/1526558936000.jpeg",
+        "color": "#ff3d9e"
+      },
+      {
+        "name": "beige",
+        "article": 1249864009,
+        "image": "./img/Bags/marc-jacobs-handtasche/beige/1522838995000.jpeg",
+        "color": "#e0c791"
+      },
+      {
+        "name": "weiss",
+        "article": 1249864010,
+        "image": "./img/Bags/marc-jacobs-handtasche/white/1528292459000.jpeg",
+        "color": "#fff"
+      },
+      {
+        "name": "türkis",
+        "article": 1249864007,
+        "image": "./img/Bags/marc-jacobs-handtasche/turquoise/1522838984000.jpeg",
+        "color": "#85bbad"
+      },
+      {
+        "name": "violett",
+        "article": 1249864012,
+        "image": "./img/Bags/marc-jacobs-handtasche/violett/1540537625000.jpeg",
+        "color": "#7700bd"
+      }
+    ]
+  },
+  {
+    "group": "bags",
+    "urlPath": "marc-jacobs-handtasche-violett",
+    "sort": 15,
+    "name": "Handtasche violett von MARC JACOBS",
+    "image": "./img/Bags/marc-jacobs-handtasche-violett/violett/1538466913000.jpeg",
+    "priceFull": 539.9,
+    "price25": 134.95,
+    "mainVariation": 1263197208,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "violett",
+        "article": 1263197208,
+        "image": "./img/Bags/marc-jacobs-handtasche-violett/violett/1538466913000.jpeg",
+        "color": "#7700bd"
+      }
+    ]
+  },
+  {
+    "group": "bags",
+    "urlPath": "marc-jacobs-shopper",
+    "sort": 16,
+    "name": "Shopper von MARC JACOBS",
+    "image": "./img/Bags/marc-jacobs-shopper/red/1528876657000.jpeg",
+    "priceFull": 405.9,
+    "price25": 101.45,
+    "mainVariation": 1219269906,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "rot",
+        "article": 1219269906,
+        "image": "./img/Bags/marc-jacobs-shopper/red/1528876657000.jpeg",
+        "color": "#f50002"
+      },
+      {
+        "name": "grau",
+        "article": 1219269907,
+        "image": "./img/Bags/marc-jacobs-shopper/gray/1528876665000.jpeg",
+        "color": "#8f8f8f"
+      },
+      {
+        "name": "schwarz",
+        "article": 1219269905,
+        "image": "./img/Bags/marc-jacobs-shopper/black/1522933083000.jpeg",
+        "color": "#000"
+      }
+    ]
+  },
+  {
+    "group": "bags",
+    "urlPath": "myers-collective-shopper",
+    "sort": 17,
+    "name": "Shopper von MYERS COLLECTIVE",
+    "image": "./img/Bags/myers-collective-shopper/silver/1534924260000.jpeg",
+    "priceFull": 699.9,
+    "price25": 174.95,
+    "mainVariation": 1261774201,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "silberfarben",
+        "article": 1261774201,
+        "image": "./img/Bags/myers-collective-shopper/silver/1534924260000.jpeg",
+        "color": "#e6e6e6"
+      }
+    ]
+  },
+  {
+    "group": "bags",
+    "urlPath": "mcm-umhangetasche",
+    "sort": 17,
+    "name": "Umhängetasche von MCM",
+    "image": "./img/Bags/mcm-umhangetasche/berry/1534245169000.jpeg",
+    "priceFull": 1325.0,
+    "price25": 331.25,
+    "mainVariation": 1256532402,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "berry",
+        "article": 1256532402,
+        "image": "./img/Bags/mcm-umhangetasche/berry/1534245169000.jpeg",
+        "color": "#cf005b"
+      }
+    ]
+  },
+  {
+    "group": "bags",
+    "urlPath": "ralph-lauren-beuteltasche-dryden-medium",
+    "sort": 18,
+    "name": "Beuteltasche \"Dryden Debby Drawstring Medium\" von LAUREN RALPH LAUREN",
+    "image": "./img/Bags/ralph-lauren-beuteltasche-dryden-medium/black/1530628602000.jpeg",
+    "priceFull": 349.9,
+    "price25": 87.5,
+    "mainVariation": 1254816104,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "schwarz",
+        "article": 1254816104,
+        "image": "./img/Bags/ralph-lauren-beuteltasche-dryden-medium/black/1530628602000.jpeg",
+        "color": "#222"
+      }
+    ]
+  },
+  {
+    "group": "bags",
+    "urlPath": "marc-jacobs-umhangetasche",
+    "sort": 19,
+    "name": "Umhängetasche pink von MARC JACOBS",
+    "image": "./img/Bags/marc-jacobs-umhangetasche/pink/1535380636000.jpeg",
+    "priceFull": 389.9,
+    "price25": 97.5,
+    "mainVariation": 1219269420,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "pink",
+        "article": 1219269420,
+        "image": "./img/Bags/marc-jacobs-umhangetasche/pink/1535380636000.jpeg",
+        "color": "#ff3d9e"
+      },
+      {
+        "name": "marine",
+        "article": 1219269422,
+        "image": "./img/Bags/marc-jacobs-umhangetasche/marine/1542029273000.jpeg",
+        "color": "#0b45c6"
+      }
+    ]
+  },
+  {
+    "group": "bags",
+    "urlPath": "ralph-lauren-beuteltasche-dryden-mini",
+    "sort": 20,
+    "name": "Beuteltasche \"Dryden Debby II Mini Drawstring\" von LAUREN RALPH LAUREN",
+    "image": "./img/Bags/ralph-lauren-beuteltasche-dryden-mini/black/1510752571000.jpeg",
+    "priceFull": 299.9,
+    "price25": 74.95,
+    "mainVariation": 1216640702,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "schwarz",
+        "article": 1216640702,
+        "image": "./img/Bags/ralph-lauren-beuteltasche-dryden-mini/black/1510752571000.jpeg",
+        "color": "#222"
+      }
+    ]
+  },
+  {
+    "group": "bags",
+    "urlPath": "love-moschino-schultertasche",
+    "sort": 21,
+    "name": "Schultertasche von LOVE MOSCHINO",
+    "image": "./img/Bags/love-moschino-schultertasche/black/1538462345000.jpeg",
+    "priceFull": 279.9,
+    "price25": 69.95,
+    "mainVariation": 1261637301,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "schwarz",
+        "article": 1261637301,
+        "image": "./img/Bags/love-moschino-schultertasche/black/1538462345000.jpeg",
+        "color": "#222"
+      }
+    ]
+  },
+  {
+    "group": "bags",
+    "urlPath": "furla-schultertasche-metropolis",
+    "sort": 22,
+    "name": "Schultertasche \"Metropolis\" von FURLA",
+    "image": "./img/Bags/furla-schultertasche-metropolis/lightblue/1526980108000.jpeg",
+    "priceFull": 299.9,
+    "price25": 74.95,
+    "mainVariation": 1172261738,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "hellblau",
+        "article": 1172261738,
+        "image": "./img/Bags/furla-schultertasche-metropolis/lightblue/1526980108000.jpeg",
+        "color": "#bfcfe2"
+      },
+      {
+        "name": "schwart",
+        "article": 1172261713,
+        "image": "./img/Bags/furla-schultertasche-metropolis/black/1529400010000.jpeg",
+        "color": "#222"
+      }
+    ]
+  },
+  {
+    "group": "bags",
+    "urlPath": "furla-abendtasche",
+    "sort": 23,
+    "name": "Abendtasche von FURLA",
+    "image": "./img/Bags/furla-abendtasche/vanille/1519768038000.jpeg",
+    "priceFull": 349.9,
+    "price25": 87.5,
+    "mainVariation": 1236583904,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "vanille",
+        "article": 1236583904,
+        "image": "./img/Bags/furla-abendtasche/vanille/1519768038000.jpeg",
+        "color": "#fff0b3"
+      }
+    ]
+  },
+  {
+    "group": "bags",
+    "urlPath": "furla-handtasche",
+    "sort": 24,
+    "name": "Handtasche von FURLA",
+    "image": "./img/Bags/furla-handtasche/rosa/1526980105000.jpeg",
+    "priceFull": 529.9,
+    "price25": 132.5,
+    "mainVariation": 1254552904,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "rosa",
+        "article": 1254552904,
+        "image": "./img/Bags/furla-handtasche/rosa/1526980105000.jpeg",
+        "color": "#e4cad3"
+      }
+    ]
+  },
+  {
+    "group": "bags",
+    "urlPath": "gianni-chiarini-handtasche",
+    "sort": 25,
+    "name": "Handtasche von GIANNI CHIARINI",
+    "image": "./img/Bags/gianni-chiarini-handtasche/altrosa/1534839200000.jpeg",
+    "priceFull": 259.9,
+    "price25": 64.95,
+    "mainVariation": 1259359601,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "altrosa",
+        "article": 1259359601,
+        "image": "./img/Bags/gianni-chiarini-handtasche/altrosa/1534839200000.jpeg",
+        "color": "#d68196"
+      }
     ]
   }
 ]
