@@ -26,7 +26,7 @@ const NeueArtDesFeierns = ({ data, location }) => {
     <Layout root="/neue-art-des-feierns/">
       <Meta site={get(data, 'site.meta')} />
       <Header image={data.hero.fluid}>
-        <Link className="js-scroll-trigger header-button" to="/#locations" />
+        <a style={{ right: '24vw', top: '-1em' }} className="js-scroll-trigger header-button" href="#locations" />
       </Header>
       <ExtendedArticleHeader />
       <ExtendedArticleSection heading="Herren – Ausleihen mit Stil" group="herren">
