@@ -10,7 +10,7 @@ exports.createPages = ({ graphql, actions }) => {
     resolve(
       graphql(`
         {
-          allArticlesJson {
+          allArticlesJson(filter: { group: { ne: "bags" } }) {
             edges {
               node {
                 urlPath
