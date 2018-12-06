@@ -8,6 +8,9 @@ const ExtendedArticleSection = ({ children, heading, backgroundColor, group }) =
       <div id="product-list" className="row">
         {children}
       </div>
+      <p className="text-center">
+        * Nach Ablauf der 100 Tage werden die restlichen 75% des Betrages in Rechnung gestellt.
+      </p>
     </div>
   </section>
 )
