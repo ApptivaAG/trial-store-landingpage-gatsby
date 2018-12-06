@@ -55,17 +55,17 @@ module.exports = {
         description: 'Trial Store by Globus',
         homepage_url: 'https://trialstore.ch',
         start_url: '/',
-        background_color: '#fff',
-        theme_color: '#673ab7',
+        background_color: '#000',
+        theme_color: '#9f8f68',
         display: 'standalone',
         icons: [
           {
-            src: '/img/android-chrome-192x192.png',
+            src: '/img/favicons/android-chrome-192x192.png',
             sizes: '192x192',
             type: 'image/png',
           },
           {
-            src: '/img/android-chrome-512x512.png',
+            src: '/img/favicons/android-chrome-512x512.png',
             sizes: '512x512',
             type: 'image/png',
           },
