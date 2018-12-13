@@ -138,15 +138,6 @@ export const pageArticleQuery = graphql`
             }
           }
         }
-        images {
-          image {
-            childImageSharp {
-              fluid(maxWidth: 700) {
-                ...GatsbyImageSharpFluid_withWebp
-              }
-            }
-          }
-        }
       }
     }
   }
