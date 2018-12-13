@@ -1,6 +1,32 @@
 [
   {
     "group": "herren",
+    "urlPath": "umhaengtasche",
+    "sort": 3,
+    "name": "Umhängetasche von BOSS",
+    "image": "./img/Herren/03_Boss-Umhangetasche/1542355215000.jpeg",
+    "priceFull": 599.90,
+    "price25": 149,
+    "mainVariation": 1262178201,
+    "variationName": "Farbe",
+    "variations": [
+      { "name": "schwarz", "article": 1262178201, "color": "#000000" }
+    ]
+  },
+  {
+    "group": "herren",
+    "urlPath": "Aktentasche",
+    "sort": 11,
+    "name": "Meisterstück Aktentasche von Montblanc",
+    "image": "./img/Haushalt/11_Montblanc-Aktentasche/1489549533000.jpeg",
+    "priceFull": 1490,
+    "price25": 372.5,
+    "mainVariation": 1110271800,
+    "variationName": "Grösse",
+    "variations": [{ "name": "42CM X 32CM X 12CM", "article": 1110271800 }]
+  },
+  {
+    "group": "herren",
     "urlPath": "daunen",
     "sort": 3,
     "name": "Daunenmantel von ÉTUDES",
@@ -92,6 +118,23 @@
   },
   {
     "group": "frauen",
+    "urlPath": "kleid-maje",
+    "sort": 0,
+    "name": "Kleid von MAJE",
+    "image": "./img/Frauen/01_Maje-Kleid/1530089062000.jpeg",
+    "priceFull": 259,
+    "price25": 64.75,
+    "mainVariation": 1258298606,
+    "variationName": "Grösse",
+    "variations": [
+      { "name": "T1 / 36", "article": 1258298601 },
+      { "name": "T2 / 38", "article": 1258298606 },
+      { "name": "T3 / 40", "article": 1258298605 },
+      { "name": "T4 / 42", "article": 1258298607 }
+    ]
+  },
+  {
+    "group": "frauen",
     "urlPath": "blugirl-folies",
     "sort": 1,
     "name": "Cocktailkleid von BLUGIRL FOLIES",
@@ -109,8 +152,127 @@
   },
   {
     "group": "frauen",
-    "urlPath": "blazer-maje",
+    "urlPath": "strickkleid",
     "sort": 2,
+    "name": "Strickkleid von MAX & CO.",
+    "image": "./img/Frauen/02_MaxCo-Kleid/1528100092000.jpeg",
+    "priceFull": 239.9,
+    "price25": 59.9,
+    "mainVariation": 1258034203,
+    "variationName": "Grösse",
+    "variations": [
+      { "name": "M", "article": 1258034203 },
+      { "name": "L", "article": 1258034204 },
+      { "name": "XL", "article": 1258034205 }
+
+    ]
+  },
+  {
+    "group": "frauen",
+    "urlPath": "armbanduhr-michael-kors",
+    "sort": 3,
+    "name": "Armbanduhr mit Edelstahlband roségold von MICHAEL KORS",
+    "image": "./img/Frauen/03_MichaelKors-Uhr/1539182063000.jpeg",
+    "priceFull": 299,
+    "price25": 74.9,
+    "mainVariation": 1266202500,
+    "variationName": "Farbe",
+    "variations": [
+      { "name": "roségold", "article": 1266202500, "color": "#f0d5bd" }
+    ]
+  },
+  {
+    "group": "frauen",
+    "urlPath": "luisa-cerano-mantel",
+    "sort": 4,
+    "name": "Übergangsmantel von LUISA CERANO",
+    "image": "./img/Frauen/04_LuisaCerano-Mantel/1529310090000.jpeg",
+    "priceFull": 779.9,
+    "price25": 194.9,
+    "mainVariation": 1258011702,
+    "variationName": "Grösse",
+    "variations": [
+      { "name": "36", "article": 1258011702 },
+      { "name": "40", "article": 1258011704 }
+    ]
+  },
+  {
+    "group": "frauen",
+    "urlPath": "claudie-pierlot-mantel",
+    "sort": 5,
+    "name": "Übergangsmantel von CLAUDIE PIERLOT",
+    "image": "./img/Frauen/05_ClaudiePierlot-Mantel/1529937521000.jpeg",
+    "priceFull": 425.4,
+    "price25": 104.9,
+    "mainVariation": 1260780901,
+    "variationName": "Grösse",
+    "variations": [
+      { "name": "38", "article": 1260780901 },
+      { "name": "40", "article": 1260780902 }
+    ]
+  },
+  {
+    "group": "frauen",
+    "urlPath": "kate-spade-uhr",
+    "sort": 6,
+    "name": "Armbanduhr mit Lederband von KATE SPADE NEW YORK",
+    "image": "./img/Frauen/06_KateSpade-Uhr/1519035860000.jpeg",
+    "priceFull": 239,
+    "price25": 59.75,
+    "mainVariation": 1256241700,
+    "variationName": "Farbe",
+    "variations": [
+      { "name": "goldgelb", "article": 1256241700, "color": "#e89e00" }
+    ]
+  },
+  {
+    "group": "frauen",
+    "urlPath": "canada-goose-mantel",
+    "sort": 7,
+    "name": "Daunenmantel von CANADA GOOSE",
+    "image": "./img/Frauen/07_CanadaGoose-Mantel/1519712783000.jpeg",
+    "priceFull": 1099,
+    "price25": 274.75,
+    "mainVariation": 1239981717,
+    "variationName": "Grösse",
+    "variations": [
+      { "name": "S", "article": 1239981717 },
+      { "name": "L", "article": 1239981719 },
+      { "name": "LX", "article": 1239981720 }
+    ]
+  },
+  {
+    "group": "frauen",
+    "urlPath": "coach-clutch",
+    "sort": 8,
+    "name": "Clutch \"Marlow\" von COACH",
+    "image": "./img/Frauen/08_Coach-Clutch/1544442506000.jpeg",
+    "priceFull": 229.90,
+    "price25": 56.90,
+    "mainVariation": 1265380501,
+    "variationName": "Farbe",
+    "variations": [
+      { "name": "schwarz", "article": 1265380501, "color": "#000000" }
+    ]
+  },
+  {
+    "group": "frauen",
+    "urlPath": "gabriele-frantzen-schal",
+    "sort": 9,
+    "name": "Schal von GABRIELE FRANTZEN",
+    "image": "./img/Frauen/09_GabrieleFrantzen-Schal/1539588047000.jpeg",
+    "priceFull": 379.90,
+    "price25": 89.90,
+    "mainVariation": 1262062104,
+    "variationName": "Farbe",
+    "variations": [
+      { "name": "grau", "article": 1262062104, "color": "#8f8f8f" }
+    ]
+  },
+  {
+    "group": "frauen",
+    "urlPath": "blazer-maje",
+    "sort": 10,
     "name": "Blazer von MAJE",
     "image": "./img/Frauen/MAJE-Blazer/1542097459000.jpeg",
     "priceFull": 499,
@@ -122,7 +284,7 @@
   {
     "group": "frauen",
     "urlPath": "abendkleid-coast",
-    "sort": 3,
+    "sort": 11,
     "name": "Abendkleid von COAST",
     "image": "./img/Frauen/COAST-Abendkleid/1539770838000.jpeg",
     "priceFull": 399.9,
@@ -140,7 +302,7 @@
   {
     "group": "frauen",
     "urlPath": "ana-alcazar-cocktailkleid",
-    "sort": 4,
+    "sort": 12,
     "name": "Cocktailkleid von ANA ALCAZAR",
     "image": "./img/Frauen/ANA-ALCAZAR-Cocktailkleid/1539770842000.jpeg",
     "priceFull": 299.9,
@@ -156,7 +318,7 @@
   {
     "group": "frauen",
     "urlPath": "clutch-olga-berg",
-    "sort": 5,
+    "sort": 13,
     "name": "Clutch von OLGA BERG",
     "image": "./img/Frauen/OLGA-BERG-Clutch/1536136656000.jpeg",
     "priceFull": 169.9,
@@ -168,7 +330,7 @@
   {
     "group": "frauen",
     "urlPath": "reisetasche-mcm",
-    "sort": 6,
+    "sort": 14,
     "name": "Reisetasche cognac von MCM",
     "image": "./img/Frauen/MCM-Reisetasche/1537359339000.jpeg",
     "priceFull": 1299,
@@ -304,21 +466,9 @@
   },
   {
     "group": "haushalt",
-    "urlPath": "Aktentasche",
-    "sort": 11,
-    "name": "Meisterstück Aktentasche von Montblanc",
-    "image": "./img/Haushalt/11_Montblanc-Aktentasche/1489549533000.jpeg",
-    "priceFull": 1490,
-    "price25": 372.5,
-    "mainVariation": 1110271800,
-    "variationName": "Grösse",
-    "variations": [{ "name": "42CM X 32CM X 12CM", "article": 1110271800 }]
-  },
-  {
-    "group": "haushalt",
     "urlPath": "kopfhoerer",
     "sort": 12,
-    "name": "Meisterstück Aktentasche von Montblanc",
+    "name": "On Ear Wireless Kopfhörer MW60 schokobraun von MASTER & DYNAMIC",
     "image": "./img/Haushalt/12_MasterDynamic-Kopfhoerer/1519682968000.jpeg",
     "priceFull": 699,
     "price25": 174.9,
@@ -336,7 +486,7 @@
     "group": "haushalt",
     "urlPath": "swissair",
     "sort": 13,
-    "name": "Meisterstück Aktentasche von Montblanc",
+    "name": "Swissair Airline Trolley rot von AIRLINE TROLLEY",
     "image": "./img/Haushalt/13_Swissair-Trolley/1519715166000.jpeg",
     "priceFull": 1350,
     "price25": 333,
