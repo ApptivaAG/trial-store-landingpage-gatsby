@@ -2,6 +2,7 @@ import React from 'react'
 import { Link, graphql } from 'gatsby'
 import Img from 'gatsby-image'
 import Layout from 'components/Layout'
+import Carousel from 'nuka-carousel'
 
 import './style.scss'
 
@@ -13,6 +14,8 @@ const Article = ({ data, pageContext, location }) => {
   const fluidImage = currentVariation.image
     ? currentVariation.image.childImageSharp.fluid
     : article.image.childImageSharp.fluid
+  const images = currentVariation.images
+  console.log('images', images)
   return (
     <Layout root={pathRoot} detail>
       <section id="article">
@@ -28,7 +31,18 @@ const Article = ({ data, pageContext, location }) => {
           </div>
           <div className="row">
             <div className="col-lg-6">
-              <Img fluid={fluidImage} />
+              {images ? (
+                <Carousel
+                  renderCenterLeftControls={({ previousSlide }) => <div onClick={previousSlide}>&nbsp;</div>}
+                  renderCenterRightControls={({ nextSlide }) => <div onClick={nextSlide}>&nbsp;</div>}
+                >
+                  {currentVariation.images.map((img, i) => (
+                    <Img key={i} fluid={img.image.childImageSharp.fluid} />
+                  ))}
+                </Carousel>
+              ) : (
+                <Img fluid={fluidImage} />
+              )}
             </div>
             <div className="col-lg-6">
               <h2>{article.name}</h2>
@@ -121,6 +135,15 @@ export const pageArticleQuery = graphql`
           childImageSharp {
             fluid(maxWidth: 700) {
               ...GatsbyImageSharpFluid_withWebp
+            }
+          }
+        }
+        images {
+          image {
+            childImageSharp {
+              fluid(maxWidth: 700) {
+                ...GatsbyImageSharpFluid_withWebp
+              }
             }
           }
         }

@@ -187,7 +187,12 @@
     "price25": 249,
     "mainVariation": 1188636500,
     "variationName": "Farbe",
-    "variations": [{ "name": "mittelgrau", "article": 1188636500 }]
+    "variations": [
+      {
+        "name": "mittelgrau",
+        "article": 1188636500
+      }
+    ]
   },
   {
     "group": "haushalt",
@@ -275,8 +280,74 @@
   },
   {
     "group": "haushalt",
-    "urlPath": "weihnachtsbaum",
+    "urlPath": "fuellfederhalter",
     "sort": 9,
+    "name": "Meisterstück Solitaire Blue Hour LeGrand Füllfederhalter von Montblanc",
+    "image": "./img/Haushalt/09_Montblanc_Fuellfederhalter/1540473948000.jpeg",
+    "priceFull": 1420,
+    "price25": 355,
+    "mainVariation": 1264571100,
+    "variationName": "Farbe",
+    "variations": [{ "name": "navy", "article": 1264571100, "color": "#00274d" }]
+  },
+  {
+    "group": "haushalt",
+    "urlPath": "Coravin",
+    "sort": 10,
+    "name": "Coravin Weinsystem Model TWO ELITE von CORAVIN",
+    "image": "./img/Haushalt/10_Coravin-Weinsystem/1519742804000.jpeg",
+    "priceFull": 399,
+    "price25": 99,
+    "mainVariation": 1228157400,
+    "variationName": "Farbe",
+    "variations": [{ "name": "roségold", "article": 1228157400, "color": "#f0d5bd" }]
+  },
+  {
+    "group": "haushalt",
+    "urlPath": "Aktentasche",
+    "sort": 11,
+    "name": "Meisterstück Aktentasche von Montblanc",
+    "image": "./img/Haushalt/11_Montblanc-Aktentasche/1489549533000.jpeg",
+    "priceFull": 1490,
+    "price25": 372.5,
+    "mainVariation": 1110271800,
+    "variationName": "Grösse",
+    "variations": [{ "name": "42CM X 32CM X 12CM", "article": 1110271800 }]
+  },
+  {
+    "group": "haushalt",
+    "urlPath": "kopfhoerer",
+    "sort": 12,
+    "name": "Meisterstück Aktentasche von Montblanc",
+    "image": "./img/Haushalt/12_MasterDynamic-Kopfhoerer/1519682968000.jpeg",
+    "priceFull": 699,
+    "price25": 174.9,
+    "mainVariation": 1224015200,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "schokobraun",
+        "article": 1224015200,
+        "image": "./img/Haushalt/12_MasterDynamic-Kopfhoerer/1519682968000.jpeg"
+      }
+    ]
+  },
+  {
+    "group": "haushalt",
+    "urlPath": "swissair",
+    "sort": 13,
+    "name": "Meisterstück Aktentasche von Montblanc",
+    "image": "./img/Haushalt/13_Swissair-Trolley/1519715166000.jpeg",
+    "priceFull": 1350,
+    "price25": 333,
+    "mainVariation": 1188219200,
+    "variationName": "Farbe",
+    "variations": [{ "name": "rot", "article": 1188219200, "color": "#f50002" }]
+  },
+  {
+    "group": "haushalt",
+    "urlPath": "weihnachtsbaum",
+    "sort": 14,
     "name": "Weihnachtsbaum von GLOBUS",
     "image": "./img/Haushalt/GLOBUS-Weihnachtsbaum/1540462409000.jpeg",
     "priceFull": 799.9,
