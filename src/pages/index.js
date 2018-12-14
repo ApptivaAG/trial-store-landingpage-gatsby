@@ -64,6 +64,24 @@ const Index = ({ data, location }) => {
               <Img fluid={data.bags.fluid} alt="Unterschiedliche Handtaschen in einer Reihe" />
             </div>
           </div>
+          <div className="row bag-teaser">
+            <div className="col-lg-6">
+              <h2 className="section-heading text-uppercase">Nur im Dezember</h2>
+              <blockquote>Mach‘ die Festtage zum Highlight!</blockquote>
+              <p className="text-muted">
+                Überrasch’ dich selbst! Im Ausleih-Store für Luxus hast du alle Freiheiten. Leih’ dir unsere
+                Dezember-Highlights so lange du willst. Die neueste Mode, Accessoires und Gadgets der angesagtesten
+                Brands wurden exklusiv von GLOBUS-Experten für dich kuratiert - für die festlichste Zeit des Jahres.
+                Viel Spass beim Feiern!
+              </p>
+              <Link className="btn btn-primary btn-xl" to="/neue-art-des-feierns/">
+                Jetzt Luxus-Highlight wählen
+              </Link>
+            </div>
+            <div className="col-lg-6">
+              <Img fluid={data.luxus.fluid} alt="Unterschiedliche Handtaschen in einer Reihe" />
+            </div>
+          </div>
         </div>
       </section>
 
@@ -86,7 +104,12 @@ export const rootQuery = graphql`
         ...GatsbyImageSharpFluid_withWebp
       }
     }
-    bags: imageSharp(fluid: { originalName: { regex: "/bags/" } }) {
+    bags: imageSharp(fluid: { originalName: { regex: "/das-leih-ich-mir-dez/" } }) {
+      fluid(maxWidth: 1200, quality: 80) {
+        ...GatsbyImageSharpFluid_withWebp
+      }
+    }
+    luxus: imageSharp(fluid: { originalName: { regex: "/neue-art-des-feierns/" } }) {
       fluid(maxWidth: 1200, quality: 80) {
         ...GatsbyImageSharpFluid_withWebp
       }
