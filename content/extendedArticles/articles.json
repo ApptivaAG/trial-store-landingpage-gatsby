@@ -1,120 +1,131 @@
 [
   {
     "group": "herren",
-    "urlPath": "umhaengtasche",
-    "sort": 3,
-    "name": "Umhängetasche von BOSS",
-    "image": "./img/Herren/03_Boss-Umhangetasche/1542355215000.jpeg",
-    "priceFull": 599.90,
-    "price25": 149,
-    "mainVariation": 1262178201,
-    "variationName": "Farbe",
-    "variations": [
-      { "name": "schwarz", "article": 1262178201, "color": "#000000" }
-    ]
-  },
-  {
-    "group": "herren",
-    "urlPath": "Aktentasche",
-    "sort": 11,
-    "name": "Meisterstück Aktentasche von Montblanc",
-    "image": "./img/Haushalt/11_Montblanc-Aktentasche/1489549533000.jpeg",
-    "priceFull": 1490,
-    "price25": 372.5,
-    "mainVariation": 1110271800,
-    "variationName": "Grösse",
-    "variations": [{ "name": "42CM X 32CM X 12CM", "article": 1110271800 }]
-  },
-  {
-    "group": "herren",
-    "urlPath": "daunen",
-    "sort": 3,
-    "name": "Daunenmantel von ÉTUDES",
-    "image": "./img/Herren/ETHUDES-Daunenmantel/1542097831000.jpeg",
-    "priceFull": 989.9,
-    "price25": 249,
-    "mainVariation": 1255698002,
-    "variationName": "Grösse",
-    "variations": [
-      { "name": "46", "article": 1255698001 },
-      { "name": "48", "article": 1255698002 },
-      { "name": "50", "article": 1255698003 }
-    ]
-  },
-  {
-    "group": "herren",
-    "urlPath": "polo",
-    "sort": 1,
-    "name": "Strickpullover POLO RALPH LAUREN",
-    "image": "./img/Herren/RALPHLAUREN-Pullover/1539177139000.jpeg",
-    "priceFull": 499.9,
-    "price25": 124.9,
-    "mainVariation": 1257112308,
-    "variationName": "Grösse",
-    "variations": [
-      { "name": "S", "article": 1257112306 },
-      { "name": "M", "article": 1257112307 },
-      { "name": "L", "article": 1257112308 },
-      { "name": "XL", "article": 1257112309 },
-      { "name": "XXL", "article": 1257112310 }
-    ]
-  },
-  {
-    "group": "herren",
-    "urlPath": "winterjacke",
+    "urlPath": "strellson-mantel",
     "sort": 2,
-    "name": "Winterjacke",
-    "image": "./img/Herren/SANDRO-Winterjacke/1541574852000.jpeg",
-    "priceFull": 709,
-    "price25": 177,
-    "mainVariation": 1261063011,
+    "name": "Übergangsmantel von STRELLSON",
+    "image": "./img/Herren/02_Strellson-Mantel/1519697691000.jpeg",
+    "priceFull": 399.0,
+    "price25": 99,
+    "mainVariation": 1184039702,
     "variationName": "Grösse",
     "variations": [
-      { "name": "S", "article": 1261063009 },
-      { "name": "M", "article": 1261063010 },
-      { "name": "L", "article": 1261063011 }
-    ]
-  },
-  {
-    "group": "herren",
-    "urlPath": "cinque-baukasten-veston",
-    "sort": 4,
-    "name": "Baukasten Veston Slim Fit \"Cidon\" von CINQUE",
-    "image": "./img/Herren/CINQUE-Cidon/1536683825000.jpeg",
-    "priceFull": 369,
-    "price25": 92,
-    "mainVariation": 1261586003,
-    "variationName": "Grösse",
-    "variations": [{ "name": "50", "article": 1261586003 }, { "name": "52", "article": 1261586004 }]
-  },
-  {
-    "group": "herren",
-    "urlPath": "baukasten-veston-globus-studio",
-    "sort": 5,
-    "name": "Baukasten Veston Slim Fit von GLOBUS STUDIO",
-    "image": "./img/Herren/CINQUE-Slim-Fit/1538388098000.jpeg",
-    "priceFull": 349.9,
-    "price25": 89,
-    "mainVariation": 1255681603,
-    "variationName": "Grösse",
-    "variations": [
-      { "name": "46", "article": 1255681602 },
-      { "name": "48", "article": 1255681603 },
-      { "name": "50", "article": 1255681604 },
-      { "name": "52", "article": 1255681605 }
+      { "name": "46", "article": 1184039701 },
+      { "name": "48", "article": 1184039702 },
+      { "name": "50", "article": 1184039703 },
+      { "name": "52", "article": 1184039704 },
+      { "name": "54", "article": 1184039705 }
     ]
   },
   {
     "group": "herren",
     "urlPath": "armbanduhr-emporio-armani",
-    "sort": 6,
+    "sort": 3,
     "name": "Armbanduhr von EMPORIO ARMANI",
-    "image": "./img/Herren/ARMANI-Armbanduhr/1519741434000.jpeg",
-    "priceFull": 569,
-    "price25": 142,
-    "mainVariation": 1046658500,
+    "image": "./img/Herren/03_Armani-Uhr/1488576944000.jpeg",
+    "priceFull": 379,
+    "price25": 94.9,
+    "mainVariation": 1046728100,
     "variationName": "Farbe",
-    "variations": [{ "name": "silberfarben", "article": 1046658500 }]
+    "variations": [{ "name": "schwarz", "article": 1046728100 }]
+  },
+  {
+    "group": "herren",
+    "urlPath": "ralph-lauren-hemd",
+    "sort": 4,
+    "name": "Hemd Slim Fit von POLO RALPH LAUREN",
+    "image": "./img/Herren/04_RalphLauren-Hemd/1519706747000.jpeg",
+    "priceFull": 149.0,
+    "price25": 35.9,
+    "mainVariation": 1048350032,
+    "variationName": "Grösse",
+    "variations": [
+      { "name": "S", "article": 1048350031 },
+      { "name": "M", "article": 1048350032 },
+      { "name": "L", "article": 1048350033 },
+      { "name": "XL", "article": 1048350034 },
+      { "name": "XXL", "article": 1048350035 }
+    ]
+  },
+  {
+    "group": "herren",
+    "urlPath": "ralph-lauren-strickpullover",
+    "sort": 5,
+    "name": "Strickpullover navy von POLO RALPH LAUREN",
+    "image": "./img/Herren/05_RalphLauren-Strickpullover/1519666825000.jpeg",
+    "priceFull": 179,
+    "price25": 44.9,
+    "mainVariation": 1180137402,
+    "variationName": "Grösse",
+    "variations": [
+      { "name": "S", "article": 1180137401 },
+      { "name": "M", "article": 1180137402 },
+      { "name": "L", "article": 1180137403 },
+      { "name": "XL", "article": 1180137404 },
+      { "name": "XXL", "article": 1180137405 }
+    ]
+  },
+  {
+    "group": "herren",
+    "urlPath": "businesstasche-mcm",
+    "sort": 6,
+    "name": "Businesstasche von MCM",
+    "image": "./img/Herren/06_MCM-Businesstasche/1536745164000.jpeg",
+    "priceFull": 749,
+    "price25": 187.9,
+    "mainVariation": 1255481604,
+    "variationName": "Farbe",
+    "variations": [{ "name": "cognac", "article": 1255481604, "color": "#ab5c00"}]
+  },
+  {
+    "group": "herren",
+    "urlPath": "tomy-hilfiger-sakko",
+    "sort": 7,
+    "name": "Baukasten Veston Slim Fit von TOMMY HILFIGER TAILORED",
+    "image": "./img/Herren/07_TommyHilfiger-Sakko/1522827688000.jpeg",
+    "priceFull": 499,
+    "price25": 124.9,
+    "mainVariation": 1237128312,
+    "variationName": "Grösse",
+    "variations": [
+      { "name": "46", "article": 1237128312 },
+      { "name": "50", "article": 1237128314 },
+      { "name": "52", "article": 1237128315 },
+      { "name": "54", "article": 1237128316 },
+      { "name": "56", "article": 1237128317 }
+    ]
+  },
+  {
+    "group": "herren",
+    "urlPath": "bugatti-jacke",
+    "sort": 8,
+    "name": "Winterjacke von BUGATTI",
+    "image": "./img/Herren/08_Bugatti-Jacke/1506090500000.jpeg",
+    "priceFull": 499.9,
+    "price25": 124.9,
+    "mainVariation": 1184915018,
+    "variationName": "Grösse",
+    "variations": [
+      { "name": "25", "article": 1184915029 },
+      { "name": "46", "article": 1184915018 },
+      { "name": "50", "article": 1184915020 },
+      { "name": "52", "article": 1184915021 },
+      { "name": "54", "article": 1184915022 }
+    ]
+  },
+  {
+    "group": "herren",
+    "urlPath": "skagen-aktivitaetstraecker",
+    "sort": 9,
+    "name": "Aktivitätstracker von SKAGEN",
+    "image": "./img/Herren/09_Skagen-Aktivitaetstraecker/1533039872000.jpeg",
+    "priceFull": 329,
+    "price25": 79,
+    "mainVariation": 1263705900,
+    "variationName": "Farbe",
+    "variations": [
+      { "name": "stahlgrau", "article": 1263705900, "color": "#6c686d" }
+    ]
   },
   {
     "group": "frauen",
@@ -147,7 +158,6 @@
       { "name": "M", "article": 1258034203 },
       { "name": "L", "article": 1258034204 },
       { "name": "XL", "article": 1258034205 }
-
     ]
   },
   {
@@ -160,9 +170,7 @@
     "price25": 74.9,
     "mainVariation": 1266202500,
     "variationName": "Farbe",
-    "variations": [
-      { "name": "roségold", "article": 1266202500, "color": "#f0d5bd" }
-    ]
+    "variations": [{ "name": "roségold", "article": 1266202500, "color": "#f0d5bd" }]
   },
   {
     "group": "frauen",
@@ -174,10 +182,7 @@
     "price25": 194.9,
     "mainVariation": 1258011702,
     "variationName": "Grösse",
-    "variations": [
-      { "name": "36", "article": 1258011702 },
-      { "name": "40", "article": 1258011704 }
-    ]
+    "variations": [{ "name": "36", "article": 1258011702 }, { "name": "40", "article": 1258011704 }]
   },
   {
     "group": "frauen",
@@ -189,10 +194,7 @@
     "price25": 104.9,
     "mainVariation": 1260780901,
     "variationName": "Grösse",
-    "variations": [
-      { "name": "38", "article": 1260780901 },
-      { "name": "40", "article": 1260780902 }
-    ]
+    "variations": [{ "name": "38", "article": 1260780901 }, { "name": "40", "article": 1260780902 }]
   },
   {
     "group": "frauen",
@@ -204,9 +206,7 @@
     "price25": 59.75,
     "mainVariation": 1256241700,
     "variationName": "Farbe",
-    "variations": [
-      { "name": "goldgelb", "article": 1256241700, "color": "#e89e00" }
-    ]
+    "variations": [{ "name": "goldgelb", "article": 1256241700, "color": "#e89e00" }]
   },
   {
     "group": "frauen",
@@ -230,13 +230,11 @@
     "sort": 8,
     "name": "Clutch \"Marlow\" von COACH",
     "image": "./img/Frauen/08_Coach-Clutch/1544442506000.jpeg",
-    "priceFull": 229.90,
-    "price25": 56.90,
+    "priceFull": 229.9,
+    "price25": 56.9,
     "mainVariation": 1265380501,
     "variationName": "Farbe",
-    "variations": [
-      { "name": "schwarz", "article": 1265380501, "color": "#000000" }
-    ]
+    "variations": [{ "name": "schwarz", "article": 1265380501, "color": "#000000" }]
   },
   {
     "group": "frauen",
@@ -244,13 +242,11 @@
     "sort": 9,
     "name": "Schal von GABRIELE FRANTZEN",
     "image": "./img/Frauen/09_GabrieleFrantzen-Schal/1539588047000.jpeg",
-    "priceFull": 379.90,
-    "price25": 89.90,
+    "priceFull": 379.9,
+    "price25": 89.9,
     "mainVariation": 1262062104,
     "variationName": "Farbe",
-    "variations": [
-      { "name": "grau", "article": 1262062104, "color": "#8f8f8f" }
-    ]
+    "variations": [{ "name": "grau", "article": 1262062104, "color": "#8f8f8f" }]
   },
   {
     "group": "haushalt",
