@@ -337,18 +337,6 @@
   },
   {
     "group": "haushalt",
-    "urlPath": "aufschnittmaschine-berkel",
-    "sort": 5,
-    "name": "Aufschnittmaschine VOLANO B2",
-    "image": "./img/Haushalt/05_Aufschnittmaschine/1530183574000.jpeg",
-    "priceFull": 5808,
-    "price25": 1450,
-    "mainVariation": 1183295500,
-    "variationName": "Farbe",
-    "variations": [{ "name": "dunkelrot", "article": 1183295500 }]
-  },
-  {
-    "group": "haushalt",
     "urlPath": "kolbenmaschine-maximatic",
     "sort": 6,
     "name": "Kolbenmaschine MAXIMATIC von OLYMPIA",
