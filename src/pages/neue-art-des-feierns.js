@@ -5,7 +5,7 @@ import get from 'lodash/get'
 import Meta from 'components/Meta'
 import Layout from 'components/Layout'
 import Header from 'components/Header'
-import HowItWorks from 'components/HowItWorks'
+import HowItWorksExtended from 'components/HowItWorksExtended'
 import Locations from 'components/Locations'
 import Lab from 'components/Lab'
 import FAQ from 'components/FAQ'
@@ -48,7 +48,7 @@ const NeueArtDesFeierns = ({ data, location }) => {
           <ArticlePreview root="neue-art-des-feierns/" article={article} key={i} />
         ))}
       </ExtendedArticleSection>
-      <HowItWorks />
+      <HowItWorksExtended />
       <Locations />
       <Lab />
       <FAQ />
