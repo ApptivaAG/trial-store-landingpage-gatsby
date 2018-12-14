@@ -4,6 +4,7 @@ import React from 'react'
 import './style.scss'
 
 const ArticlePreview = ({ root, article }) => {
+  if (article.node.image == null) console.log('article', article.node.urlPath)
   return (
     <div className="col-lg-4">
       <Link to={root + article.node.urlPath + '/' + article.node.mainVariation}>
