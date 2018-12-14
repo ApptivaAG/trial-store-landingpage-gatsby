@@ -2,7 +2,7 @@ import { Link } from 'gatsby'
 import React from 'react'
 import './style.scss'
 
-const snowflake = (leftOrRight = 'left') => (
+const snowflake = (leftOrRight = 'left', key) => (
   <img
     style={{
       top: `${Math.random() * 20}vw`,
@@ -12,6 +12,7 @@ const snowflake = (leftOrRight = 'left') => (
     }}
     src="/img/snowflake.svg"
     alt=""
+    key={key}
   />
 )
 
@@ -19,10 +20,10 @@ const snowflakes = () => {
   var count
   var flakes = []
   for (count = 0; count < 8; count++) {
-    flakes.push(snowflake('left'))
+    flakes.push(snowflake('left', count))
   }
   for (count = 0; count < 8; count++) {
-    flakes.push(snowflake('right'))
+    flakes.push(snowflake('right', count + 8))
   }
   return flakes
 }
