@@ -85,14 +85,14 @@ const VariationButton = (variation, active, currentUrl) => {
     const style = { background: variation.color }
     const className = 'variation-with-color ' + (active ? 'variation-with-color-active' : '')
     return (
-      <Link to={variationUrl} key={variation.article}>
+      <Link to={variationUrl} key={variation.article} replace>
         <span className={className} style={style} />
       </Link>
     )
   } else {
     const className = 'variation ' + (active ? 'variation-active' : '')
     return (
-      <Link to={variationUrl} key={variation.article}>
+      <Link to={variationUrl} key={variation.article} replace>
         <span className={className}>{variation.name}</span>
       </Link>
     )
