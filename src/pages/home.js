@@ -1,36 +1,29 @@
 import { graphql, Link } from 'gatsby'
-import Img from 'gatsby-image'
 import React from 'react'
 import get from 'lodash/get'
-import filter from 'lodash/filter'
-
-import '../scss/teaser.scss'
 
 import Meta from 'components/Meta'
 import Layout from 'components/Layout'
 import Header from 'components/Header'
+import HowItWorks from 'components/HowItWorks'
 import Locations from 'components/Locations'
 import Lab from 'components/Lab'
 import FAQ from 'components/FAQ'
 import Newsletter from 'components/Newsletter'
+import ArticlePreview from 'components/ArticlePreview'
 import Mission from 'components/Mission'
 import GroupNavi from 'components/GroupNavi'
-import ExtendedArticleSection from 'components/ExtendesArticleSection'
-import ArticlePreview from 'components/ArticlePreview'
 import ExtendedArticleHeader from 'components/ExtendedArticleHeader'
+import ExtendedArticleSection from 'components/ExtendesArticleSection'
 import HowItWorksExtended from 'components/HowItWorksExtended'
 
-const Index = ({ data, location }) => {
-  const women = get(data, 'articles.edges')
-  const bags = filter(women, { node: { subgroup: 'bags' } })
-  const mode = filter(women, { node: { subgroup: 'mode' } })
-  const accessoires = filter(women, { node: { subgroup: 'accessoires' } })
-
+const Home = ({ data, location }) => {
+  const home = get(data, 'articles.edges')
   return (
-    <Layout root="/">
+    <Layout root="/home/">
       <Meta site={get(data, 'site.meta')} />
       <Header image={data.hero.fluid}>
-        <Link className="js-scroll-trigger header-button" to="/#locations">
+        <Link className="js-scroll-trigger header-button" to="/men/#locations">
           <div className="round-button">
             <div>
               Nur Online <br />
@@ -43,25 +36,14 @@ const Index = ({ data, location }) => {
           </div>
         </Link>
       </Header>
-
       <ExtendedArticleHeader />
-
       <GroupNavi />
-      <ExtendedArticleSection heading="Taschen" group="bags">
-        {bags.map((article, i) => (
-          <ArticlePreview root="/" article={article} key={i} />
+      <ExtendedArticleSection heading="Haushalt – Ausleihen mit Stil" group="haushalt">
+        {home.map((article, i) => (
+          <ArticlePreview root="home/" article={article} key={i} />
         ))}
       </ExtendedArticleSection>
-      <ExtendedArticleSection heading="Mode" group="mode">
-        {mode.map((article, i) => (
-          <ArticlePreview root="/" article={article} key={i} />
-        ))}
-      </ExtendedArticleSection>
-      <ExtendedArticleSection heading="Accessoires" group="accessoires">
-        {accessoires.map((article, i) => (
-          <ArticlePreview root="/" article={article} key={i} />
-        ))}
-      </ExtendedArticleSection>
+
       <HowItWorksExtended />
       <Locations />
       <Lab />
@@ -72,15 +54,10 @@ const Index = ({ data, location }) => {
   )
 }
 
-export default Index
+export default Home
 
-export const rootQuery = graphql`
-  query rootQuery {
-    hero: imageSharp(fluid: { originalName: { regex: "/trialstore-root/" } }) {
-      fluid(maxWidth: 2400, quality: 80) {
-        ...GatsbyImageSharpFluid_withWebp
-      }
-    }
+export const homeQuery = graphql`
+  query homeQuery {
     site {
       meta: siteMetadata {
         title
@@ -91,11 +68,15 @@ export const rootQuery = graphql`
         adsense
       }
     }
-    articles: allArticlesJson(sort: { fields: [sort], order: ASC }, filter: { group: { eq: "frauen" } }) {
+    hero: imageSharp(fluid: { originalName: { regex: "/das-leih-ich-mir-dez/" } }) {
+      fluid(maxWidth: 2400, quality: 80) {
+        ...GatsbyImageSharpFluid_withWebp
+      }
+    }
+    articles: allArticlesJson(sort: { fields: [sort], order: ASC }, filter: { group: { eq: "haushalt" } }) {
       edges {
         node {
           group
-          subgroup
           urlPath
           sort
           name

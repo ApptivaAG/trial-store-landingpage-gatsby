@@ -1,0 +1,86 @@
+@import 'scss/colors.scss';
+
+#group-navi {
+  @media (min-width: 720px) {
+    position: relative;
+
+    &:before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 0;
+      right: 0;
+      bottom: 6.2em;
+      border-bottom: 1px solid $secondary;
+    }
+  }
+
+  .group-navi-bar {
+    @media (min-width: 720px) {
+      display: flex;
+    }
+
+    .group-navi-bar-item {
+      display: block;
+      position: relative;
+      flex: 1 1 0%;
+      font-size: 1.4em;
+      padding-top: 1em;
+      padding-bottom: 1em;
+      text-align: center;
+      color: white;
+      background-size: cover;
+      background-position: center;
+      margin-top: 0.4em;
+      margin-bottom: 0.4em;
+      margin-left: 1px;
+      margin-right: 1px;
+      transition: transform 0.2s ease-in;
+      outline: 1px solid white;
+
+      &:before {
+        content: '';
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        background: rgba(0, 0, 0, 0.5);
+      }
+
+      &.active {
+        margin: 0 1px;
+        padding-top: 1.4em;
+        padding-bottom: 1.4em;
+
+        &:before {
+          display: none;
+        }
+
+        @media (max-width: 719px) {
+          margin: 0 -1em;
+        }
+      }
+
+      &:hover {
+        transform: scale(1.02);
+        z-index: 5;
+        &:before {
+          background: rgba(0, 0, 0, 0.2);
+        }
+      }
+    }
+
+    #woman {
+      background-image: url('./for-her.png');
+    }
+
+    #men {
+      background-image: url('./for-him.png');
+    }
+
+    #home {
+      background-image: url('./for-home.png');
+    }
+  }
+}

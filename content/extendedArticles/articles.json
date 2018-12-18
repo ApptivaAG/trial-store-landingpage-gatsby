@@ -1,6 +1,7 @@
 [
   {
     "group": "herren",
+    "subgroup": "mode",
     "urlPath": "strellson-sakko",
     "sort": 1,
     "name": "Baukasten Veston Slim Fit \"Gandy\" von STRELLSON",
@@ -35,6 +36,7 @@
   },
   {
     "group": "herren",
+    "subgroup": "mode",
     "urlPath": "strellson-mantel",
     "sort": 2,
     "name": "Übergangsmantel von STRELLSON",
@@ -53,6 +55,7 @@
   },
   {
     "group": "herren",
+    "subgroup": "accessoires",
     "urlPath": "armbanduhr-emporio-armani",
     "sort": 3,
     "name": "Armbanduhr von EMPORIO ARMANI",
@@ -65,6 +68,7 @@
   },
   {
     "group": "herren",
+    "subgroup": "mode",
     "urlPath": "ralph-lauren-hemd",
     "sort": 4,
     "name": "Hemd Slim Fit von POLO RALPH LAUREN",
@@ -83,6 +87,7 @@
   },
   {
     "group": "herren",
+    "subgroup": "mode",
     "urlPath": "ralph-lauren-strickpullover",
     "sort": 5,
     "name": "Strickpullover navy von POLO RALPH LAUREN",
@@ -101,6 +106,7 @@
   },
   {
     "group": "herren",
+    "subgroup": "accessoires",
     "urlPath": "businesstasche-mcm",
     "sort": 6,
     "name": "Businesstasche von MCM",
@@ -109,10 +115,11 @@
     "price25": 187.9,
     "mainVariation": 1255481604,
     "variationName": "Farbe",
-    "variations": [{ "name": "cognac", "article": 1255481604, "color": "#ab5c00"}]
+    "variations": [{ "name": "cognac", "article": 1255481604, "color": "#ab5c00" }]
   },
   {
     "group": "herren",
+    "subgroup": "mode",
     "urlPath": "tomy-hilfiger-sakko",
     "sort": 7,
     "name": "Baukasten Veston Slim Fit von TOMMY HILFIGER TAILORED",
@@ -131,6 +138,7 @@
   },
   {
     "group": "herren",
+    "subgroup": "mode",
     "urlPath": "bugatti-jacke",
     "sort": 8,
     "name": "Winterjacke von BUGATTI",
@@ -149,6 +157,7 @@
   },
   {
     "group": "herren",
+    "subgroup": "accessoires",
     "urlPath": "skagen-aktivitaetstraecker",
     "sort": 9,
     "name": "Aktivitätstracker von SKAGEN",
@@ -157,12 +166,11 @@
     "price25": 79,
     "mainVariation": 1263705900,
     "variationName": "Farbe",
-    "variations": [
-      { "name": "stahlgrau", "article": 1263705900, "color": "#6c686d" }
-    ]
+    "variations": [{ "name": "stahlgrau", "article": 1263705900, "color": "#6c686d" }]
   },
   {
     "group": "frauen",
+    "subgroup": "mode",
     "urlPath": "kleid-maje",
     "sort": 1,
     "name": "Kleid von MAJE",
@@ -180,6 +188,7 @@
   },
   {
     "group": "frauen",
+    "subgroup": "mode",
     "urlPath": "strickkleid",
     "sort": 2,
     "name": "Strickkleid von MAX & CO.",
@@ -196,6 +205,7 @@
   },
   {
     "group": "frauen",
+    "subgroup": "accessoires",
     "urlPath": "armbanduhr-michael-kors",
     "sort": 3,
     "name": "Armbanduhr mit Edelstahlband roségold von MICHAEL KORS",
@@ -208,6 +218,7 @@
   },
   {
     "group": "frauen",
+    "subgroup": "mode",
     "urlPath": "luisa-cerano-mantel",
     "sort": 4,
     "name": "Übergangsmantel von LUISA CERANO",
@@ -220,6 +231,7 @@
   },
   {
     "group": "frauen",
+    "subgroup": "mode",
     "urlPath": "claudie-pierlot-mantel",
     "sort": 5,
     "name": "Übergangsmantel von CLAUDIE PIERLOT",
@@ -232,6 +244,7 @@
   },
   {
     "group": "frauen",
+    "subgroup": "accessoires",
     "urlPath": "kate-spade-uhr",
     "sort": 6,
     "name": "Armbanduhr mit Lederband von KATE SPADE NEW YORK",
@@ -244,6 +257,7 @@
   },
   {
     "group": "frauen",
+    "subgroup": "mode",
     "urlPath": "canada-goose-mantel",
     "sort": 7,
     "name": "Daunenmantel von CANADA GOOSE",
@@ -260,6 +274,7 @@
   },
   {
     "group": "frauen",
+    "subgroup": "accessoires",
     "urlPath": "coach-clutch",
     "sort": 8,
     "name": "Clutch \"Marlow\" von COACH",
@@ -272,6 +287,7 @@
   },
   {
     "group": "frauen",
+    "subgroup": "accessoires",
     "urlPath": "gabriele-frantzen-schal",
     "sort": 9,
     "name": "Schal von GABRIELE FRANTZEN",
@@ -438,7 +454,8 @@
     "variations": [{ "name": "120cm x 180cm", "article": 1256492000 }]
   },
   {
-    "group": "bags",
+    "group": "frauen",
+    "subgroup": "bags",
     "urlPath": "coach",
     "sort": 1,
     "name": "Shopper von COACH",
@@ -469,7 +486,8 @@
     ]
   },
   {
-    "group": "bags",
+    "group": "frauen",
+    "subgroup": "bags",
     "urlPath": "flura-beuteltasche",
     "sort": 2,
     "name": "Beuteltasche von FURLA",
@@ -501,7 +519,8 @@
     ]
   },
   {
-    "group": "bags",
+    "group": "frauen",
+    "subgroup": "bags",
     "urlPath": "rucksack-lagerfeld",
     "sort": 3,
     "name": "Rucksack von Karl Lagerfeld",
@@ -520,7 +539,8 @@
     ]
   },
   {
-    "group": "bags",
+    "group": "frauen",
+    "subgroup": "bags",
     "urlPath": "rucksack-kate-spade",
     "sort": 4,
     "name": "Rucksack von KATE SPADE",
@@ -539,7 +559,8 @@
     ]
   },
   {
-    "group": "bags",
+    "group": "frauen",
+    "subgroup": "bags",
     "urlPath": "umhaengtasche-liebeskind",
     "sort": 5,
     "name": "Umhängetasche von LIEBESKIND",
@@ -564,7 +585,8 @@
     ]
   },
   {
-    "group": "bags",
+    "group": "frauen",
+    "subgroup": "bags",
     "urlPath": "rucksack-mcm",
     "sort": 6,
     "name": "Rucksack von MCM",
@@ -579,7 +601,8 @@
     ]
   },
   {
-    "group": "bags",
+    "group": "frauen",
+    "subgroup": "bags",
     "urlPath": "beutel-mollerus",
     "sort": 7,
     "name": "Beutel von MOLLERUS",
@@ -599,7 +622,8 @@
     ]
   },
   {
-    "group": "bags",
+    "group": "frauen",
+    "subgroup": "bags",
     "urlPath": "shopper-mollerus",
     "sort": 8,
     "name": "Shopper von MOLLERUS",
@@ -630,7 +654,8 @@
     ]
   },
   {
-    "group": "bags",
+    "group": "frauen",
+    "subgroup": "bags",
     "urlPath": "clutch-olga-berg",
     "sort": 9,
     "name": "Clutch von OLGA BERG",
@@ -644,7 +669,8 @@
     ]
   },
   {
-    "group": "bags",
+    "group": "frauen",
+    "subgroup": "bags",
     "urlPath": "rucksack-ralph-lauren",
     "sort": 10,
     "name": "Rucksack von RALPH LAUREN",
@@ -663,7 +689,8 @@
     ]
   },
   {
-    "group": "bags",
+    "group": "frauen",
+    "subgroup": "bags",
     "urlPath": "becksondergaard-shopper",
     "sort": 11,
     "name": "Shopper von BECKSÖNDERGAARD",
@@ -694,7 +721,8 @@
     ]
   },
   {
-    "group": "bags",
+    "group": "frauen",
+    "subgroup": "bags",
     "urlPath": "mcm-clutch-millie",
     "sort": 12,
     "name": "Clutch \"Millie\" von MCM",
@@ -713,7 +741,8 @@
     ]
   },
   {
-    "group": "bags",
+    "group": "frauen",
+    "subgroup": "bags",
     "urlPath": "mcm-umhangetasche-patricia",
     "sort": 13,
     "name": "Umhängetasche \"Patricia\" von MCM",
@@ -738,7 +767,8 @@
     ]
   },
   {
-    "group": "bags",
+    "group": "frauen",
+    "subgroup": "bags",
     "urlPath": "marc-jacobs-handtasche",
     "sort": 14,
     "name": "Handtasche von MARC JACOBS",
@@ -781,7 +811,8 @@
     ]
   },
   {
-    "group": "bags",
+    "group": "frauen",
+    "subgroup": "bags",
     "urlPath": "marc-jacobs-handtasche-violett",
     "sort": 15,
     "name": "Handtasche violett von MARC JACOBS",
@@ -800,7 +831,8 @@
     ]
   },
   {
-    "group": "bags",
+    "group": "frauen",
+    "subgroup": "bags",
     "urlPath": "marc-jacobs-shopper",
     "sort": 16,
     "name": "Shopper von MARC JACOBS",
@@ -831,7 +863,8 @@
     ]
   },
   {
-    "group": "bags",
+    "group": "frauen",
+    "subgroup": "bags",
     "urlPath": "myers-collective-shopper",
     "sort": 17,
     "name": "Shopper von MYERS COLLECTIVE",
@@ -850,7 +883,8 @@
     ]
   },
   {
-    "group": "bags",
+    "group": "frauen",
+    "subgroup": "bags",
     "urlPath": "mcm-umhangetasche",
     "sort": 17,
     "name": "Umhängetasche von MCM",
@@ -869,7 +903,8 @@
     ]
   },
   {
-    "group": "bags",
+    "group": "frauen",
+    "subgroup": "bags",
     "urlPath": "ralph-lauren-beuteltasche-dryden-medium",
     "sort": 18,
     "name": "Beuteltasche \"Dryden Debby Drawstring Medium\" von LAUREN RALPH LAUREN",
@@ -888,7 +923,8 @@
     ]
   },
   {
-    "group": "bags",
+    "group": "frauen",
+    "subgroup": "bags",
     "urlPath": "marc-jacobs-umhangetasche",
     "sort": 19,
     "name": "Umhängetasche pink von MARC JACOBS",
@@ -913,7 +949,8 @@
     ]
   },
   {
-    "group": "bags",
+    "group": "frauen",
+    "subgroup": "bags",
     "urlPath": "ralph-lauren-beuteltasche-dryden-mini",
     "sort": 20,
     "name": "Beuteltasche \"Dryden Debby II Mini Drawstring\" von LAUREN RALPH LAUREN",
@@ -932,7 +969,8 @@
     ]
   },
   {
-    "group": "bags",
+    "group": "frauen",
+    "subgroup": "bags",
     "urlPath": "love-moschino-schultertasche",
     "sort": 21,
     "name": "Schultertasche von LOVE MOSCHINO",
@@ -951,7 +989,8 @@
     ]
   },
   {
-    "group": "bags",
+    "group": "frauen",
+    "subgroup": "bags",
     "urlPath": "furla-schultertasche-metropolis",
     "sort": 22,
     "name": "Schultertasche \"Metropolis\" von FURLA",
@@ -976,7 +1015,8 @@
     ]
   },
   {
-    "group": "bags",
+    "group": "frauen",
+    "subgroup": "bags",
     "urlPath": "furla-abendtasche",
     "sort": 23,
     "name": "Abendtasche von FURLA",
@@ -995,7 +1035,8 @@
     ]
   },
   {
-    "group": "bags",
+    "group": "frauen",
+    "subgroup": "bags",
     "urlPath": "furla-handtasche",
     "sort": 24,
     "name": "Handtasche von FURLA",
@@ -1014,7 +1055,8 @@
     ]
   },
   {
-    "group": "bags",
+    "group": "frauen",
+    "subgroup": "bags",
     "urlPath": "gianni-chiarini-handtasche",
     "sort": 25,
     "name": "Handtasche von GIANNI CHIARINI",

@@ -10,7 +10,7 @@ exports.createPages = ({ graphql, actions }) => {
     resolve(
       graphql(`
         {
-          allArticlesJson(filter: { group: { ne: "bags" } }) {
+          allArticlesJson(filter: { group: { eq: "herren" } }) {
             edges {
               node {
                 urlPath
@@ -28,17 +28,17 @@ exports.createPages = ({ graphql, actions }) => {
           reject(errors)
         }
 
-        // Create article pages pages.
+        // Create men pages pages.
         const items = data.allArticlesJson.edges
         const ArticleTemplate = path.resolve(`src/templates/Article/index.js`)
         console.log('Creating pages for articles...')
         each(items, ({ node }) => {
           each(node.variations, variation => {
             createPage({
-              path: '/neue-art-des-feierns/' + node.urlPath + '/' + variation.article,
+              path: '/men/' + node.urlPath + '/' + variation.article,
               component: ArticleTemplate,
               context: {
-                pathRoot: '/neue-art-des-feierns/',
+                pathRoot: '/men/',
                 articleNumber: variation.article,
               },
             })
@@ -50,7 +50,47 @@ exports.createPages = ({ graphql, actions }) => {
     resolve(
       graphql(`
         {
-          allArticlesJson(filter: { group: { eq: "bags" } }) {
+          allArticlesJson(filter: { group: { eq: "frauen" } }) {
+            edges {
+              node {
+                urlPath
+                variations {
+                  name
+                  article
+                }
+              }
+            }
+          }
+        }
+      `).then(({ errors, data }) => {
+        if (errors) {
+          console.log(errors)
+          reject(errors)
+        }
+
+        // Create women pages pages.
+        const items = data.allArticlesJson.edges
+        const ArticleTemplate = path.resolve(`src/templates/Article/index.js`)
+        console.log('Creating pages for women...')
+        each(items, ({ node }) => {
+          each(node.variations, variation => {
+            createPage({
+              path: '/' + node.urlPath + '/' + variation.article,
+              component: ArticleTemplate,
+              context: {
+                pathRoot: '/',
+                articleNumber: variation.article,
+              },
+            })
+          })
+        })
+      })
+    )
+
+    resolve(
+      graphql(`
+        {
+          allArticlesJson(filter: { group: { eq: "haushalt" } }) {
             edges {
               node {
                 urlPath
@@ -71,14 +111,14 @@ exports.createPages = ({ graphql, actions }) => {
         // Create bags pages pages.
         const items = data.allArticlesJson.edges
         const ArticleTemplate = path.resolve(`src/templates/Article/index.js`)
-        console.log('Creating pages for bags...')
+        console.log('Creating pages for home...')
         each(items, ({ node }) => {
           each(node.variations, variation => {
             createPage({
-              path: '/leih-ich-mir/' + node.urlPath + '/' + variation.article,
+              path: '/home/' + node.urlPath + '/' + variation.article,
               component: ArticleTemplate,
               context: {
-                pathRoot: '/leih-ich-mir/',
+                pathRoot: '/home/',
                 articleNumber: variation.article,
               },
             })
