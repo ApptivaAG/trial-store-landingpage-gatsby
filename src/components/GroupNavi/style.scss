@@ -8,7 +8,7 @@
       content: '';
       position: absolute;
       left: 0;
-      top: 10.9em;
+      top: 10.6em;
       right: 0;
       bottom: 0;
       border-top: 1px solid $secondary;
@@ -17,27 +17,31 @@
   }
 
   .group-navi-bar {
-    @media (min-width: 720px) {
-      display: flex;
-    }
+    display: flex;
+    align-items: center;
 
     .group-navi-bar-item {
-      display: block;
+      display: flex;
+      align-items: flex-end;
+      justify-content: center;
       position: relative;
       flex: 1 1 0%;
-      font-size: 1.4em;
-      padding-top: 1em;
-      padding-bottom: 1em;
+      font-size: 0.8em;
+      height: 5rem;
+      padding-bottom: 4px;
       text-align: center;
       color: white;
       background-size: cover;
-      background-position: center;
-      margin-top: 0.4em;
-      margin-bottom: 0.4em;
+      background-position: 80% center;
       margin-left: 1px;
       margin-right: 1px;
       transition: transform 0.2s ease-in;
       outline: 1px solid white;
+
+      @media (min-width: 720px) {
+        font-size: 1.4em;
+        align-items: center;
+      }
 
       &:before {
         content: '';
@@ -51,15 +55,15 @@
 
       &.active {
         margin: 0 1px;
-        padding-top: 1.4em;
-        padding-bottom: 1.4em;
-
+        @media (min-width: 720px) {
+          height: 5.5rem;
+        }
+        @media (max-width: 719px) {
+          border-bottom: 4px solid $secondary;
+          padding-bottom: 0;
+        }
         &:before {
           display: none;
-        }
-
-        @media (max-width: 719px) {
-          margin: 0 -1em;
         }
       }
 
@@ -89,6 +93,11 @@
     margin-top: 0.4em;
     padding-bottom: 0.4em;
     border-bottom: 1px solid $secondary;
+
+    @media (max-width: 719px) {
+      text-align: center;
+    }
+
     a {
       color: $secondary;
       margin-right: 1em;

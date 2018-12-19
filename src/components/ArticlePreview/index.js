@@ -6,7 +6,7 @@ import './style.scss'
 const ArticlePreview = ({ root, article }) => {
   if (article.node.image == null) console.log('article', article.node.urlPath)
   return (
-    <div className="col-lg-4">
+    <div className="col-6 col-lg-4">
       <Link to={root + article.node.urlPath + '/' + article.node.mainVariation}>
         <Img className="article-img" fluid={article.node.image.childImageSharp.fluid} alt={article.node.name} />
       </Link>
