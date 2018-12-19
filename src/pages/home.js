@@ -38,7 +38,9 @@ const Home = ({ data, location }) => {
       </Header>
       <ExtendedArticleHeader />
       <GroupNavi>
-        <a href="#haushalt">Haushalt</a>
+        <div style={{ textAlign: 'right' }}>
+          <a href="#haushalt">Haushalt</a>
+        </div>
       </GroupNavi>
       <ExtendedArticleSection heading="Haushalt" group="haushalt">
         {home.map((article, i) => (

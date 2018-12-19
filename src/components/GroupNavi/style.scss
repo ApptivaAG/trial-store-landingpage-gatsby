@@ -100,10 +100,12 @@
     }
 
     @media (max-width: 719px) {
-      display: flex;
-      justify-content: space-evenly;
-      a {
-        margin-right: 0;
+      div {
+        display: flex;
+        justify-content: space-evenly;
+        a {
+          margin-right: 0;
+        }
       }
     }
   }

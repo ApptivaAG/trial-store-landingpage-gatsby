@@ -41,8 +41,10 @@ const Men = ({ data, location }) => {
       </Header>
       <ExtendedArticleHeader />
       <GroupNavi>
-        <a href="#mode">Mode</a>
-        <a href="#accessoires">Accessoires</a>
+        <div style={{ textAlign: 'center' }}>
+          <a href="#mode">Mode</a>
+          <a href="#accessoires">Accessoires</a>
+        </div>
       </GroupNavi>
       <ExtendedArticleSection heading="Mode" group="mode">
         {mode.map((article, i) => (

@@ -47,9 +47,11 @@ const Index = ({ data, location }) => {
       <ExtendedArticleHeader />
 
       <GroupNavi>
-        <a href="#bags">Taschen</a>
-        <a href="#mode">Mode</a>
-        <a href="#accessoires">Accessoires</a>
+        <div>
+          <a href="#bags">Taschen</a>
+          <a href="#mode">Mode</a>
+          <a href="#accessoires">Accessoires</a>
+        </div>
       </GroupNavi>
       <ExtendedArticleSection heading="Taschen" group="bags">
         {bags.map((article, i) => (
