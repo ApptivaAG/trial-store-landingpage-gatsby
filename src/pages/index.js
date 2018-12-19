@@ -52,7 +52,7 @@ const Index = ({ data, location }) => {
           <ArticlePreview root="/" article={article} key={i} />
         ))}
       </ExtendedArticleSection>
-      <ExtendedArticleSection heading="Mode" group="mode">
+      <ExtendedArticleSection heading="Mode" group="mode" backgroundColor="#E9DDD2">
         {mode.map((article, i) => (
           <ArticlePreview root="/" article={article} key={i} />
         ))}
