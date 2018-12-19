@@ -103,8 +103,10 @@ const Newsletter = ({ path }) => (
         </div>
       </div>
     </section>
-    <div className="container" id="newsletter-form">
-      <NewsletterForm path={path} />
+    <div className="newsletter-form-wrapper">
+      <div className="container" id="newsletter-form">
+        <NewsletterForm path={path} />
+      </div>
     </div>
   </>
 )

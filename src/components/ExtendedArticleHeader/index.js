@@ -6,7 +6,7 @@ const snowflake = (leftOrRight = 'left', key) => (
   <img
     style={{
       top: `${Math.random() * 20}vw`,
-      [leftOrRight]: `${Math.random() * 20}vw`,
+      [leftOrRight]: `${2 + Math.random() * 20}vw`,
       height: `${Math.random() * 6}vw`,
       transform: `rotate(${Math.random() * 50}deg)`,
     }}
