@@ -8,10 +8,11 @@
       content: '';
       position: absolute;
       left: 0;
-      top: 0;
+      top: 10.9em;
       right: 0;
-      bottom: 6.2em;
-      border-bottom: 1px solid $secondary;
+      bottom: 0;
+      border-top: 1px solid $secondary;
+      z-index: -1;
     }
   }
 
@@ -81,6 +82,16 @@
 
     #home {
       background-image: url('./for-home.png');
+    }
+  }
+
+  .group-navi-sublinks {
+    margin-top: 0.4em;
+    padding-bottom: 0.4em;
+    border-bottom: 1px solid $secondary;
+    a {
+      color: $secondary;
+      margin-right: 1em;
     }
   }
 }

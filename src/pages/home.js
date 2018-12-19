@@ -37,13 +37,14 @@ const Home = ({ data, location }) => {
         </Link>
       </Header>
       <ExtendedArticleHeader />
-      <GroupNavi />
-      <ExtendedArticleSection heading="Haushalt – Ausleihen mit Stil" group="haushalt">
+      <GroupNavi>
+        <a href="#haushalt">Haushalt</a>
+      </GroupNavi>
+      <ExtendedArticleSection heading="Haushalt" group="haushalt">
         {home.map((article, i) => (
           <ArticlePreview root="home/" article={article} key={i} />
         ))}
       </ExtendedArticleSection>
-
       <HowItWorksExtended />
       <Locations />
       <Lab />
@@ -68,7 +69,7 @@ export const homeQuery = graphql`
         adsense
       }
     }
-    hero: imageSharp(fluid: { originalName: { regex: "/das-leih-ich-mir-dez/" } }) {
+    hero: imageSharp(fluid: { originalName: { regex: "/trialstore-root/" } }) {
       fluid(maxWidth: 2400, quality: 80) {
         ...GatsbyImageSharpFluid_withWebp
       }

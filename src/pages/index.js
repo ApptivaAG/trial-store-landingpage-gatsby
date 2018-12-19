@@ -46,7 +46,11 @@ const Index = ({ data, location }) => {
 
       <ExtendedArticleHeader />
 
-      <GroupNavi />
+      <GroupNavi>
+        <a href="#bags">Taschen</a>
+        <a href="#mode">Mode</a>
+        <a href="#accessoires">Accessoires</a>
+      </GroupNavi>
       <ExtendedArticleSection heading="Taschen" group="bags">
         {bags.map((article, i) => (
           <ArticlePreview root="/" article={article} key={i} />

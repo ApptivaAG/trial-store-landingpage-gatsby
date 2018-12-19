@@ -4,12 +4,12 @@ import React from 'react'
 import './style.scss'
 
 const isActive = currentPath => ({ location }) => {
-  return location.pathname === currentPath
+  return location.pathname === currentPath || location.pathname === currentPath + '/'
     ? { className: 'group-navi-bar-item active' }
     : { className: 'group-navi-bar-item' }
 }
 
-export default () => (
+export default ({ children }) => (
   <section id="group-navi">
     <div className="container">
       <div className="group-navi-bar">
@@ -23,6 +23,7 @@ export default () => (
           Für Zuhause
         </Link>
       </div>
+      <div className="group-navi-sublinks">{children}</div>
     </div>
   </section>
 )

@@ -40,7 +40,10 @@ const Men = ({ data, location }) => {
         </Link>
       </Header>
       <ExtendedArticleHeader />
-      <GroupNavi />
+      <GroupNavi>
+        <a href="#mode">Mode</a>
+        <a href="#accessoires">Accessoires</a>
+      </GroupNavi>
       <ExtendedArticleSection heading="Mode" group="mode">
         {mode.map((article, i) => (
           <ArticlePreview root="men/" article={article} key={i} />
