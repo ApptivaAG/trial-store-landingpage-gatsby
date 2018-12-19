@@ -94,13 +94,17 @@
     padding-bottom: 0.4em;
     border-bottom: 1px solid $secondary;
 
-    @media (max-width: 719px) {
-      text-align: center;
-    }
-
     a {
       color: $secondary;
       margin-right: 1em;
+    }
+
+    @media (max-width: 719px) {
+      display: flex;
+      justify-content: space-evenly;
+      a {
+        margin-right: 0;
+      }
     }
   }
 }
