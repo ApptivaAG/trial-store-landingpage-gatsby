@@ -19,6 +19,7 @@ import ExtendedArticleSection from 'components/ExtendesArticleSection'
 import ArticlePreview from 'components/ArticlePreview'
 import ExtendedArticleHeader from 'components/ExtendedArticleHeader'
 import HowItWorksExtended from 'components/HowItWorksExtended'
+import Team from 'components/Team'
 
 const Index = ({ data, location }) => {
   const women = get(data, 'articles.edges')
@@ -69,6 +70,7 @@ const Index = ({ data, location }) => {
         ))}
       </ExtendedArticleSection>
       <HowItWorksExtended />
+      <Team />
       <Locations />
       <Lab />
       <FAQ />

@@ -1,0 +1,31 @@
+@import 'scss/colors.scss';
+
+#team {
+  color: $gray-300;
+  background-color: $black;
+  h3,
+  p {
+    color: $gold;
+  }
+
+  .portraits {
+    .col-md-4 {
+      padding-top: 3em;
+      padding-bottom: 3em;
+    }
+    @media (min-width: 992px) {
+      .col-md-4 {
+        padding: 3em;
+      }
+    }
+    .gatsby-image-wrapper {
+      border: 1px solid transparent;
+      border-radius: 50%;
+    }
+
+    p {
+      font-size: 0.8em;
+      color: $gray-500;
+    }
+  }
+}

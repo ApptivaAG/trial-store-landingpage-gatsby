@@ -16,6 +16,7 @@ import GroupNavi from 'components/GroupNavi'
 import ExtendedArticleHeader from 'components/ExtendedArticleHeader'
 import ExtendedArticleSection from 'components/ExtendesArticleSection'
 import HowItWorksExtended from 'components/HowItWorksExtended'
+import Team from 'components/Team'
 
 const Home = ({ data, location }) => {
   const home = get(data, 'articles.edges')
@@ -48,6 +49,7 @@ const Home = ({ data, location }) => {
         ))}
       </ExtendedArticleSection>
       <HowItWorksExtended />
+      <Team />
       <Locations />
       <Lab />
       <FAQ />
