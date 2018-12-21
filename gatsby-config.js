@@ -24,31 +24,6 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: 'Trial Store by Globus',
-        short_name: 'Trial Store',
-        description: 'Trial Store by Globus',
-        homepage_url: 'https://trialstore.ch',
-        start_url: '/',
-        background_color: '#000',
-        theme_color: '#9f8f68',
-        display: 'standalone',
-        icons: [
-          {
-            src: '/img/favicons/android-chrome-192x192.png',
-            sizes: '192x192',
-            type: 'image/png',
-          },
-          {
-            src: '/img/favicons/android-chrome-512x512.png',
-            sizes: '512x512',
-            type: 'image/png',
-          },
-        ],
-      },
-    },
-    {
       resolve: 'gatsby-plugin-google-analytics',
       options: {
         trackingId: 'UA-124581203-1',
