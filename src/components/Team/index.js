@@ -10,8 +10,8 @@ const Team = ({ data }) => (
       <h2 className="section-heading text-uppercase">Trial Store Team</h2>
       <blockquote>Jeden Tag für den Trial Store engagiert</blockquote>
       <p className="section-heading">
-        Wir suchen für euch die neusten Teile, versenden die Artikel, updaten die Webseite und vieles mehr. Bei Fragen
-        stehen wir jederzeit zur Verfügung.
+        Wir suchen für dich die angesagtesten Produkte, versenden deine Artikel, updaten die Website und vieles mehr.
+        Bei Fragen stehen wir jederzeit zur Verfügung.
       </p>
       <p>Dein Trial Store Team.</p>
 
@@ -61,7 +61,7 @@ const Team = ({ data }) => (
           <Img fluid={data.roman.fluid} />
           <h3>Roman</h3>
           <p>
-            "Ich glaube an die Idee des Trial Stores, weil ich damit neue Dinge auszuprobieren kann, ohne meine
+            "Ich glaube an die Idee des Trial Stores, weil ich damit neue Dinge ausprobieren kann, ohne meine
             Flexibilität einzubüssen."
             <br />
             Entwicklungsgenie
