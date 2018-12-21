@@ -171,76 +171,195 @@
   {
     "group": "frauen",
     "subgroup": "mode",
-    "urlPath": "kleid-maje",
+    "urlPath": "tommy-hilfiger-wintermantel",
     "sort": 1,
-    "name": "Kleid von MAJE",
-    "image": "./img/Frauen/01_Maje-Kleid/1530089062000-1.jpeg",
-    "priceFull": 259,
-    "price25": 64.75,
-    "mainVariation": 1258298606,
+    "name": "Wintermantel von TOMMY HILFIGER",
+    "image": "./img/Frauen/Mode/01_TommyHilfiger-Jacke/1542034404000.jpeg",
+    "priceFull": 449.9,
+    "price25": 109.9,
+    "mainVariation": 1262289507,
     "variationName": "Grösse",
     "variations": [
-      { "name": "T1 / 36", "article": 1258298601 },
-      { "name": "T2 / 38", "article": 1258298606 },
-      { "name": "T3 / 40", "article": 1258298605 },
-      { "name": "T4 / 42", "article": 1258298607 }
+      { "name": "XS", "article": 1262289506 },
+      { "name": "S", "article": 1262289507 },
+      { "name": "M", "article": 1262289508 },
+      { "name": "L", "article": 1262289509 },
+      { "name": "XL", "article": 1262289510 }
     ]
   },
   {
     "group": "frauen",
     "subgroup": "mode",
-    "urlPath": "strickkleid",
+    "urlPath": "boss-maxi-mantel",
     "sort": 2,
-    "name": "Strickkleid von MAX & CO.",
-    "image": "./img/Frauen/02_MaxCo-Kleid/1528100092000.jpeg",
-    "priceFull": 239.9,
-    "price25": 59.9,
-    "mainVariation": 1258034203,
+    "name": "Maxi Mantel von BOSS",
+    "image": "./img/Frauen/Mode/02_Boss-Mantel/1540890680000.jpeg",
+    "priceFull": 849,
+    "price25": 212,
+    "mainVariation": 1263675201,
     "variationName": "Grösse",
     "variations": [
-      { "name": "M", "article": 1258034203 },
-      { "name": "L", "article": 1258034204 },
-      { "name": "XL", "article": 1258034205 }
+      { "name": "32", "article": 1263675202 },
+      { "name": "34", "article": 1263675203 },
+      { "name": "36", "article": 1263675201 },
+      { "name": "38", "article": 1263675204 }
     ]
   },
   {
     "group": "frauen",
-    "subgroup": "accessoires",
-    "urlPath": "armbanduhr-michael-kors",
+    "subgroup": "mode",
+    "urlPath": "marc-cain-collections-cashmere-pullover",
     "sort": 3,
-    "name": "Armbanduhr mit Edelstahlband roségold von MICHAEL KORS",
-    "image": "./img/Frauen/03_MichaelKors-Uhr/1539182063000.jpeg",
-    "priceFull": 299,
-    "price25": 74.9,
-    "mainVariation": 1266202500,
-    "variationName": "Farbe",
-    "variations": [{ "name": "roségold", "article": 1266202500, "color": "#f0d5bd" }]
+    "name": "Cashmere Pullover von MARC CAIN COLLECTIONS",
+    "image": "./img/Frauen/Mode/03_MARCCAin-Pullover/1538470125000.jpeg",
+    "priceFull": 369.90,
+    "price25": 89.9,
+    "mainVariation": 1263268806,
+    "variationName": "Grösse",
+    "variations": [{ "name": "34", "article": 1263268805 }, { "name": "36", "article": 1263268806 }, { "name": "40", "article": 1263268808 }, { "name": "42", "article": 1263268809 }]
   },
   {
     "group": "frauen",
     "subgroup": "mode",
-    "urlPath": "luisa-cerano-mantel",
+    "urlPath": "apiece-apart-longstrickjacke",
     "sort": 4,
-    "name": "Übergangsmantel von LUISA CERANO",
-    "image": "./img/Frauen/04_LuisaCerano-Mantel/1529310090000.jpeg",
-    "priceFull": 779.9,
-    "price25": 194.9,
-    "mainVariation": 1258011702,
+    "name": "Longstrickjacke von APIECE APART",
+    "image": "./img/Frauen/Mode/04_APICEART_Strickjacke/1537294971000.jpeg",
+    "priceFull": 549.9,
+    "price25": 136.9,
+    "mainVariation": 1263221107,
     "variationName": "Grösse",
-    "variations": [{ "name": "36", "article": 1258011702 }, { "name": "40", "article": 1258011704 }]
+    "variations": [
+      { "name": "XS", "article": 1263221104 },
+      { "name": "L", "article": 1263221107 }
+    ]
   },
   {
     "group": "frauen",
     "subgroup": "mode",
-    "urlPath": "claudie-pierlot-mantel",
+    "urlPath": "msgm-jeansbluse",
     "sort": 5,
-    "name": "Übergangsmantel von CLAUDIE PIERLOT",
-    "image": "./img/Frauen/05_ClaudiePierlot-Mantel/1534952668000.jpeg",
-    "priceFull": 425.4,
-    "price25": 104.9,
-    "mainVariation": 1260780901,
+    "name": "Jeansbluse von MSGM",
+    "image": "./img/Frauen/Mode/05_MSGM_Jeanshemd/1533650585000.jpeg",
+    "priceFull": 469.9,
+    "price25": 116.9,
+    "mainVariation": 1259245404,
     "variationName": "Grösse",
-    "variations": [{ "name": "38", "article": 1260780901 }, { "name": "40", "article": 1260780902 }]
+    "variations": [{ "name": "36", "article": 1259245403 }, { "name": "38", "article": 1259245404 }]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "msgm-strickpullover",
+    "sort": 6,
+    "name": "Strickpullover von MSGM",
+    "image": "./img/Frauen/Mode/06_MSGM-Strickpullover/1539589812000.jpeg",
+    "priceFull": 529.9,
+    "price25": 132,
+    "mainVariation": 1262270501,
+    "variationName": "Grösse",
+    "variations": [{ "name": "S", "article": 1259245403 }]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "maje-lederjacke",
+    "sort": 7,
+    "name": "Lederjacke schwarz von MAJE",
+    "image": "./img/Frauen/Mode/07_Maje-Lederjacke/1539249292000.jpeg",
+    "priceFull": 1849,
+    "price25": 459,
+    "mainVariation": 1265243602,
+    "variationName": "Grösse",
+    "variations": [{ "name": "T36", "article": 1265243601 },{ "name": "T38", "article": 1265243602 },{ "name": "T40", "article": 1265243603 }]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "smarteez-wintermantel",
+    "sort": 8,
+    "name": "Wintermantel von SMARTEEZ",
+    "image": "./img/Frauen/Mode/08_Smarteez-Wintermantel/1544094488000.jpeg",
+    "priceFull": 729.9,
+    "price25": 179.9,
+    "mainVariation": 1265243602,
+    "variationName": "Grösse",
+    "variations": [
+      { "name": "34", "article": 1263064001 },
+      { "name": "36", "article": 1263064002 },
+      { "name": "38", "article": 1263064003 },
+      { "name": "40", "article": 1263064004 }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "canada-goose-mantel",
+    "sort": 9,
+    "name": "Daunenmantel von CANADA GOOSE",
+    "image": "./img/Frauen/Mode/09_CanadaGoose-Mantel/1519735709000.jpeg",
+    "priceFull": 1099,
+    "price25": 274.75,
+    "mainVariation": 1239981717,
+    "variationName": "Grösse",
+    "variations": [
+      { "name": "S", "article": 1239981717 },
+      { "name": "L", "article": 1239981719 },
+      { "name": "LX", "article": 1239981720 }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "msgm-wollmantel",
+    "sort": 10,
+    "name": "Wollmantel von MSGM",
+    "image": "./img/Frauen/Mode/10_MSGM-Mantel/1539164898000.jpeg",
+    "priceFull": 829.9,
+    "price25": 199.9,
+    "mainVariation": 1262272304,
+    "variationName": "Grösse",
+    "variations": [
+      { "name": "36", "article": 1262272303 },
+      { "name": "38", "article": 1262272304 }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "max-co-daunenmantel",
+    "sort": 11,
+    "name": "Daunenmantel schwarz von MAX & CO.",
+    "image": "./img/Frauen/Mode/11_MAXCO-Daunenmantel/1537527437000.jpeg",
+    "priceFull": 359.9,
+    "price25": 89.9,
+    "mainVariation": 1263083608,
+    "variationName": "Grösse",
+    "variations": [
+      { "name": "34", "article": 1263083607 },
+      { "name": "36", "article": 1263083608 },
+      { "name": "38", "article": 1263083609 },
+      { "name": "40", "article": 1263083610 },
+      { "name": "42", "article": 1263083611 },
+      { "name": "44", "article": 1263083612 }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "zadig-voltaire-abendkleid",
+    "sort": 12,
+    "name": "Abendkleid von ZADIG & VOLTAIRE",
+    "image": "./img/Frauen/Mode/12_ZADIGVOLTAIRE-Kleid/1544003508000.jpeg",
+    "priceFull": 570,
+    "price25": 139.9,
+    "mainVariation": 1264193903,
+    "variationName": "Grösse",
+    "variations": [
+      { "name": "XS", "article": 1264193902 },
+      { "name": "M", "article": 1264193903 },
+      { "name": "L", "article": 1264193904 }
+    ]
   },
   {
     "group": "frauen",
@@ -254,23 +373,6 @@
     "mainVariation": 1256241700,
     "variationName": "Farbe",
     "variations": [{ "name": "goldgelb", "article": 1256241700, "color": "#e89e00" }]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "mode",
-    "urlPath": "canada-goose-mantel",
-    "sort": 7,
-    "name": "Daunenmantel von CANADA GOOSE",
-    "image": "./img/Frauen/07_CanadaGoose-Mantel/1519735709000.jpeg",
-    "priceFull": 1099,
-    "price25": 274.75,
-    "mainVariation": 1239981717,
-    "variationName": "Grösse",
-    "variations": [
-      { "name": "S", "article": 1239981717 },
-      { "name": "L", "article": 1239981719 },
-      { "name": "LX", "article": 1239981720 }
-    ]
   },
   {
     "group": "frauen",
@@ -297,6 +399,19 @@
     "mainVariation": 1262062104,
     "variationName": "Farbe",
     "variations": [{ "name": "grau", "article": 1262062104, "color": "#8f8f8f" }]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "accessoires",
+    "urlPath": "armbanduhr-michael-kors",
+    "sort": 3,
+    "name": "Armbanduhr mit Edelstahlband roségold von MICHAEL KORS",
+    "image": "./img/Frauen/03_MichaelKors-Uhr/1539182063000.jpeg",
+    "priceFull": 299,
+    "price25": 74.9,
+    "mainVariation": 1266202500,
+    "variationName": "Farbe",
+    "variations": [{ "name": "roségold", "article": 1266202500, "color": "#f0d5bd" }]
   },
   {
     "group": "haushalt",
