@@ -1,6 +1,8 @@
 @import 'scss/colors.scss';
 
 #group-navi {
+  padding-bottom: 0;
+
   @media (min-width: 720px) {
     position: relative;
 
