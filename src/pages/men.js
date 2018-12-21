@@ -82,7 +82,7 @@ export const menQuery = graphql`
         adsense
       }
     }
-    hero: imageSharp(fluid: { originalName: { regex: "/das-leih-ich-mir-dez/" } }) {
+    hero: imageSharp(fluid: { originalName: { regex: "/trialstore-root/" } }) {
       fluid(maxWidth: 2400, quality: 80) {
         ...GatsbyImageSharpFluid_withWebp
       }
