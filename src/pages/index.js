@@ -31,7 +31,7 @@ const Index = ({ data, location }) => {
     <Layout root="/">
       <Meta site={get(data, 'site.meta')} />
       <Header image={data.hero.fluid}>
-        <Link className="js-scroll-trigger header-button" to="/#locations">
+        <a className="js-scroll-trigger header-button" to="/#locations">
           <div className="round-button">
             <div>
               Nur Online <br />
@@ -42,7 +42,7 @@ const Index = ({ data, location }) => {
               </u>
             </div>
           </div>
-        </Link>
+        </a>
       </Header>
 
       <ExtendedArticleHeader />

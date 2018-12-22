@@ -17,7 +17,7 @@ class Navi extends React.Component {
           </div>
           {detail ? (
             <>
-              <Link className="nav-locations text-uppercase" to={root + '#articles'}>
+              <Link className="nav-locations text-uppercase" to={root + '#group-navi'}>
                 Produkte
               </Link>
               <Link className="nav-locations text-uppercase" to={root + '#howitworks'}>
@@ -26,7 +26,7 @@ class Navi extends React.Component {
             </>
           ) : (
             <>
-              <a className="nav-locations text-uppercase" href="#articles">
+              <a className="nav-locations text-uppercase" href="#group-navi">
                 Produkte
               </a>
               <a className="nav-locations text-uppercase" href="#howitworks">

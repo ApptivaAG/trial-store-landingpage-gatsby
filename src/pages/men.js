@@ -27,7 +27,7 @@ const Men = ({ data, location }) => {
     <Layout root="/men/">
       <Meta site={get(data, 'site.meta')} />
       <Header image={data.hero.fluid}>
-        <Link className="js-scroll-trigger header-button" to="/men/#locations">
+        <a className="js-scroll-trigger header-button" to="/men/#locations">
           <div className="round-button">
             <div>
               Nur Online <br />
@@ -38,7 +38,7 @@ const Men = ({ data, location }) => {
               </u>
             </div>
           </div>
-        </Link>
+        </a>
       </Header>
       <ExtendedArticleHeader />
       <GroupNavi>
