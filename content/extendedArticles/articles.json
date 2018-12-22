@@ -212,11 +212,16 @@
     "sort": 3,
     "name": "Cashmere Pullover von MARC CAIN COLLECTIONS",
     "image": "./img/Frauen/Mode/03_MARCCAin-Pullover/1538470125000.jpeg",
-    "priceFull": 369.90,
+    "priceFull": 369.9,
     "price25": 89.9,
     "mainVariation": 1263268806,
     "variationName": "Grösse",
-    "variations": [{ "name": "34", "article": 1263268805 }, { "name": "36", "article": 1263268806 }, { "name": "40", "article": 1263268808 }, { "name": "42", "article": 1263268809 }]
+    "variations": [
+      { "name": "34", "article": 1263268805 },
+      { "name": "36", "article": 1263268806 },
+      { "name": "40", "article": 1263268808 },
+      { "name": "42", "article": 1263268809 }
+    ]
   },
   {
     "group": "frauen",
@@ -229,10 +234,7 @@
     "price25": 136.9,
     "mainVariation": 1263221107,
     "variationName": "Grösse",
-    "variations": [
-      { "name": "XS", "article": 1263221104 },
-      { "name": "L", "article": 1263221107 }
-    ]
+    "variations": [{ "name": "XS", "article": 1263221104 }, { "name": "L", "article": 1263221107 }]
   },
   {
     "group": "frauen",
@@ -258,7 +260,7 @@
     "price25": 132,
     "mainVariation": 1262270501,
     "variationName": "Grösse",
-    "variations": [{ "name": "S", "article": 1259245403 }]
+    "variations": [{ "name": "S", "article": 1262270501 }]
   },
   {
     "group": "frauen",
@@ -271,7 +273,11 @@
     "price25": 459,
     "mainVariation": 1265243602,
     "variationName": "Grösse",
-    "variations": [{ "name": "T36", "article": 1265243601 },{ "name": "T38", "article": 1265243602 },{ "name": "T40", "article": 1265243603 }]
+    "variations": [
+      { "name": "T36", "article": 1265243601 },
+      { "name": "T38", "article": 1265243602 },
+      { "name": "T40", "article": 1265243603 }
+    ]
   },
   {
     "group": "frauen",
@@ -282,7 +288,7 @@
     "image": "./img/Frauen/Mode/08_Smarteez-Wintermantel/1544094488000.jpeg",
     "priceFull": 729.9,
     "price25": 179.9,
-    "mainVariation": 1265243602,
+    "mainVariation": 1263064003,
     "variationName": "Grösse",
     "variations": [
       { "name": "34", "article": 1263064001 },
@@ -319,10 +325,7 @@
     "price25": 199.9,
     "mainVariation": 1262272304,
     "variationName": "Grösse",
-    "variations": [
-      { "name": "36", "article": 1262272303 },
-      { "name": "38", "article": 1262272304 }
-    ]
+    "variations": [{ "name": "36", "article": 1262272303 }, { "name": "38", "article": 1262272304 }]
   },
   {
     "group": "frauen",
