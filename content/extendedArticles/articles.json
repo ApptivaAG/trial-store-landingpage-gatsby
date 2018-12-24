@@ -2,57 +2,224 @@
   {
     "group": "herren",
     "subgroup": "mode",
-    "urlPath": "strellson-sakko",
+    "urlPath": "altea-strickjacke",
     "sort": 1,
-    "name": "Baukasten Veston Slim Fit \"Gandy\" von STRELLSON",
-    "image": "./img/Herren/01_Strellson-Sakko/1519707287000.jpeg",
-    "priceFull": 449,
-    "price25": 112.25,
-    "mainVariation": 1097896130,
+    "name": "Strickjacke von ALTEA",
+    "image": "./img/Herren/Mode/01_ALTEA-Strickjacke/1539775374000.jpeg",
+    "priceFull": 349.9,
+    "price25": 84.9,
+    "mainVariation": 1184915018,
     "variationName": "Grösse",
     "variations": [
-      { "name": "24", "article": 1097896122 },
-      { "name": "25", "article": 1097896123 },
-      { "name": "26", "article": 1097896124 },
-      { "name": "27", "article": 1097896125 },
-      { "name": "28", "article": 1097896126 },
-      { "name": "29", "article": 1097896127 },
-      { "name": "44", "article": 1097896128 },
-      { "name": "46", "article": 1097896129 },
-      { "name": "48", "article": 1097896130 },
-      { "name": "50", "article": 1097896131 },
-      { "name": "52", "article": 1097896132 },
-      { "name": "54", "article": 1097896133 },
-      { "name": "56", "article": 1097896134 },
-      { "name": "58", "article": 1097896135 },
-      { "name": "60", "article": 1097896136 },
-      { "name": "90", "article": 1097896137 },
-      { "name": "94", "article": 1097896138 },
-      { "name": "98", "article": 1097896139 },
-      { "name": "102", "article": 1097896140 },
-      { "name": "106", "article": 1097896141 },
-      { "name": "110", "article": 1097896142 }
+      { "name": "S", "article": 1257659204 },
+      { "name": "M", "article": 1257659205 },
+      { "name": "L", "article": 1257659206 }
     ]
   },
   {
     "group": "herren",
     "subgroup": "mode",
-    "urlPath": "strellson-mantel",
+    "urlPath": "napapijri-strickpullover",
     "sort": 2,
-    "name": "Übergangsmantel von STRELLSON",
-    "image": "./img/Herren/02_Strellson-Mantel/1519697691000.jpeg",
-    "priceFull": 399.0,
-    "price25": 99,
-    "mainVariation": 1184039702,
+    "name": "Strickpullover von NAPAPIJRI",
+    "image": "./img/Herren/Mode/02_Napapijri-Jacke/1538046664000.jpeg",
+    "priceFull": 219.9,
+    "price25": 54.9,
+    "mainVariation": 1255634107,
     "variationName": "Grösse",
     "variations": [
-      { "name": "46", "article": 1184039701 },
-      { "name": "48", "article": 1184039702 },
-      { "name": "50", "article": 1184039703 },
-      { "name": "52", "article": 1184039704 },
-      { "name": "54", "article": 1184039705 }
+      { "name": "S", "article": 1255634106 },
+      { "name": "M", "article": 1255634107 },
+      { "name": "XL", "article": 1255634109 }
     ]
   },
+  {
+    "group": "herren",
+    "subgroup": "mode",
+    "urlPath": "peak-performance-daunenjacke",
+    "sort": 3,
+    "name": "Daunenjacke von PEAK PERFOMANCE",
+    "image": "./img/Herren/Mode/03_PeakPerformance-Jacke/1538043238000.jpeg",
+    "priceFull": 459.9,
+    "price25": 114.9,
+    "mainVariation": 1254629910,
+    "variationName": "Grösse",
+    "variations": [
+      { "name": "S", "article": 1254629909 },
+      { "name": "M", "article": 1254629910 },
+      { "name": "L", "article": 1254629911 },
+      { "name": "XL", "article": 1254629912 }
+    ]
+  },
+  {
+    "group": "herren",
+    "subgroup": "mode",
+    "urlPath": "napapijri-uebergangsjacke",
+    "sort": 4,
+    "name": "Übergangsjacke von NAPAPIJRI",
+    "image": "./img/Herren/Mode/04_Napapijri-Jacke/1538650517000.jpeg",
+    "priceFull": 299.9,
+    "price25": 74.9,
+    "mainVariation": 1255632104,
+    "variationName": "Grösse",
+    "variations": [
+      { "name": "S", "article": 1255632103 },
+      { "name": "M", "article": 1255632104 },
+      { "name": "L", "article": 1255632105 }
+    ]
+  },
+  {
+    "group": "herren",
+    "subgroup": "mode",
+    "urlPath": "polo-ralph-lauren-strickpullover",
+    "sort": 5,
+    "name": "Strickpullover von POLO RALPH LAUREN",
+    "image": "./img/Herren/Mode/05_RalphLauren-Pullover/1538388179000.jpeg",
+    "priceFull": 429.9,
+    "price25": 109.9,
+    "mainVariation": 1257111807,
+    "variationName": "Grösse",
+    "variations": [
+      { "name": "S", "article": 1257111806 },
+      { "name": "M", "article": 1257111807 },
+      { "name": "L", "article": 1257111808 },
+      { "name": "XL", "article": 1257111809 },
+      { "name": "XXL", "article": 1257111810 }
+    ]
+  },
+  {
+    "group": "herren",
+    "subgroup": "mode",
+    "urlPath": "diesel-blouson",
+    "sort": 6,
+    "name": "Blouson von DIESEL",
+    "image": "./img/Herren/Mode/06_Diesel_Blouson/1542710163000.jpeg",
+    "priceFull": 279.9,
+    "price25": 69.9,
+    "mainVariation": 1260942506,
+    "variationName": "Grösse",
+    "variations": [
+      { "name": "S", "article": 1260942505 },
+      { "name": "M", "article": 1260942506 },
+      { "name": "L", "article": 1260942507 }
+    ]
+  },
+  {
+    "group": "herren",
+    "subgroup": "mode",
+    "urlPath": "closed-parka",
+    "sort": 7,
+    "name": "Parka von CLOSED",
+    "image": "./img/Herren/Mode/07_Closes-Parka/1536597777000.jpeg",
+    "priceFull": 639.9,
+    "price25": 159.9,
+    "mainVariation": 1256599606,
+    "variationName": "Grösse",
+    "variations": [
+      { "name": "S", "article": 1256599605 },
+      { "name": "M", "article": 1256599606 },
+      { "name": "L", "article": 1256599607 },
+      { "name": "XL", "article": 1256599608 }
+    ]
+  },
+  {
+    "group": "herren",
+    "subgroup": "mode",
+    "urlPath": "polo-ralph-lauren-hemd-slim-fit",
+    "sort": 8,
+    "name": "Hemd Slim Fit von POLO RALPH LAUREN",
+    "image": "./img/Herren/Mode/08_RalphLauren-Hemd/1519669973000.jpeg",
+    "priceFull": 149,
+    "price25": 36.9,
+    "mainVariation": 1048350032,
+    "variationName": "Grösse",
+    "variations": [
+      { "name": "S", "article": 1048350031 },
+      { "name": "M", "article": 1048350032 },
+      { "name": "L", "article": 1048350033 },
+      { "name": "XL", "article": 1048350034 },
+      { "name": "XXL", "article": 1048350035 }
+    ]
+  },
+  {
+    "group": "herren",
+    "subgroup": "mode",
+    "urlPath": "tommy-jeans-winterjacke",
+    "sort": 9,
+    "name": "Winterjacke von TOMMY JEANS",
+    "image": "./img/Herren/Mode/09_TommyHilfiger-Jacke/1536674476000.jpeg",
+    "priceFull": 359.9,
+    "price25": 89.9,
+    "mainVariation": 1255662511,
+    "variationName": "Grösse",
+    "variations": [
+      { "name": "S", "article": 1255662510 },
+      { "name": "M", "article": 1255662511 },
+      { "name": "L", "article": 1255662512 },
+      { "name": "XL", "article": 1255662513 },
+      { "name": "XXL", "article": 1255662514 }
+    ]
+  },
+  {
+    "group": "herren",
+    "subgroup": "mode",
+    "urlPath": "scotch-soda-strickpullover",
+    "sort": 10,
+    "name": "Strickpullover von SCOTCH&SODA",
+    "image": "./img/Herren/Mode/10_Scotchsoda-Pullover/1537795212000.jpeg",
+    "priceFull": 199.9,
+    "price25": 49.9,
+    "mainVariation": 1256062907,
+    "variationName": "Grösse",
+    "variations": [
+      { "name": "M", "article": 1256062907 },
+      { "name": "L", "article": 1256062908 },
+      { "name": "XL", "article": 1256062909 }
+    ]
+  },
+  {
+    "group": "herren",
+    "subgroup": "mode",
+    "urlPath": "boss-winterjacke",
+    "sort": 11,
+    "name": "Winterjacke von BOSS",
+    "image": "./img/Herren/Mode/11_Boss-Jacke/1537787486000.jpeg",
+    "priceFull": 499.9,
+    "price25": 124.9,
+    "mainVariation": 1256108807,
+    "variationName": "Grösse",
+    "variations": [
+      { "name": "46", "article": 1256108806 },
+      { "name": "48", "article": 1256108807 },
+      { "name": "50", "article": 1256108808 },
+      { "name": "52", "article": 1256108809 },
+      { "name": "54", "article": 1256108810 },
+      { "name": "56", "article": 1256108811 }
+    ]
+  },
+  {
+    "group": "herren",
+    "subgroup": "mode",
+    "urlPath": "canada-goose-daunenweste",
+    "sort": 12,
+    "name": "Daunenweste schwarz von CANADA GOOSE",
+    "image": "./img/Herren/Mode/12_CanadaGoose-Weste/1536133471000.jpeg",
+    "priceFull": 559.9,
+    "price25": 139.9,
+    "mainVariation": 1262643802,
+    "variationName": "Grösse",
+    "variations": [
+      { "name": "S", "article": 1262643801 },
+      { "name": "M", "article": 1262643802 },
+      { "name": "L", "article": 1262643803 },
+      { "name": "XL", "article": 1262643804 }
+    ]
+  },
+
+
+
+
+
   {
     "group": "herren",
     "subgroup": "accessoires",
@@ -68,44 +235,6 @@
   },
   {
     "group": "herren",
-    "subgroup": "mode",
-    "urlPath": "ralph-lauren-hemd",
-    "sort": 4,
-    "name": "Hemd Slim Fit von POLO RALPH LAUREN",
-    "image": "./img/Herren/04_RalphLauren-Hemd/1519706747000.jpeg",
-    "priceFull": 149.0,
-    "price25": 35.9,
-    "mainVariation": 1048350032,
-    "variationName": "Grösse",
-    "variations": [
-      { "name": "S", "article": 1048350031 },
-      { "name": "M", "article": 1048350032 },
-      { "name": "L", "article": 1048350033 },
-      { "name": "XL", "article": 1048350034 },
-      { "name": "XXL", "article": 1048350035 }
-    ]
-  },
-  {
-    "group": "herren",
-    "subgroup": "mode",
-    "urlPath": "ralph-lauren-strickpullover",
-    "sort": 5,
-    "name": "Strickpullover navy von POLO RALPH LAUREN",
-    "image": "./img/Herren/05_RalphLauren-Strickpullover/1519666825000.jpeg",
-    "priceFull": 179,
-    "price25": 44.9,
-    "mainVariation": 1180137402,
-    "variationName": "Grösse",
-    "variations": [
-      { "name": "S", "article": 1180137401 },
-      { "name": "M", "article": 1180137402 },
-      { "name": "L", "article": 1180137403 },
-      { "name": "XL", "article": 1180137404 },
-      { "name": "XXL", "article": 1180137405 }
-    ]
-  },
-  {
-    "group": "herren",
     "subgroup": "accessoires",
     "urlPath": "businesstasche-mcm",
     "sort": 6,
@@ -116,44 +245,6 @@
     "mainVariation": 1255481604,
     "variationName": "Farbe",
     "variations": [{ "name": "cognac", "article": 1255481604, "color": "#ab5c00" }]
-  },
-  {
-    "group": "herren",
-    "subgroup": "mode",
-    "urlPath": "tomy-hilfiger-sakko",
-    "sort": 7,
-    "name": "Baukasten Veston Slim Fit von TOMMY HILFIGER TAILORED",
-    "image": "./img/Herren/07_TommyHilfiger-Sakko/1522827688000.jpeg",
-    "priceFull": 499,
-    "price25": 124.9,
-    "mainVariation": 1237128312,
-    "variationName": "Grösse",
-    "variations": [
-      { "name": "46", "article": 1237128312 },
-      { "name": "50", "article": 1237128314 },
-      { "name": "52", "article": 1237128315 },
-      { "name": "54", "article": 1237128316 },
-      { "name": "56", "article": 1237128317 }
-    ]
-  },
-  {
-    "group": "herren",
-    "subgroup": "mode",
-    "urlPath": "bugatti-jacke",
-    "sort": 8,
-    "name": "Winterjacke von BUGATTI",
-    "image": "./img/Herren/08_Bugatti-Jacke/1506090500000.jpeg",
-    "priceFull": 499.9,
-    "price25": 124.9,
-    "mainVariation": 1184915018,
-    "variationName": "Grösse",
-    "variations": [
-      { "name": "25", "article": 1184915029 },
-      { "name": "46", "article": 1184915018 },
-      { "name": "50", "article": 1184915020 },
-      { "name": "52", "article": 1184915021 },
-      { "name": "54", "article": 1184915022 }
-    ]
   },
   {
     "group": "herren",
