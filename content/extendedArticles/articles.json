@@ -363,26 +363,6 @@
     "variationName": "Farbe",
     "variations": [{ "name": "schwarz", "article": 1263703600, "color": "#000000" }]
   },
-
-  {
-    "group": "frauen",
-    "subgroup": "mode",
-    "urlPath": "tommy-hilfiger-wintermantel",
-    "sort": 1,
-    "name": "Wintermantel von TOMMY HILFIGER",
-    "image": "./img/Frauen/Mode/01_TommyHilfiger-Jacke/1542034404000.jpeg",
-    "priceFull": 449.9,
-    "price25": 109.9,
-    "mainVariation": 1262289507,
-    "variationName": "Grösse",
-    "variations": [
-      { "name": "XS", "article": 1262289506 },
-      { "name": "S", "article": 1262289507 },
-      { "name": "M", "article": 1262289508 },
-      { "name": "L", "article": 1262289509 },
-      { "name": "XL", "article": 1262289510 }
-    ]
-  },
   {
     "group": "frauen",
     "subgroup": "mode",
