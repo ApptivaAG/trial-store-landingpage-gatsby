@@ -1137,26 +1137,6 @@
   {
     "group": "frauen",
     "subgroup": "bags",
-    "urlPath": "mcm-clutch-millie",
-    "sort": 12,
-    "name": "Clutch \"Millie\" von MCM",
-    "image": "./img/Bags/mcm-clutch-millie/gray/1538124388000.jpg",
-    "priceFull": 450,
-    "price25": 112.5,
-    "mainVariation": 1256540302,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "grau",
-        "article": 1256540302,
-        "image": "./img/Bags/mcm-clutch-millie/gray/1538124388000.jpg",
-        "color": "#8f8f8f"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "bags",
     "urlPath": "mcm-umhangetasche-patricia",
     "sort": 13,
     "name": "Umhängetasche \"Patricia\" von MCM",
