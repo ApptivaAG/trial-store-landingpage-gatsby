@@ -206,11 +206,10 @@
     "image": "./img/Herren/Mode/12_CanadaGoose-Weste/1536133471000.jpeg",
     "priceFull": 559.9,
     "price25": 139.9,
-    "mainVariation": 1262643802,
+    "mainVariation": 1262643803,
     "variationName": "Grösse",
     "variations": [
       { "name": "S", "article": 1262643801 },
-      { "name": "M", "article": 1262643802 },
       { "name": "L", "article": 1262643803 },
       { "name": "XL", "article": 1262643804 }
     ]
