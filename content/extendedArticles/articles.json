@@ -1281,17 +1281,23 @@
     "urlPath": "ralph-lauren-beuteltasche-dryden-medium",
     "sort": 18,
     "name": "Beuteltasche \"Dryden Debby Drawstring Medium\" von LAUREN RALPH LAUREN",
-    "image": "./img/Bags/ralph-lauren-beuteltasche-dryden-medium/black/1530628602000.jpeg",
+    "image": "./img/Bags/ralph-lauren-beuteltasche-dryden-medium/braun/1519304675000.jpeg",
     "priceFull": 349.9,
     "price25": 87.5,
-    "mainVariation": 1254816104,
+    "mainVariation": 1254816102,
     "variationName": "Farbe",
     "variations": [
       {
-        "name": "schwarz",
-        "article": 1254816104,
-        "image": "./img/Bags/ralph-lauren-beuteltasche-dryden-medium/black/1530628602000.jpeg",
-        "color": "#222"
+        "name": "braun",
+        "article": 1254816102,
+        "image": "./img/Bags/ralph-lauren-beuteltasche-dryden-medium/braun/1519304675000.jpeg",
+        "color": "rgb(117, 55, 0)"
+      },
+      {
+        "name": "blau",
+        "article": 1254816106,
+        "image": "./img/Bags/ralph-lauren-beuteltasche-dryden-medium/blue/1543913860000.jpeg",
+        "color": "#2F5C96"
       }
     ]
   },
