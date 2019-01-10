@@ -48,7 +48,7 @@ const Footer = ({ author, title }) => (
         <div className="col-md-6" style={{ textAlign: 'left' }}>
           <p className="copyright">© 2018 Trial Store by GLOBUS</p>
           <p>
-            Tel. 058 455 21 11 <br />
+            Tel. 079 890 32 91 <br />
             trialstore@globus.ch
           </p>
         </div>
@@ -95,7 +95,7 @@ const Impressum = () => (
                   <br />
                   Lintheschergasse 7<br /> 8001 Zürich
                   <br />
-                  Tel. 058 455 21 11
+                  Tel. 079 890 32 91
                   <br />
                   trialstore@globus.ch
                 </p>
