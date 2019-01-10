@@ -248,19 +248,6 @@
   {
     "group": "herren",
     "subgroup": "accessoires",
-    "urlPath": "emporio-armani-armbanduhr",
-    "sort": 3,
-    "name": "Armbanduhr mit Edelstahlband von EMPORIO ARMANI",
-    "image": "./img/Herren/Accessoires/03_Armani-Uhr/1533039523000.jpeg",
-    "priceFull": 269,
-    "price25": 65.9,
-    "mainVariation": 1263726500,
-    "variationName": "Farbe",
-    "variations": [{ "name": "silberfarben", "article": 1263726500, "color": "rgb(230, 230, 230)" }]
-  },
-  {
-    "group": "herren",
-    "subgroup": "accessoires",
     "urlPath": "napapijri-reisetasche",
     "sort": 4,
     "name": "Reisetasche von NAPAPIJRI",
