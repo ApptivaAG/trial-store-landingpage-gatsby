@@ -1446,7 +1446,7 @@
     "urlPath": "guerteltasche-fursten",
     "sort": 26,
     "name": "Gürteltasche Fursten von MCM",
-    "image": "./img/Bags/1544087426000.webp",
+    "image": "./img/Bags/GuerteltascheFurstenSchwarz.jpg",
     "priceFull": 525,
     "price25": 131.25,
     "mainVariation": 1266248203,
@@ -1455,9 +1455,21 @@
       {
         "name": "schwarz",
         "article": 1266248203,
-        "image": "./img/Bags/1544087426000.webp",
+        "image": "./img/Bags/GuerteltascheFurstenSchwarz.jpg",
         "color": "#222"
-      }
+       },
+       {
+        "name": "beige",
+        "article": 1266248204,
+        "image": "./img/Bags/GuerteltascheFurstenBeige.jpg",
+        "color": "#e0c791"
+       },
+       {
+        "name": "cognac",
+        "article": 1266248202,
+        "image": "./img/Bags/GuerteltascheFurstenCognac.jpg",
+        "color": "#ab5c00"
+        }
     ]
   }
       
