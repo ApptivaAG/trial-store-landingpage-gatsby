@@ -1373,7 +1373,7 @@
         "color": "#bfcfe2"
       },
       {
-        "name": "schwart",
+        "name": "schwarz",
         "article": 1172261713,
         "image": "./img/Bags/furla-schultertasche-metropolis/black/1529400010000.jpeg",
         "color": "#222"
@@ -1439,5 +1439,26 @@
         "color": "#d68196"
       }
     ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "bags",
+    "urlPath": "guerteltasche-fursten",
+    "sort": 26,
+    "name": "Gürteltasche Fursten von MCM",
+    "image": "./img/Bags/1544087426000.webp",
+    "priceFull": 525,
+    "price25": 131.25,
+    "mainVariation": 1266248203,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "schwarz",
+        "article": 1266248203,
+        "image": "./img/Bags/1544087426000.webp",
+        "color": "#222"
+      }
+    ]
   }
+      
 ]
