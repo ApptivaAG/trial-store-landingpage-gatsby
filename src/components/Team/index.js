@@ -48,13 +48,13 @@ const Team = ({ data }) => (
           </p>
         </div>
         <div className="col-md-4">
-          <Img fluid={data.nicole.fluid} />
-          <h3>Nicole</h3>
+          <Img fluid={data.leandra.fluid} />
+          <h3>Leandra</h3>
           <p>
             "Trial Store ist für mich die neue Art des Shoppens. Jeden Monat werden von Globus-Experten die
             angesagtesten Produkte kuratiert. Das inspiriert und spart Zeit."
             <br />
-            Design Guru
+            Innovation Manager
           </p>
         </div>
         <div className="col-md-4">
@@ -113,6 +113,11 @@ export default props => (
           }
         }
         nicole: imageSharp(fluid: { originalName: { regex: "/nicole/" } }) {
+          fluid {
+            ...GatsbyImageSharpFluid_withWebp
+          }
+        }
+        leandra: imageSharp(fluid: { originalName: { regex: "/leandra/" } }) {
           fluid {
             ...GatsbyImageSharpFluid_withWebp
           }
