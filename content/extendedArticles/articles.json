@@ -462,23 +462,6 @@
   {
     "group": "frauen",
     "subgroup": "mode",
-    "urlPath": "canada-goose-mantel",
-    "sort": 9,
-    "name": "Daunenmantel von CANADA GOOSE",
-    "image": "./img/Frauen/Mode/09_CanadaGoose-Mantel/1519735709000.jpeg",
-    "priceFull": 1099,
-    "price25": 274.75,
-    "mainVariation": 1239981717,
-    "variationName": "Grösse",
-    "variations": [
-      { "name": "S", "article": 1239981717 },
-      { "name": "L", "article": 1239981719 },
-      { "name": "LX", "article": 1239981720 }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "mode",
     "urlPath": "msgm-wollmantel",
     "sort": 10,
     "name": "Wollmantel von MSGM",
