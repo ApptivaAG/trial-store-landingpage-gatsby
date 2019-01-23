@@ -1,0 +1,22 @@
+@import 'scss/colors.scss';
+@import 'scss/fonts.scss';
+
+.learnings-section {
+  padding-top: 2em;
+
+  .learnings-block {
+    padding: 1em;
+    background-color: $gray-100;
+    border: 1px solid $gray-300;
+    border-radius: 5%;
+  }
+
+  i {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+
+  p {
+    padding-top: 2em;
+  }
+}

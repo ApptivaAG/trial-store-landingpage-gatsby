@@ -26,6 +26,7 @@
     "gatsby-transformer-json": "^2.1.6",
     "gatsby-transformer-sharp": "2.1.8",
     "nuka-carousel": "^4.4.4",
+    "react-countup": "^4.0.0",
     "smooth-scroll": "^15.0.0"
   },
   "devDependencies": {
