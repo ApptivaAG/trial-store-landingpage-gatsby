@@ -39,8 +39,9 @@ const FAQ = () => (
         <div className="col-lg-12">
           <h3 className="faq-f">Was passiert mit den Artikeln, die ich retourniere?</h3>
           <p className="faq-a">
-            Artikel, die noch in einem guten Zustand sind, werden im Outlet verkauft. Andere Artikel werden
-            umweltfreundlich recycelt.
+            Unsere höchste Motivation ist, die Ware im Umlauf zu halten. Aktuell werden Artikel gekennzeichnet im Outlet
+            ausgestellt, weitere Ansätze über Partnerschaften sind in Arbeit. Defekte Artikel werden umweltfreundlich
+            recycelt.
           </p>
         </div>
       </div>
