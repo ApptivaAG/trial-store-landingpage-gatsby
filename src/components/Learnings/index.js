@@ -39,7 +39,11 @@ const Learnings = () => (
             </h1>
             <i class="fa fa-users fa-5x" />
           </div>
-          <p>Bis heute haben wir weit über 100 Kundinnen bedient. Viele haben uns weiterempfohlen.</p>
+          <p>
+            Bis heute haben wir im Pilot weit über 100 Kundinnen bedient. Wir haben mehr als 300 Interessentinnen auf
+            Social Media, per Mail und persönlich in Workshops kennen gelernt. Danke allen Unterstützerinnen. Wir freuen
+            uns weiterhin auf dein Feedback!
+          </p>
         </div>
       </div>
     </div>
