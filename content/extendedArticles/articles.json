@@ -215,10 +215,6 @@
     ]
   },
 
-
-
-
-
   {
     "group": "herren",
     "subgroup": "accessoires",
@@ -640,6 +636,22 @@
     "variations": [{ "name": "blau", "article": 1265431103, "color": "#3C4458" }]
   },
   {
+    "group": "frauen",
+    "subgroup": "accessoires",
+    "urlPath": "michael-kors-armbanduhr",
+    "sort": 12,
+    "name": "Armbanduhr mit Edelstahlband von MICHAEL KORS",
+    "image": "./img/Frauen/Accessoires/12_MichaelKors-Uhr/1526463512000_gold.jpg",
+    "priceFull": 299,
+    "price25": 74.75,
+    "mainVariation": 1212414200,
+    "variationName": "Farbe",
+    "variations": [
+      { "name": "goldfarben", "article": 1212414200, "image": "./img/Frauen/Accessoires/12_MichaelKors-Uhr/1526463512000_gold.jpg", "color": "rgb(209, 150, 0)" },
+      { "name": "silberfarben", "article": 1179642500,  "image": "./img/Frauen/Accessoires/12_MichaelKors-Uhr/1526463490000_silbern.jpg", "color": "#e6e6e6" }
+    ]
+  },
+  {
     "group": "haushalt",
     "subgroup": "haushalt",
     "urlPath": "kaltenbach-bourguignonne-set",
@@ -740,7 +752,7 @@
     "price25": 59.9,
     "mainVariation": 1256656100,
     "variationName": "Farbe",
-    "variations": [{ "name": "smaragd", "article": 1256656100, "color": "rgb(0, 166, 111)"}]
+    "variations": [{ "name": "smaragd", "article": 1256656100, "color": "rgb(0, 166, 111)" }]
   },
   {
     "group": "haushalt",
@@ -1427,20 +1439,19 @@
         "article": 1266248203,
         "image": "./img/Bags/GuerteltascheFurstenSchwarz.jpg",
         "color": "#222"
-       },
-       {
+      },
+      {
         "name": "beige",
         "article": 1266248204,
         "image": "./img/Bags/GuerteltascheFurstenBeige.jpg",
         "color": "#e0c791"
-       },
-       {
+      },
+      {
         "name": "cognac",
         "article": 1266248202,
         "image": "./img/Bags/GuerteltascheFurstenCognac.jpg",
         "color": "#ab5c00"
-        }
+      }
     ]
   }
-      
 ]
