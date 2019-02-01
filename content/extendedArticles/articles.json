@@ -352,7 +352,7 @@
     "price25": 124.40,
     "mainVariation": 1262272304,
     "variationName": "Grösse",
-    "variations": [{ "name": "36", "article": 1262272303 },]
+    "variations": [{ "name": "36", "article": 1262272303 }]
   },
   {
     "group": "frauen",
@@ -914,7 +914,7 @@
     "image": "./img/Bags/becksondergaard/green/1538648294000.jpg",
     "priceFull": 119.90,
     "price25": 29.90,
-    "mainVariation": 1259405103,
+    "mainVariation": 1259405102,
     "variationName": "Farbe",
     "variations": [
       {
@@ -942,7 +942,7 @@
     "image": "./img/Bags/mcm-umhangetasche-patricia/green/1538648318000.jpg",
     "priceFull": 375.00,
     "price25": 93.75,
-    "mainVariation": 1256532803,
+    "mainVariation": 1256532802,
     "variationName": "Farbe",
     "variations": [
       {
