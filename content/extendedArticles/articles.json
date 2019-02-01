@@ -308,19 +308,6 @@
   {
     "group": "herren",
     "subgroup": "accessoires",
-    "urlPath": "mcm-reisetasche",
-    "sort": 9,
-    "name": "Reisetasche von MCM",
-    "image": "./img/Herren/Accessoires/09_MCM-Tasche/1537359338000.jpeg",
-    "priceFull": 1299,
-    "price25": 324.9,
-    "mainVariation": 1255397202,
-    "variationName": "Farbe",
-    "variations": [{ "name": "cognac", "article": 1255397202, "color": "#ab5c00" }]
-  },
-  {
-    "group": "herren",
-    "subgroup": "accessoires",
     "urlPath": "officine-federali-rucksack",
     "sort": 10,
     "name": "Rucksack von OFFICINE FEDERALI",
