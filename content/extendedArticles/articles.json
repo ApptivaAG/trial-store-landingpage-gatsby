@@ -914,7 +914,7 @@
     "image": "./img/Bags/becksondergaard/green/1538648294000.jpg",
     "priceFull": 119.90,
     "price25": 29.90,
-    "mainVariation": 1259405102,
+    "mainVariation": 1259405104,
     "variationName": "Farbe",
     "variations": [
       {
@@ -1026,15 +1026,9 @@
     "image": "./img/Bags/marc-jacobs-shopper/red/1528876657000.jpeg",
     "priceFull": 405.9,
     "price25": 101.45,
-    "mainVariation": 1219269906,
+    "mainVariation": 1219269907,
     "variationName": "Farbe",
     "variations": [
-      {
-        "name": "rot",
-        "article": 1219269906,
-        "image": "./img/Bags/marc-jacobs-shopper/red/1528876657000.jpeg",
-        "color": "#f50002"
-      },
       {
         "name": "grau",
         "article": 1219269907,
