@@ -873,8 +873,8 @@
     "sort": 3,
     "name": "Rucksack von Karl Lagerfeld",
     "image": "./img/Bags/Karl-1535444992000.jpg",
-    "priceFull": 379.9,
-    "price25": 94.9,
+    "priceFull": 265.90,
+    "price25": 66.40,
     "mainVariation": 1259094101,
     "variationName": "Farbe",
     "variations": [
@@ -913,8 +913,8 @@
     "sort": 5,
     "name": "Umhängetasche von LIEBESKIND",
     "image": "./img/Bags/Liebeskind-black-1535383439000.jpg",
-    "priceFull": 189.9,
-    "price25": 47.5,
+    "priceFull": 132.90,
+    "price25": 33.20,
     "mainVariation": 1261777704,
     "variationName": "Farbe",
     "variations": [
@@ -1008,8 +1008,8 @@
     "sort": 9,
     "name": "Clutch von OLGA BERG",
     "image": "./img/Bags/olgaberg-1536136656000.jpg",
-    "priceFull": 169.9,
-    "price25": 42.95,
+    "priceFull": 101.90,
+    "price25": 25.40,
     "mainVariation": 1262520401,
     "variationName": "Farbe",
     "variations": [
@@ -1043,8 +1043,8 @@
     "sort": 11,
     "name": "Shopper von BECKSÖNDERGAARD",
     "image": "./img/Bags/becksondergaard/blue/1538648294000.jpg",
-    "priceFull": 199.9,
-    "price25": 49.75,
+    "priceFull": 119.90,
+    "price25": 29.90,
     "mainVariation": 1259405103,
     "variationName": "Farbe",
     "variations": [
@@ -1059,12 +1059,6 @@
         "article": 1259405104,
         "image": "./img/Bags/becksondergaard/green/1538648294000.jpg",
         "color": "#00940c"
-      },
-      {
-        "name": "nachtblau",
-        "article": 1259405103,
-        "image": "./img/Bags/becksondergaard/blue/1538648294000.jpg",
-        "color": "#00183d"
       }
     ]
   },
@@ -1075,17 +1069,11 @@
     "sort": 13,
     "name": "Umhängetasche \"Patricia\" von MCM",
     "image": "./img/Bags/mcm-umhangetasche-patricia/black/1538648317000.jpg",
-    "priceFull": 625,
-    "price25": 156.25,
+    "priceFull": 375.00,
+    "price25": 93.75,
     "mainVariation": 1256532803,
     "variationName": "Farbe",
     "variations": [
-      {
-        "name": "schwarz",
-        "article": 1256532803,
-        "image": "./img/Bags/mcm-umhangetasche-patricia/black/1538648317000.jpg",
-        "color": "#8f8f8f"
-      },
       {
         "name": "grün",
         "article": 1256532802,
