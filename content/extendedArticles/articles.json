@@ -960,8 +960,8 @@
     "sort": 14,
     "name": "Handtasche von MARC JACOBS",
     "image": "./img/Bags/marc-jacobs-handtasche/white/1528292459000.jpeg",
-    "priceFull": 399.9,
-    "price25": 99.95,
+    "priceFull": 279.90,
+    "price25": 69.90,
     "mainVariation": 1249864010,
     "variationName": "Farbe",
     "variations": [
@@ -972,28 +972,10 @@
         "color": "#ff3d9e"
       },
       {
-        "name": "beige",
-        "article": 1249864009,
-        "image": "./img/Bags/marc-jacobs-handtasche/beige/1522838995000.jpeg",
-        "color": "#e0c791"
-      },
-      {
         "name": "weiss",
         "article": 1249864010,
         "image": "./img/Bags/marc-jacobs-handtasche/white/1528292459000.jpeg",
         "color": "#fff"
-      },
-      {
-        "name": "türkis",
-        "article": 1249864007,
-        "image": "./img/Bags/marc-jacobs-handtasche/turquoise/1522838984000.jpeg",
-        "color": "#85bbad"
-      },
-      {
-        "name": "violett",
-        "article": 1249864012,
-        "image": "./img/Bags/marc-jacobs-handtasche/violett/1540537625000.jpeg",
-        "color": "#7700bd"
       }
     ]
   },
