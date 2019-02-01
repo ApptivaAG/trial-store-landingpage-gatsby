@@ -503,8 +503,8 @@
     "sort": 4,
     "name": "Tuch von MOSCHINO",
     "image": "./img/Frauen/Accessoires/04_Moschino-Tuch/1532086957000.jpeg",
-    "priceFull": 329.9,
-    "price25": 82.5,
+    "priceFull": 230.90,
+    "price25": 57.70,
     "mainVariation": 1261363803,
     "variationName": "Farbe",
     "variations": [{ "name": "schwarz", "article": 1261363803, "color": "#000000" }]
@@ -525,19 +525,6 @@
   {
     "group": "frauen",
     "subgroup": "accessoires",
-    "urlPath": "fossil-armbanduhr",
-    "sort": 7,
-    "name": "Armbanduhr mit Edelstahlband von Fossil",
-    "image": "./img/Frauen/Accessoires/07_Fossil-Uhr/1539182135000.jpeg",
-    "priceFull": 199,
-    "price25": 49.9,
-    "mainVariation": 1266203900,
-    "variationName": "Farbe",
-    "variations": [{ "name": "roségold", "article": 1266203900, "color": "#f0d5bd" }]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "accessoires",
     "urlPath": "max-mara-schal",
     "sort": 8,
     "name": "Schal von MAX MARA",
@@ -547,19 +534,6 @@
     "mainVariation": 1259000110,
     "variationName": "Farbe",
     "variations": [{ "name": "bronze", "article": 1266203900, "color": "rgb(224, 146, 112)" }]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "accessoires",
-    "urlPath": "michael-kors-halskette-1",
-    "sort": 9,
-    "name": "Halskette mit Anhänger von MICHAEL KORS",
-    "image": "./img/Frauen/Accessoires/09_MichaelKors-Kette/1532529898000.jpeg",
-    "priceFull": 199,
-    "price25": 49.9,
-    "mainVariation": 1262807200,
-    "variationName": "Farbe",
-    "variations": [{ "name": "goldfarben", "article": 1262807200, "color": "rgb(209, 150, 0)" }]
   },
   {
     "group": "frauen",
