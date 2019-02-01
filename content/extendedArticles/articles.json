@@ -6,8 +6,8 @@
     "sort": 1,
     "name": "Strickjacke von ALTEA",
     "image": "./img/Herren/Mode/01_ALTEA-Strickjacke/1539775374000.jpeg",
-    "priceFull": 349.9,
-    "price25": 84.9,
+    "priceFull": 209.90,
+    "price25": 52.4,
     "mainVariation": 1257659205,
     "variationName": "Grösse",
     "variations": [
@@ -23,32 +23,13 @@
     "sort": 2,
     "name": "Strickpullover von NAPAPIJRI",
     "image": "./img/Herren/Mode/02_Napapijri-Jacke/1538046664000.jpeg",
-    "priceFull": 219.9,
-    "price25": 54.9,
+    "priceFull": 153.90,
+    "price25": 38.40,
     "mainVariation": 1255634107,
     "variationName": "Grösse",
     "variations": [
       { "name": "S", "article": 1255634106 },
-      { "name": "M", "article": 1255634107 },
       { "name": "XL", "article": 1255634109 }
-    ]
-  },
-  {
-    "group": "herren",
-    "subgroup": "mode",
-    "urlPath": "peak-performance-daunenjacke",
-    "sort": 3,
-    "name": "Daunenjacke von PEAK PERFOMANCE",
-    "image": "./img/Herren/Mode/03_PeakPerformance-Jacke/1538043238000.jpeg",
-    "priceFull": 459.9,
-    "price25": 114.9,
-    "mainVariation": 1254629910,
-    "variationName": "Grösse",
-    "variations": [
-      { "name": "S", "article": 1254629909 },
-      { "name": "M", "article": 1254629910 },
-      { "name": "L", "article": 1254629911 },
-      { "name": "XL", "article": 1254629912 }
     ]
   },
   {
@@ -62,12 +43,8 @@
     "price25": 74.9,
     "mainVariation": 1255632104,
     "variationName": "Grösse",
-    "variations": [
-      { "name": "S", "article": 1255632103 },
-      { "name": "M", "article": 1255632104 },
-      { "name": "L", "article": 1255632105 }
-    ]
-  },
+    "variations": [{ "name": "M", "article": 1255632104 }]
+   }, 
   {
     "group": "herren",
     "subgroup": "mode",
@@ -75,8 +52,8 @@
     "sort": 5,
     "name": "Strickpullover von POLO RALPH LAUREN",
     "image": "./img/Herren/Mode/05_RalphLauren-Pullover/1538388179000.jpeg",
-    "priceFull": 429.9,
-    "price25": 109.9,
+    "priceFull": 257.90,
+    "price25": 64.40,
     "mainVariation": 1257111807,
     "variationName": "Grösse",
     "variations": [
@@ -111,16 +88,14 @@
     "sort": 7,
     "name": "Parka von CLOSED",
     "image": "./img/Herren/Mode/07_Closes-Parka/1536597777000.jpeg",
-    "priceFull": 639.9,
-    "price25": 159.9,
+    "priceFull": 383.90,
+    "price25": 95.90,
     "mainVariation": 1256599606,
     "variationName": "Grösse",
     "variations": [
-      { "name": "S", "article": 1256599605 },
       { "name": "M", "article": 1256599606 },
-      { "name": "L", "article": 1256599607 },
-      { "name": "XL", "article": 1256599608 }
-    ]
+      { "name": "L", "article": 1256599607 }
+    ]  
   },
   {
     "group": "herren",
@@ -148,44 +123,24 @@
     "sort": 9,
     "name": "Winterjacke von TOMMY JEANS",
     "image": "./img/Herren/Mode/09_TommyHilfiger-Jacke/1536674476000.jpeg",
-    "priceFull": 359.9,
-    "price25": 89.9,
+    "priceFull": 251.90,
+    "price25": 62.90,
     "mainVariation": 1255662511,
     "variationName": "Grösse",
     "variations": [
-      { "name": "S", "article": 1255662510 },
       { "name": "M", "article": 1255662511 },
-      { "name": "L", "article": 1255662512 },
-      { "name": "XL", "article": 1255662513 },
-      { "name": "XXL", "article": 1255662514 }
+      { "name": "L", "article": 1255662512 }
     ]
   },
   {
-    "group": "herren",
-    "subgroup": "mode",
-    "urlPath": "scotch-soda-strickpullover",
-    "sort": 10,
-    "name": "Strickpullover von SCOTCH&SODA",
-    "image": "./img/Herren/Mode/10_Scotchsoda-Pullover/1537795212000.jpeg",
-    "priceFull": 199.9,
-    "price25": 49.9,
-    "mainVariation": 1256062907,
-    "variationName": "Grösse",
-    "variations": [
-      { "name": "M", "article": 1256062907 },
-      { "name": "L", "article": 1256062908 },
-      { "name": "XL", "article": 1256062909 }
-    ]
-  },
-  {
-    "group": "herren",
+     "group": "herren",
     "subgroup": "mode",
     "urlPath": "boss-winterjacke",
     "sort": 11,
     "name": "Winterjacke von BOSS",
     "image": "./img/Herren/Mode/11_Boss-Jacke/1537787486000.jpeg",
-    "priceFull": 499.9,
-    "price25": 124.9,
+    "priceFull": 274.50,
+    "price25": 68.60,
     "mainVariation": 1256108807,
     "variationName": "Grösse",
     "variations": [
@@ -239,20 +194,7 @@
     "mainVariation": 1264676401,
     "variationName": "Farbe",
     "variations": [{ "name": "schwarz", "article": 1264676401, "color": "#000000" }]
-  },
-  {
-    "group": "herren",
-    "subgroup": "accessoires",
-    "urlPath": "napapijri-reisetasche",
-    "sort": 4,
-    "name": "Reisetasche von NAPAPIJRI",
-    "image": "./img/Herren/Accessoires/04_Napapijri-Tasche/1537174425000.jpeg",
-    "priceFull": 149.9,
-    "price25": 37.5,
-    "mainVariation": 1255638602,
-    "variationName": "Farbe",
-    "variations": [{ "name": "orange", "article": 1255638602, "color": "rgb(255, 128, 0)" }]
-  },
+   },
   {
     "group": "herren",
     "subgroup": "accessoires",
@@ -293,20 +235,7 @@
     "variations": [{ "name": "49cm x 33cm x 20cm", "article": 1263622400 }]
   },
   {
-    "group": "herren",
-    "subgroup": "accessoires",
-    "urlPath": "napapijri-schal",
-    "sort": 8,
-    "name": "Schal navy von NAPAPIJRI",
-    "image": "./img/Herren/Accessoires/08_Napapijri-Schal/1532087019000.jpeg",
-    "priceFull": 99.9,
-    "price25": 24.9,
-    "mainVariation": 1255638401,
-    "variationName": "Farbe",
-    "variations": [{ "name": "navy", "article": 1255638401, "color": "rgb(0, 39, 77)" }]
-  },
-  {
-    "group": "herren",
+     "group": "herren",
     "subgroup": "accessoires",
     "urlPath": "officine-federali-rucksack",
     "sort": 10,
