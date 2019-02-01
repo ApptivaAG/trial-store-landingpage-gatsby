@@ -458,11 +458,11 @@
     "sort": 8,
     "name": "Schal von MAX MARA",
     "image": "./img/Frauen/Accessoires/08_MaxMara-Schal/1528788487000.jpeg",
-    "priceFull": 329.9,
-    "price25": 82.5,
+    "priceFull": 197.90,
+    "price25": 49.40,
     "mainVariation": 1259000110,
     "variationName": "Farbe",
-    "variations": [{ "name": "bronze", "article": 1266203900, "color": "rgb(224, 146, 112)" }]
+    "variations": [{ "name": "bronze", "article": 1259000110, "color": "rgb(224, 146, 112)" }]
   },
   {
     "group": "frauen",
