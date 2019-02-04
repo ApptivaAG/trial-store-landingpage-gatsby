@@ -11,9 +11,9 @@ const ExtendedArticleHeader = () => (
         <p className="section-heading">
           Überrasch’ dich selbst! Im Ausleih-Store f&uuml;r Luxus hast du alle Freiheiten. Leih’ dir unsere
           Februar-Highlights so lange du willst. Die neueste Mode, Accessoires und Gadgets der angesagtesten Brands
-          wurden exklusiv von GLOBUS-Experten f&uuml;r dich kuratiert – f&uuml;r freu dich auf den Frühling.
+          wurden exklusiv von GLOBUS-Experten f&uuml;r dich kuratiert – f&uuml;r freu dich auf den Fr&uuml;hling.
           <br />
-          Viel Spass beim Stöbern!
+          Viel Spass beim St&ouml;bern!
         </p>
       </div>
       <p className="info-text">Nur Online und in allen teilnehmenden Filialen erh&auml;ltlich!</p>
