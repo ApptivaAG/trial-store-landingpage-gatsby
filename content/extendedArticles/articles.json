@@ -823,19 +823,17 @@
     "urlPath": "beutel-mollerus",
     "sort": 7,
     "name": "Beutel von MOLLERUS",
-    "image": "./img/Bags/mollerus--white-1520597373000.jpg",
-    "priceFull": 849,
-    "price25": 212,
-    "mainVariation": 1179383807,
+    "image": "./img/Bags/mollerus--grau-1528874580000.jpg",
+    "priceFull": 839,
+    "price25": 209.75,
+    "mainVariation": 1179383809,
     "variationName": "Farbe",
     "variations": [
       {
-        "name": "weiss",
-        "article": 1179383807,
-        "image": "./img/Bags/mollerus--white-1520597373000.jpg",
-        "color": "#ffffff"
-      },
-      { "name": "grau", "article": 1179383809, "image": "./img/Bags/mollerus--grau-1528874580000.jpg", "color": "grey" }
+        "name": "grau",
+        "article": 1179383809,
+        "image": "./img/Bags/mollerus--grau-1528874580000.jpg",
+        "color": "grey"}
     ]
   },
   {
