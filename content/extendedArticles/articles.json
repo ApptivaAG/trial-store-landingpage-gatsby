@@ -1252,5 +1252,25 @@
         "color": "#ab5c00"
       }
     ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "bags",
+    "urlPath": "gianni-chiarini-handtasche",
+    "sort": 27,
+    "name": "Probier Angebot, stark limitierte Second Hand Beuteltasche No&Eacute; von Louis Vuitton",
+    "image": "./img/Bags/gianni-chiarini-handtasche/altrosa/1534839200000.jpeg",
+    "priceFull": 1300.00,
+    "price25": 325.00,
+    "mainVariation": 1112223339,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "braun",
+        "article": 1112223339,
+        "image": "./img/Bags/gianni-chiarini-handtasche/altrosa/1534839200000.jpeg",
+        "color": "rgb(117, 55, 0)"
+      }
+    ]
   }
 ]
