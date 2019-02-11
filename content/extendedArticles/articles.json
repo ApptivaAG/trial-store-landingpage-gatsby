@@ -1252,25 +1252,5 @@
         "color": "#ab5c00"
       }
     ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "bags",
-    "urlPath": "Probier-Angebot-LV-Noé-Beuteltasche",
-    "sort": 27,
-    "name": "Probier Angebot, stark limitierte Second Hand Beuteltasche Noé von Louis Vuitton",
-    "image": "./img/Bags/Probier-Angebot-LV-Noe-Beuteltasche.jpg",
-    "priceFull": 1300.00,
-    "price25": 325.00,
-    "mainVariation": 1112223339,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "braun",
-        "article": 1112223339,
-        "image": "./img/Bags/Probier-Angebot-LV-Noe-Beuteltasche.jpg",
-        "color": "rgb(117, 55, 0)"
-      }
-    ]
   }
 ]
