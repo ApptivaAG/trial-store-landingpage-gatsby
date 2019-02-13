@@ -78,6 +78,184 @@
     ]
   },
   {
+    "group": "frauen",
+    "subgroup": "bags",
+    "urlPath": "Umhaengetasche-mcm",
+    "sort": 4,
+    "name": "Umhängetasche \"Patricia\" von MCM",
+    "image": "./img/Frauen/Taschen/MCM-Tasche-Patricia.jpg",
+    "priceFull": 925,
+    "price25": 231.25,
+    "mainVariation": 1266246404,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Cognac",
+        "article": 1266246404,
+        "image": "./img/Frauen/Taschen/MCM-Tasche-Patricia.jpg",
+        "color": "#ab5c00"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "bags",
+    "urlPath": "Rucksack-Studs-mcm",
+    "sort": 5,
+    "name": "Rucksack \"Stark Side Studs Small\" von MCM",
+    "image": "./img/Frauen/Taschen/MCM-Rucksack-Rosa.jpg",
+    "priceFull": 775,
+    "price25": 193.75,
+    "mainVariation": 1107236807,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Rosa",
+        "article": 1107236807,
+        "image": "./img/Frauen/Taschen/MCM-Rucksack-Rosa.jpg",
+        "color": "#ffc6de"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "bags",
+    "urlPath": "Rucksack-mcm",
+    "sort": 6,
+    "name": "Rucksack von MCM",
+    "image": "./img/Frauen/Taschen/MCM-Rucksack-Cognac.jpg",
+    "priceFull": 1299.9,
+    "price25": 324.9,
+    "mainVariation": 1265860501,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Cognac",
+        "article": 1265860501,
+        "image": "./img/Frauen/Taschen/MCM-Rucksack-Cognac.jpg",
+        "color": "#ab5c00"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "bags",
+    "urlPath": "Beuteltasche-mcm",
+    "sort": 8,
+    "name": "Beuteltasche von MCM",
+    "image": "./img/Frauen/Taschen/MCM-Beutel-Cognac.jpg",
+    "priceFull": 699,
+    "price25": 174.75,
+    "mainVariation": 1184172202,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Cognac",
+        "article": 1184172202,
+        "image": "./img/Frauen/Taschen/MCM-Beutel-Cognac.jpg",
+        "color": "#ab5c00"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "bags",
+    "urlPath": "Guerteltasche-mcm",
+    "sort": 7,
+    "name": "Gürteltasche von MCM",
+    "image": "./img/Frauen/Taschen/MCM-Bauchtasche-Cognac.jpg",
+    "priceFull": 649.9,
+    "price25": 162.4,
+    "mainVariation": 1265860402,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Cognac",
+        "article": 1265860402,
+        "image": "./img/Frauen/Taschen/MCM-Bauchtasche-Cognac.jpg",
+        "color": "#ab5c00"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "bags",
+    "urlPath": "Handtasche-mcm",
+    "sort": 9,
+    "name": "Handtasche \"Essential\" von MCM",
+    "image": "./img/Frauen/Taschen/MCM-Tasche-Cognac.jpg",
+    "priceFull": 895,
+    "price25": 223.75,
+    "mainVariation": 1266247404,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Cognac",
+        "article": 1266247404,
+        "image": "./img/Frauen/Taschen/MCM-Tasche-Cognac.jpg",
+        "color": "#ab5c00"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "bags",
+    "urlPath": "shopper-mollerus",
+    "sort": 10,
+    "name": "Shopper \"Bern\" von MAISON MOLLERUS",
+    "image": "./img/Frauen/Taschen/Shopper-Mollerus-schwarz.jpg",
+    "priceFull": 499,
+    "price25": 125,
+    "mainVariation": 1185230101,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "schwarz",
+        "article": 1185230101,
+        "image": "./img/Frauen/Taschen/Shopper-Mollerus-schwarz.jpg",
+        "color": "#000000"
+      },
+      {
+        "name": "dunkelrot",
+        "article": 1185230102,
+        "image": "./img/Frauen/Taschen/Shopper-Mollerus-rot.jpg",
+        "color": "#990101"
+      },
+      {
+        "name": "taupe",
+        "article": 1185230104,
+        "image": "./img/Frauen/Taschen/Shopper-Mollerus-taupe.jpg",
+        "color": "#a18e7e"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "bags",
+    "urlPath": "Beuteltasche-Mollerus",
+    "sort": 11,
+    "name": "Beuteltasche \"Sion\" von MAISON MOLLERUS",
+    "image": "./img/Frauen/Taschen/Mollerus-Beuteltasche-noisette.jpg",
+    "priceFull": 749,
+    "price25": 187.25,
+    "mainVariation": 1258517703,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Noisette",
+        "article": 1258517703,
+        "image": "./img/Frauen/Taschen/Mollerus-Beuteltasche-noisette.jpg",
+        "color": "#b5906b"
+      },
+      {
+        "name": "Schwarz",
+        "article": 1258517702,
+        "image": "./img/Frauen/Taschen/Mollerus-Beuteltasche-Schwarz.jpg",
+        "color": "#000000"
+      }
+    ]
+  },
+  {
     "group": "haushalt",
     "subgroup": "bags",
     "urlPath": "shopper-mollerus",
