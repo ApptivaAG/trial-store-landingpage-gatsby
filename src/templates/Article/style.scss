@@ -65,16 +65,14 @@ section#article {
   .article__description {
     margin-top: 2rem;
     h1 {
-      font-size: $h3-font-size
+      font-size: 1rem;
     }
-    h2 {
-      font-size: $h4-font-size
+    h2, h3, h4 {
+      font-size: 0.9rem;
     }
-    h3 {
-      font-size: $h5-font-size
-    }
-    h4 {
-      font-size: $h6-font-size
+    p, li, ul {
+      font-size: 0.9rem;
+      color: #606060;
     }
   }
 }
