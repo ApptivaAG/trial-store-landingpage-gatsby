@@ -40,7 +40,8 @@ const Home = ({ data, location }) => {
       <ExtendedArticleHeader />
       <GroupNavi>
         <div style={{ textAlign: 'right' }}>
-          <a href="#haushalt">Haushalt</a>
+          <a href="#haushalt">Heim &amp; Haushalt</a>
+          <a href="#dekoration">Dekoration</a>
         </div>
       </GroupNavi>
       <ExtendedArticleSection heading="Haushalt" group="haushalt">
