@@ -362,6 +362,240 @@
     ]
   },
   {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "Daunenjacke-Globus",
+    "sort": 1,
+    "name": "Daunenjacke von GLOBUS ESSENTIALS",
+    "image": "./img/Frauen/Mode/Daunenjacke-Globus-Navy.jpg",
+    "priceFull": 159.9,
+    "price25": 39.95,
+    "mainVariation": 1263044209,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "S",
+        "article": 1263044209,
+        "image": "./img/Frauen/Mode/Daunenjacke-Globus-Navy.jpg"
+      },
+      {
+        "name": "M",
+        "article": 1263044210,
+        "image": "./img/Frauen/Mode/Daunenjacke-Globus-Navy.jpg"
+      },
+      {
+        "name": "L",
+        "article": 1263044211,
+        "image": "./img/Frauen/Mode/Daunenjacke-Globus-Navy.jpg"
+      },
+      {
+        "name": "XL",
+        "article": 1263044212,
+        "image": "./img/Frauen/Mode/Daunenjacke-Globus-Navy.jpg"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "Uebergangsjacke-Mackage",
+    "sort": 2,
+    "name": "Übergangsjacke von MACKAGE",
+    "image": "./img/Frauen/Mode/Jacke-Mackage-Sand.jpg",
+    "priceFull": 689.9,
+    "price25": 172.45,
+    "mainVariation": 1266655005,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "XS",
+        "article": 1266655005,
+        "image": "./img/Frauen/Mode/Jacke-Mackage-Sand.jpg"
+      },
+      {
+        "name": "S",
+        "article": 1266655006,
+        "image": "./img/Frauen/Mode/Jacke-Mackage-Sand.jpg"
+      },
+      {
+        "name": "M",
+        "article": 1266655007,
+        "image": "./img/Frauen/Mode/Jacke-Mackage-Sand.jpg"
+      },
+      {
+        "name": "L",
+        "article": 1266655008,
+        "image": "./img/Frauen/Mode/Jacke-Mackage-Sand.jpg"
+      },
+      {
+        "name": "XL",
+        "article": 1266655009,
+        "image": "./img/Frauen/Mode/Jacke-Mackage-Sand.jpg"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "Uebergangsmantel-Glab",
+    "sort": 3,
+    "name": "Übergangsmantel von G-LAB",
+    "image": "./img/Frauen/Mode/Mantel-GLab-Beige.jpg",
+    "priceFull": 599.9,
+    "price25": 149.95,
+    "mainVariation": 1266654611,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "XS",
+        "article": 1266654611,
+        "image": "./img/Frauen/Mode/Mantel-GLab-Beige.jpg"
+      },
+      {
+        "name": "S",
+        "article": 1266654612,
+        "image": "./img/Frauen/Mode/Mantel-GLab-Beige.jpg"
+      },
+      {
+        "name": "M",
+        "article": 1266654613,
+        "image": "./img/Frauen/Mode/Mantel-GLab-Beige.jpg"
+      },
+      {
+        "name": "L",
+        "article": 1266654614,
+        "image": "./img/Frauen/Mode/Mantel-GLab-Beige.jpg"
+      },
+      {
+        "name": "XL",
+        "article": 1266654615,
+        "image": "./img/Frauen/Mode/Mantel-GLab-Beige.jpg"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "Strickpullover-Globus",
+    "sort": 4,
+    "name": "Strickpullover von GLOBUS ESSENTIALS",
+    "image": "./img/Frauen/Mode/Pullover-Globus-Rot.jpg",
+    "priceFull": 149.9,
+    "price25": 37.45,
+    "mainVariation": 1262932817,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "S",
+        "article": 1262932817,
+        "image": "./img/Frauen/Mode/Pullover-Globus-Rot.jpg"
+      },
+      {
+        "name": "M",
+        "article": 1262932818,
+        "image": "./img/Frauen/Mode/Pullover-Globus-Rot.jpg"
+      },
+      {
+        "name": "L",
+        "article": 1262932819,
+        "image": "./img/Frauen/Mode/Pullover-Globus-Rot.jpg"
+      },
+      {
+        "name": "XL",
+        "article": 1262932820,
+        "image": "./img/Frauen/Mode/Pullover-Globus-Rot.jpg"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "Rock-Globus",
+    "sort": 5,
+    "name": "Ausgestellter Rock von GLOBUS ESSENTIALS",
+    "image": "./img/Frauen/Mode/Rock-Globus-Rot.jpg",
+    "priceFull": 129.9,
+    "price25": 32.45,
+    "mainVariation": 1263050013,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "34",
+        "article": 1263050013,
+        "image": "./img/Frauen/Mode/Rock-Globus-Rot.jpg"
+      },
+      {
+        "name": "36",
+        "article": 1263050014,
+        "image": "./img/Frauen/Mode/Rock-Globus-Rot.jpg"
+      },
+      {
+        "name": "38",
+        "article": 1263050015,
+        "image": "./img/Frauen/Mode/Rock-Globus-Rot.jpg"
+      },
+      {
+        "name": "40",
+        "article": 1263050016,
+        "image": "./img/Frauen/Mode/Rock-Globus-Rot.jpg"
+      },
+      {
+        "name": "42",
+        "article": 1263050017,
+        "image": "./img/Frauen/Mode/Rock-Globus-Rot.jpg"
+      },
+      {
+        "name": "44",
+        "article": 1263050018,
+        "image": "./img/Frauen/Mode/Rock-Globus-Rot.jpg"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "Lederjacke-Globus",
+    "sort": 6,
+    "name": "Bikerlederjacke von GLOBUS ESSENTIALS",
+    "image": "./img/Frauen/Mode/Lederjacke-Globus-Bordeaux.jpg",
+    "priceFull": 359.9,
+    "price25": 89.95,
+    "mainVariation": 1262767607,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "34",
+        "article": 1262767607,
+        "image": "./img/Frauen/Mode/Lederjacke-Globus-Bordeaux.jpg"
+      },
+      {
+        "name": "36",
+        "article": 1262767608,
+        "image": "./img/Frauen/Mode/Lederjacke-Globus-Bordeaux.jpg"
+      },
+      {
+        "name": "38",
+        "article": 1262767609,
+        "image": "./img/Frauen/Mode/Lederjacke-Globus-Bordeaux.jpg"
+      },
+      {
+        "name": "40",
+        "article": 1262767610,
+        "image": "./img/Frauen/Mode/Lederjacke-Globus-Bordeaux.jpg"
+      },
+      {
+        "name": "42",
+        "article": 1262767611,
+        "image": "./img/Frauen/Mode/Lederjacke-Globus-Bordeaux.jpg"
+      },
+      {
+        "name": "44",
+        "article": 1262767612,
+        "image": "./img/Frauen/Mode/Lederjacke-Globus-Bordeaux.jpg"
+      }
+    ]
+  },
+  {
     "group": "haushalt",
     "subgroup": "bags",
     "urlPath": "shopper-mollerus",
