@@ -1,0 +1,158 @@
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "http://example.com/root.json",
+  "type": "array",
+  "title": "The Root Schema",
+  "items": {
+    "$id": "#/items",
+    "type": "object",
+    "title": "The Items Schema",
+    "required": [
+      "group",
+      "subgroup",
+      "urlPath",
+      "sort",
+      "name",
+      "image",
+      "priceFull",
+      "price25",
+      "mainVariation",
+      "variationName",
+      "variations"
+    ],
+    "properties": {
+      "group": {
+        "$id": "#/items/properties/group",
+        "type": "string",
+        "title": "The Group Schema",
+        "default": "",
+        "examples": [
+          "herren"
+        ],
+        "pattern": "^(.*)$"
+      },
+      "subgroup": {
+        "$id": "#/items/properties/subgroup",
+        "type": "string",
+        "title": "The Subgroup Schema",
+        "default": "",
+        "examples": [
+          "mode"
+        ],
+        "pattern": "^(.*)$"
+      },
+      "urlPath": {
+        "$id": "#/items/properties/urlPath",
+        "type": "string",
+        "title": "The Urlpath Schema",
+        "default": "",
+        "examples": [
+          "altea-strickjacke"
+        ],
+        "pattern": "^(.*)$"
+      },
+      "sort": {
+        "$id": "#/items/properties/sort",
+        "type": "integer",
+        "title": "The Sort Schema",
+        "default": 0,
+        "examples": [
+          1
+        ]
+      },
+      "name": {
+        "$id": "#/items/properties/name",
+        "type": "string",
+        "title": "The Name Schema",
+        "default": "",
+        "examples": [
+          "Strickjacke von ALTEA"
+        ],
+        "pattern": "^(.*)$"
+      },
+      "image": {
+        "$id": "#/items/properties/image",
+        "type": "string",
+        "title": "The Image Schema",
+        "default": "",
+        "examples": [
+          "./img/Herren/Mode/01_ALTEA-Strickjacke/1539775374000.jpeg"
+        ],
+        "pattern": "^(.*)$"
+      },
+      "priceFull": {
+        "$id": "#/items/properties/priceFull",
+        "type": "number",
+        "title": "The Pricefull Schema",
+        "default": 0.0,
+        "examples": [
+          209.9
+        ]
+      },
+      "price25": {
+        "$id": "#/items/properties/price25",
+        "type": "number",
+        "title": "The Price25 Schema",
+        "default": 0.0,
+        "examples": [
+          52.4
+        ]
+      },
+      "mainVariation": {
+        "$id": "#/items/properties/mainVariation",
+        "type": "integer",
+        "title": "The Mainvariation Schema",
+        "default": 0,
+        "examples": [
+          1257659205
+        ]
+      },
+      "variationName": {
+        "$id": "#/items/properties/variationName",
+        "type": "string",
+        "title": "The Variationname Schema",
+        "default": "",
+        "examples": [
+          "Grösse"
+        ],
+        "pattern": "^(.*)$"
+      },
+      "variations": {
+        "$id": "#/items/properties/variations",
+        "type": "array",
+        "title": "The Variations Schema",
+        "items": {
+          "$id": "#/items/properties/variations/items",
+          "type": "object",
+          "title": "The Items Schema",
+          "required": [
+            "name",
+            "article"
+          ],
+          "properties": {
+            "name": {
+              "$id": "#/items/properties/variations/items/properties/name",
+              "type": "string",
+              "title": "The Name Schema",
+              "default": "",
+              "examples": [
+                "S"
+              ],
+              "pattern": "^(.*)$"
+            },
+            "article": {
+              "$id": "#/items/properties/variations/items/properties/article",
+              "type": "integer",
+              "title": "The Article Schema",
+              "default": 0,
+              "examples": [
+                1257659204
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}
