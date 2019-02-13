@@ -2,6 +2,32 @@
   {
     "group": "frauen",
     "subgroup": "bags",
+    "urlPath": "Umhaengetasche-Love-Moschino",
+    "sort": 1,
+    "name": "Umhängetasche von LOVE MOSCHINO",
+    "image": "./img/Frauen/Taschen/Moschino-Tasche-Gelb.jpg",
+    "priceFull": 179.9,
+    "price25": 44.9,
+    "mainVariation": 1268830803,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Gelb",
+        "article": 1268830803,
+        "image": "./img/Frauen/Taschen/Moschino-Tasche-Gelb.jpg",
+        "color": "rgb(255,247,0)"
+      },
+      {
+        "name": "Cognac",
+        "article": 1268830804,
+        "image": "./img/Frauen/Taschen/Moschin-Tasche-Cognac.jpg",
+        "color": "#ab5c00"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "bags",
     "urlPath": "shopper-mollerus",
     "sort": 8,
     "name": "Shopper von MOLLERUS",
