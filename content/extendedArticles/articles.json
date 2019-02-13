@@ -975,41 +975,195 @@
     ]
   },
   {
-    "group": "haushalt",
-    "subgroup": "haushalt",
-    "urlPath": "haushalt-haushalt-dummy",
-    "sort": 8,
-    "name": "Shopper von MOLLERUS",
-    "image": "./img/Frauen/Taschen/Shopper-Mollerus-rot.jpg",
-    "priceFull": 499,
-    "price25": 125,
-    "mainVariation": 1185230102,
+    "group": "frauen",
+    "subgroup": "accessoires",
+    "urlPath": "Armband-Fossil",
+    "sort": 1,
+    "name": "Armband von Fossil",
+    "image": "./img/Frauen/Accessoires/Armband-Fossil-Schwarz.jpg",
+    "priceFull": 329,
+    "price25": 82.25,
+    "mainVariation": 1262828700,
     "variationName": "Farbe",
     "variations": [
       {
         "name": "schwarz",
-        "article": 1185230101,
-        "image": "./img/Frauen/Taschen/Shopper-Mollerus-schwarz.jpg",
+        "article": 1262828700,
+        "image": "./img/Frauen/Accessoires/Armband-Fossil-Schwarz.jpg",
         "color": "#000000"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "accessoires",
+    "urlPath": "Halskette-Jcrew",
+    "sort": 2,
+    "name": "Halskette mit Anhänger von J.CREW",
+    "image": "./img/Frauen/Accessoires/Halskette-Crew-Pink.jpg",
+    "priceFull": 159.9,
+    "price25": 39.95,
+    "mainVariation": 1262644501,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Pink",
+        "article": 1262644501,
+        "image": "./img/Frauen/Accessoires/Halskette-Crew-Pink.jpg",
+        "color": "rgb(255, 61, 158)"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "accessoires",
+    "urlPath": "Ohrringe-Rund-Miller",
+    "sort": 3,
+    "name": "Ohrringe von LEIGH MILLER",
+    "image": "./img/Frauen/Accessoires/Ohrringe-Miller-Gold.jpg",
+    "priceFull": 249.9,
+    "price25": 62.45,
+    "mainVariation": 1259211201,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Gold",
+        "article": 1259211201,
+        "image": "./img/Frauen/Accessoires/Ohrringe-Miller-Gold.jpg",
+        "color": "rgb(209, 151, 0)"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "accessoires",
+    "urlPath": "Armband-Miller",
+    "sort": 4,
+    "name": "Armband von LEIGH MILLER",
+    "image": "./img/Frauen/Accessoires/Armband-Miller-Gold.jpg",
+    "priceFull": 399.9,
+    "price25": 99.95,
+    "mainVariation": 1259211601,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Gold",
+        "article": 1259211601,
+        "image": "./img/Frauen/Accessoires/Armband-Miller-Gold.jpg",
+        "color": "rgb(209, 151, 0)"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "accessoires",
+    "urlPath": "Ohrringe-Miller",
+    "sort": 5,
+    "name": "Ohrringe von LEIGH MILLER",
+    "image": "./img/Frauen/Accessoires/Ohrringe-Miller-Klar-Muscheln.jpg",
+    "priceFull": 379.9,
+    "price25": 94.95,
+    "mainVariation": 1259211401,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Gold",
+        "article": 1259211401,
+        "image": "./img/Frauen/Accessoires/Ohrringe-Miller-Klar-Muscheln.jpg",
+        "color": "rgb(209, 151, 0)"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "accessoires",
+    "urlPath": "Halskette-Miller",
+    "sort": 6,
+    "name": "Halskette mit Anhänger von LEIGH MILLER",
+    "image": "./img/Frauen/Accessoires/Halskette-Miller-Gold.jpg",
+    "priceFull": 329.9,
+    "price25": 82.45,
+    "mainVariation": 1259211101,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Gold",
+        "article": 1259211101,
+        "image": "./img/Frauen/Accessoires/Halskette-Miller-Gold.jpg",
+        "color": "rgb(209, 151, 0)"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "accessoires",
+    "urlPath": "Armbanduhr-Michael-Kors",
+    "sort": 7,
+    "name": "Armbanduhr mit Edelstahlband von MICHAEL KORS",
+    "image": "./img/Frauen/Accessoires/Uhr-Michael-Kors-Rosegold.jpg",
+    "priceFull": 329,
+    "price25": 82.25,
+    "mainVariation": 1259016100,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Roségold",
+        "article": 1259016100,
+        "image": "./img/Frauen/Accessoires/Uhr-Michael-Kors-Rosegold.jpg",
+        "color": "rgb(240, 213, 189)"
       },
       {
-        "name": "dunkelrot",
-        "article": 1185230102,
-        "image": "./img/Frauen/Taschen/Shopper-Mollerus-rot.jpg",
-        "color": "#990101"
-      },
+        "name": "Silber",
+        "article": 1255725800,
+        "image": "./img/Frauen/Accessoires/Uhr-Michael-Kors-Silber.jpg",
+        "color": "rgb(230, 230, 230)"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "accessoires",
+    "urlPath": "Armbanduhr-Armani",
+    "sort": 8,
+    "name": "Armbanduhr mit Lederband von EMPORIO ARMANI",
+    "image": "./img/Frauen/Accessoires/Uhr-Armani-Schwarz.jpg",
+    "priceFull": 299,
+    "price25": 74.75,
+    "mainVariation": 1212419600,
+    "variationName": "Farbe",
+    "variations": [
       {
-        "name": "taupe",
-        "article": 1185230104,
-        "image": "./img/Frauen/Taschen/Shopper-Mollerus-taupe.jpg",
-        "color": "#a18e7e"
+        "name": "Schwarz",
+        "article": 1212419600,
+        "image": "./img/Frauen/Accessoires/Uhr-Armani-Schwarz.jpg",
+        "color": "#000000"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "accessoires",
+    "urlPath": "Armbanduhr-Fossil",
+    "sort": 9,
+    "name": "Armbanduhr mit Edelstahlband von Fossil",
+    "image": "./img/Frauen/Accessoires/Uhr-Fossil-Ivory.jpg",
+    "priceFull": 189,
+    "price25": 47.25,
+    "mainVariation": 1255717400,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Ivory",
+        "article": 1255717400,
+        "image": "./img/Frauen/Accessoires/Uhr-Fossil-Ivory.jpg",
+        "color": "rgb(245, 228, 211)"
       }
     ]
   },
   {
     "group": "haushalt",
-    "subgroup": "dekoration",
-    "urlPath": "haushalt-dekoration-dummy",
+    "subgroup": "bags",
+    "urlPath": "shopper-mollerus",
     "sort": 8,
     "name": "Shopper von MOLLERUS",
     "image": "./img/Frauen/Taschen/Shopper-Mollerus-rot.jpg",
