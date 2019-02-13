@@ -256,6 +256,112 @@
     ]
   },
   {
+    "group": "frauen",
+    "subgroup": "bags",
+    "urlPath": "Beuteltasche-Rykiel",
+    "sort": 12,
+    "name": "Schultertasche \"Medium Tote\" von SONIA RYKIEL",
+    "image": "./img/Frauen/Taschen/Sonia-Rykiel-Tasche-Farbig.jpg",
+    "priceFull": 829,
+    "price25": 207.25,
+    "mainVariation": 1266987603,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Schwarz",
+        "article": 1266987603,
+        "image": "./img/Frauen/Taschen/Sonia-Rykiel-Tasche-Farbig.jpg",
+        "color": "#000000"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "bags",
+    "urlPath": "Handtasche-Navyboot",
+    "sort": 13,
+    "name": "Handtasche von NAVYBOOT",
+    "image": "./img/Frauen/Taschen/Handtasche-Navyboot-Dunkelolive.jpg",
+    "priceFull": 349,
+    "price25": 87.25,
+    "mainVariation": 1268885602,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Dunkelolive",
+        "article": 1268885602,
+        "image": "./img/Frauen/Taschen/Handtasche-Navyboot-Dunkelolive.jpg",
+        "color": "rgb(104, 107, 0)"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "bags",
+    "urlPath": "Handtasche-Michael-Kors",
+    "sort": 14,
+    "name": "Handtasche \"Rollins\" von MICHAEL MICHAEL KORS",
+    "image": "./img/Frauen/Taschen/Michael-Kors-Tasche-Dunkelrot.jpg",
+    "priceFull": 459.9,
+    "price25": 114.95,
+    "mainVariation": 1262787504,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Dunkelrot",
+        "article": 1262787504,
+        "image": "./img/Frauen/Taschen/Michael-Kors-Tasche-Dunkelrot.jpg",
+        "color": "rgb(153, 1, 1)"
+      },
+      {
+        "name": "Schwarz",
+        "article": 1262787502,
+        "image": "./img/Frauen/Taschen/Michael-Kors-Tasche-Schwarz.jpg",
+        "color": "#000000"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "bags",
+    "urlPath": "Handtasche-Kate-Spade",
+    "sort": 15,
+    "name": "Handtasche \"Sam\" von KATE SPADE NEW YORK",
+    "image": "./img/Frauen/Taschen/Kate-Spade-Tasche-Schwarz.jpg",
+    "priceFull": 479.9,
+    "price25": 119.95,
+    "mainVariation": 1264686701,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Schwarz",
+        "article": 1264686701,
+        "image": "./img/Frauen/Taschen/Kate-Spade-Tasche-Schwarz.jpg",
+        "color": "#000000"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "bags",
+    "urlPath": "Handtasche-Zadig-Voltaire",
+    "sort": 16,
+    "name": "Handtasche von ZADIG & VOLTAIRE",
+    "image": "./img/Frauen/Taschen/Zadig-Voltaire-Tasche-Schwarz.jpg",
+    "priceFull": 825,
+    "price25": 206.25,
+    "mainVariation": 1264206001,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Schwarz",
+        "article": 1264206001,
+        "image": "./img/Frauen/Taschen/Zadig-Voltaire-Tasche-Schwarz.jpg",
+        "color": "#000000"
+      }
+    ]
+  },
+  {
     "group": "haushalt",
     "subgroup": "bags",
     "urlPath": "shopper-mollerus",
