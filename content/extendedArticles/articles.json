@@ -976,8 +976,40 @@
   },
   {
     "group": "haushalt",
-    "subgroup": "bags",
-    "urlPath": "shopper-mollerus",
+    "subgroup": "haushalt",
+    "urlPath": "haushalt-haushalt-dummy",
+    "sort": 8,
+    "name": "Shopper von MOLLERUS",
+    "image": "./img/Frauen/Taschen/Shopper-Mollerus-rot.jpg",
+    "priceFull": 499,
+    "price25": 125,
+    "mainVariation": 1185230102,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "schwarz",
+        "article": 1185230101,
+        "image": "./img/Frauen/Taschen/Shopper-Mollerus-schwarz.jpg",
+        "color": "#000000"
+      },
+      {
+        "name": "dunkelrot",
+        "article": 1185230102,
+        "image": "./img/Frauen/Taschen/Shopper-Mollerus-rot.jpg",
+        "color": "#990101"
+      },
+      {
+        "name": "taupe",
+        "article": 1185230104,
+        "image": "./img/Frauen/Taschen/Shopper-Mollerus-taupe.jpg",
+        "color": "#a18e7e"
+      }
+    ]
+  },
+  {
+    "group": "haushalt",
+    "subgroup": "dekoration",
+    "urlPath": "haushalt-dekoration-dummy",
     "sort": 8,
     "name": "Shopper von MOLLERUS",
     "image": "./img/Frauen/Taschen/Shopper-Mollerus-rot.jpg",

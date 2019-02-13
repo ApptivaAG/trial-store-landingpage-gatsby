@@ -1,6 +1,7 @@
 import { graphql, Link } from 'gatsby'
 import React from 'react'
 import get from 'lodash/get'
+import filter from 'lodash/filter'
 
 import Meta from 'components/Meta'
 import Layout from 'components/Layout'
@@ -20,6 +21,9 @@ import Team from 'components/Team'
 
 const Home = ({ data, location }) => {
   const home = get(data, 'articles.edges')
+  console.log('home', home)
+  const heimUndHaushalt = filter(home, { node: { subgroup: 'haushalt' } })
+  const dekoration = filter(home, { node: { subgroup: 'dekoration' } })
   return (
     <Layout root="/home/">
       <Meta site={get(data, 'site.meta')} />
@@ -44,8 +48,13 @@ const Home = ({ data, location }) => {
           <a href="#dekoration">Dekoration</a>
         </div>
       </GroupNavi>
-      <ExtendedArticleSection heading="Haushalt" group="haushalt">
-        {home.map((article, i) => (
+      <ExtendedArticleSection heading="Heim und Haushalt" group="haushalt">
+        {heimUndHaushalt.map((article, i) => (
+          <ArticlePreview root="home/" article={article} key={i} />
+        ))}
+      </ExtendedArticleSection>
+      <ExtendedArticleSection heading="Dekoration" group="dekoration">
+        {dekoration.map((article, i) => (
           <ArticlePreview root="home/" article={article} key={i} />
         ))}
       </ExtendedArticleSection>
@@ -83,6 +92,7 @@ export const homeQuery = graphql`
       edges {
         node {
           group
+          subgroup
           urlPath
           sort
           name
