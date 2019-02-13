@@ -28,32 +28,52 @@
   {
     "group": "frauen",
     "subgroup": "bags",
-    "urlPath": "shopper-mollerus",
-    "sort": 8,
-    "name": "Shopper von MOLLERUS",
-    "image": "./img/Frauen/Taschen/Shopper-Mollerus-rot.jpg",
-    "priceFull": 499,
-    "price25": 125,
-    "mainVariation": 1185230102,
+    "urlPath": "Abendtasche-Furla",
+    "sort": 2,
+    "name": "Abendtasche \"Metropolis\" von FURLA",
+    "image": "./img/Frauen/Taschen/Furla-Tasche-Goldgelb.jpg",
+    "priceFull": 359.9,
+    "price25": 89.9,
+    "mainVariation": 1266921602,
     "variationName": "Farbe",
     "variations": [
       {
-        "name": "schwarz",
-        "article": 1185230101,
-        "image": "./img/Frauen/Taschen/Shopper-Mollerus-schwarz.jpg",
-        "color": "#000000"
+        "name": "Goldgelb",
+        "article": 1266921602,
+        "image": "./img/Frauen/Taschen/Furla-Tasche-Goldgelb.jpg",
+        "color": "rgb(232, 158, 0)"
       },
       {
-        "name": "dunkelrot",
-        "article": 1185230102,
-        "image": "./img/Frauen/Taschen/Shopper-Mollerus-rot.jpg",
-        "color": "#990101"
+        "name": "Grau",
+        "article": 1266921605,
+        "image": "./img/Frauen/Taschen/Furla-Tasche-Grau.jpg",
+        "color": "lightgrey"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "bags",
+    "urlPath": "Handtasche-Navyboot",
+    "sort": 3,
+    "name": "Handtasche von Navyboot",
+    "image": "./img/Frauen/Taschen/Navyboot-Tasche-Navy.jpg",
+    "priceFull": 349,
+    "price25": 87.25,
+    "mainVariation": 1268875502,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Navy",
+        "article": 1268875502,
+        "image": "./img/Frauen/Taschen/Navyboot-Tasche-Navy.jpg",
+        "color": "rgb(28, 0, 255)"
       },
       {
-        "name": "taupe",
-        "article": 1185230104,
-        "image": "./img/Frauen/Taschen/Shopper-Mollerus-taupe.jpg",
-        "color": "#a18e7e"
+        "name": "Hellgrau",
+        "article": 1268875503,
+        "image": "./img/Frauen/Taschen/Navyboot-Tasche-Hellgrau.jpg",
+        "color": "rgb(228, 228, 228)"
       }
     ]
   },
