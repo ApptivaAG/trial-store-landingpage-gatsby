@@ -596,6 +596,385 @@
     ]
   },
   {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "Ledermantel-Globus",
+    "sort": 7,
+    "name": "Ledermantel von GLOBUS ESSENTIALS",
+    "image": "./img/Frauen/Mode/Ledermantel-Globus-Schwarz.jpg",
+    "priceFull": 449.9,
+    "price25": 112.45,
+    "mainVariation": 1264366901,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "34",
+        "article": 1264366901,
+        "image": "./img/Frauen/Mode/Ledermantel-Globus-Schwarz.jpg"
+      },
+      {
+        "name": "36",
+        "article": 1264366902,
+        "image": "./img/Frauen/Mode/Ledermantel-Globus-Schwarz.jpg"
+      },
+      {
+        "name": "38",
+        "article": 1264366903,
+        "image": "./img/Frauen/Mode/Ledermantel-Globus-Schwarz.jpg"
+      },
+      {
+        "name": "40",
+        "article": 1264366904,
+        "image": "./img/Frauen/Mode/Ledermantel-Globus-Schwarz.jpg"
+      },
+      {
+        "name": "42",
+        "article": 1264366905,
+        "image": "./img/Frauen/Mode/Ledermantel-Globus-Schwarz.jpg"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "Rock-Cedric-Charlier",
+    "sort": 8,
+    "name": "Rock von CEDRIC CHARLIER",
+    "image": "./img/Frauen/Mode/Rock-Charlier-Blau.jpg",
+    "priceFull": 449.9,
+    "price25": 112.45,
+    "mainVariation": 1264338004,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "36",
+        "article": 1264338004,
+        "image": "./img/Frauen/Mode/Rock-Charlier-Blau.jpg"
+      },
+      {
+        "name": "38",
+        "article": 1264338005,
+        "image": "./img/Frauen/Mode/Rock-Charlier-Blau.jpg"
+      },
+      {
+        "name": "40",
+        "article": 1264338006,
+        "image": "./img/Frauen/Mode/Rock-Charlier-Blau.jpg"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "Schlupfbluse-Apiece-Apart",
+    "sort": 9,
+    "name": "Schlupfbluse von APIECE APART",
+    "image": "./img/Frauen/Mode/Bluse-Apart-Perle.jpg",
+    "priceFull": 379.9,
+    "price25": 94.95,
+    "mainVariation": 1265512405,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "34",
+        "article": 1265512405,
+        "image": "./img/Frauen/Mode/Bluse-Apart-Perle.jpg"
+      },
+      {
+        "name": "36",
+        "article": 1265512406,
+        "image": "./img/Frauen/Mode/Bluse-Apart-Perle.jpg"
+      },
+      {
+        "name": "38",
+        "article": 1265512407,
+        "image": "./img/Frauen/Mode/Bluse-Apart-Perle.jpg"
+      },
+      {
+        "name": "40",
+        "article": 1265512408,
+        "image": "./img/Frauen/Mode/Bluse-Apart-Perle.jpg"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "Wickelbluse-Kooples",
+    "sort": 10,
+    "name": "Wickelbluse von THE KOOPLES",
+    "image": "./img/Frauen/Mode/Bluse-Kooples-Dunkelrot.jpg",
+    "priceFull": 340,
+    "price25": 85,
+    "mainVariation": 1267994502,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "1",
+        "article": 1267994502,
+        "image": "./img/Frauen/Mode/Bluse-Kooples-Dunkelrot.jpg"
+      },
+      {
+        "name": "2",
+        "article": 1267994503,
+        "image": "./img/Frauen/Mode/Bluse-Kooples-Dunkelrot.jpg"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "Marlenehose-Milly",
+    "sort": 11,
+    "name": "Marlenehose von MILLY",
+    "image": "./img/Frauen/Mode/Hose-Milly-Blau.jpg",
+    "priceFull": 529.9,
+    "price25": 132.45,
+    "mainVariation": 1263947801,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "34",
+        "article": 1263947801,
+        "image": "./img/Frauen/Mode/Hose-Milly-Blau.jpg"
+      },
+      {
+        "name": "36",
+        "article": 1263947802,
+        "image": "./img/Frauen/Mode/Hose-Milly-Blau.jpg"
+      },
+      {
+        "name": "38",
+        "article": 1263947803,
+        "image": "./img/Frauen/Mode/Hose-Milly-Blau.jpg"
+      },
+      {
+        "name": "40",
+        "article": 1263947804,
+        "image": "./img/Frauen/Mode/Hose-Milly-Blau.jpg"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "Strickjacke-Antwerp",
+    "sort": 12,
+    "name": "Strickjacke von Essentiel Antwerp",
+    "image": "./img/Frauen/Mode/Strickjacke-Essentiel-Navy.jpg",
+    "priceFull": 269.9,
+    "price25": 67.45,
+    "mainVariation": 1266172601,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "S",
+        "article": 1266172601,
+        "image": "./img/Frauen/Mode/Strickjacke-Essentiel-Navy.jpg"
+      },
+      {
+        "name": "M",
+        "article": 1266172602,
+        "image": "./img/Frauen/Mode/Strickjacke-Essentiel-Navy.jpg"
+      },
+      {
+        "name": "L",
+        "article": 1266172603,
+        "image": "./img/Frauen/Mode/Strickjacke-Essentiel-Navy.jpg"
+      },
+      {
+        "name": "XL",
+        "article": 1266172604,
+        "image": "./img/Frauen/Mode/Strickjacke-Essentiel-Navy.jpg"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "Bleistiftrock-Globus",
+    "sort": 13,
+    "name": "Rock von GLOBUS ESSENTIALS",
+    "image": "./img/Frauen/Mode/Rock-Globus-Hellblau.jpg",
+    "priceFull": 229.9,
+    "price25": 57.45,
+    "mainVariation": 1264437007,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "34",
+        "article": 1264437007,
+        "image": "./img/Frauen/Mode/Rock-Globus-Hellblau.jpg"
+      },
+      {
+        "name": "36",
+        "article": 1264437008,
+        "image": "./img/Frauen/Mode/Rock-Globus-Hellblau.jpg"
+      },
+      {
+        "name": "38",
+        "article": 1264437009,
+        "image": "./img/Frauen/Mode/Rock-Globus-Hellblau.jpg"
+      },
+      {
+        "name": "40",
+        "article": 1264437010,
+        "image": "./img/Frauen/Mode/Rock-Globus-Hellblau.jpg"
+      },
+      {
+        "name": "42",
+        "article": 1264437011,
+        "image": "./img/Frauen/Mode/Rock-Globus-Hellblau.jpg"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "Stoffhose-Cerano",
+    "sort": 14,
+    "name": "Stoff Hose von LUISA CERANO",
+    "image": "./img/Frauen/Mode/Stoffhose-Cerano-Schwarz.jpg",
+    "priceFull": 279.9,
+    "price25": 69.95,
+    "mainVariation": 1258021301,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "34",
+        "article": 1258021301,
+        "image": "./img/Frauen/Mode/Stoffhose-Cerano-Schwarz.jpg"
+      },
+      {
+        "name": "36",
+        "article": 1258021302,
+        "image": "./img/Frauen/Mode/Stoffhose-Cerano-Schwarz.jpg"
+      },
+      {
+        "name": "38",
+        "article": 1258021303,
+        "image": "./img/Frauen/Mode/Stoffhose-Cerano-Schwarz.jpg"
+      },
+      {
+        "name": "40",
+        "article": 1258021304,
+        "image": "./img/Frauen/Mode/Stoffhose-Cerano-Schwarz.jpg"
+      },
+      {
+        "name": "42",
+        "article": 1258021305,
+        "image": "./img/Frauen/Mode/Stoffhose-Cerano-Schwarz.jpg"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "Blazer-Boss",
+    "sort": 15,
+    "name": "Blazer von BOSS",
+    "image": "./img/Frauen/Mode/Blazer-Boss-Schwarz.jpg",
+    "priceFull": 499,
+    "price25": 124.75,
+    "mainVariation": 1252757606,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "34",
+        "article": 1252757606,
+        "image": "./img/Frauen/Mode/Blazer-Boss-Schwarz.jpg"
+      },
+      {
+        "name": "36",
+        "article": 1252757601,
+        "image": "./img/Frauen/Mode/Blazer-Boss-Schwarz.jpg"
+      },
+      {
+        "name": "38",
+        "article": 1252757604,
+        "image": "./img/Frauen/Mode/Blazer-Boss-Schwarz.jpg"
+      },
+      {
+        "name": "40",
+        "article": 1252757605,
+        "image": "./img/Frauen/Mode/Blazer-Boss-Schwarz.jpg"
+      },
+      {
+        "name": "42",
+        "article": 1252757607,
+        "image": "./img/Frauen/Mode/Blazer-Boss-Schwarz.jpg"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "Cocktailkleid-Three-Floor",
+    "sort": 16,
+    "name": "Cocktailkleid von THREE FLOOR",
+    "image": "./img/Frauen/Mode/Cocktailkleid-Threefloor-Schwarz.jpg",
+    "priceFull": 479.9,
+    "price25": 119.95,
+    "mainVariation": 1265357305,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "36",
+        "article": 1265357305,
+        "image": "./img/Frauen/Mode/Cocktailkleid-Threefloor-Schwarz.jpg"
+      },
+      {
+        "name": "38",
+        "article": 1265357306,
+        "image": "./img/Frauen/Mode/Cocktailkleid-Threefloor-Schwarz.jpg"
+      },
+      {
+        "name": "40",
+        "article": 1265357307,
+        "image": "./img/Frauen/Mode/Cocktailkleid-Threefloor-Schwarz.jpg"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "Kleid-Gianni",
+    "sort": 17,
+    "name": "Kleid von GANNI",
+    "image": "./img/Frauen/Mode/Kleid-Gianni-Rot.jpg",
+    "priceFull": 169.9,
+    "price25": 42.45,
+    "mainVariation": 1266171504,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "34",
+        "article": 1266171504,
+        "image": "./img/Frauen/Mode/Kleid-Gianni-Rot.jpg"
+      },
+      {
+        "name": "36",
+        "article": 1266171505,
+        "image": "./img/Frauen/Mode/Kleid-Gianni-Rot.jpg"
+      },
+      {
+        "name": "38",
+        "article": 1266171506,
+        "image": "./img/Frauen/Mode/Kleid-Gianni-Rot.jpg"
+      },
+      {
+        "name": "40",
+        "article": 1266171507,
+        "image": "./img/Frauen/Mode/Kleid-Gianni-Rot.jpg"
+      },
+      {
+        "name": "42",
+        "article": 1266171508,
+        "image": "./img/Frauen/Mode/Kleid-Gianni-Rot.jpg"
+      }
+    ]
+  },
+  {
     "group": "haushalt",
     "subgroup": "bags",
     "urlPath": "shopper-mollerus",
