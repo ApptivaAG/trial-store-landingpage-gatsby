@@ -21,8 +21,7 @@ import Team from 'components/Team'
 
 const Home = ({ data, location }) => {
   const home = get(data, 'articles.edges')
-  console.log('home', home)
-  const heimUndHaushalt = filter(home, { node: { subgroup: 'haushalt' } })
+  const heimUndHaushalt = filter(home, { node: { subgroup: 'heim' } })
   const dekoration = filter(home, { node: { subgroup: 'dekoration' } })
   return (
     <Layout root="/home/">
