@@ -1161,7 +1161,7 @@
     ]
   },
   {
-    "group": "Herren",
+    "group": "herren",
     "subgroup": "mode",
     "urlPath": "Hemd-Calvin-Klein",
     "sort": 1,
@@ -1512,6 +1512,236 @@
         "name": "XL",
         "article": 1262652312,
         "image": "./img/Herren/Mode/Daunenjacke-Goose-Schwarz.jpg"
+      }
+    ]
+  },
+  {
+    "group": "herren",
+    "subgroup": "accessoires",
+    "urlPath": "Reisetasche-MCM",
+    "sort": 1,
+    "name": "Reisetasche von MCM",
+    "image": "./img/Herren/Accessoires/Reisetasche-MCM-Schwarz.jpg",
+    "priceFull": 1299,
+    "price25": 324.75,
+    "mainVariation": 1255397201,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Schwarz",
+        "article": 1255397201,
+        "image": "./img/Herren/Accessoires/Reisetasche-MCM-Schwarz.jpg",
+        "color": "#000000"
+      }
+    ]
+  },
+  {
+    "group": "herren",
+    "subgroup": "accessoires",
+    "urlPath": "Reisetasche-Federali",
+    "sort": 2,
+    "name": "Reisetasche von OFFICINE FEDERALI",
+    "image": "./img/Herren/Accessoires/Reisetasche-Federali-Cognac.jpg",
+    "priceFull": 599,
+    "price25": 149.75,
+    "mainVariation": 1256822601,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Cognac",
+        "article": 1256822601,
+        "image": "./img/Herren/Accessoires/Reisetasche-Federali-Cognac.jpg",
+        "color": "#ab5c00"
+      }
+    ]
+  },
+  {
+    "group": "herren",
+    "subgroup": "accessoires",
+    "urlPath": "Rucksack-MCM",
+    "sort": 3,
+    "name": "Rucksack \"Stark Side Stud Medium\" von MCM",
+    "image": "./img/Herren/Accessoires/Rucksack-MCM-Cognac.jpg",
+    "priceFull": 829,
+    "price25": 207.25,
+    "mainVariation": 1107236703,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Cognac",
+        "article": 1107236703,
+        "image": "./img/Herren/Accessoires/Rucksack-MCM-Cognac.jpg",
+        "color": "#ab5c00"
+      },
+      {
+        "name": "Schwarz",
+        "article": 1107236702,
+        "image": "./img/Herren/Accessoires/Rucksack-MCM-Schwarz.jpg",
+        "color": "#000000"
+      }
+    ]
+  },
+  {
+    "group": "herren",
+    "subgroup": "accessoires",
+    "urlPath": "Businesstasche-Navyboot",
+    "sort": 4,
+    "name": "Businesstasche schwarz von NAVYBOOT",
+    "image": "./img/Herren/Accessoires/Businesstasche-Navyboot-Schwarzjpg.jpg",
+    "priceFull": 299,
+    "price25": 74.75,
+    "mainVariation": 1255146401,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Schwarz",
+        "article": 1255146401,
+        "image": "./img/Herren/Accessoires/Businesstasche-Navyboot-Schwarzjpg.jpg",
+        "color": "#000000"
+      },
+      {
+        "name": "Braun",
+        "article": 1255146403,
+        "image": "./img/Herren/Accessoires/Businesstasche-Navyboot-Braun.jpg",
+        "color": "rgb(117, 55, 0)"
+      }
+    ]
+  },
+  {
+    "group": "herren",
+    "subgroup": "accessoires",
+    "urlPath": "Uhr-Fossil",
+    "sort": 5,
+    "name": "Armbanduhr mit Lederband von Fossil",
+    "image": "./img/Herren/Accessoires/Uhr-Fossil-Mocca.jpg",
+    "priceFull": 239,
+    "price25": 59.75,
+    "mainVariation": 1179634700,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Mocca",
+        "article": 1179634700,
+        "image": "./img/Herren/Accessoires/Uhr-Fossil-Mocca.jpg",
+        "color": "rgb(82, 42, 4)"
+      }
+    ]
+  },
+  {
+    "group": "herren",
+    "subgroup": "accessoires",
+    "urlPath": "Uhr-Armani",
+    "sort": 6,
+    "name": "Armbanduhr mit Edelstahlband von EMPORIO ARMANI",
+    "image": "./img/Herren/Accessoires/Uhr-Armani-Dunkelblau.jpg",
+    "priceFull": 299,
+    "price25": 74.75,
+    "mainVariation": 1175827800,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Dunkelblau",
+        "article": 1175827800,
+        "image": "./img/Herren/Accessoires/Uhr-Armani-Dunkelblau.jpg",
+        "color": "rgb(3, 0, 145)"
+      },
+      {
+        "name": "Anthrazit",
+        "article": 1179638400,
+        "image": "./img/Herren/Accessoires/Uhr-Armani-Anthrazit.jpg",
+        "color": "rgb(59, 59, 59)"
+      }
+    ]
+  },
+  {
+    "group": "herren",
+    "subgroup": "accessoires",
+    "urlPath": "Krawatte-Windsor",
+    "sort": 7,
+    "name": "Krawatte aus Seide von WINDSOR",
+    "image": "./img/Herren/Accessoires/Krawatte-Windsor-Navy.jpg",
+    "priceFull": 119,
+    "price25": 29.75,
+    "mainVariation": 1265566603,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Navy",
+        "article": 1265566603,
+        "image": "./img/Herren/Accessoires/Krawatte-Windsor-Navy.jpg",
+        "color": "rgb(0, 39, 77)"
+      }
+    ]
+  },
+  {
+    "group": "herren",
+    "subgroup": "accessoires",
+    "urlPath": "Krawatte-Eton",
+    "sort": 8,
+    "name": "Krawatte aus Seide von ETON",
+    "image": "./img/Herren/Accessoires/Krawatte-Eton-Navy.jpg",
+    "priceFull": 149.9,
+    "price25": 37.45,
+    "mainVariation": 1266914804,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Navy",
+        "article": 1266914804,
+        "image": "./img/Herren/Accessoires/Krawatte-Eton-Navy.jpg",
+        "color": "rgb(0, 39, 77)"
+      }
+    ]
+  },
+  {
+    "group": "herren",
+    "subgroup": "accessoires",
+    "urlPath": "Krawatte-Eton",
+    "sort": 9,
+    "name": "Krawatte aus Seide von ETON",
+    "image": "./img/Herren/Accessoires/Krawatte-Eton-Orange.jpg",
+    "priceFull": 99.9,
+    "price25": 24.95,
+    "mainVariation": 1266913004,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Orange",
+        "article": 1266913004,
+        "image": "./img/Herren/Accessoires/Krawatte-Eton-Orange.jpg",
+        "color": "rgb(255, 128, 0)"
+      },
+      {
+        "name": "Rot",
+        "article": 1266913002,
+        "image": "./img/Herren/Accessoires/Krawatte-Eton-Rot.jpg",
+        "color": "rgb(245, 0, 2)"
+      },
+      {
+        "name": "Navy",
+        "article": 1266913001,
+        "image": "./img/Herren/Accessoires/Krawatte-Eton-Navy-Punkte.jpg",
+        "color": "rgb(0, 39, 77)"
+      }
+    ]
+  },
+  {
+    "group": "herren",
+    "subgroup": "accessoires",
+    "urlPath": "Sonnenbrille-Ahlem",
+    "sort": 10,
+    "name": "Sonnenbrille \"Place d'Anvers\" von AHLEM",
+    "image": "./img/Herren/Accessoires/Sonnenbrille-Ahlem-Rosegold.jpg",
+    "priceFull": 559.9,
+    "price25": 139.95,
+    "mainVariation": 1263017401,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Roségold",
+        "article": 1263017401,
+        "image": "./img/Herren/Accessoires/Sonnenbrille-Ahlem-Rosegold.jpg",
+        "color": "rgb(240, 213, 189)"
       }
     ]
   },
