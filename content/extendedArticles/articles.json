@@ -1747,11 +1747,11 @@
   },
   {
     "group": "haushalt",
-    "subgroup": "heim & haushalt",
+    "subgroup": "heim",
     "urlPath": "Handgepäck-Globus",
     "sort": 1,
     "name": "Handgepäck-Trolley MODEL H5 von GLOBUS",
-    "image": "./img/Haushalt/Heim&Haushalt/Handgepaeck-Horizn-Olive.jpg",
+    "image": "./img/Haushalt/Heim/Handgepaeck-Horizn-Olive.jpg",
     "priceFull": 329.9,
     "price25": 82.45,
     "mainVariation": 1266648500,
@@ -1760,13 +1760,13 @@
       {
         "name": "Olive",
         "article": 1266648500,
-        "image": "./img/Haushalt/Heim&Haushalt/Handgepaeck-Horizn-Olive.jpg",
+        "image": "./img/Haushalt/Heim/Handgepaeck-Horizn-Olive.jpg",
         "color": "rgb(128, 124, 0)"
       },
       {
         "name": "Nachtblau",
         "article": 1266648400,
-        "image": "./img/Haushalt/Heim&Haushalt/Handgepaeck-Horizn-Nachtblau.jpg",
+        "image": "./img/Haushalt/Heim/Handgepaeck-Horizn-Nachtblau.jpg",
         "color": "rgb(0, 0, 0)"
       }
     ]
