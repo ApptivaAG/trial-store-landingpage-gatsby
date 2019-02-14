@@ -1747,65 +1747,47 @@
   },
   {
     "group": "haushalt",
-    "subgroup": "bags",
-    "urlPath": "shopper-mollerus",
-    "sort": 8,
-    "name": "Shopper von MOLLERUS",
-    "image": "./img/Frauen/Taschen/Shopper-Mollerus-rot.jpg",
-    "priceFull": 499,
-    "price25": 125,
-    "mainVariation": 1185230102,
+    "subgroup": "heim & haushalt",
+    "urlPath": "Handgepäck-Globus",
+    "sort": 1,
+    "name": "Handgepäck-Trolley MODEL H5 von GLOBUS",
+    "image": "./img/Haushalt/Heim&Haushalt/Handgepaeck-Horizn-Olive.jpg",
+    "priceFull": 329.9,
+    "price25": 82.45,
+    "mainVariation": 1266648500,
     "variationName": "Farbe",
     "variations": [
       {
-        "name": "schwarz",
-        "article": 1185230101,
-        "image": "./img/Frauen/Taschen/Shopper-Mollerus-schwarz.jpg",
-        "color": "#000000"
+        "name": "Olive",
+        "article": 1266648500,
+        "image": "./img/Haushalt/Heim&Haushalt/Handgepaeck-Horizn-Olive.jpg",
+        "color": "rgb(128, 124, 0)"
       },
       {
-        "name": "dunkelrot",
-        "article": 1185230102,
-        "image": "./img/Frauen/Taschen/Shopper-Mollerus-rot.jpg",
-        "color": "#990101"
-      },
-      {
-        "name": "taupe",
-        "article": 1185230104,
-        "image": "./img/Frauen/Taschen/Shopper-Mollerus-taupe.jpg",
-        "color": "#a18e7e"
+        "name": "Nachtblau",
+        "article": 1266648400,
+        "image": "./img/Haushalt/Heim&Haushalt/Handgepaeck-Horizn-Nachtblau.jpg",
+        "color": "rgb(0, 0, 0)"
       }
     ]
   },
   {
-    "group": "herren",
-    "subgroup": "bags",
-    "urlPath": "shopper-mollerus",
-    "sort": 8,
-    "name": "Shopper von MOLLERUS",
-    "image": "./img/Frauen/Taschen/Shopper-Mollerus-rot.jpg",
-    "priceFull": 499,
-    "price25": 125,
+    "group": "haushalt",
+    "subgroup": "dekoration",
+    "urlPath": "Wohndecke-Sewell",
+    "sort": 1,
+    "name": "Wohndecke von WALLACE SEWELL",
+    "image": "./img/Haushalt/Dekoration/Wohndecke-Sewell-Kariert.jpg",
+    "priceFull": 429.9,
+    "price25": 107.45,
     "mainVariation": 1185230102,
     "variationName": "Farbe",
     "variations": [
       {
-        "name": "schwarz",
-        "article": 1185230101,
-        "image": "./img/Frauen/Taschen/Shopper-Mollerus-schwarz.jpg",
-        "color": "#000000"
-      },
-      {
-        "name": "dunkelrot",
+        "name": "Dunkelgrün",
         "article": 1185230102,
-        "image": "./img/Frauen/Taschen/Shopper-Mollerus-rot.jpg",
-        "color": "#990101"
-      },
-      {
-        "name": "taupe",
-        "article": 1185230104,
-        "image": "./img/Frauen/Taschen/Shopper-Mollerus-taupe.jpg",
-        "color": "#a18e7e"
+        "image": "./img/Haushalt/Dekoration/Wohndecke-Sewell-Kariert.jpg",
+        "color": "rgb(0, 87, 16)"
       }
     ]
   }
