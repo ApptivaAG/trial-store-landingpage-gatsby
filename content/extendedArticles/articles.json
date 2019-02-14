@@ -1161,6 +1161,361 @@
     ]
   },
   {
+    "group": "Herren",
+    "subgroup": "mode",
+    "urlPath": "Hemd-Calvin-Klein",
+    "sort": 1,
+    "name": "Hemd Regular Fit von Calvin Klein Jeans",
+    "image": "./img/Herren/Mode/Hemd-Klein-Schwarz.jpg",
+    "priceFull": 149.9,
+    "price25": 37.45,
+    "mainVariation": 1261315813,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "S",
+        "article": 1261315813,
+        "image": "./img/Herren/Mode/Hemd-Klein-Schwarz.jpg"
+      },
+      {
+        "name": "M",
+        "article": 1261315814,
+        "image": "./img/Herren/Mode/Hemd-Klein-Schwarz.jpg"
+      },
+      {
+        "name": "L",
+        "article": 1261315815,
+        "image": "./img/Herren/Mode/Hemd-Klein-Schwarz.jpg"
+      },
+      {
+        "name": "XL",
+        "article": 1261315816,
+        "image": "./img/Herren/Mode/Hemd-Klein-Schwarz.jpg"
+      }
+    ]
+  },
+  {
+    "group": "Herren",
+    "subgroup": "mode",
+    "urlPath": "Sweatshirt-Ceremony",
+    "sort": 2,
+    "name": "Sweatshirt von OPENING CEREMONY",
+    "image": "./img/Herren/Mode/Pullover-Ceremony-Schwarz.jpg",
+    "priceFull": 229.9,
+    "price25": 57.45,
+    "mainVariation": 1262619209,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "S",
+        "article": 1262619209,
+        "image": "./img/Herren/Mode/Pullover-Ceremony-Schwarz.jpg"
+      },
+      {
+        "name": "M",
+        "article": 1262619210,
+        "image": "./img/Herren/Mode/Pullover-Ceremony-Schwarz.jpg"
+      },
+      {
+        "name": "L",
+        "article": 1262619211,
+        "image": "./img/Herren/Mode/Pullover-Ceremony-Schwarz.jpg"
+      },
+      {
+        "name": "XL",
+        "article": 1262619212,
+        "image": "./img/Herren/Mode/Pullover-Ceremony-Schwarz.jpg"
+      }
+    ]
+  },
+  {
+    "group": "Herren",
+    "subgroup": "mode",
+    "urlPath": "Jeans-Closed",
+    "sort": 3,
+    "name": "Jeans Tapered Fit \"Cooper\" von CLOSED",
+    "image": "./img/Herren/Mode/Jeans-Closed-Anthrazit.jpg",
+    "priceFull": 229.9,
+    "price25": 57.45,
+    "mainVariation": 1265631409,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "31/32",
+        "article": 1265631409,
+        "image": "./img/Herren/Mode/Jeans-Closed-Anthrazit.jpg"
+      },
+      {
+        "name": "32/32",
+        "article": 1265631410,
+        "image": "./img/Herren/Mode/Jeans-Closed-Anthrazit.jpg"
+      },
+      {
+        "name": "33/32",
+        "article": 1265631411,
+        "image": "./img/Herren/Mode/Jeans-Closed-Anthrazit.jpg"
+      },
+      {
+        "name": "34/32",
+        "article": 1265631412,
+        "image": "./img/Herren/Mode/Jeans-Closed-Anthrazit.jpg"
+      }
+    ]
+  },
+  {
+    "group": "Herren",
+    "subgroup": "mode",
+    "urlPath": "Veston-Hilfiger",
+    "sort": 4,
+    "name": "Baukasten Veston Slim Fit navy von TOMMY HILFIGER TAILORED",
+    "image": "./img/Herren/Mode/Veston-Hilfiger-Navy.jpg",
+    "priceFull": 449.9,
+    "price25": 112.45,
+    "mainVariation": 1257719625,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "46",
+        "article": 1257719625,
+        "image": "./img/Herren/Mode/Veston-Hilfiger-Navy.jpg"
+      },
+      {
+        "name": "48",
+        "article": 1257719626,
+        "image": "./img/Herren/Mode/Veston-Hilfiger-Navy.jpg"
+      },
+      {
+        "name": "50",
+        "article": 1257719627,
+        "image": "./img/Herren/Mode/Veston-Hilfiger-Navy.jpg"
+      },
+      {
+        "name": "52",
+        "article": 1257719628,
+        "image": "./img/Herren/Mode/Veston-Hilfiger-Navy.jpg"
+      },
+      {
+        "name": "54",
+        "article": 1257719629,
+        "image": "./img/Herren/Mode/Veston-Hilfiger-Navy.jpg"
+      }
+    ]
+  },
+  {
+    "group": "Herren",
+    "subgroup": "mode",
+    "urlPath": "Hose-Hilfiger",
+    "sort": 5,
+    "name": "Baukasten Hose navy von TOMMY HILFIGER TAILORED",
+    "image": "./img/Herren/Mode/Hose-Hilfiger-Navy.jpg",
+    "priceFull": 169.9,
+    "price25": 42.45,
+    "mainVariation": 1257719740,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "46",
+        "article": 1257719740,
+        "image": "./img/Herren/Mode/Hose-Hilfiger-Navy.jpg"
+      },
+      {
+        "name": "48",
+        "article": 1257719741,
+        "image": "./img/Herren/Mode/Hose-Hilfiger-Navy.jpg"
+      },
+      {
+        "name": "50",
+        "article": 1257719742,
+        "image": "./img/Herren/Mode/Hose-Hilfiger-Navy.jpg"
+      },
+      {
+        "name": "52",
+        "article": 1257719743,
+        "image": "./img/Herren/Mode/Hose-Hilfiger-Navy.jpg"
+      },
+      {
+        "name": "54",
+        "article": 1257719744,
+        "image": "./img/Herren/Mode/Hose-Hilfiger-Navy.jpg"
+      }
+    ]
+  },
+  {
+    "group": "Herren",
+    "subgroup": "mode",
+    "urlPath": "Trenchcoat-Kooples",
+    "sort": 6,
+    "name": "Trenchcoat von THE KOOPLES",
+    "image": "./img/Herren/Mode/Coat-Kooples-Beige.jpg",
+    "priceFull": 625,
+    "price25": 156.25,
+    "mainVariation": 1267874202,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "46",
+        "article": 1267874202,
+        "image": "./img/Herren/Mode/Hose-Hilfiger-Navy.jpg"
+      },
+      {
+        "name": "48",
+        "article": 1267874203,
+        "image": "./img/Herren/Mode/Hose-Hilfiger-Navy.jpg"
+      },
+      {
+        "name": "50",
+        "article": 1267874204,
+        "image": "./img/Herren/Mode/Hose-Hilfiger-Navy.jpg"
+      },
+      {
+        "name": "52",
+        "article": 1267874205,
+        "image": "./img/Herren/Mode/Hose-Hilfiger-Navy.jpg"
+      },
+      {
+        "name": "54",
+        "article": 1257719744,
+        "image": "./img/Herren/Mode/Hose-Hilfiger-Navy.jpg"
+      }
+    ]
+  },
+  {
+    "group": "Herren",
+    "subgroup": "mode",
+    "urlPath": "Blouson-Industries",
+    "sort": 7,
+    "name": "Blouson von ALPHA INDUSTRIES",
+    "image": "./img/Herren/Mode/Blouson-Alpha-Schwarz.jpg",
+    "priceFull": 219.9,
+    "price25": 54.95,
+    "mainVariation": 1264594613,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "S",
+        "article": 1264594613,
+        "image": "./img/Herren/Mode/Blouson-Alpha-Schwarz.jpg"
+      },
+      {
+        "name": "M",
+        "article": 1264594614,
+        "image": "./img/Herren/Mode/Blouson-Alpha-Schwarz.jpg"
+      },
+      {
+        "name": "L",
+        "article": 1264594615,
+        "image": "./img/Herren/Mode/Blouson-Alpha-Schwarz.jpg"
+      },
+      {
+        "name": "XL",
+        "article": 1264594616,
+        "image": "./img/Herren/Mode/Blouson-Alpha-Schwarz.jpg"
+      }
+    ]
+  },
+  {
+    "group": "Herren",
+    "subgroup": "mode",
+    "urlPath": "Daunenjacke-Polo",
+    "sort": 8,
+    "name": "Daunenjacke von POLO RALPH LAUREN",
+    "image": "./img/Herren/Mode/Daunenjacke-Polo-Schwarz.jpg",
+    "priceFull": 299.9,
+    "price25": 74.95,
+    "mainVariation": 1262148306,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "S",
+        "article": 1262148306,
+        "image": "./img/Herren/Mode/Daunenjacke-Polo-Schwarz.jpg"
+      },
+      {
+        "name": "M",
+        "article": 1262148307,
+        "image": "./img/Herren/Mode/Daunenjacke-Polo-Schwarz.jpg"
+      },
+      {
+        "name": "L",
+        "article": 1262148308,
+        "image": "./img/Herren/Mode/Daunenjacke-Polo-Schwarz.jpg"
+      },
+      {
+        "name": "XL",
+        "article": 1262148309,
+        "image": "./img/Herren/Mode/Daunenjacke-Polo-Schwarz.jpg"
+      },
+      {
+        "name": "XXL",
+        "article": 1262148310,
+        "image": "./img/Herren/Mode/Daunenjacke-Polo-Schwarz.jpg"
+      }
+    ]
+  },
+  {
+    "group": "Herren",
+    "subgroup": "mode",
+    "urlPath": "Übergangsjacke-Scotch-Soda",
+    "sort": 9,
+    "name": "Übergangsjacke von SCOTCH&SODA",
+    "image": "./img/Herren/Mode/Jacke-Soda-Blau.jpg",
+    "priceFull": 439.9,
+    "price25": 109.95,
+    "mainVariation": 1261509606,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "S",
+        "article": 1261509606,
+        "image": "./img/Herren/Mode/Jacke-Soda-Blau.jpg"
+      },
+      {
+        "name": "M",
+        "article": 1261509607,
+        "image": "./img/Herren/Mode/Jacke-Soda-Blau.jpg"
+      },
+      {
+        "name": "L",
+        "article": 1261509608,
+        "image": "./img/Herren/Mode/Jacke-Soda-Blau.jpg"
+      },
+      {
+        "name": "XL",
+        "article": 1261509609,
+        "image": "./img/Herren/Mode/Jacke-Soda-Blau.jpg"
+      }
+    ]
+  },
+  {
+    "group": "Herren",
+    "subgroup": "mode",
+    "urlPath": "Daunenjacke-Canada-Goose",
+    "sort": 10,
+    "name": "Daunenjacke von CANADA GOOSE",
+    "image": "./img/Herren/Mode/Daunenjacke-Goose-Schwarz.jpg",
+    "priceFull": 1399,
+    "price25": 349.75,
+    "mainVariation": 1262652309,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "S",
+        "article": 1262652309,
+        "image": "./img/Herren/Mode/Daunenjacke-Goose-Schwarz.jpg"
+      },
+      {
+        "name": "L",
+        "article": 1262652311,
+        "image": "./img/Herren/Mode/Daunenjacke-Goose-Schwarz.jpg"
+      },
+      {
+        "name": "XL",
+        "article": 1262652312,
+        "image": "./img/Herren/Mode/Daunenjacke-Goose-Schwarz.jpg"
+      }
+    ]
+  },
+  {
     "group": "haushalt",
     "subgroup": "bags",
     "urlPath": "shopper-mollerus",
