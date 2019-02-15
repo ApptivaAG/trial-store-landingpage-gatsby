@@ -1,5 +1,5 @@
 ---
-urlPath: Übergangsjacke von MACKAGE
+urlPath: Uebergangsjacke-Mackage
 ---
 
 # Beschreibung
