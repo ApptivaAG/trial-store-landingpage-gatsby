@@ -13,4 +13,4 @@ urlPath: Wohndecke-Sewell
 
 # Grösse
 
-- 115cm X 195cm
+- 115cm x 195cm
