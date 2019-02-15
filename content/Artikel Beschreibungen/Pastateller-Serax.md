@@ -1,5 +1,5 @@
 ---
-urlPhat: Pastateller-Serax
+urlPath: Pastateller-Serax
 ---
 
 # Beschreibung
