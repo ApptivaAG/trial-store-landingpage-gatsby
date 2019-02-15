@@ -1421,27 +1421,27 @@
       {
         "name": "46",
         "article": 1267874202,
-        "image": "./img/Herren/Mode/Hose-Hilfiger-Navy.jpg"
+        "image": "./img/Herren/Mode/Coat-Kooples-Beige.jpg"
       },
       {
         "name": "48",
         "article": 1267874203,
-        "image": "./img/Herren/Mode/Hose-Hilfiger-Navy.jpg"
+        "image": "./img/Herren/Mode/Coat-Kooples-Beige.jpg"
       },
       {
         "name": "50",
         "article": 1267874204,
-        "image": "./img/Herren/Mode/Hose-Hilfiger-Navy.jpg"
+        "image": "./img/Herren/Mode/Coat-Kooples-Beige.jpg"
       },
       {
         "name": "52",
         "article": 1267874205,
-        "image": "./img/Herren/Mode/Hose-Hilfiger-Navy.jpg"
+        "image": "./img/Herren/Mode/Coat-Kooples-Beige.jpg"
       },
       {
         "name": "54",
         "article": 1257719744,
-        "image": "./img/Herren/Mode/Hose-Hilfiger-Navy.jpg"
+        "image": "./img/Herren/Mode/Coat-Kooples-Beige.jpg"
       }
     ]
   },
@@ -1899,7 +1899,7 @@
         "name": "Blauschwarz",
         "article": 1256084800,
         "image": "./img/Haushalt/Heim/Leuchte-Lumio-Blauschwarzjpg.jpg",
-        "color": "#rgb(13, 53, 88)"
+        "color": "rgb(13, 53, 88)"
       },
       {
         "name": "Grau",
@@ -2056,12 +2056,12 @@
     "image": "./img/Haushalt/Dekoration/Wohndecke-Sewell-Kariert.jpg",
     "priceFull": 429.9,
     "price25": 107.45,
-    "mainVariation": 1185230102,
+    "mainVariation": 1180021800,
     "variationName": "Farbe",
     "variations": [
       {
         "name": "Dunkelgrün",
-        "article": 1185230102,
+        "article": 1180021800,
         "image": "./img/Haushalt/Dekoration/Wohndecke-Sewell-Kariert.jpg",
         "color": "rgb(0, 87, 16)"
       }
