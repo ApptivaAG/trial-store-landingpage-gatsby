@@ -1,5 +1,5 @@
 ---
-url-Path: Reisetasche-MCM
+urlPath: Reisetasche-MCM
 ---
 
 # Beschreibung
