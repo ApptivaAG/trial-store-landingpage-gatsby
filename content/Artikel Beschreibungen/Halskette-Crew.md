@@ -1,5 +1,5 @@
 ---
-url-Path: Halskette-Jcrew
+urlPath: Halskette-Jcrew
 ---
 
 # Beschreibung
