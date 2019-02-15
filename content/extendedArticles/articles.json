@@ -1181,6 +1181,52 @@
     ]
   },
   {
+    "group": "frauen",
+    "subgroup": "accessoires",
+    "urlPath": "Seidenschal-Frontline",
+    "sort": 10,
+    "name": "Seidenschal von Fabric Frontline",
+    "image": "./img/Frauen/Accessoires/Seidenschal-Frontline-Navy.jpg",
+    "priceFull": 339.9,
+    "price25": 84.95,
+    "mainVariation": 1259528002,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Navy",
+        "article": 1259528002,
+        "image": "./img/Frauen/Accessoires/Seidenschal-Frontline-Navy.jpg",
+        "color": "rgb(0, 39, 77)"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "accessoires",
+    "urlPath": "Sonnenbrille-Peoples",
+    "sort": 11,
+    "name": "Sonnenbrille \"LELAINA\" von OLIVER PEOPLES",
+    "image": "./img/Frauen/Accessoires/Sonnenbrille-Peoples-Blau.jpg",
+    "priceFull": 409.9,
+    "price25": 102.45,
+    "mainVariation": 1263753401,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Blau",
+        "article": 1263753401,
+        "image": "./img/Frauen/Accessoires/Sonnenbrille-Peoples-Blau.jpg",
+        "color": "rgb(28, 0, 255)"
+      },
+      {
+        "name": "Grau",
+        "article": 1263753402,
+        "image": "./img/Frauen/Accessoires/Sonnenbrille-Peoples-Grau.jpg",
+        "color": "rgb(143, 143, 143)"
+      }
+    ]
+  },
+  {
     "group": "herren",
     "subgroup": "mode",
     "urlPath": "Hemd-Calvin-Klein",
