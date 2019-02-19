@@ -21,6 +21,16 @@ exports.createPages = ({ graphql, actions }) => {
               }
             }
           }
+          allMarkdownRemark {
+            edges {
+              node {
+                html
+                frontmatter {
+                  urlPath
+                }
+              }
+            }
+          }
         }
       `).then(({ errors, data }) => {
         if (errors) {
@@ -28,11 +38,14 @@ exports.createPages = ({ graphql, actions }) => {
           reject(errors)
         }
 
-        // Create men pages pages.
+        // Create men pages.
         const items = data.allArticlesJson.edges
         const ArticleTemplate = path.resolve(`src/templates/Article/index.js`)
         console.log('Creating pages for articles...')
         each(items, ({ node }) => {
+          const descriptionData = data.allMarkdownRemark.edges.find(markdown => {
+            return markdown.node && markdown.node.frontmatter && markdown.node.frontmatter.urlPath === node.urlPath
+          })
           each(node.variations, variation => {
             createPage({
               path: '/men/' + node.urlPath + '/' + variation.article,
@@ -40,6 +53,7 @@ exports.createPages = ({ graphql, actions }) => {
               context: {
                 pathRoot: '/men/',
                 articleNumber: variation.article,
+                descriptionData,
               },
             })
           })
@@ -61,6 +75,16 @@ exports.createPages = ({ graphql, actions }) => {
               }
             }
           }
+          allMarkdownRemark {
+            edges {
+              node {
+                html
+                frontmatter {
+                  urlPath
+                }
+              }
+            }
+          }
         }
       `).then(({ errors, data }) => {
         if (errors) {
@@ -68,11 +92,14 @@ exports.createPages = ({ graphql, actions }) => {
           reject(errors)
         }
 
-        // Create women pages pages.
+        // Create women pages.
         const items = data.allArticlesJson.edges
         const ArticleTemplate = path.resolve(`src/templates/Article/index.js`)
         console.log('Creating pages for women...')
         each(items, ({ node }) => {
+          const descriptionData = data.allMarkdownRemark.edges.find(markdown => {
+            return markdown.node && markdown.node.frontmatter && markdown.node.frontmatter.urlPath === node.urlPath
+          })
           each(node.variations, variation => {
             createPage({
               path: '/' + node.urlPath + '/' + variation.article,
@@ -80,6 +107,7 @@ exports.createPages = ({ graphql, actions }) => {
               context: {
                 pathRoot: '/',
                 articleNumber: variation.article,
+                descriptionData,
               },
             })
           })
@@ -101,6 +129,16 @@ exports.createPages = ({ graphql, actions }) => {
               }
             }
           }
+          allMarkdownRemark {
+            edges {
+              node {
+                html
+                frontmatter {
+                  urlPath
+                }
+              }
+            }
+          }
         }
       `).then(({ errors, data }) => {
         if (errors) {
@@ -108,11 +146,14 @@ exports.createPages = ({ graphql, actions }) => {
           reject(errors)
         }
 
-        // Create bags pages pages.
+        // Create bags pages.
         const items = data.allArticlesJson.edges
         const ArticleTemplate = path.resolve(`src/templates/Article/index.js`)
         console.log('Creating pages for home...')
         each(items, ({ node }) => {
+          const descriptionData = data.allMarkdownRemark.edges.find(markdown => {
+            return markdown.node && markdown.node.frontmatter && markdown.node.frontmatter.urlPath === node.urlPath
+          })
           each(node.variations, variation => {
             createPage({
               path: '/home/' + node.urlPath + '/' + variation.article,
@@ -120,6 +161,7 @@ exports.createPages = ({ graphql, actions }) => {
               context: {
                 pathRoot: '/home/',
                 articleNumber: variation.article,
+                descriptionData,
               },
             })
           })

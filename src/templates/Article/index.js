@@ -7,7 +7,7 @@ import Carousel from 'nuka-carousel'
 import './style.scss'
 
 const Article = ({ data, pageContext, location }) => {
-  const { pathRoot, articleNumber } = pageContext
+  const { pathRoot, articleNumber, descriptionData } = pageContext
   const article = data.articles
   const currentUrl = location.pathname
   const currentVariation = article.variations.find(v => v.article === articleNumber)
@@ -68,6 +68,9 @@ const Article = ({ data, pageContext, location }) => {
                   Ausleihen f&uuml;r 100 Tage
                 </button>
               </p>
+              {descriptionData && (
+                <p className="article__description" dangerouslySetInnerHTML={{ __html: descriptionData.node.html }} />
+              )}
             </div>
           </div>
           <p className="text-center">
