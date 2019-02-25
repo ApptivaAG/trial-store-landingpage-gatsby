@@ -367,7 +367,7 @@
     "urlPath": "Probierangebot-LV",
     "sort": 17,
     "name": "Probier Angebot, Beuteltasche Noé von Louis Vuitton",
-    "image": "./img/Frauen/Taschen/Probier-Angebot-LV-Noe-Beuteltasche.jpg",
+    "image": "./img/Frauen/Taschen/LV-Probierangebot-Ausverkauft.png",
     "priceFull": 1300,
     "price25": 325,
     "mainVariation": 1112223339,
@@ -376,7 +376,7 @@
       {
         "name": "Braun",
         "article": 1112223339,
-        "image": "./img/Frauen/Taschen/Probier-Angebot-LV-Noe-Beuteltasche.jpg",
+        "image": "./img/Frauen/Taschen/LV-Probierangebot-Ausverkauft.png",
         "color": "#632f18"
       }
     ]
