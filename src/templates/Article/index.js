@@ -54,20 +54,26 @@ const Article = ({ data, pageContext, location }) => {
                 {article.variationName}:<br />
                 {article.variations.map(v => VariationButton(v, v.article === articleNumber, currentUrl))}
               </p>
-              <p>
-                <button
-                  className="snipcart-add-item btn btn-primary"
-                  data-item-id={articleNumber}
-                  data-item-name={article.name + ' ' + article.variationName + ' ' + currentVariation.name}
-                  data-item-price={article.price25}
-                  data-item-url={currentUrl}
-                  data-item-description={`Vollpreis CHF ` + article.priceFull.toFixed(2)}
-                  data-item-custom1-name="75% nach 100 Tagen*"
-                  data-item-custom1-value={`CHF ` + (article.priceFull - article.price25).toFixed(2)}
-                >
-                  Ausleihen f&uuml;r 100 Tage
-                </button>
-              </p>
+              {article.ausverkauft ? (
+                <p className="ausverkauft">
+                  Leider ist dieser Artikel ausverkauft und kann nicht mehr ausgeliehen werden.
+                </p>
+              ) : (
+                <p>
+                  <button
+                    className="snipcart-add-item btn btn-primary"
+                    data-item-id={articleNumber}
+                    data-item-name={article.name + ' ' + article.variationName + ' ' + currentVariation.name}
+                    data-item-price={article.price25}
+                    data-item-url={currentUrl}
+                    data-item-description={`Vollpreis CHF ` + article.priceFull.toFixed(2)}
+                    data-item-custom1-name="75% nach 100 Tagen*"
+                    data-item-custom1-value={`CHF ` + (article.priceFull - article.price25).toFixed(2)}
+                  >
+                    Ausleihen f&uuml;r 100 Tage
+                  </button>
+                </p>
+              )}
               {descriptionData && (
                 <p className="article__description" dangerouslySetInnerHTML={{ __html: descriptionData.node.html }} />
               )}
@@ -128,6 +134,7 @@ export const pageArticleQuery = graphql`
           }
         }
       }
+      ausverkauft
       priceFull
       price25
       variationName

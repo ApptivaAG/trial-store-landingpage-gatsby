@@ -368,6 +368,7 @@
     "sort": 17,
     "name": "Probier Angebot, Beuteltasche Noé von Louis Vuitton",
     "image": "./img/Frauen/Taschen/LV-Probierangebot-Ausverkauft.png",
+    "ausverkauft": true,
     "priceFull": 1300,
     "price25": 325,
     "mainVariation": 1112223339,

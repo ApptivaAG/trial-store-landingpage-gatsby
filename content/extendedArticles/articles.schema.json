@@ -90,6 +90,15 @@
           209.9
         ]
       },
+      "ausverkauft": {
+        "$id": "#/items/properties/ausverkauft",
+        "type": "boolean",
+        "title": "Auf true setzen, wenn Artikel ausverkauft ist.",
+        "default": false,
+        "examples": [
+          true, false
+        ]
+      },
       "price25": {
         "$id": "#/items/properties/price25",
         "type": "number",
