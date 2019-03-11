@@ -78,7 +78,7 @@ Snipcart.execute('bind', 'app.ready', function() {
     my_cart_content: 'In meinem Warenkorb',
     shipping_method: 'Versandart',
     payment_method: 'Zahlungsart',
-    confirm_order: 'Kauf bestätigen',
+    confirm_order: 'Bestätigen',
     bill_me_later: 'Später bezahlen',
     bill_me_later_explanation: 'Eine Rechnung wird Ihnen via E-Mail zugestellt.',
     promo_code_applied_successfully: 'Ihr Gutschein wurde erfolgreich eingelöst.',
