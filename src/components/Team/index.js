@@ -20,7 +20,7 @@ const Team = ({ data }) => (
           <Img fluid={data.cem.fluid} />
           <h3>Cem</h3>
           <p>
-            "Aus tiefster Überzeugung das Nachhaltigkeit eine gemeinsame Verantwortung ist. Dank Trial Store ein
+            "Aus tiefster Überzeugung, dass Nachhaltigkeit eine gemeinsame Verantwortung ist. Dank Trial Store ein
             nächster Schritt zum Wandel. Das leih ich mir in Zukunft!"
             <br />
             Gesamtverantwortlicher Trial Store
