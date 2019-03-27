@@ -363,27 +363,6 @@
   },
   {
     "group": "frauen",
-    "subgroup": "bags",
-    "urlPath": "Probierangebot-LV",
-    "sort": 17,
-    "name": "Probier Angebot, Beuteltasche Noé von Louis Vuitton",
-    "image": "./img/Frauen/Taschen/LV-Probierangebot-Ausverkauft.png",
-    "ausverkauft": true,
-    "priceFull": 1300,
-    "price25": 325,
-    "mainVariation": 1112223339,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Braun",
-        "article": 1112223339,
-        "image": "./img/Frauen/Taschen/LV-Probierangebot-Ausverkauft.png",
-        "color": "#632f18"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Daunenjacke-Globus",
     "sort": 1,
