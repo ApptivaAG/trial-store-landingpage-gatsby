@@ -134,7 +134,6 @@ export const pageArticleQuery = graphql`
           }
         }
       }
-      ausverkauft
       priceFull
       price25
       variationName
