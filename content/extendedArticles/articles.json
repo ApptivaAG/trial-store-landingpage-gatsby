@@ -398,39 +398,39 @@
   {
     "group": "frauen",
     "subgroup": "mode",
-    "urlPath": "Uebergangsjacke-Mackage",
+    "urlPath": "Trenchcoate-Calvin-Klein",
     "sort": 2,
-    "name": "Übergangsjacke von MACKAGE",
-    "image": "./img/Frauen/Mode/Jacke-Mackage-Sand.jpg",
-    "priceFull": 689.9,
-    "price25": 172.45,
-    "mainVariation": 1266655005,
+    "name": "Trenchcoate von CALVIN KLEIN",
+    "image": "./img/Frauen/Mode/Trenchcoat Calvin Klein.jpg",
+    "priceFull": 499.9,
+    "price25": 124.95,
+    "mainVariation": 1264327600801,
     "variationName": "Grösse",
     "variations": [
       {
-        "name": "XS",
-        "article": 1266655005,
-        "image": "./img/Frauen/Mode/Jacke-Mackage-Sand.jpg"
+        "name": "34",
+        "article": 1264327605,
+        "image": "./img/Frauen/Mode/Trenchcoat Calvin Klein.jpg"
       },
       {
-        "name": "S",
-        "article": 1266655006,
-        "image": "./img/Frauen/Mode/Jacke-Mackage-Sand.jpg"
+        "name": "36",
+        "article": 1264327606,
+        "image": "./img/Frauen/Mode/Trenchcoat Calvin Klein.jpg"
       },
       {
-        "name": "M",
-        "article": 1266655007,
-        "image": "./img/Frauen/Mode/Jacke-Mackage-Sand.jpg"
+        "name": "38",
+        "article": 1264327607,
+        "image": "./img/Frauen/Mode/Trenchcoat Calvin Klein.jpg"
       },
       {
-        "name": "L",
-        "article": 1266655008,
-        "image": "./img/Frauen/Mode/Jacke-Mackage-Sand.jpg"
+        "name": "40",
+        "article": 1264327608,
+        "image": "./img/Frauen/Mode/Trenchcoat Calvin Klein.jpg"
       },
       {
-        "name": "XL",
-        "article": 1266655009,
-        "image": "./img/Frauen/Mode/Jacke-Mackage-Sand.jpg"
+        "name": "42",
+        "article": 1264327609,
+        "image": "./img/Frauen/Mode/Trenchcoat Calvin Klein.jpg"
       }
     ]
   },
