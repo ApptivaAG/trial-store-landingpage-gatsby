@@ -1,5 +1,5 @@
 ---
-urlPath: Beuteltasche-Ralp-Lauren.jpg
+urlPath: Beuteltasche-Debby--Ralph-Lauren
 ---
 # Beschreibung
 - Innenausstattung: Vollfutter, Fach mit Reissverschluss, Steckfächer
