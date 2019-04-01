@@ -675,40 +675,6 @@
   {
     "group": "frauen",
     "subgroup": "mode",
-    "urlPath": "Strickjacke-Antwerp",
-    "sort": 10,
-    "name": "Strickjacke von Essentiel Antwerp",
-    "image": "./img/Frauen/Mode/Strickjacke-Essentiel-Navy.jpg",
-    "priceFull": 269.9,
-    "price25": 67.45,
-    "mainVariation": 1266172601,
-    "variationName": "Grösse",
-    "variations": [
-      {
-        "name": "S",
-        "article": 1266172601,
-        "image": "./img/Frauen/Mode/Strickjacke-Essentiel-Navy.jpg"
-      },
-      {
-        "name": "M",
-        "article": 1266172602,
-        "image": "./img/Frauen/Mode/Strickjacke-Essentiel-Navy.jpg"
-      },
-      {
-        "name": "L",
-        "article": 1266172603,
-        "image": "./img/Frauen/Mode/Strickjacke-Essentiel-Navy.jpg"
-      },
-      {
-        "name": "XL",
-        "article": 1266172604,
-        "image": "./img/Frauen/Mode/Strickjacke-Essentiel-Navy.jpg"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "mode",
     "urlPath": "Bleistiftrock-Globus",
     "sort": 11,
     "name": "Rock von GLOBUS ESSENTIALS",
