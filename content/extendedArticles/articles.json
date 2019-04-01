@@ -401,7 +401,7 @@
     "urlPath": "Trenchcoate-Calvin-Klein",
     "sort": 2,
     "name": "Trenchcoate von CALVIN KLEIN",
-    "image": "./img/Frauen/Mode/Trenchcoat Calvin Klein.jpg",
+    "image": "./img/Frauen/Mode/Trenchcoat-Calvin-Klein.jpg",
     "priceFull": 499.9,
     "price25": 124.95,
     "mainVariation": 1264327600801,
@@ -410,27 +410,27 @@
       {
         "name": "34",
         "article": 1264327605,
-        "image": "./img/Frauen/Mode/Trenchcoat Calvin Klein.jpg"
+        "image": "./img/Frauen/Mode/Trenchcoat-Calvin-Klein.jpg"
       },
       {
         "name": "36",
         "article": 1264327606,
-        "image": "./img/Frauen/Mode/Trenchcoat Calvin Klein.jpg"
+        "image": "./img/Frauen/Mode/Trenchcoat-Calvin-Klein.jpg"
       },
       {
         "name": "38",
         "article": 1264327607,
-        "image": "./img/Frauen/Mode/Trenchcoat Calvin Klein.jpg"
+        "image": "./img/Frauen/Mode/Trenchcoat-Calvin-Klein.jpg"
       },
       {
         "name": "40",
         "article": 1264327608,
-        "image": "./img/Frauen/Mode/Trenchcoat Calvin Klein.jpg"
+        "image": "./img/Frauen/Mode/Trenchcoat-Calvin-Klein.jpg"
       },
       {
         "name": "42",
         "article": 1264327609,
-        "image": "./img/Frauen/Mode/Trenchcoat Calvin Klein.jpg"
+        "image": "./img/Frauen/Mode/Trenchcoat-Calvin-Klein.jpg"
       }
     ]
   },
@@ -440,7 +440,7 @@
     "urlPath": "Jeansjacke-Ganni",
     "sort": 3,
     "name": "Jeansjacke von GANNI",
-    "image": "./img/Frauen/Mode/Jeansjacke von Ganni.jpg",
+    "image": "./img/Frauen/Mode/Jeansjacke-von-Ganni.jpg",
     "priceFull": 399.9,
     "price25": 99.95,
     "mainVariation": 1267047800739,
@@ -449,17 +449,17 @@
       {
         "name": "36",
         "article": 1267047801,
-        "image": "./img/Frauen/Mode/Jeansjacke von Ganni.jpg"
+        "image": "./img/Frauen/Mode/Jeansjacke-von-Ganni.jpg"
       },
       {
         "name": "38",
         "article": 1267047802,
-        "image": "./img/Frauen/Mode/Jeansjacke von Ganni.jpg"
+        "image": "./img/Frauen/Mode/Jeansjacke-von-Ganni.jpg"
       },
       {
         "name": "40",
         "article": 1267047803,
-        "image": "./img/Frauen/Mode/Jeansjacke von Ganni.jpg"
+        "image": "./img/Frauen/Mode/Jeansjacke-von-Ganni.jpg"
       }
     ]
   },
@@ -581,7 +581,7 @@
     "urlPath": "Stoffhose-Emporio-Armani",
     "sort": 7,
     "name": "Stoff Hose von EMPORIO ARMANI",
-    "image": "./img/Frauen/Mode/Stoffhose von Emporio Armani.jpg",
+    "image": "./img/Frauen/Mode/Stoffhose-von-Emporio-Armani.jpg",
     "priceFull": 479.9,
     "price25": 119.95,
     "mainVariation": 1269112600502,
@@ -590,22 +590,22 @@
       {
         "name": "36",
         "article": 1269112607,
-        "image": "./img/Frauen/Mode/Stoffhose von Emporio Armani.jpg"
+        "image": "./img/Frauen/Mode/Stoffhose-von-Emporio-Armani.jpg"
       },
       {
         "name": "38",
         "article": 1269112608,
-        "image": "./img/Frauen/Mode/Stoffhose von Emporio Armani.jpg"
+        "image": "./img/Frauen/Mode/Stoffhose-von-Emporio-Armani.jpg"
       },
       {
         "name": "40",
         "article": 1269112609,
-        "image": "./img/Frauen/Mode/Stoffhose von Emporio Armani.jpg"
+        "image": "./img/Frauen/Mode/Stoffhose-von-Emporio-Armani.jpg"
       },
       {
         "name": "42",
         "article": 1269112610,
-        "image": "./img/Frauen/Mode/Stoffhose von Emporio Armani.jpg"
+        "image": "./img/Frauen/Mode/Stoffhose-von-Emporio-Armani.jpg"
       }
     ]
   },
@@ -615,7 +615,7 @@
     "urlPath": "Seidentop-Sandro",
     "sort": 8,
     "name": "Seiden Top von SANDRO",
-    "image": "./img/Frauen/Mode/Seidentop von Sandro.jpg",
+    "image": "./img/Frauen/Mode/Seidentop-von-Sandro.jpg",
     "priceFull": 279,
     "price25": 69.95,
     "mainVariation": 1268261000003,
@@ -624,17 +624,17 @@
       {
         "name": "1/36",
         "article": 1268261002,
-        "image": "./img/Frauen/Mode/Seidentop von Sandro.jpg"
+        "image": "./img/Frauen/Mode/Seidentop-von-Sandro.jpg"
       },
       {
         "name": "2/38",
         "article": 1268261003,
-        "image": "./img/Frauen/Mode/Seidentop von Sandro.jpg"
+        "image": "./img/Frauen/Mode/Seidentop-von-Sandro.jpg"
       },
       {
         "name": "3/40",
         "article": 1268261004,
-        "image": "./img/Frauen/Mode/Seidentop von Sandro.jpg"
+        "image": "./img/Frauen/Mode/Seidentop-von-Sandro.jpg"
       }
     ]
   },
@@ -644,7 +644,7 @@
     "urlPath": "Wickelbluse-Maje",
     "sort": 9,
     "name": "Wickelbluse von MAJE",
-    "image": "./img/Frauen/Mode/Wickelbluse von Maje.jpg",
+    "image": "./img/Frauen/Mode/Wickelbluse-von-Maje.jpg",
     "priceFull": 259,
     "price25": 64.75,
     "mainVariation": 1267611500920,
@@ -653,22 +653,22 @@
       {
         "name": "1/36",
         "article": 1267611501,
-        "image": "./img/Frauen/Mode/Wickelbluse von Maje.jpg"
+        "image": "./img/Frauen/Mode/Wickelbluse-von-Maje.jpg"
       },
       {
         "name": "2/38",
         "article": 1267611502,
-        "image": "./img/Frauen/Mode/Wickelbluse von Maje.jpg"
+        "image": "./img/Frauen/Mode/Wickelbluse-von-Maje.jpg"
       },
       {
         "name": "3/40",
         "article": 1267611503,
-        "image": "./img/Frauen/Mode/Wickelbluse von Maje.jpg"
+        "image": "./img/Frauen/Mode/Wickelbluse-von-Maje.jpg"
       },
       {
         "name": "4/42",
         "article": 1267611504,
-        "image": "./img/Frauen/Mode/Wickelbluse von Maje.jpg"
+        "image": "./img/Frauen/Mode/Wickelbluse-von-Maje.jpg"
       }
     ]
   },
@@ -824,7 +824,7 @@
     "urlPath": "Kleid-Mykke-Hofmann",
     "sort": 15,
     "name": "Kleid von MYKKE HOFMANN",
-    "image": "./img/Frauen/Mode/Kleid von Mykke Hofmann.jpg",
+    "image": "./img/Frauen/Mode/Kleid-von-Mykke-Hofmann.jpg",
     "priceFull": 499.9,
     "price25": 124.95,
     "mainVariation": 1264802700120,
@@ -833,27 +833,27 @@
       {
         "name": "34",
         "article": 1264802706,
-        "image": "./img/Frauen/Mode/Kleid von Mykke Hofmann.jpg"
+        "image": "./img/Frauen/Mode/Kleid-von-Mykke-Hofmann.jpg"
       },
       {
         "name": "36",
         "article": 1264802707,
-        "image": "./img/Frauen/Mode/Kleid von Mykke Hofmann.jpg"
+        "image": "./img/Frauen/Mode/Kleid-von-Mykke-Hofmann.jpg"
       },
       {
         "name": "38",
         "article": 1264802708,
-        "image": "./img/Frauen/Mode/Kleid von Mykke Hofmann.jpg"
+        "image": "./img/Frauen/Mode/Kleid-von-Mykke-Hofmann.jpg"
       },
       {
         "name": "40",
         "article": 1264802709,
-        "image": "./img/Frauen/Mode/Kleid von Mykke Hofmann.jpg"
+        "image": "./img/Frauen/Mode/Kleid-von-Mykke-Hofmann.jpg"
       },
       {
         "name": "42",
         "article": 1264802710,
-        "image": "./img/Frauen/Mode/Kleid von Mykke Hofmann.jpg"
+        "image": "./img/Frauen/Mode/Kleid-von-Mykke-Hofmann.jpg"
       }
     ]
   },
