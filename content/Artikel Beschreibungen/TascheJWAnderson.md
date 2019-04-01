@@ -1,5 +1,5 @@
 ---
-urlPath: Tasche-JWAnderson.jpg
+urlPath: Umhaengetasche-JW-Anderson
 ---
 # Beschreibung
 - Innenausstattung mit Steckfächer
