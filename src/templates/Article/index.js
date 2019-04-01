@@ -110,7 +110,7 @@ const VariationButton = (variation, active, currentUrl) => {
 export default Article
 
 export const pageArticleQuery = graphql`
-  query PageArticle($articleNumber: Int!) {
+  query PageArticle($articleNumber: Float!) {
     site {
       meta: siteMetadata {
         title
