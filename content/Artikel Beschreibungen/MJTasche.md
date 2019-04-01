@@ -1,5 +1,5 @@
 ---
-urlPath: Marc-Jacobs-Klein-Tasche.jpg
+urlPath: Umhaengetasche-Marco-Jacobs
 ---
 # Beschreibung
 - Innenausstattung: Vollfutter, Steckfächer
