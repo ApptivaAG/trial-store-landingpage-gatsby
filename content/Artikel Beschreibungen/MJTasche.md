@@ -9,3 +9,8 @@ urlPath: Marc-Jacobs-Klein-Tasche.jpg
 
 # Material
 - Obermaterial: Leder 100%
+
+# Masse
+- Länge: 18.5 cm
+- Breite: 6 cm
+- Höhe: 11 cm
