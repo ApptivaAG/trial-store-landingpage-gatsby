@@ -28,26 +28,32 @@
   {
     "group": "frauen",
     "subgroup": "bags",
-    "urlPath": "Abendtasche-Furla",
+    "urlPath": "Umhaengetasche-Marco-Jacobs",
     "sort": 2,
-    "name": "Abendtasche \"Metropolis\" von FURLA",
-    "image": "./img/Frauen/Taschen/Furla-Tasche-Goldgelb.jpg",
-    "priceFull": 359.9,
-    "price25": 89.9,
-    "mainVariation": 1266921602,
+    "name": "Umhängetasche \"Snapshot\" von MARC JACOBS",
+    "image": "./img/Frauen/Taschen/Marc-Jacobs-Klein-Tasche.jpg",
+    "priceFull": 379.9,
+    "price25": 94.95,
+    "mainVariation": 1219269400601,
     "variationName": "Farbe",
     "variations": [
       {
-        "name": "Goldgelb",
-        "article": 1266921602,
-        "image": "./img/Frauen/Taschen/Furla-Tasche-Goldgelb.jpg",
-        "color": "rgb(232, 158, 0)"
+        "name": "Grün",
+        "article": 1219269400601,
+        "image": "./img/Frauen/Taschen/Marc-Jacobs-Klein-Tasche.jpg",
+        "color": "rgb(0, 148, 13)"
       },
       {
-        "name": "Grau",
-        "article": 1266921605,
-        "image": "./img/Frauen/Taschen/Furla-Tasche-Grau.jpg",
-        "color": "lightgrey"
+        "name": "Puder",
+        "article": 1219269400010,
+        "image": "./img/Frauen/Taschen/Marc-Jacobs-Klein-Puder.jpg",
+        "color": "rgb(255, 224, 184)"
+      },
+      {
+        "name": "Mittelgrau",
+        "article": 1219269400710,
+        "image": "./img/Frauen/Taschen/Marc-Jacobs-Klein-Mittelgrau.jpg",
+        "color": "rgb(135, 135, 135)"
       }
     ]
   },
@@ -140,20 +146,20 @@
   {
     "group": "frauen",
     "subgroup": "bags",
-    "urlPath": "Beuteltasche-mcm",
-    "sort": 8,
-    "name": "Beuteltasche von MCM",
-    "image": "./img/Frauen/Taschen/MCM-Beutel-Cognac.jpg",
-    "priceFull": 699,
-    "price25": 174.75,
-    "mainVariation": 1184172202,
+    "urlPath": "Beuteltasche-Debby--Ralph-Lauren",
+    "sort": 9,
+    "name": "Beuteltasche \"Debby\" von LAUREN RALPH LAUREN",
+    "image": "./img/Frauen/Taschen/Beuteltasche-Ralp-Lauren.jpg",
+    "priceFull": 299.9,
+    "price25": 74.95,
+    "mainVariation": 1270055700002,
     "variationName": "Farbe",
     "variations": [
       {
-        "name": "Cognac",
-        "article": 1184172202,
+        "name": "Beige",
+        "article": 1270055700002,
         "image": "./img/Frauen/Taschen/MCM-Beutel-Cognac.jpg",
-        "color": "#ab5c00"
+        "color": "#e47f11"
       }
     ]
   },
@@ -181,7 +187,7 @@
     "group": "frauen",
     "subgroup": "bags",
     "urlPath": "Handtasche-mcm",
-    "sort": 9,
+    "sort": 8,
     "name": "Handtasche \"Essential\" von MCM",
     "image": "./img/Frauen/Taschen/MCM-Tasche-Cognac.jpg",
     "priceFull": 895,
@@ -234,23 +240,17 @@
     "subgroup": "bags",
     "urlPath": "Beuteltasche-Mollerus",
     "sort": 11,
-    "name": "Beuteltasche \"Sion\" von MAISON MOLLERUS",
-    "image": "./img/Frauen/Taschen/Mollerus-Beuteltasche-noisette.jpg",
-    "priceFull": 749,
-    "price25": 187.25,
-    "mainVariation": 1258517703,
+    "name": "Beuteltasche \"Montelliez\" von MAISON MOLLERUS",
+    "image": "./img/Frauen/Taschen/Beuteltasche-Montelliez-Mollerus.jpg",
+    "priceFull": 849,
+    "price25": 212.25,
+    "mainVariation": 1266138700739,
     "variationName": "Farbe",
     "variations": [
       {
-        "name": "Noisette",
-        "article": 1258517703,
-        "image": "./img/Frauen/Taschen/Mollerus-Beuteltasche-noisette.jpg",
-        "color": "#b5906b"
-      },
-      {
         "name": "Schwarz",
-        "article": 1258517702,
-        "image": "./img/Frauen/Taschen/Mollerus-Beuteltasche-Schwarz.jpg",
+        "article": 1266138700739,
+        "image": "./img/Frauen/Taschen/Beuteltasche-Montelliez-Mollerus.jpg",
         "color": "#000000"
       }
     ]
@@ -278,20 +278,26 @@
   {
     "group": "frauen",
     "subgroup": "bags",
-    "urlPath": "Handtasche-Navyboot",
+    "urlPath": "Umhaengetasche-JW-Anderson",
     "sort": 13,
-    "name": "Handtasche von NAVYBOOT",
-    "image": "./img/Frauen/Taschen/Handtasche-Navyboot-Dunkelolive.jpg",
-    "priceFull": 349,
-    "price25": 87.25,
-    "mainVariation": 1268885602,
+    "name": "Umhängetasche von JW ANDERSON",
+    "image": "./img/Frauen/Taschen/Tasche-JWAnderson.jpg",
+    "priceFull": 1249,
+    "price25": 312.25,
+    "mainVariation": 1266253500809,
     "variationName": "Farbe",
     "variations": [
       {
-        "name": "Dunkelolive",
-        "article": 1268885602,
-        "image": "./img/Frauen/Taschen/Handtasche-Navyboot-Dunkelolive.jpg",
-        "color": "rgb(104, 107, 0)"
+        "name": "Camel",
+        "article": 1266253500809,
+        "image": "./img/Frauen/Taschen/Tasche-JWAnderson.jpg",
+        "color": "rgb(196, 124, 0)"
+      },
+      {
+        "name": "Schwarz",
+        "article": 1266253500739,
+        "image": "./img/Frauen/Taschen/Tasche-JWAnderson-Schwarz.jpg",
+        "color": "rgb(0, 0, 0)"
       }
     ]
   },
@@ -324,40 +330,20 @@
   {
     "group": "frauen",
     "subgroup": "bags",
-    "urlPath": "Handtasche-Kate-Spade",
+    "urlPath": "Handtasche-Coccinelle",
     "sort": 15,
-    "name": "Handtasche \"Sam\" von KATE SPADE NEW YORK",
-    "image": "./img/Frauen/Taschen/Kate-Spade-Tasche-Schwarz.jpg",
-    "priceFull": 479.9,
-    "price25": 119.95,
-    "mainVariation": 1264686701,
+    "name": "Handtasche von COCCINELLE",
+    "image": "./img/Frauen/Taschen/Handtasche-Coccinelle.jpg",
+    "priceFull": 559,
+    "price25": 139.75,
+    "mainVariation": 1268878100000,
     "variationName": "Farbe",
     "variations": [
       {
-        "name": "Schwarz",
-        "article": 1264686701,
-        "image": "./img/Frauen/Taschen/Kate-Spade-Tasche-Schwarz.jpg",
-        "color": "#000000"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "bags",
-    "urlPath": "Handtasche-Zadig-Voltaire",
-    "sort": 16,
-    "name": "Handtasche von ZADIG & VOLTAIRE",
-    "image": "./img/Frauen/Taschen/Zadig-Voltaire-Tasche-Schwarz.jpg",
-    "priceFull": 825,
-    "price25": 206.25,
-    "mainVariation": 1264206001,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Schwarz",
-        "article": 1264206001,
-        "image": "./img/Frauen/Taschen/Zadig-Voltaire-Tasche-Schwarz.jpg",
-        "color": "#000000"
+        "name": "Weiss",
+        "article": 1268878100000,
+        "image": "./img/Frauen/Taschen/Handtasche-Coccinelle.jpg",
+        "color": "rgb(255, 255, 255)"
       }
     ]
   },
@@ -401,36 +387,36 @@
     "urlPath": "Trenchcoate-Calvin-Klein",
     "sort": 2,
     "name": "Trenchcoate von CALVIN KLEIN",
-    "image": "./img/Frauen/Mode/Trenchcoat-Calvin-Klein.jpg",
+    "image": "./img/Frauen/Mode/Trenchcoat Calvin Klein.jpg",
     "priceFull": 499.9,
     "price25": 124.95,
-    "mainVariation": 1264327605,
+    "mainVariation": 1264327600801,
     "variationName": "Grösse",
     "variations": [
       {
         "name": "34",
         "article": 1264327605,
-        "image": "./img/Frauen/Mode/Trenchcoat-Calvin-Klein.jpg"
+        "image": "./img/Frauen/Mode/Trenchcoat Calvin Klein.jpg"
       },
       {
         "name": "36",
         "article": 1264327606,
-        "image": "./img/Frauen/Mode/Trenchcoat-Calvin-Klein.jpg"
+        "image": "./img/Frauen/Mode/Trenchcoat Calvin Klein.jpg"
       },
       {
         "name": "38",
         "article": 1264327607,
-        "image": "./img/Frauen/Mode/Trenchcoat-Calvin-Klein.jpg"
+        "image": "./img/Frauen/Mode/Trenchcoat Calvin Klein.jpg"
       },
       {
         "name": "40",
         "article": 1264327608,
-        "image": "./img/Frauen/Mode/Trenchcoat-Calvin-Klein.jpg"
+        "image": "./img/Frauen/Mode/Trenchcoat Calvin Klein.jpg"
       },
       {
         "name": "42",
         "article": 1264327609,
-        "image": "./img/Frauen/Mode/Trenchcoat-Calvin-Klein.jpg"
+        "image": "./img/Frauen/Mode/Trenchcoat Calvin Klein.jpg"
       }
     ]
   },
@@ -440,26 +426,26 @@
     "urlPath": "Jeansjacke-Ganni",
     "sort": 3,
     "name": "Jeansjacke von GANNI",
-    "image": "./img/Frauen/Mode/Jeansjacke-von-Ganni.jpg",
+    "image": "./img/Frauen/Mode/Jeansjacke von Ganni.jpg",
     "priceFull": 399.9,
     "price25": 99.95,
-    "mainVariation": 1267047801,
+    "mainVariation": 1267047800739,
     "variationName": "Grösse",
     "variations": [
       {
         "name": "36",
         "article": 1267047801,
-        "image": "./img/Frauen/Mode/Jeansjacke-von-Ganni.jpg"
+        "image": "./img/Frauen/Mode/Jeansjacke von Ganni.jpg"
       },
       {
         "name": "38",
         "article": 1267047802,
-        "image": "./img/Frauen/Mode/Jeansjacke-von-Ganni.jpg"
+        "image": "./img/Frauen/Mode/Jeansjacke von Ganni.jpg"
       },
       {
         "name": "40",
         "article": 1267047803,
-        "image": "./img/Frauen/Mode/Jeansjacke-von-Ganni.jpg"
+        "image": "./img/Frauen/Mode/Jeansjacke von Ganni.jpg"
       }
     ]
   },
@@ -581,31 +567,31 @@
     "urlPath": "Stoffhose-Emporio-Armani",
     "sort": 7,
     "name": "Stoff Hose von EMPORIO ARMANI",
-    "image": "./img/Frauen/Mode/Stoffhose-von-Emporio-Armani.jpg",
+    "image": "./img/Frauen/Mode/Stoffhose von Emporio Armani.jpg",
     "priceFull": 479.9,
     "price25": 119.95,
-    "mainVariation": 1269112607,
+    "mainVariation": 1269112600502,
     "variationName": "Grösse",
     "variations": [
       {
         "name": "36",
         "article": 1269112607,
-        "image": "./img/Frauen/Mode/Stoffhose-von-Emporio-Armani.jpg"
+        "image": "./img/Frauen/Mode/Stoffhose von Emporio Armani.jpg"
       },
       {
         "name": "38",
         "article": 1269112608,
-        "image": "./img/Frauen/Mode/Stoffhose-von-Emporio-Armani.jpg"
+        "image": "./img/Frauen/Mode/Stoffhose von Emporio Armani.jpg"
       },
       {
         "name": "40",
         "article": 1269112609,
-        "image": "./img/Frauen/Mode/Stoffhose-von-Emporio-Armani.jpg"
+        "image": "./img/Frauen/Mode/Stoffhose von Emporio Armani.jpg"
       },
       {
         "name": "42",
         "article": 1269112610,
-        "image": "./img/Frauen/Mode/Stoffhose-von-Emporio-Armani.jpg"
+        "image": "./img/Frauen/Mode/Stoffhose von Emporio Armani.jpg"
       }
     ]
   },
@@ -615,26 +601,26 @@
     "urlPath": "Seidentop-Sandro",
     "sort": 8,
     "name": "Seiden Top von SANDRO",
-    "image": "./img/Frauen/Mode/Seidentop-von-Sandro.jpg",
+    "image": "./img/Frauen/Mode/Seidentop von Sandro.jpg",
     "priceFull": 279,
     "price25": 69.95,
-    "mainVariation": 1268261002,
+    "mainVariation": 1268261000003,
     "variationName": "Grösse",
     "variations": [
       {
         "name": "1/36",
         "article": 1268261002,
-        "image": "./img/Frauen/Mode/Seidentop-von-Sandro.jpg"
+        "image": "./img/Frauen/Mode/Seidentop von Sandro.jpg"
       },
       {
         "name": "2/38",
         "article": 1268261003,
-        "image": "./img/Frauen/Mode/Seidentop-von-Sandro.jpg"
+        "image": "./img/Frauen/Mode/Seidentop von Sandro.jpg"
       },
       {
         "name": "3/40",
         "article": 1268261004,
-        "image": "./img/Frauen/Mode/Seidentop-von-Sandro.jpg"
+        "image": "./img/Frauen/Mode/Seidentop von Sandro.jpg"
       }
     ]
   },
@@ -644,31 +630,65 @@
     "urlPath": "Wickelbluse-Maje",
     "sort": 9,
     "name": "Wickelbluse von MAJE",
-    "image": "./img/Frauen/Mode/Wickelbluse-von-Maje.jpg",
+    "image": "./img/Frauen/Mode/Wickelbluse von Maje.jpg",
     "priceFull": 259,
     "price25": 64.75,
-    "mainVariation": 1267611501,
+    "mainVariation": 1267611500920,
     "variationName": "Grösse",
     "variations": [
       {
         "name": "1/36",
         "article": 1267611501,
-        "image": "./img/Frauen/Mode/Wickelbluse-von-Maje.jpg"
+        "image": "./img/Frauen/Mode/Wickelbluse von Maje.jpg"
       },
       {
         "name": "2/38",
         "article": 1267611502,
-        "image": "./img/Frauen/Mode/Wickelbluse-von-Maje.jpg"
+        "image": "./img/Frauen/Mode/Wickelbluse von Maje.jpg"
       },
       {
         "name": "3/40",
         "article": 1267611503,
-        "image": "./img/Frauen/Mode/Wickelbluse-von-Maje.jpg"
+        "image": "./img/Frauen/Mode/Wickelbluse von Maje.jpg"
       },
       {
         "name": "4/42",
         "article": 1267611504,
-        "image": "./img/Frauen/Mode/Wickelbluse-von-Maje.jpg"
+        "image": "./img/Frauen/Mode/Wickelbluse von Maje.jpg"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "Strickjacke-Antwerp",
+    "sort": 10,
+    "name": "Strickjacke von Essentiel Antwerp",
+    "image": "./img/Frauen/Mode/Strickjacke-Essentiel-Navy.jpg",
+    "priceFull": 269.9,
+    "price25": 67.45,
+    "mainVariation": 1266172601,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "S",
+        "article": 1266172601,
+        "image": "./img/Frauen/Mode/Strickjacke-Essentiel-Navy.jpg"
+      },
+      {
+        "name": "M",
+        "article": 1266172602,
+        "image": "./img/Frauen/Mode/Strickjacke-Essentiel-Navy.jpg"
+      },
+      {
+        "name": "L",
+        "article": 1266172603,
+        "image": "./img/Frauen/Mode/Strickjacke-Essentiel-Navy.jpg"
+      },
+      {
+        "name": "XL",
+        "article": 1266172604,
+        "image": "./img/Frauen/Mode/Strickjacke-Essentiel-Navy.jpg"
       }
     ]
   },
@@ -824,36 +844,36 @@
     "urlPath": "Kleid-Mykke-Hofmann",
     "sort": 15,
     "name": "Kleid von MYKKE HOFMANN",
-    "image": "./img/Frauen/Mode/Kleid-von-Mykke-Hofmann.jpg",
+    "image": "./img/Frauen/Mode/Kleid von Mykke Hofmann.jpg",
     "priceFull": 499.9,
     "price25": 124.95,
-    "mainVariation": 1264802706,
+    "mainVariation": 1264802700120,
     "variationName": "Grösse",
     "variations": [
       {
         "name": "34",
         "article": 1264802706,
-        "image": "./img/Frauen/Mode/Kleid-von-Mykke-Hofmann.jpg"
+        "image": "./img/Frauen/Mode/Kleid von Mykke Hofmann.jpg"
       },
       {
         "name": "36",
         "article": 1264802707,
-        "image": "./img/Frauen/Mode/Kleid-von-Mykke-Hofmann.jpg"
+        "image": "./img/Frauen/Mode/Kleid von Mykke Hofmann.jpg"
       },
       {
         "name": "38",
         "article": 1264802708,
-        "image": "./img/Frauen/Mode/Kleid-von-Mykke-Hofmann.jpg"
+        "image": "./img/Frauen/Mode/Kleid von Mykke Hofmann.jpg"
       },
       {
         "name": "40",
         "article": 1264802709,
-        "image": "./img/Frauen/Mode/Kleid-von-Mykke-Hofmann.jpg"
+        "image": "./img/Frauen/Mode/Kleid von Mykke Hofmann.jpg"
       },
       {
         "name": "42",
         "article": 1264802710,
-        "image": "./img/Frauen/Mode/Kleid-von-Mykke-Hofmann.jpg"
+        "image": "./img/Frauen/Mode/Kleid von Mykke Hofmann.jpg"
       }
     ]
   },
