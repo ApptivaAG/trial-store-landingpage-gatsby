@@ -437,117 +437,29 @@
   {
     "group": "frauen",
     "subgroup": "mode",
-    "urlPath": "Uebergangsmantel-Glab",
+    "urlPath": "Jeansjacke-Ganni",
     "sort": 3,
-    "name": "Übergangsmantel von G-LAB",
-    "image": "./img/Frauen/Mode/Mantel-GLab-Beige.jpg",
-    "priceFull": 599.9,
-    "price25": 149.95,
-    "mainVariation": 1266654611,
+    "name": "Jeansjacke von GANNI",
+    "image": "./img/Frauen/Mode/Jeansjacke von Ganni.jpg",
+    "priceFull": 399.9,
+    "price25": 99.95,
+    "mainVariation": 1267047800739,
     "variationName": "Grösse",
     "variations": [
-      {
-        "name": "XS",
-        "article": 1266654611,
-        "image": "./img/Frauen/Mode/Mantel-GLab-Beige.jpg"
-      },
-      {
-        "name": "S",
-        "article": 1266654612,
-        "image": "./img/Frauen/Mode/Mantel-GLab-Beige.jpg"
-      },
-      {
-        "name": "M",
-        "article": 1266654613,
-        "image": "./img/Frauen/Mode/Mantel-GLab-Beige.jpg"
-      },
-      {
-        "name": "L",
-        "article": 1266654614,
-        "image": "./img/Frauen/Mode/Mantel-GLab-Beige.jpg"
-      },
-      {
-        "name": "XL",
-        "article": 1266654615,
-        "image": "./img/Frauen/Mode/Mantel-GLab-Beige.jpg"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "mode",
-    "urlPath": "Strickpullover-Globus",
-    "sort": 4,
-    "name": "Strickpullover von GLOBUS ESSENTIALS",
-    "image": "./img/Frauen/Mode/Pullover-Globus-Rot.jpg",
-    "priceFull": 149.9,
-    "price25": 37.45,
-    "mainVariation": 1262932817,
-    "variationName": "Grösse",
-    "variations": [
-      {
-        "name": "S",
-        "article": 1262932817,
-        "image": "./img/Frauen/Mode/Pullover-Globus-Rot.jpg"
-      },
-      {
-        "name": "M",
-        "article": 1262932818,
-        "image": "./img/Frauen/Mode/Pullover-Globus-Rot.jpg"
-      },
-      {
-        "name": "L",
-        "article": 1262932819,
-        "image": "./img/Frauen/Mode/Pullover-Globus-Rot.jpg"
-      },
-      {
-        "name": "XL",
-        "article": 1262932820,
-        "image": "./img/Frauen/Mode/Pullover-Globus-Rot.jpg"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "mode",
-    "urlPath": "Rock-Globus",
-    "sort": 5,
-    "name": "Ausgestellter Rock von GLOBUS ESSENTIALS",
-    "image": "./img/Frauen/Mode/Rock-Globus-Rot.jpg",
-    "priceFull": 129.9,
-    "price25": 32.45,
-    "mainVariation": 1263050013,
-    "variationName": "Grösse",
-    "variations": [
-      {
-        "name": "34",
-        "article": 1263050013,
-        "image": "./img/Frauen/Mode/Rock-Globus-Rot.jpg"
-      },
       {
         "name": "36",
-        "article": 1263050014,
-        "image": "./img/Frauen/Mode/Rock-Globus-Rot.jpg"
+        "article": 1267047801,
+        "image": "./img/Frauen/Mode/Jeansjacke von Ganni.jpg"
       },
       {
         "name": "38",
-        "article": 1263050015,
-        "image": "./img/Frauen/Mode/Rock-Globus-Rot.jpg"
+        "article": 1267047802,
+        "image": "./img/Frauen/Mode/Jeansjacke von Ganni.jpg"
       },
       {
         "name": "40",
-        "article": 1263050016,
-        "image": "./img/Frauen/Mode/Rock-Globus-Rot.jpg"
-      },
-      {
-        "name": "42",
-        "article": 1263050017,
-        "image": "./img/Frauen/Mode/Rock-Globus-Rot.jpg"
-      },
-      {
-        "name": "44",
-        "article": 1263050018,
-        "image": "./img/Frauen/Mode/Rock-Globus-Rot.jpg"
+        "article": 1267047803,
+        "image": "./img/Frauen/Mode/Jeansjacke von Ganni.jpg"
       }
     ]
   },
@@ -555,7 +467,7 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Lederjacke-Globus",
-    "sort": 6,
+    "sort": 4,
     "name": "Bikerlederjacke von GLOBUS ESSENTIALS",
     "image": "./img/Frauen/Mode/Lederjacke-Globus-Bordeaux.jpg",
     "priceFull": 359.9,
@@ -599,7 +511,7 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Ledermantel-Globus",
-    "sort": 7,
+    "sort": 5,
     "name": "Ledermantel von GLOBUS ESSENTIALS",
     "image": "./img/Frauen/Mode/Ledermantel-Globus-Schwarz.jpg",
     "priceFull": 449.9,
@@ -638,7 +550,7 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Rock-Cedric-Charlier",
-    "sort": 8,
+    "sort": 6,
     "name": "Rock von CEDRIC CHARLIER",
     "image": "./img/Frauen/Mode/Rock-Charlier-Blau.jpg",
     "priceFull": 449.9,
@@ -666,92 +578,97 @@
   {
     "group": "frauen",
     "subgroup": "mode",
-    "urlPath": "Schlupfbluse-Apiece-Apart",
+    "urlPath": "Stoffhose-Emporio-Armani",
+    "sort": 7,
+    "name": "Stoff Hose von EMPORIO ARMANI",
+    "image": "./img/Frauen/Mode/Stoffhose von Emporio Armani.jpg",
+    "priceFull": 479.9,
+    "price25": 119.95,
+    "mainVariation": 1269112600502,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "36",
+        "article": 1269112607,
+        "image": "./img/Frauen/Mode/Stoffhose von Emporio Armani.jpg"
+      },
+      {
+        "name": "38",
+        "article": 1269112608,
+        "image": "./img/Frauen/Mode/Stoffhose von Emporio Armani.jpg"
+      },
+      {
+        "name": "40",
+        "article": 1269112609,
+        "image": "./img/Frauen/Mode/Stoffhose von Emporio Armani.jpg"
+      },
+      {
+        "name": "42",
+        "article": 1269112610,
+        "image": "./img/Frauen/Mode/Stoffhose von Emporio Armani.jpg"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "Seidentop-Sandro",
+    "sort": 8,
+    "name": "Seiden Top von SANDRO",
+    "image": "./img/Frauen/Mode/Seidentop von Sandro.jpg",
+    "priceFull": 279,
+    "price25": 69.95,
+    "mainVariation": 1268261000003,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "1/36",
+        "article": 1268261002,
+        "image": "./img/Frauen/Mode/Seidentop von Sandro.jpg"
+      },
+      {
+        "name": "2/38",
+        "article": 1268261003,
+        "image": "./img/Frauen/Mode/Seidentop von Sandro.jpg"
+      },
+      {
+        "name": "3/40",
+        "article": 1268261004,
+        "image": "./img/Frauen/Mode/Seidentop von Sandro.jpg"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "Wickelbluse-Maje",
     "sort": 9,
-    "name": "Schlupfbluse von APIECE APART",
-    "image": "./img/Frauen/Mode/Bluse-Apart-Perle.jpg",
-    "priceFull": 379.9,
-    "price25": 94.95,
-    "mainVariation": 1265512405,
+    "name": "Wickelbluse von MAJE",
+    "image": "./img/Frauen/Mode/Wickelbluse von Maje.jpg",
+    "priceFull": 259,
+    "price25": 64.75,
+    "mainVariation": 1267611500920,
     "variationName": "Grösse",
     "variations": [
       {
-        "name": "34",
-        "article": 1265512405,
-        "image": "./img/Frauen/Mode/Bluse-Apart-Perle.jpg"
+        "name": "1/36",
+        "article": 1267611501,
+        "image": "./img/Frauen/Mode/Wickelbluse von Maje.jpg"
       },
       {
-        "name": "36",
-        "article": 1265512406,
-        "image": "./img/Frauen/Mode/Bluse-Apart-Perle.jpg"
+        "name": "2/38",
+        "article": 1267611502,
+        "image": "./img/Frauen/Mode/Wickelbluse von Maje.jpg"
       },
       {
-        "name": "38",
-        "article": 1265512407,
-        "image": "./img/Frauen/Mode/Bluse-Apart-Perle.jpg"
+        "name": "3/40",
+        "article": 1267611503,
+        "image": "./img/Frauen/Mode/Wickelbluse von Maje.jpg"
       },
       {
-        "name": "40",
-        "article": 1265512408,
-        "image": "./img/Frauen/Mode/Bluse-Apart-Perle.jpg"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "mode",
-    "urlPath": "Wickelbluse-Kooples",
-    "sort": 10,
-    "name": "Wickelbluse von THE KOOPLES",
-    "image": "./img/Frauen/Mode/Bluse-Kooples-Dunkelrot.jpg",
-    "priceFull": 340,
-    "price25": 85,
-    "mainVariation": 1267994502,
-    "variationName": "Grösse",
-    "variations": [
-      {
-        "name": "1",
-        "article": 1267994502,
-        "image": "./img/Frauen/Mode/Bluse-Kooples-Dunkelrot.jpg"
-      },
-      {
-        "name": "2",
-        "article": 1267994503,
-        "image": "./img/Frauen/Mode/Bluse-Kooples-Dunkelrot.jpg"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "mode",
-    "urlPath": "Marlenehose-Milly",
-    "sort": 11,
-    "name": "Marlenehose von MILLY",
-    "image": "./img/Frauen/Mode/Hose-Milly-Blau.jpg",
-    "priceFull": 529.9,
-    "price25": 132.45,
-    "mainVariation": 1263947801,
-    "variationName": "Grösse",
-    "variations": [
-      {
-        "name": "34",
-        "article": 1263947801,
-        "image": "./img/Frauen/Mode/Hose-Milly-Blau.jpg"
-      },
-      {
-        "name": "36",
-        "article": 1263947802,
-        "image": "./img/Frauen/Mode/Hose-Milly-Blau.jpg"
-      },
-      {
-        "name": "38",
-        "article": 1263947803,
-        "image": "./img/Frauen/Mode/Hose-Milly-Blau.jpg"
-      },
-      {
-        "name": "40",
-        "article": 1263947804,
-        "image": "./img/Frauen/Mode/Hose-Milly-Blau.jpg"
+        "name": "4/42",
+        "article": 1267611504,
+        "image": "./img/Frauen/Mode/Wickelbluse von Maje.jpg"
       }
     ]
   },
@@ -759,7 +676,7 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Strickjacke-Antwerp",
-    "sort": 12,
+    "sort": 10,
     "name": "Strickjacke von Essentiel Antwerp",
     "image": "./img/Frauen/Mode/Strickjacke-Essentiel-Navy.jpg",
     "priceFull": 269.9,
@@ -793,7 +710,7 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Bleistiftrock-Globus",
-    "sort": 13,
+    "sort": 11,
     "name": "Rock von GLOBUS ESSENTIALS",
     "image": "./img/Frauen/Mode/Rock-Globus-Hellblau.jpg",
     "priceFull": 229.9,
@@ -832,7 +749,7 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Stoffhose-Cerano",
-    "sort": 14,
+    "sort": 12,
     "name": "Stoff Hose von LUISA CERANO",
     "image": "./img/Frauen/Mode/Stoffhose-Cerano-Schwarz.jpg",
     "priceFull": 279.9,
@@ -871,7 +788,7 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Blazer-Boss",
-    "sort": 15,
+    "sort": 13,
     "name": "Blazer von BOSS",
     "image": "./img/Frauen/Mode/Blazer-Boss-Schwarz.jpg",
     "priceFull": 499,
@@ -910,7 +827,7 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Cocktailkleid-Three-Floor",
-    "sort": 16,
+    "sort": 14,
     "name": "Cocktailkleid von THREE FLOOR",
     "image": "./img/Frauen/Mode/Cocktailkleid-Threefloor-Schwarz.jpg",
     "priceFull": 479.9,
@@ -938,39 +855,39 @@
   {
     "group": "frauen",
     "subgroup": "mode",
-    "urlPath": "Kleid-Gianni",
-    "sort": 17,
-    "name": "Kleid von GANNI",
-    "image": "./img/Frauen/Mode/Kleid-Gianni-Rot.jpg",
-    "priceFull": 169.9,
-    "price25": 42.45,
-    "mainVariation": 1266171504,
+    "urlPath": "Kleid-Mykke-Hofmann",
+    "sort": 15,
+    "name": "Kleid von MYKKE HOFMANN",
+    "image": "./img/Frauen/Mode/Kleid von Mykke Hofmann.jpg",
+    "priceFull": 499.9,
+    "price25": 124.95,
+    "mainVariation": 1264802700120,
     "variationName": "Grösse",
     "variations": [
       {
         "name": "34",
-        "article": 1266171504,
-        "image": "./img/Frauen/Mode/Kleid-Gianni-Rot.jpg"
+        "article": 1264802706,
+        "image": "./img/Frauen/Mode/Kleid von Mykke Hofmann.jpg"
       },
       {
         "name": "36",
-        "article": 1266171505,
-        "image": "./img/Frauen/Mode/Kleid-Gianni-Rot.jpg"
+        "article": 1264802707,
+        "image": "./img/Frauen/Mode/Kleid von Mykke Hofmann.jpg"
       },
       {
         "name": "38",
-        "article": 1266171506,
-        "image": "./img/Frauen/Mode/Kleid-Gianni-Rot.jpg"
+        "article": 1264802708,
+        "image": "./img/Frauen/Mode/Kleid von Mykke Hofmann.jpg"
       },
       {
         "name": "40",
-        "article": 1266171507,
-        "image": "./img/Frauen/Mode/Kleid-Gianni-Rot.jpg"
+        "article": 1264802709,
+        "image": "./img/Frauen/Mode/Kleid von Mykke Hofmann.jpg"
       },
       {
         "name": "42",
-        "article": 1266171508,
-        "image": "./img/Frauen/Mode/Kleid-Gianni-Rot.jpg"
+        "article": 1264802710,
+        "image": "./img/Frauen/Mode/Kleid von Mykke Hofmann.jpg"
       }
     ]
   },
