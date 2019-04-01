@@ -1,5 +1,5 @@
 ---
-urlPath: Handtasche-Coccinelle.jpg
+urlPath: Handtasche-Coccinelle
 ---
 # Beschreibung
 - Innenausstattung ohne Futter verarbeitet
