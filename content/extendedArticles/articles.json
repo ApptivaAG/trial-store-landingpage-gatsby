@@ -1633,8 +1633,48 @@
   {
     "group": "herren",
     "subgroup": "accessoires",
-    "urlPath": "Rucksack-MCM",
+    "urlPath": "Reisetasche-La-Martina",
+    "sort": 2,
+    "name": "Reisetasche von LA MARTINA",
+    "image": "./img/Herren/Accessoires/Reisetasche-LaMartina.jpg",
+    "priceFull": 599.9,
+    "price25": 149.95,
+    "mainVariation": 1263656201,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Braun",
+        "article": 1263656201,
+        "image": "./img/Herren/Accessoires/Reisetasche-LaMartina.jpg",
+        "color": "#753700"
+      }
+    ]
+  },
+  {
+    "group": "herren",
+    "subgroup": "accessoires",
+    "urlPath": "Reisetasche-Northface",
     "sort": 3,
+    "name": "Reisetasche von THE NORTH FACE",
+    "image": "./img/Herren/Accessoires/Reisetasche-Northface.jpg",
+    "priceFull": 139.9,
+    "price25": 34.95,
+    "mainVariation": 1264596702,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Royal",
+        "article": 1264596702,
+        "image": "./img/Herren/Accessoires/Reisetasche-Northface.jpg",
+        "color": "#002CAA"
+      }
+    ]
+  },
+  {
+    "group": "herren",
+    "subgroup": "accessoires",
+    "urlPath": "Rucksack-MCM",
+    "sort": 4,
     "name": "Rucksack \"Stark Side Stud Medium\" von MCM",
     "image": "./img/Herren/Accessoires/Rucksack-MCM-Cognac.jpg",
     "priceFull": 829,
@@ -1660,7 +1700,7 @@
     "group": "herren",
     "subgroup": "accessoires",
     "urlPath": "Businesstasche-Navyboot",
-    "sort": 4,
+    "sort": 5,
     "name": "Businesstasche schwarz von NAVYBOOT",
     "image": "./img/Herren/Accessoires/Businesstasche-Navyboot-Schwarzjpg.jpg",
     "priceFull": 299,
@@ -1685,8 +1725,48 @@
   {
     "group": "herren",
     "subgroup": "accessoires",
+    "urlPath": "Sonnenbrille-Polo-Ralph-Lauren",
+    "sort": 6,
+    "name": "Sonnenbrille \"0PH4110\" von POLO RALPH LAUREN",
+    "image": "./img/Herren/Accessoires/Sonnenbrille-RalphLauren.jpg",
+    "priceFull": 199,
+    "price25": 49.75,
+    "mainVariation": 1173598400,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Silberfarben",
+        "article": 1173598400,
+        "image": "./img/Herren/Accessoires/Sonnenbrille-RalphLauren.jpg",
+        "color": "#E6E6E6"
+      }
+    ]
+  },
+  {
+    "group": "herren",
+    "subgroup": "accessoires",
+    "urlPath": "Sonnenbrille-Ahlem",
+    "sort": 7,
+    "name": "Sonnenbrille \"Place d'Anvers\" von AHLEM",
+    "image": "./img/Herren/Accessoires/Sonnenbrille-Ahlem-Rosegold.jpg",
+    "priceFull": 559.9,
+    "price25": 139.95,
+    "mainVariation": 1263017401,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Roségold",
+        "article": 1263017401,
+        "image": "./img/Herren/Accessoires/Sonnenbrille-Ahlem-Rosegold.jpg",
+        "color": "rgb(240, 213, 189)"
+      }
+    ]
+  },
+  {
+    "group": "herren",
+    "subgroup": "accessoires",
     "urlPath": "Uhr-Fossil",
-    "sort": 5,
+    "sort": 8,
     "name": "Armbanduhr mit Lederband von Fossil",
     "image": "./img/Herren/Accessoires/Uhr-Fossil-Mocca.jpg",
     "priceFull": 239,
@@ -1706,7 +1786,7 @@
     "group": "herren",
     "subgroup": "accessoires",
     "urlPath": "Uhr-Armani",
-    "sort": 6,
+    "sort": 9,
     "name": "Armbanduhr mit Edelstahlband von EMPORIO ARMANI",
     "image": "./img/Herren/Accessoires/Uhr-Armani-Dunkelblau.jpg",
     "priceFull": 299,
@@ -1732,7 +1812,7 @@
     "group": "herren",
     "subgroup": "accessoires",
     "urlPath": "Krawatte-Windsor",
-    "sort": 7,
+    "sort": 10,
     "name": "Krawatte aus Seide von WINDSOR",
     "image": "./img/Herren/Accessoires/Krawatte-Windsor-Navy.jpg",
     "priceFull": 119,
@@ -1752,7 +1832,7 @@
     "group": "herren",
     "subgroup": "accessoires",
     "urlPath": "Krawatte-Eton",
-    "sort": 8,
+    "sort": 11,
     "name": "Krawatte aus Seide von ETON",
     "image": "./img/Herren/Accessoires/Krawatte-Eton-Navy.jpg",
     "priceFull": 149.9,
@@ -1772,7 +1852,7 @@
     "group": "herren",
     "subgroup": "accessoires",
     "urlPath": "Krawatte-Eton",
-    "sort": 9,
+    "sort": 12,
     "name": "Krawatte aus Seide von ETON",
     "image": "./img/Herren/Accessoires/Krawatte-Eton-Orange.jpg",
     "priceFull": 99.9,
@@ -1797,26 +1877,6 @@
         "article": 1266913001,
         "image": "./img/Herren/Accessoires/Krawatte-Eton-Navy-Punkte.jpg",
         "color": "rgb(0, 39, 77)"
-      }
-    ]
-  },
-  {
-    "group": "herren",
-    "subgroup": "accessoires",
-    "urlPath": "Sonnenbrille-Ahlem",
-    "sort": 10,
-    "name": "Sonnenbrille \"Place d'Anvers\" von AHLEM",
-    "image": "./img/Herren/Accessoires/Sonnenbrille-Ahlem-Rosegold.jpg",
-    "priceFull": 559.9,
-    "price25": 139.95,
-    "mainVariation": 1263017401,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Roségold",
-        "article": 1263017401,
-        "image": "./img/Herren/Accessoires/Sonnenbrille-Ahlem-Rosegold.jpg",
-        "color": "rgb(240, 213, 189)"
       }
     ]
   },
