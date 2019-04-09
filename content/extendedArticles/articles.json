@@ -244,12 +244,12 @@
     "image": "./img/Frauen/Taschen/Beuteltasche-Montelliez-Mollerus.jpg",
     "priceFull": 849,
     "price25": 212.25,
-    "mainVariation": 1266138700739,
+    "mainVariation": 1266138701,
     "variationName": "Farbe",
     "variations": [
       {
         "name": "Schwarz",
-        "article": 1266138700739,
+        "article": 1266138701,
         "image": "./img/Frauen/Taschen/Beuteltasche-Montelliez-Mollerus.jpg",
         "color": "#000000"
       }
