@@ -204,12 +204,32 @@
     ]
   },
   {
+     "group": "frauen",
+    "subgroup": "bags",
+    "urlPath": "Beuteltasche-Dryden-Debby-Ralph-Lauren",
+    "sort": 10,
+    "name": "Beuteltasche \"Dryden Debby\" von LAUREN RALPH LAUREN,
+    "image": "./img/Frauen/Taschen/Beuteltasche_DrydenDebby_Lauren.jpg",
+    "priceFull": 329.90,
+    "price25": 82.45,
+    "mainVariation": 1266098201,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Schwarz",
+        "article": 1266098201,
+        "image": "./img/Frauen/Taschen/Beuteltasche_DrydenDebby_Lauren.jpg",
+        "color": "#000000"
+      }
+    ]
+  },
+  {
     "group": "frauen",
     "subgroup": "bags",
     "urlPath": "shopper-mollerus",
-    "sort": 10,
+    "sort": 11,
     "name": "Shopper \"Bern\" von MAISON MOLLERUS",
-    "image": "./img/Frauen/Taschen/Shopper-Mollerus-schwarz.jpg",
+    "image": "./img/Frauen/Taschen/Beuteltasche_DrydenDebby_Lauren.jpg",
     "priceFull": 499,
     "price25": 125,
     "mainVariation": 1185230101,
@@ -239,7 +259,7 @@
     "group": "frauen",
     "subgroup": "bags",
     "urlPath": "Beuteltasche-Mollerus",
-    "sort": 11,
+    "sort": 12,
     "name": "Beuteltasche \"Montelliez\" von MAISON MOLLERUS",
     "image": "./img/Frauen/Taschen/Beuteltasche-Montelliez-Mollerus.jpg",
     "priceFull": 849,
@@ -251,26 +271,6 @@
         "name": "Schwarz",
         "article": 1266138701,
         "image": "./img/Frauen/Taschen/Beuteltasche-Montelliez-Mollerus.jpg",
-        "color": "#000000"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "bags",
-    "urlPath": "Beuteltasche-Rykiel",
-    "sort": 12,
-    "name": "Schultertasche \"Medium Tote\" von SONIA RYKIEL",
-    "image": "./img/Frauen/Taschen/Sonia-Rykiel-Tasche-Farbig.jpg",
-    "priceFull": 829,
-    "price25": 207.25,
-    "mainVariation": 1266987603,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Schwarz",
-        "article": 1266987603,
-        "image": "./img/Frauen/Taschen/Sonia-Rykiel-Tasche-Farbig.jpg",
         "color": "#000000"
       }
     ]
