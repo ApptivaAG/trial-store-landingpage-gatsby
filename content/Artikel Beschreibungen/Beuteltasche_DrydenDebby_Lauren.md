@@ -1,5 +1,5 @@
 ---
-urlPath: Beuteltasche-Dryden-Debby-Ralph-Lauren
+urlPath: Beuteltasche-Dryden-Debby-Lauren
 ---
 # Beschreibung
 - Innenausstattung: Ohne Futter, Steckfächer
