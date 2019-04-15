@@ -206,30 +206,10 @@
   {
     "group": "frauen",
     "subgroup": "bags",
-    "urlPath": "Beuteltasche-Dryden-Debby-Ralph-Lauren",
-    "sort": 10,
-    "name": "Beuteltasche \"Dryden Debby\" von LAUREN RALPH LAUREN,
-    "image": "./img/Frauen/Taschen/Beuteltasche_DrydenDebby_Lauren.jpg",
-    "priceFull": 329.90,
-    "price25": 82.45,
-    "mainVariation": 1266098201,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Schwarz",
-        "article": 1266098201,
-        "image": "./img/Frauen/Taschen/Beuteltasche_DrydenDebby_Lauren.jpg",
-        "color": "#000000"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "bags",
     "urlPath": "shopper-mollerus",
     "sort": 11,
     "name": "Shopper \"Bern\" von MAISON MOLLERUS",
-    "image": "./img/Frauen/Taschen/Beuteltasche_DrydenDebby_Lauren.jpg",
+    "image": "./img/Frauen/Taschen/Shopper-Mollerus-schwarz.jpg",
     "priceFull": 499,
     "price25": 125,
     "mainVariation": 1185230101,
@@ -264,13 +244,33 @@
     "image": "./img/Frauen/Taschen/Beuteltasche-Montelliez-Mollerus.jpg",
     "priceFull": 849,
     "price25": 212.25,
-    "mainVariation": 1266138701,
+    "mainVariation": 1266138700739,
     "variationName": "Farbe",
     "variations": [
       {
         "name": "Schwarz",
-        "article": 1266138701,
+        "article": 1266138700739,
         "image": "./img/Frauen/Taschen/Beuteltasche-Montelliez-Mollerus.jpg",
+        "color": "#000000"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "bags",
+    "urlPath": "Beuteltasche-Dryden-Debby-Lauren",
+    "sort": 10,
+    "name": "Beuteltasche \"Dryden Debby\" von LAUREN RALPH LAUREN",
+    "image": "./img/Frauen/Taschen/Beuteltasche-DrydenDebby-Lauren.jpg",
+    "priceFull": 329.9,
+    "price25": 82.45,
+    "mainVariation": 1266098201,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Schwarz",
+        "article": 1266098201,
+        "image": "./img/Frauen/Taschen/Beuteltasche-DrydenDebby-Lauren.jpg",
         "color": "#000000"
       }
     ]
@@ -390,7 +390,7 @@
     "image": "./img/Frauen/Mode/Trenchcoat Calvin Klein.jpg",
     "priceFull": 499.9,
     "price25": 124.95,
-    "mainVariation": 1264327605,
+    "mainVariation": 1264327600801,
     "variationName": "Grösse",
     "variations": [
       {
@@ -429,7 +429,7 @@
     "image": "./img/Frauen/Mode/Jeansjacke von Ganni.jpg",
     "priceFull": 399.9,
     "price25": 99.95,
-    "mainVariation": 1267047801,
+    "mainVariation": 1267047800739,
     "variationName": "Grösse",
     "variations": [
       {
@@ -570,7 +570,7 @@
     "image": "./img/Frauen/Mode/Stoffhose von Emporio Armani.jpg",
     "priceFull": 479.9,
     "price25": 119.95,
-    "mainVariation": 1269112607,
+    "mainVariation": 1269112600502,
     "variationName": "Grösse",
     "variations": [
       {
@@ -604,7 +604,7 @@
     "image": "./img/Frauen/Mode/Seidentop von Sandro.jpg",
     "priceFull": 279,
     "price25": 69.95,
-    "mainVariation": 1268261002,
+    "mainVariation": 1268261000003,
     "variationName": "Grösse",
     "variations": [
       {
@@ -633,7 +633,7 @@
     "image": "./img/Frauen/Mode/Wickelbluse von Maje.jpg",
     "priceFull": 259,
     "price25": 64.75,
-    "mainVariation": 1267611501,
+    "mainVariation": 1267611500920,
     "variationName": "Grösse",
     "variations": [
       {
@@ -847,7 +847,7 @@
     "image": "./img/Frauen/Mode/Kleid von Mykke Hofmann.jpg",
     "priceFull": 499.9,
     "price25": 124.95,
-    "mainVariation": 1264802706,
+    "mainVariation": 1264802700120,
     "variationName": "Grösse",
     "variations": [
       {
@@ -1129,11 +1129,6 @@
       {
         "name": "48",
         "article": 265571418,
-        "image": "./img/Herren/Mode/Veston-Slim-Fit-Windsor.jpg"
-      },
-      {
-        "name": "50",
-        "article": 1265571419,
         "image": "./img/Herren/Mode/Veston-Slim-Fit-Windsor.jpg"
       },
       {
