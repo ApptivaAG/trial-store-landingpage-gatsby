@@ -1668,32 +1668,6 @@
   {
     "group": "herren",
     "subgroup": "accessoires",
-    "urlPath": "Rucksack-MCM",
-    "sort": 4,
-    "name": "Rucksack \"Stark Side Stud Medium\" von MCM",
-    "image": "./img/Herren/Accessoires/Rucksack-MCM-Cognac.jpg",
-    "priceFull": 829,
-    "price25": 207.25,
-    "mainVariation": 1107236703,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Cognac",
-        "article": 1107236703,
-        "image": "./img/Herren/Accessoires/Rucksack-MCM-Cognac.jpg",
-        "color": "#ab5c00"
-      },
-      {
-        "name": "Schwarz",
-        "article": 1107236702,
-        "image": "./img/Herren/Accessoires/Rucksack-MCM-Schwarz.jpg",
-        "color": "#000000"
-      }
-    ]
-  },
-  {
-    "group": "herren",
-    "subgroup": "accessoires",
     "urlPath": "Businesstasche-Navyboot",
     "sort": 5,
     "name": "Businesstasche schwarz von NAVYBOOT",
