@@ -126,26 +126,6 @@
   {
     "group": "frauen",
     "subgroup": "bags",
-    "urlPath": "Rucksack-mcm",
-    "sort": 6,
-    "name": "Rucksack von MCM",
-    "image": "./img/Frauen/Taschen/MCM-Rucksack-Cognac.jpg",
-    "priceFull": 1299.9,
-    "price25": 324.9,
-    "mainVariation": 1265860501,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Cognac",
-        "article": 1265860501,
-        "image": "./img/Frauen/Taschen/MCM-Rucksack-Cognac.jpg",
-        "color": "#ab5c00"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "bags",
     "urlPath": "Beuteltasche-Debby--Ralph-Lauren",
     "sort": 9,
     "name": "Beuteltasche \"Debby\" von LAUREN RALPH LAUREN",
