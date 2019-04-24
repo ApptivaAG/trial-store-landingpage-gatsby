@@ -106,26 +106,6 @@
   {
     "group": "frauen",
     "subgroup": "bags",
-    "urlPath": "Rucksack-Studs-mcm",
-    "sort": 5,
-    "name": "Rucksack \"Stark Side Studs Small\" von MCM",
-    "image": "./img/Frauen/Taschen/MCM-Rucksack-Rosa.jpg",
-    "priceFull": 775,
-    "price25": 193.75,
-    "mainVariation": 1107236807,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Rosa",
-        "article": 1107236807,
-        "image": "./img/Frauen/Taschen/MCM-Rucksack-Rosa.jpg",
-        "color": "#ffc6de"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "bags",
     "urlPath": "Beuteltasche-Debby--Ralph-Lauren",
     "sort": 9,
     "name": "Beuteltasche \"Debby\" von LAUREN RALPH LAUREN",
