@@ -2,8 +2,28 @@
   {
     "group": "frauen",
     "subgroup": "bags",
-    "urlPath": "Umhaengetasche-Love-Moschino",
+    "urlPath": "Schultertasche-Proenza-Schouler",
     "sort": 1,
+    "name": "Schultertasche von Proenza Schouler",
+    "image": "./img/Frauen/Taschen/Schultertasche-Proenza-Schouler.jpg",
+    "priceFull": 2149,
+    "price25": 537.25,
+    "mainVariation": 1271925302,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Schwarz",
+        "article": 1271925302,
+        "image": "./img/Frauen/Taschen/Schultertasche-Proenza-Schouler.jpg",
+        "color": "#000000"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "bags",
+    "urlPath": "Umhaengetasche-Love-Moschino",
+    "sort": 2,
     "name": "Umhängetasche von LOVE MOSCHINO",
     "image": "./img/Frauen/Taschen/Moschino-Tasche-Gelb.jpg",
     "priceFull": 179.9,
@@ -29,7 +49,7 @@
     "group": "frauen",
     "subgroup": "bags",
     "urlPath": "Umhaengetasche-Marco-Jacobs",
-    "sort": 2,
+    "sort": 3,
     "name": "Umhängetasche \"Snapshot\" von MARC JACOBS",
     "image": "./img/Frauen/Taschen/Marc-Jacobs-Klein-Tasche.jpg",
     "priceFull": 379.9,
@@ -61,7 +81,7 @@
     "group": "frauen",
     "subgroup": "bags",
     "urlPath": "Handtasche-Navyboot",
-    "sort": 3,
+    "sort": 4,
     "name": "Handtasche von Navyboot",
     "image": "./img/Frauen/Taschen/Navyboot-Tasche-Navy.jpg",
     "priceFull": 349,
@@ -87,7 +107,7 @@
     "group": "frauen",
     "subgroup": "bags",
     "urlPath": "Umhaengetasche-mcm",
-    "sort": 4,
+    "sort": 5,
     "name": "Umhängetasche \"Patricia\" von MCM",
     "image": "./img/Frauen/Taschen/MCM-Tasche-Patricia.jpg",
     "priceFull": 925,
@@ -106,20 +126,26 @@
   {
     "group": "frauen",
     "subgroup": "bags",
-    "urlPath": "Beuteltasche-Debby--Ralph-Lauren",
-    "sort": 9,
-    "name": "Beuteltasche \"Debby\" von LAUREN RALPH LAUREN",
-    "image": "./img/Frauen/Taschen/Beuteltasche-Ralp-Lauren.jpg",
-    "priceFull": 299.9,
-    "price25": 74.95,
-    "mainVariation": 1270055700002,
+    "urlPath": "Rucksack-Stark-Side-Stud",
+    "sort": 6,
+    "name": "Rucksack \"Stark Side Studs\" von MCM",
+    "image": "./img/Frauen/Taschen/Rucksack-Stark-Side-MCM-Schwarz.jpg",
+    "priceFull": 825,
+    "price25": 206.25,
+    "mainVariation": 1256539702,
     "variationName": "Farbe",
     "variations": [
       {
+        "name": "Schwarz",
+        "article": 1256539702,
+        "image": "./img/Frauen/Taschen/Rucksack-Stark-Side-MCM-Schwarz.jpg",
+        "color": "#000000"
+      },
+      {
         "name": "Beige",
-        "article": 1270055700002,
-        "image": "./img/Frauen/Taschen/MCM-Beutel-Cognac.jpg",
-        "color": "#e47f11"
+        "article": 1256539704,
+        "image": "./img/Frauen/Taschen/Rucksack-Stark-Side-MCM-Beige.jpg",
+        "color": "#E0C791"
       }
     ]
   },
@@ -160,6 +186,46 @@
         "article": 1266247404,
         "image": "./img/Frauen/Taschen/MCM-Tasche-Cognac.jpg",
         "color": "#ab5c00"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "bags",
+    "urlPath": "Beuteltasche-Debby--Ralph-Lauren",
+    "sort": 9,
+    "name": "Beuteltasche \"Debby\" von LAUREN RALPH LAUREN",
+    "image": "./img/Frauen/Taschen/Beuteltasche-Ralp-Lauren.jpg",
+    "priceFull": 299.9,
+    "price25": 74.95,
+    "mainVariation": 1270055700002,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Beige",
+        "article": 1270055700002,
+        "image": "./img/Frauen/Taschen/MCM-Beutel-Cognac.jpg",
+        "color": "#e47f11"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "bags",
+    "urlPath": "Beuteltasche-Dryden-Debby-Lauren",
+    "sort": 10,
+    "name": "Beuteltasche \"Dryden Debby\" von LAUREN RALPH LAUREN",
+    "image": "./img/Frauen/Taschen/Beuteltasche-DrydenDebby-Lauren.jpg",
+    "priceFull": 329.9,
+    "price25": 82.45,
+    "mainVariation": 1266098201,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Schwarz",
+        "article": 1266098201,
+        "image": "./img/Frauen/Taschen/Beuteltasche-DrydenDebby-Lauren.jpg",
+        "color": "#000000"
       }
     ]
   },
@@ -218,20 +284,32 @@
   {
     "group": "frauen",
     "subgroup": "bags",
-    "urlPath": "Beuteltasche-Dryden-Debby-Lauren",
-    "sort": 10,
-    "name": "Beuteltasche \"Dryden Debby\" von LAUREN RALPH LAUREN",
-    "image": "./img/Frauen/Taschen/Beuteltasche-DrydenDebby-Lauren.jpg",
-    "priceFull": 329.9,
-    "price25": 82.45,
-    "mainVariation": 1266098201,
+    "urlPath": "Rucksack-Corvatch-Mollerus",
+    "sort": 13,
+    "name": "Rucksack \"Corvatch\" von MAISON MOLLERUS",
+    "image": "./img/Frauen/Taschen/Rucksack-Corvatch-Mollerus-Schwarz.jpg",
+    "priceFull": 699,
+    "price25": 174.75,
+    "mainVariation": 1249201201,
     "variationName": "Farbe",
     "variations": [
       {
         "name": "Schwarz",
-        "article": 1266098201,
-        "image": "./img/Frauen/Taschen/Beuteltasche-DrydenDebby-Lauren.jpg",
+        "article": 1249201201,
+        "image": "./img/Frauen/Taschen/Rucksack-Corvatch-Mollerus-Schwarz.jpg",
         "color": "#000000"
+      },
+      {
+        "name": "Weiss",
+        "article": 1249201203,
+        "image": "Rucksack-Corvatch-Mollerus-Weiss.jpg",
+        "color": "#FFFFFF"
+      },
+      {
+        "name": "Taupe",
+        "article": 1249201204,
+        "image": "Rucksack-Corvatch-Mollerus-Taupe.jpg",
+        "color": "#A18E7E"
       }
     ]
   },
@@ -239,7 +317,7 @@
     "group": "frauen",
     "subgroup": "bags",
     "urlPath": "Umhaengetasche-JW-Anderson",
-    "sort": 13,
+    "sort": 14,
     "name": "Umhängetasche von JW ANDERSON",
     "image": "./img/Frauen/Taschen/Tasche-JWAnderson.jpg",
     "priceFull": 1249,
@@ -265,7 +343,7 @@
     "group": "frauen",
     "subgroup": "bags",
     "urlPath": "Handtasche-Michael-Kors",
-    "sort": 14,
+    "sort": 15,
     "name": "Handtasche \"Rollins\" von MICHAEL MICHAEL KORS",
     "image": "./img/Frauen/Taschen/Michael-Kors-Tasche-Dunkelrot.jpg",
     "priceFull": 459.9,
@@ -291,7 +369,7 @@
     "group": "frauen",
     "subgroup": "bags",
     "urlPath": "Handtasche-Coccinelle",
-    "sort": 15,
+    "sort": 16,
     "name": "Handtasche von COCCINELLE",
     "image": "./img/Frauen/Taschen/Handtasche-Coccinelle.jpg",
     "priceFull": 559,
@@ -1622,6 +1700,26 @@
         "article": 1264596702,
         "image": "./img/Herren/Accessoires/Reisetasche-Northface.jpg",
         "color": "#002CAA"
+      }
+    ]
+  },
+  {
+    "group": "herren",
+    "subgroup": "accessoires",
+    "urlPath": "Rucksack-MCM",
+    "sort": 4,
+    "name": "Rucksack von MCM",
+    "image": "./img/Herren/Accessoires/Rucksack-MCM-Schwarz.jpg",
+    "priceFull": 999.9,
+    "price25": 249.95,
+    "mainVariation": 1265860901,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Schwarz",
+        "article": 1265860901,
+        "image": "./img/Herren/Accessoires/Rucksack-MCM-Schwarz.jpg",
+        "color": "#000000"
       }
     ]
   },
