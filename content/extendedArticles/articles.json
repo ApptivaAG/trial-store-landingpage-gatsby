@@ -302,13 +302,13 @@
       {
         "name": "Weiss",
         "article": 1249201203,
-        "image": "Rucksack-Corvatch-Mollerus-Weiss.jpg",
+        "image": "./img/Frauen/Taschen/Rucksack-Corvatch-Mollerus-Weiss.jpg",
         "color": "#FFFFFF"
       },
       {
         "name": "Taupe",
         "article": 1249201204,
-        "image": "Rucksack-Corvatch-Mollerus-Taupe.jpg",
+        "image": "./img/Frauen/Taschen/Rucksack-Corvatch-Mollerus-Taupe.jpg",
         "color": "#A18E7E"
       }
     ]
