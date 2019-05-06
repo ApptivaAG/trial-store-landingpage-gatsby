@@ -192,26 +192,6 @@
   {
     "group": "frauen",
     "subgroup": "bags",
-    "urlPath": "Beuteltasche-Debby--Ralph-Lauren",
-    "sort": 9,
-    "name": "Beuteltasche \"Debby\" von LAUREN RALPH LAUREN",
-    "image": "./img/Frauen/Taschen/Beuteltasche-Ralp-Lauren.jpg",
-    "priceFull": 299.9,
-    "price25": 74.95,
-    "mainVariation": 1270055700002,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Beige",
-        "article": 1270055700002,
-        "image": "./img/Frauen/Taschen/MCM-Beutel-Cognac.jpg",
-        "color": "#e47f11"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "bags",
     "urlPath": "Beuteltasche-Dryden-Debby-Lauren",
     "sort": 10,
     "name": "Beuteltasche \"Dryden Debby\" von LAUREN RALPH LAUREN",
