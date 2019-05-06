@@ -25,18 +25,12 @@
     "urlPath": "Umhaengetasche-Love-Moschino",
     "sort": 2,
     "name": "Umhängetasche von LOVE MOSCHINO",
-    "image": "./img/Frauen/Taschen/Moschino-Tasche-Gelb.jpg",
+    "image": "./img/Frauen/Taschen/Moschin-Tasche-Cognac.jpg",
     "priceFull": 179.9,
     "price25": 44.9,
-    "mainVariation": 1268830803,
+    "mainVariation": 1268830804,
     "variationName": "Farbe",
     "variations": [
-      {
-        "name": "Gelb",
-        "article": 1268830803,
-        "image": "./img/Frauen/Taschen/Moschino-Tasche-Gelb.jpg",
-        "color": "rgb(255,247,0)"
-      },
       {
         "name": "Cognac",
         "article": 1268830804,
@@ -146,26 +140,6 @@
         "article": 1256539704,
         "image": "./img/Frauen/Taschen/Rucksack-Stark-Side-MCM-Beige.jpg",
         "color": "#E0C791"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "bags",
-    "urlPath": "Guerteltasche-mcm",
-    "sort": 7,
-    "name": "Gürteltasche von MCM",
-    "image": "./img/Frauen/Taschen/MCM-Bauchtasche-Cognac.jpg",
-    "priceFull": 649.9,
-    "price25": 162.4,
-    "mainVariation": 1265860402,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Cognac",
-        "article": 1265860402,
-        "image": "./img/Frauen/Taschen/MCM-Bauchtasche-Cognac.jpg",
-        "color": "#ab5c00"
       }
     ]
   },
@@ -342,26 +316,6 @@
         "article": 1262787502,
         "image": "./img/Frauen/Taschen/Michael-Kors-Tasche-Schwarz.jpg",
         "color": "#000000"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "bags",
-    "urlPath": "Handtasche-Coccinelle",
-    "sort": 16,
-    "name": "Handtasche von COCCINELLE",
-    "image": "./img/Frauen/Taschen/Handtasche-Coccinelle.jpg",
-    "priceFull": 559,
-    "price25": 139.75,
-    "mainVariation": 1268878100000,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Weiss",
-        "article": 1268878100000,
-        "image": "./img/Frauen/Taschen/Handtasche-Coccinelle.jpg",
-        "color": "rgb(255, 255, 255)"
       }
     ]
   },
@@ -553,35 +507,6 @@
   {
     "group": "frauen",
     "subgroup": "mode",
-    "urlPath": "Rock-Cedric-Charlier",
-    "sort": 6,
-    "name": "Rock von CEDRIC CHARLIER",
-    "image": "./img/Frauen/Mode/Rock-Charlier-Blau.jpg",
-    "priceFull": 449.9,
-    "price25": 112.45,
-    "mainVariation": 1264338004,
-    "variationName": "Grösse",
-    "variations": [
-      {
-        "name": "36",
-        "article": 1264338004,
-        "image": "./img/Frauen/Mode/Rock-Charlier-Blau.jpg"
-      },
-      {
-        "name": "38",
-        "article": 1264338005,
-        "image": "./img/Frauen/Mode/Rock-Charlier-Blau.jpg"
-      },
-      {
-        "name": "40",
-        "article": 1264338006,
-        "image": "./img/Frauen/Mode/Rock-Charlier-Blau.jpg"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "mode",
     "urlPath": "Stoffhose-Emporio-Armani",
     "sort": 7,
     "name": "Stoff Hose von EMPORIO ARMANI",
@@ -610,69 +535,6 @@
         "name": "42",
         "article": 1269112610,
         "image": "./img/Frauen/Mode/Stoffhose von Emporio Armani.jpg"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "mode",
-    "urlPath": "Seidentop-Sandro",
-    "sort": 8,
-    "name": "Seiden Top von SANDRO",
-    "image": "./img/Frauen/Mode/Seidentop von Sandro.jpg",
-    "priceFull": 279,
-    "price25": 69.95,
-    "mainVariation": 1268261002,
-    "variationName": "Grösse",
-    "variations": [
-      {
-        "name": "1/36",
-        "article": 1268261002,
-        "image": "./img/Frauen/Mode/Seidentop von Sandro.jpg"
-      },
-      {
-        "name": "2/38",
-        "article": 1268261003,
-        "image": "./img/Frauen/Mode/Seidentop von Sandro.jpg"
-      },
-      {
-        "name": "3/40",
-        "article": 1268261004,
-        "image": "./img/Frauen/Mode/Seidentop von Sandro.jpg"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "mode",
-    "urlPath": "Wickelbluse-Maje",
-    "sort": 9,
-    "name": "Wickelbluse von MAJE",
-    "image": "./img/Frauen/Mode/Wickelbluse von Maje.jpg",
-    "priceFull": 259,
-    "price25": 64.75,
-    "mainVariation": 1267611501,
-    "variationName": "Grösse",
-    "variations": [
-      {
-        "name": "1/36",
-        "article": 1267611501,
-        "image": "./img/Frauen/Mode/Wickelbluse von Maje.jpg"
-      },
-      {
-        "name": "2/38",
-        "article": 1267611502,
-        "image": "./img/Frauen/Mode/Wickelbluse von Maje.jpg"
-      },
-      {
-        "name": "3/40",
-        "article": 1267611503,
-        "image": "./img/Frauen/Mode/Wickelbluse von Maje.jpg"
-      },
-      {
-        "name": "4/42",
-        "article": 1267611504,
-        "image": "./img/Frauen/Mode/Wickelbluse von Maje.jpg"
       }
     ]
   },
@@ -785,45 +647,6 @@
         "name": "42",
         "article": 1258021305,
         "image": "./img/Frauen/Mode/Stoffhose-Cerano-Schwarz.jpg"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "mode",
-    "urlPath": "Blazer-Boss",
-    "sort": 13,
-    "name": "Blazer von BOSS",
-    "image": "./img/Frauen/Mode/Blazer-Boss-Schwarz.jpg",
-    "priceFull": 499,
-    "price25": 124.75,
-    "mainVariation": 1252757606,
-    "variationName": "Grösse",
-    "variations": [
-      {
-        "name": "34",
-        "article": 1252757606,
-        "image": "./img/Frauen/Mode/Blazer-Boss-Schwarz.jpg"
-      },
-      {
-        "name": "36",
-        "article": 1252757601,
-        "image": "./img/Frauen/Mode/Blazer-Boss-Schwarz.jpg"
-      },
-      {
-        "name": "38",
-        "article": 1252757604,
-        "image": "./img/Frauen/Mode/Blazer-Boss-Schwarz.jpg"
-      },
-      {
-        "name": "40",
-        "article": 1252757605,
-        "image": "./img/Frauen/Mode/Blazer-Boss-Schwarz.jpg"
-      },
-      {
-        "name": "42",
-        "article": 1252757607,
-        "image": "./img/Frauen/Mode/Blazer-Boss-Schwarz.jpg"
       }
     ]
   },
@@ -1666,26 +1489,6 @@
   {
     "group": "herren",
     "subgroup": "accessoires",
-    "urlPath": "Reisetasche-Northface",
-    "sort": 3,
-    "name": "Reisetasche von THE NORTH FACE",
-    "image": "./img/Herren/Accessoires/Reisetasche-Northface.jpg",
-    "priceFull": 139.9,
-    "price25": 34.95,
-    "mainVariation": 1264596702,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Royal",
-        "article": 1264596702,
-        "image": "./img/Herren/Accessoires/Reisetasche-Northface.jpg",
-        "color": "#002CAA"
-      }
-    ]
-  },
-  {
-    "group": "herren",
-    "subgroup": "accessoires",
     "urlPath": "Rucksack-MCM",
     "sort": 4,
     "name": "Rucksack von MCM",
@@ -1772,26 +1575,6 @@
   {
     "group": "herren",
     "subgroup": "accessoires",
-    "urlPath": "Uhr-Fossil",
-    "sort": 8,
-    "name": "Armbanduhr mit Lederband von Fossil",
-    "image": "./img/Herren/Accessoires/Uhr-Fossil-Mocca.jpg",
-    "priceFull": 239,
-    "price25": 59.75,
-    "mainVariation": 1179634700,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Mocca",
-        "article": 1179634700,
-        "image": "./img/Herren/Accessoires/Uhr-Fossil-Mocca.jpg",
-        "color": "rgb(82, 42, 4)"
-      }
-    ]
-  },
-  {
-    "group": "herren",
-    "subgroup": "accessoires",
     "urlPath": "Uhr-Armani",
     "sort": 9,
     "name": "Armbanduhr mit Edelstahlband von EMPORIO ARMANI",
@@ -1831,26 +1614,6 @@
         "name": "Navy",
         "article": 1265566603,
         "image": "./img/Herren/Accessoires/Krawatte-Windsor-Navy.jpg",
-        "color": "rgb(0, 39, 77)"
-      }
-    ]
-  },
-  {
-    "group": "herren",
-    "subgroup": "accessoires",
-    "urlPath": "Krawatte-Eton",
-    "sort": 11,
-    "name": "Krawatte aus Seide von ETON",
-    "image": "./img/Herren/Accessoires/Krawatte-Eton-Navy.jpg",
-    "priceFull": 149.9,
-    "price25": 37.45,
-    "mainVariation": 1266914804,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Navy",
-        "article": 1266914804,
-        "image": "./img/Herren/Accessoires/Krawatte-Eton-Navy.jpg",
         "color": "rgb(0, 39, 77)"
       }
     ]
@@ -1916,26 +1679,6 @@
   {
     "group": "haushalt",
     "subgroup": "heim",
-    "urlPath": "Trolley-Rimowa",
-    "sort": 2,
-    "name": "Trolley CLASSIC von RIMOWA",
-    "image": "./img/Haushalt/Heim/Trolley-Rimowa-Silber.jpg",
-    "priceFull": 960,
-    "price25": 240,
-    "mainVariation": 1264797800,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Silberfarben",
-        "article": 1264797800,
-        "image": "./img/Haushalt/Heim/Trolley-Rimowa-Silber.jpg",
-        "color": "rgb(230, 230, 230)"
-      }
-    ]
-  },
-  {
-    "group": "haushalt",
-    "subgroup": "heim",
     "urlPath": "Handgepäck-Rimowa",
     "sort": 3,
     "name": "Handgepäck-Trolley CLASSIC von RIMOWA",
@@ -1982,84 +1725,6 @@
         "article": 1256084700,
         "image": "./img/Haushalt/Heim/Leuchte-Lumio-Grau.jpg",
         "color": "rgb(143, 143, 143)"
-      }
-    ]
-  },
-  {
-    "group": "haushalt",
-    "subgroup": "heim",
-    "urlPath": "Lautsprecher-Olufsen",
-    "sort": 5,
-    "name": "Bluetooth Lautsprecher BEOPLAY P6 von BANG&OLUFSEN",
-    "image": "./img/Haushalt/Heim/Lautsprecher-Olufsen-Nature.jpg",
-    "priceFull": 399,
-    "price25": 99.75,
-    "mainVariation": 1266816500,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Nature",
-        "article": 1266816500,
-        "image": "./img/Haushalt/Heim/Lautsprecher-Olufsen-Nature.jpg",
-        "color": "rgb(240, 235, 233)"
-      },
-      {
-        "name": "Schwarz",
-        "article": 1266816400,
-        "image": "./img/Haushalt/Heim/Lautsprecher-Olufsen-Schwarz.jpg",
-        "color": "#000000"
-      }
-    ]
-  },
-  {
-    "group": "haushalt",
-    "subgroup": "heim",
-    "urlPath": "Speaker-Ruark",
-    "sort": 6,
-    "name": "Multiroom Speaker MRx von RUARK AUDIO",
-    "image": "./img/Haushalt/Heim/Speaker-Ruarkaudio-Braun.jpg",
-    "priceFull": 498,
-    "price25": 124.5,
-    "mainVariation": 1265721900,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Braun",
-        "article": 1265721900,
-        "image": "./img/Haushalt/Heim/Speaker-Ruarkaudio-Braun.jpg",
-        "color": "rgb(117, 55, 0)"
-      },
-      {
-        "name": "Grau",
-        "article": 1265722000,
-        "image": "./img/Haushalt/Heim/Speaker-Ruarkaudio-Grau.jpg",
-        "color": "rgb(143, 143, 143)"
-      }
-    ]
-  },
-  {
-    "group": "haushalt",
-    "subgroup": "heim",
-    "urlPath": "KitchenAid-Artisan",
-    "sort": 7,
-    "name": "KitchenAid KSM185 ARTISAN von KITCHENAID",
-    "image": "./img/Haushalt/Heim/KitchenAid-Rot-4.8L.jpg",
-    "priceFull": 1099,
-    "price25": 274.75,
-    "mainVariation": 1265667800,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Rot",
-        "article": 1265667800,
-        "image": "./img/Haushalt/Heim/KitchenAid-Rot-4.8L.jpg",
-        "color": "#a80304"
-      },
-      {
-        "name": "Kupfer",
-        "article": 1265667700,
-        "image": "./img/Haushalt/Heim/KitchenAid-Kupfer-4.8L.jpg",
-        "color": "rgb(212, 85, 0)"
       }
     ]
   },
