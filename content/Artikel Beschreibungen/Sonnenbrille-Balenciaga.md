@@ -1,5 +1,5 @@
 ---
-urlPath:
+urlPath: Sonnenbrille-Balenciaga
 ---
 # Beschreibung
 - Brillengläser in Pilotform
