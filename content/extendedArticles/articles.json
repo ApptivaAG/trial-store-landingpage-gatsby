@@ -1932,40 +1932,52 @@
   {
     "group": "haushalt",
     "subgroup": "heim",
-    "urlPath": "Trolley-Rimowa",
+    "urlPath": "Trolley-Rimowa-Topas",
     "sort": 2,
-    "name": "Trolley CLASSIC von RIMOWA",
-    "image": "./img/Haushalt/Heim/Trolley-Rimowa-Silber.jpg",
-    "priceFull": 960,
-    "price25": 240,
-    "mainVariation": 1264797800,
+    "name": "Trolley TOPAS TITANIUM MULTIWHEEL E-TAG von RIMOWA",
+    "image": "./img/Haushalt/Heim/Rimowa-Koffer-Beige.jpg",
+    "priceFull": 1100,
+    "price25": 275,
+    "mainVariation": 1174664700,
     "variationName": "Farbe",
     "variations": [
       {
-        "name": "Silberfarben",
-        "article": 1264797800,
-        "image": "./img/Haushalt/Heim/Trolley-Rimowa-Silber.jpg",
-        "color": "rgb(230, 230, 230)"
+        "name": "Beige",
+        "article": 1174664700,
+        "image": "./img/Haushalt/Heim/Rimowa-Koffer-Beige.jpg",
+        "color": "rgb(224, 199, 145)"
       }
     ]
   },
   {
     "group": "haushalt",
     "subgroup": "heim",
-    "urlPath": "Handgepäck-Rimowa",
+    "urlPath": "Sonnenschirm-Business-Pleasure",
     "sort": 3,
-    "name": "Handgepäck-Trolley CLASSIC von RIMOWA",
-    "image": "./img/Haushalt/Heim/Handgepaeck-Rimowa-Silber.jpg",
-    "priceFull": 800,
-    "price25": 200,
-    "mainVariation": 1264797700,
+    "name": "Sonnenschrim von BUSINESS & PLEASURE",
+    "image": "./img/Haushalt/Heim/Sonnenschirm-Rosa.jpg",
+    "priceFull": 199,
+    "price25": 49.75,
+    "mainVariation": 1270040000,
     "variationName": "Farbe",
     "variations": [
       {
-        "name": "Silberfarben",
-        "article": 1264797700,
-        "image": "./img/Haushalt/Heim/Handgepaeck-Rimowa-Silber.jpg",
-        "color": "rgb(230, 230, 230)"
+        "name": "Rosa gestreift",
+        "article": 1270040000,
+        "image": "./img/Haushalt/Heim/Sonnenschirm-Rosa.jpg",
+        "color": "#FFB3DB"
+      },
+      {
+        "name": "Hellblau gestreift",
+        "article": 1270039900,
+        "image": "./img/Haushalt/Heim/Sonnenschirm-Blau.jpg",
+        "color": "#0079DB"
+      },
+      {
+        "name": "Weiss",
+        "article": 1270039800,
+        "image": "./img/Haushalt/Heim/Sonnenschirm-Weiss.jpg",
+        "color": "#FFFFFF"
       }
     ]
   },
@@ -2006,18 +2018,24 @@
     "subgroup": "heim",
     "urlPath": "Lautsprecher-Olufsen",
     "sort": 5,
-    "name": "Bluetooth Lautsprecher BEOPLAY P6 von BANG&OLUFSEN",
-    "image": "./img/Haushalt/Heim/Lautsprecher-Olufsen-Nature.jpg",
-    "priceFull": 399,
-    "price25": 99.75,
-    "mainVariation": 1266816500,
+    "name": "Bluetooth Lautsprecher BEOPLAY M5 von BANG&OLUFSEN",
+    "image": "./img/Haushalt/Heim/Bluetooth-Lautsprecher-BangOlufsen-Nature.jpg",
+    "priceFull": 649,
+    "price25": 192.25,
+    "mainVariation": 1272213500,
     "variationName": "Farbe",
     "variations": [
       {
         "name": "Nature",
-        "article": 1266816500,
-        "image": "./img/Haushalt/Heim/Lautsprecher-Olufsen-Nature.jpg",
+        "article": 1272213500,
+        "image": "./img/Haushalt/Heim/Bluetooth-Lautsprecher-BangOlufsen-Nature.jpg",
         "color": "rgb(240, 235, 233)"
+      },
+      {
+        "name": "Schwarz",
+        "article": 1272213400,
+        "image": "./img/Haushalt/Heim/Bluetooth-Lautsprecher-BangOlufsen-Schwarz.jpg",
+        "color": "#000000"
       },
       {
         "name": "Schwarz",
@@ -2030,20 +2048,26 @@
   {
     "group": "haushalt",
     "subgroup": "heim",
-    "urlPath": "Speaker-Ruark",
+    "urlPath": "Kopfhörer-Olufsen",
     "sort": 6,
-    "name": "Multiroom Speaker MRx von RUARK AUDIO",
-    "image": "./img/Haushalt/Heim/Speaker-Ruarkaudio-Braun.jpg",
-    "priceFull": 498,
-    "price25": 124.5,
-    "mainVariation": 1265721900,
+    "name": "Bluetooth Kopfhörer von BANG&OLUFSEN",
+    "image": "./img/Haushalt/Heim/Kopfhörer-BangOlufsen-Silber.jpg",
+    "priceFull": 299,
+    "price25": 74.75,
+    "mainVariation": 908830009920,
     "variationName": "Farbe",
     "variations": [
       {
-        "name": "Braun",
-        "article": 1265721900,
-        "image": "./img/Haushalt/Heim/Speaker-Ruarkaudio-Braun.jpg",
-        "color": "rgb(117, 55, 0)"
+        "name": "Silberfarben",
+        "article": 908830009920,
+        "image": "./img/Haushalt/Heim/Kopfhörer-BangOlufsen-Silber.jpg",
+        "color": "#E6E6E6"
+      },
+      {
+        "name": "Schwarz",
+        "article": 908830009782,
+        "image": "./img/Haushalt/Heim/Kopfhörer-BangOlufsen-Schwarz.jpg",
+        "color": "#000000"
       },
       {
         "name": "Grau",
@@ -2056,34 +2080,8 @@
   {
     "group": "haushalt",
     "subgroup": "heim",
-    "urlPath": "KitchenAid-Artisan",
-    "sort": 7,
-    "name": "KitchenAid KSM185 ARTISAN von KITCHENAID",
-    "image": "./img/Haushalt/Heim/KitchenAid-Rot-4.8L.jpg",
-    "priceFull": 1099,
-    "price25": 274.75,
-    "mainVariation": 1265667800,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Rot",
-        "article": 1265667800,
-        "image": "./img/Haushalt/Heim/KitchenAid-Rot-4.8L.jpg",
-        "color": "#a80304"
-      },
-      {
-        "name": "Kupfer",
-        "article": 1265667700,
-        "image": "./img/Haushalt/Heim/KitchenAid-Kupfer-4.8L.jpg",
-        "color": "rgb(212, 85, 0)"
-      }
-    ]
-  },
-  {
-    "group": "haushalt",
-    "subgroup": "heim",
     "urlPath": "Saftpresse-Novis",
-    "sort": 8,
+    "sort": 7,
     "name": "Saftpresse VITA JUICER von NOVIS",
     "image": "./img/Haushalt/Heim/Saftpresse-Novis-Silber.jpg",
     "priceFull": 649,
@@ -2103,7 +2101,7 @@
     "group": "haushalt",
     "subgroup": "heim",
     "urlPath": "Aufschnittmaschine-Berkel",
-    "sort": 9,
+    "sort": 8,
     "name": "Aufschnittmaschine Red Line 250 von BERKEL",
     "image": "./img/Haushalt/Heim/Aufschnittmaschine-Berkel-Schwarz.jpg",
     "priceFull": 1239,
@@ -2123,7 +2121,7 @@
     "group": "haushalt",
     "subgroup": "heim",
     "urlPath": "Brotbackform-Henry",
-    "sort": 10,
+    "sort": 9,
     "name": "Brotbackform von EMILE HENRY",
     "image": "./img/Haushalt/Heim/Brotbackform-Henry-Offwhite.jpg",
     "priceFull": 99.9,
