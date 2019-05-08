@@ -953,20 +953,26 @@
   {
     "group": "frauen",
     "subgroup": "accessoires",
-    "urlPath": "Halskette-Jcrew",
+    "urlPath": "Halskette-JCrew",
     "sort": 2,
-    "name": "Halskette mit Anhänger von J.CREW",
-    "image": "./img/Frauen/Accessoires/Halskette-Crew-Pink.jpg",
-    "priceFull": 159.9,
-    "price25": 39.95,
-    "mainVariation": 1262644501,
+    "name": "Halskette von J.CREW",
+    "image": "./img/Frauen/Accessoires/Halskette-Hellblau-Jcrew.jpg",
+    "priceFull": 138,
+    "price25": 34.5,
+    "mainVariation": 1269993703,
     "variationName": "Farbe",
     "variations": [
       {
-        "name": "Pink",
-        "article": 1262644501,
-        "image": "./img/Frauen/Accessoires/Halskette-Crew-Pink.jpg",
-        "color": "rgb(255, 61, 158)"
+        "name": "Hellblau",
+        "article": 1269993703,
+        "image": "./img/Frauen/Accessoires/Halskette-Hellblau-Jcrew.jpg",
+        "color": "#9AC0CD"
+      },
+      {
+        "name": "Rot",
+        "article": 1269993702,
+        "image": "./img/Frauen/Accessoires/Halskette-Rot-Jcrew.jpg",
+        "color": "#F50002"
       }
     ]
   },
@@ -1053,26 +1059,20 @@
   {
     "group": "frauen",
     "subgroup": "accessoires",
-    "urlPath": "Armbanduhr-Michael-Kors",
+    "urlPath": "Armbanduhr-Leder-Fossil",
     "sort": 7,
-    "name": "Armbanduhr mit Edelstahlband von MICHAEL KORS",
-    "image": "./img/Frauen/Accessoires/Uhr-Michael-Kors-Rosegold.jpg",
-    "priceFull": 329,
-    "price25": 82.25,
-    "mainVariation": 1259016100,
+    "name": "Armbanduhr mit Lederband von Fossil",
+    "image": "./img/Frauen/Accessoires/Armbanduhr-Fossil-Mocca.jpg",
+    "priceFull": 229,
+    "price25": 57.25,
+    "mainVariation": "BP1095500500838",
     "variationName": "Farbe",
     "variations": [
       {
-        "name": "Roségold",
-        "article": 1259016100,
-        "image": "./img/Frauen/Accessoires/Uhr-Michael-Kors-Rosegold.jpg",
-        "color": "rgb(240, 213, 189)"
-      },
-      {
-        "name": "Silber",
-        "article": 1255725800,
-        "image": "./img/Frauen/Accessoires/Uhr-Michael-Kors-Silber.jpg",
-        "color": "rgb(230, 230, 230)"
+        "name": "Mocca",
+        "article": "BP1095500500838",
+        "image": "./img/Frauen/Accessoires/Armbanduhr-Fossil-Mocca.jpg",
+        "color": "#522A04"
       }
     ]
   },
@@ -1139,26 +1139,46 @@
   {
     "group": "frauen",
     "subgroup": "accessoires",
-    "urlPath": "Sonnenbrille-Peoples",
+    "urlPath": "Sonnenbrille-Balenciaga",
     "sort": 11,
-    "name": "Sonnenbrille \"LELAINA\" von OLIVER PEOPLES",
-    "image": "./img/Frauen/Accessoires/Sonnenbrille-Peoples-Blau.jpg",
-    "priceFull": 409.9,
-    "price25": 102.45,
-    "mainVariation": 1263753401,
+    "name": "Sonnenbrille \"BB0011S\" von BALENCIAGA",
+    "image": "./img/Frauen/Accessoires/Sonnenbrille-Balenciaga-Schwarz.jpg",
+    "priceFull": 419.9,
+    "price25": 104.95,
+    "mainVariation": "BU1162990009739",
     "variationName": "Farbe",
     "variations": [
       {
-        "name": "Blau",
-        "article": 1263753401,
-        "image": "./img/Frauen/Accessoires/Sonnenbrille-Peoples-Blau.jpg",
-        "color": "rgb(28, 0, 255)"
+        "name": "Schwarz",
+        "article": "BU1162990009739",
+        "image": "./img/Frauen/Accessoires/Sonnenbrille-Balenciaga-Schwarz.jpg",
+        "color": "#000000"
       },
       {
-        "name": "Grau",
-        "article": 1263753402,
-        "image": "./img/Frauen/Accessoires/Sonnenbrille-Peoples-Grau.jpg",
-        "color": "rgb(143, 143, 143)"
+        "name": "Gold",
+        "article": "BU1162990009921",
+        "image": "./img/Frauen/Accessoires/Sonnenbrille_Balenciaga_Gold.jpg",
+        "color": "#D19700"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "accessoires",
+    "urlPath": "Portemonnaie-MCM",
+    "sort": 12,
+    "name": "Portemonnaie \"Original\" von MCM",
+    "image": "./img/Frauen/Accessoires/Portemonnaie-Original-Cognac-MCM.jpg",
+    "priceFull": 379,
+    "price25": 94.75,
+    "mainVariation": 1239519803,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Cognac",
+        "article": 1239519803,
+        "image": "./img/Frauen/Accessoires/Portemonnaie-Original-Cognac-MCM.jpg",
+        "color": "#AB5C00"
       }
     ]
   },
