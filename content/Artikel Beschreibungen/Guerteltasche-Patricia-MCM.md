@@ -11,6 +11,6 @@ urlPath: Guerteltasche-Patricia-MCM
 - Obermaterial: Canvas beschichtet
 
 # Masse
-Länge: 18 cm
-Breite: 4 cm
-Höhe: 13 cm
+- Länge: 18 cm
+- Breite: 4 cm
+- Höhe: 13 cm
