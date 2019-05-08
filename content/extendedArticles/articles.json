@@ -1399,34 +1399,34 @@
   {
     "group": "herren",
     "subgroup": "mode",
-    "urlPath": "Sweatshirt-Ceremony",
+    "urlPath": "Sweatshirt-Armani",
     "sort": 7,
-    "name": "Sweatshirt von OPENING CEREMONY",
-    "image": "./img/Herren/Mode/Pullover-Ceremony-Schwarz.jpg",
-    "priceFull": 229.9,
-    "price25": 57.45,
-    "mainVariation": 1262619209,
+    "name": "Sweatshirt von EMPORIO ARMANI",
+    "image": "./img/Herren/Mode/Sweatshirt-Armani-Grün.jpg",
+    "priceFull": 349.9,
+    "price25": 87.45,
+    "mainVariation": 1261925907,
     "variationName": "Grösse",
     "variations": [
       {
-        "name": "S",
-        "article": 1262619209,
-        "image": "./img/Herren/Mode/Pullover-Ceremony-Schwarz.jpg"
-      },
-      {
         "name": "M",
-        "article": 1262619210,
-        "image": "./img/Herren/Mode/Pullover-Ceremony-Schwarz.jpg"
+        "article": 1261925907,
+        "image": "./img/Herren/Mode/Sweatshirt-Armani-Grün.jpg"
       },
       {
         "name": "L",
-        "article": 1262619211,
-        "image": "./img/Herren/Mode/Pullover-Ceremony-Schwarz.jpg"
+        "article": 1261925908,
+        "image": "./img/Herren/Mode/Sweatshirt-Armani-Grün.jpg"
       },
       {
         "name": "XL",
-        "article": 1262619212,
-        "image": "./img/Herren/Mode/Pullover-Ceremony-Schwarz.jpg"
+        "article": 1261925909,
+        "image": "./img/Herren/Mode/Sweatshirt-Armani-Grün.jpg"
+      },
+      {
+        "name": "XXL",
+        "article": 1261925910,
+        "image": "./img/Herren/Mode/Sweatshirt-Armani-Grün.jpg"
       }
     ]
   },
@@ -1496,107 +1496,29 @@
   {
     "group": "herren",
     "subgroup": "mode",
-    "urlPath": "Blouson-Industries",
+    "urlPath": "Hemd-Corneliani",
     "sort": 10,
-    "name": "Blouson von ALPHA INDUSTRIES",
-    "image": "./img/Herren/Mode/Blouson-Alpha-Schwarz.jpg",
-    "priceFull": 219.9,
-    "price25": 54.95,
-    "mainVariation": 1264594613,
+    "name": "Hemd Regular Fit von CC CORNELIANI",
+    "image": "./img/Herren/Mode/Hemd-Beige-Corneliani.jpg",
+    "priceFull": 199.9,
+    "price25": 49.95,
+    "mainVariation": 1266109204,
     "variationName": "Grösse",
     "variations": [
       {
-        "name": "S",
-        "article": 1264594613,
-        "image": "./img/Herren/Mode/Blouson-Alpha-Schwarz.jpg"
+        "name": "39",
+        "article": 1266109204,
+        "image": "./img/Herren/Mode/Hemd-Beige-Corneliani.jpg"
       },
       {
-        "name": "M",
-        "article": 1264594614,
-        "image": "./img/Herren/Mode/Blouson-Alpha-Schwarz.jpg"
+        "name": "40",
+        "article": 1266109205,
+        "image": "./img/Herren/Mode/Hemd-Beige-Corneliani.jpg"
       },
       {
-        "name": "L",
-        "article": 1264594615,
-        "image": "./img/Herren/Mode/Blouson-Alpha-Schwarz.jpg"
-      },
-      {
-        "name": "XL",
-        "article": 1264594616,
-        "image": "./img/Herren/Mode/Blouson-Alpha-Schwarz.jpg"
-      }
-    ]
-  },
-  {
-    "group": "herren",
-    "subgroup": "mode",
-    "urlPath": "Übergangsjacke-Scotch-Soda",
-    "sort": 11,
-    "name": "Übergangsjacke von SCOTCH&SODA",
-    "image": "./img/Herren/Mode/Jacke-Soda-Blau.jpg",
-    "priceFull": 439.9,
-    "price25": 109.95,
-    "mainVariation": 1261509606,
-    "variationName": "Grösse",
-    "variations": [
-      {
-        "name": "S",
-        "article": 1261509606,
-        "image": "./img/Herren/Mode/Jacke-Soda-Blau.jpg"
-      },
-      {
-        "name": "M",
-        "article": 1261509607,
-        "image": "./img/Herren/Mode/Jacke-Soda-Blau.jpg"
-      },
-      {
-        "name": "L",
-        "article": 1261509608,
-        "image": "./img/Herren/Mode/Jacke-Soda-Blau.jpg"
-      },
-      {
-        "name": "XL",
-        "article": 1261509609,
-        "image": "./img/Herren/Mode/Jacke-Soda-Blau.jpg"
-      }
-    ]
-  },
-  {
-    "group": "herren",
-    "subgroup": "mode",
-    "urlPath": "Trenchcoat-Kooples",
-    "sort": 12,
-    "name": "Trenchcoat von THE KOOPLES",
-    "image": "./img/Herren/Mode/Coat-Kooples-Beige.jpg",
-    "priceFull": 625,
-    "price25": 156.25,
-    "mainVariation": 1267874202,
-    "variationName": "Grösse",
-    "variations": [
-      {
-        "name": "46",
-        "article": 1267874202,
-        "image": "./img/Herren/Mode/Coat-Kooples-Beige.jpg"
-      },
-      {
-        "name": "48",
-        "article": 1267874203,
-        "image": "./img/Herren/Mode/Coat-Kooples-Beige.jpg"
-      },
-      {
-        "name": "50",
-        "article": 1267874204,
-        "image": "./img/Herren/Mode/Coat-Kooples-Beige.jpg"
-      },
-      {
-        "name": "52",
-        "article": 1267874205,
-        "image": "./img/Herren/Mode/Coat-Kooples-Beige.jpg"
-      },
-      {
-        "name": "54",
-        "article": 1257719744,
-        "image": "./img/Herren/Mode/Coat-Kooples-Beige.jpg"
+        "name": "41",
+        "article": 1266109206,
+        "image": "./img/Herren/Mode/Hemd-Beige-Corneliani.jpg"
       }
     ]
   },
@@ -1604,7 +1526,7 @@
     "group": "herren",
     "subgroup": "mode",
     "urlPath": "Veston-Hilfiger",
-    "sort": 13,
+    "sort": 11,
     "name": "Baukasten Veston Slim Fit navy von TOMMY HILFIGER TAILORED",
     "image": "./img/Herren/Mode/Veston-Hilfiger-Navy.jpg",
     "priceFull": 449.9,
@@ -1643,7 +1565,7 @@
     "group": "herren",
     "subgroup": "mode",
     "urlPath": "Hose-Hilfiger",
-    "sort": 14,
+    "sort": 12,
     "name": "Baukasten Hose navy von TOMMY HILFIGER TAILORED",
     "image": "./img/Herren/Mode/Hose-Hilfiger-Navy.jpg",
     "priceFull": 169.9,
@@ -1675,6 +1597,45 @@
         "name": "54",
         "article": 1257719744,
         "image": "./img/Herren/Mode/Hose-Hilfiger-Navy.jpg"
+      }
+    ]
+  },
+  {
+    "group": "herren",
+    "subgroup": "mode",
+    "urlPath": "Trenchcoat-Kooples",
+    "sort": 13,
+    "name": "Trenchcoat von THE KOOPLES",
+    "image": "./img/Herren/Mode/Coat-Kooples-Beige.jpg",
+    "priceFull": 625,
+    "price25": 156.25,
+    "mainVariation": 1267874202,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "46",
+        "article": 1267874202,
+        "image": "./img/Herren/Mode/Coat-Kooples-Beige.jpg"
+      },
+      {
+        "name": "48",
+        "article": 1267874203,
+        "image": "./img/Herren/Mode/Coat-Kooples-Beige.jpg"
+      },
+      {
+        "name": "50",
+        "article": 1267874204,
+        "image": "./img/Herren/Mode/Coat-Kooples-Beige.jpg"
+      },
+      {
+        "name": "52",
+        "article": 1267874205,
+        "image": "./img/Herren/Mode/Coat-Kooples-Beige.jpg"
+      },
+      {
+        "name": "54",
+        "article": 1257719744,
+        "image": "./img/Herren/Mode/Coat-Kooples-Beige.jpg"
       }
     ]
   },
