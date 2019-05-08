@@ -2036,12 +2036,6 @@
         "article": 1272213400,
         "image": "./img/Haushalt/Heim/Bluetooth-Lautsprecher-BangOlufsen-Schwarz.jpg",
         "color": "#000000"
-      },
-      {
-        "name": "Schwarz",
-        "article": 1266816400,
-        "image": "./img/Haushalt/Heim/Lautsprecher-Olufsen-Schwarz.jpg",
-        "color": "#000000"
       }
     ]
   },
@@ -2068,12 +2062,6 @@
         "article": 908830009782,
         "image": "./img/Haushalt/Heim/Kopfhörer-BangOlufsen-Schwarz.jpg",
         "color": "#000000"
-      },
-      {
-        "name": "Grau",
-        "article": 1265722000,
-        "image": "./img/Haushalt/Heim/Speaker-Ruarkaudio-Grau.jpg",
-        "color": "rgb(143, 143, 143)"
       }
     ]
   },
