@@ -1,5 +1,5 @@
 ---
-urlPath:
+urlPath: Cocktailkleid-Maje
 ---
 # Beschreibung
 - Mittel schwere Qualität
