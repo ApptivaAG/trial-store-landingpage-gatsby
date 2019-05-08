@@ -345,7 +345,7 @@
       },
       {
         "name": "Schwarz",
-        "article": 1268950305,
+        "article": 1268950301,
         "image": "./img/Frauen/Taschen/Shopper-Schwarz-Coach.jpg",
         "color": "#000000"
       }
@@ -432,47 +432,13 @@
   {
     "group": "frauen",
     "subgroup": "mode",
-    "urlPath": "Daunenjacke-Globus",
-    "sort": 1,
-    "name": "Daunenjacke von GLOBUS ESSENTIALS",
-    "image": "./img/Frauen/Mode/Daunenjacke-Globus-Navy.jpg",
-    "priceFull": 159.9,
-    "price25": 39.95,
-    "mainVariation": 1263044209,
-    "variationName": "Grösse",
-    "variations": [
-      {
-        "name": "S",
-        "article": 1263044209,
-        "image": "./img/Frauen/Mode/Daunenjacke-Globus-Navy.jpg"
-      },
-      {
-        "name": "M",
-        "article": 1263044210,
-        "image": "./img/Frauen/Mode/Daunenjacke-Globus-Navy.jpg"
-      },
-      {
-        "name": "L",
-        "article": 1263044211,
-        "image": "./img/Frauen/Mode/Daunenjacke-Globus-Navy.jpg"
-      },
-      {
-        "name": "XL",
-        "article": 1263044212,
-        "image": "./img/Frauen/Mode/Daunenjacke-Globus-Navy.jpg"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "mode",
     "urlPath": "Trenchcoate-Calvin-Klein",
-    "sort": 2,
+    "sort": 1,
     "name": "Trenchcoate von CALVIN KLEIN",
     "image": "./img/Frauen/Mode/Trenchcoat Calvin Klein.jpg",
     "priceFull": 499.9,
     "price25": 124.95,
-    "mainVariation": 1264327605,
+    "mainVariation": 1264327600801,
     "variationName": "Grösse",
     "variations": [
       {
@@ -506,12 +472,12 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Jeansjacke-Ganni",
-    "sort": 3,
+    "sort": 2,
     "name": "Jeansjacke von GANNI",
     "image": "./img/Frauen/Mode/Jeansjacke von Ganni.jpg",
     "priceFull": 399.9,
     "price25": 99.95,
-    "mainVariation": 1267047801,
+    "mainVariation": 1267047800739,
     "variationName": "Grösse",
     "variations": [
       {
@@ -528,6 +494,35 @@
         "name": "40",
         "article": 1267047803,
         "image": "./img/Frauen/Mode/Jeansjacke von Ganni.jpg"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "Kleine-Jacke-Pierlot",
+    "sort": 3,
+    "name": "Kleine Jacke von CLAUDIE PIERLOT",
+    "image": "./img/Frauen/Mode/KleineJacke-Pierlot.jpg",
+    "priceFull": 489,
+    "price25": 122.25,
+    "mainVariation": 1267606301,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "36",
+        "article": 1267606301,
+        "image": "./img/Frauen/Mode/KleineJacke-Pierlot.jpg"
+      },
+      {
+        "name": "38",
+        "article": 1267606302,
+        "image": "./img/Frauen/Mode/KleineJacke-Pierlot.jpg"
+      },
+      {
+        "name": "40",
+        "article": 1267606303,
+        "image": "./img/Frauen/Mode/KleineJacke-Pierlot.jpg"
       }
     ]
   },
@@ -578,52 +573,13 @@
   {
     "group": "frauen",
     "subgroup": "mode",
-    "urlPath": "Ledermantel-Globus",
-    "sort": 5,
-    "name": "Ledermantel von GLOBUS ESSENTIALS",
-    "image": "./img/Frauen/Mode/Ledermantel-Globus-Schwarz.jpg",
-    "priceFull": 449.9,
-    "price25": 112.45,
-    "mainVariation": 1264366901,
-    "variationName": "Grösse",
-    "variations": [
-      {
-        "name": "34",
-        "article": 1264366901,
-        "image": "./img/Frauen/Mode/Ledermantel-Globus-Schwarz.jpg"
-      },
-      {
-        "name": "36",
-        "article": 1264366902,
-        "image": "./img/Frauen/Mode/Ledermantel-Globus-Schwarz.jpg"
-      },
-      {
-        "name": "38",
-        "article": 1264366903,
-        "image": "./img/Frauen/Mode/Ledermantel-Globus-Schwarz.jpg"
-      },
-      {
-        "name": "40",
-        "article": 1264366904,
-        "image": "./img/Frauen/Mode/Ledermantel-Globus-Schwarz.jpg"
-      },
-      {
-        "name": "42",
-        "article": 1264366905,
-        "image": "./img/Frauen/Mode/Ledermantel-Globus-Schwarz.jpg"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "mode",
     "urlPath": "Stoffhose-Emporio-Armani",
-    "sort": 7,
+    "sort": 5,
     "name": "Stoff Hose von EMPORIO ARMANI",
     "image": "./img/Frauen/Mode/Stoffhose von Emporio Armani.jpg",
     "priceFull": 479.9,
     "price25": 119.95,
-    "mainVariation": 1269112607,
+    "mainVariation": 1269112600502,
     "variationName": "Grösse",
     "variations": [
       {
@@ -651,34 +607,78 @@
   {
     "group": "frauen",
     "subgroup": "mode",
-    "urlPath": "Strickjacke-Antwerp",
-    "sort": 10,
-    "name": "Strickjacke von Essentiel Antwerp",
-    "image": "./img/Frauen/Mode/Strickjacke-Essentiel-Navy.jpg",
-    "priceFull": 269.9,
-    "price25": 67.45,
-    "mainVariation": 1266172601,
+    "urlPath": "Overall-Maje",
+    "sort": 6,
+    "name": "Overall von MAJE",
+    "image": "./img/Frauen/Mode/Overall-Maje.jpg",
+    "priceFull": 359,
+    "price25": 89.75,
+    "mainVariation": 1268120601,
     "variationName": "Grösse",
     "variations": [
       {
-        "name": "S",
-        "article": 1266172601,
-        "image": "./img/Frauen/Mode/Strickjacke-Essentiel-Navy.jpg"
+        "name": "T34/34",
+        "article": 1268120601,
+        "image": "./img/Frauen/Mode/Overall-Maje.jpg"
       },
       {
-        "name": "M",
-        "article": 1266172602,
-        "image": "./img/Frauen/Mode/Strickjacke-Essentiel-Navy.jpg"
+        "name": "T36/36",
+        "article": 1268120602,
+        "image": "./img/Frauen/Mode/Overall-Maje.jpg"
       },
       {
-        "name": "L",
-        "article": 1266172603,
-        "image": "./img/Frauen/Mode/Strickjacke-Essentiel-Navy.jpg"
+        "name": "T38/38",
+        "article": 1268120603,
+        "image": "./img/Frauen/Mode/Overall-Maje.jpg"
       },
       {
-        "name": "XL",
-        "article": 1266172604,
-        "image": "./img/Frauen/Mode/Strickjacke-Essentiel-Navy.jpg"
+        "name": "T40/40",
+        "article": 1268120604,
+        "image": "./img/Frauen/Mode/Overall-Maje.jpg"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "Blazer-Navyboot",
+    "sort": 7,
+    "name": "Blazer von NAVYBOOT",
+    "image": "./img/Frauen/Mode/Blazer-Schwarz-Navyboot.jpg",
+    "priceFull": 299.9,
+    "price25": 74.95,
+    "mainVariation": 1259778408,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "34",
+        "article": 1259778408,
+        "image": "./img/Frauen/Mode/Blazer-Schwarz-Navyboot.jpg"
+      },
+      {
+        "name": "36",
+        "article": 1259778409,
+        "image": "./img/Frauen/Mode/Blazer-Schwarz-Navyboot.jpg"
+      },
+      {
+        "name": "38",
+        "article": 1259778410,
+        "image": "./img/Frauen/Mode/Blazer-Schwarz-Navyboot.jpg"
+      },
+      {
+        "name": "40",
+        "article": 1259778411,
+        "image": "./img/Frauen/Mode/Blazer-Schwarz-Navyboot.jpg"
+      },
+      {
+        "name": "42",
+        "article": 1259778412,
+        "image": "./img/Frauen/Mode/Blazer-Schwarz-Navyboot.jpg"
+      },
+      {
+        "name": "44",
+        "article": 1259778413,
+        "image": "./img/Frauen/Mode/Blazer-Schwarz-Navyboot.jpg"
       }
     ]
   },
@@ -686,7 +686,7 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Bleistiftrock-Globus",
-    "sort": 11,
+    "sort": 8,
     "name": "Rock von GLOBUS ESSENTIALS",
     "image": "./img/Frauen/Mode/Rock-Globus-Hellblau.jpg",
     "priceFull": 229.9,
@@ -725,7 +725,7 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Stoffhose-Cerano",
-    "sort": 12,
+    "sort": 9,
     "name": "Stoff Hose von LUISA CERANO",
     "image": "./img/Frauen/Mode/Stoffhose-Cerano-Schwarz.jpg",
     "priceFull": 279.9,
@@ -763,8 +763,42 @@
   {
     "group": "frauen",
     "subgroup": "mode",
+    "urlPath": "Cocktailkleid-Maje",
+    "sort": 10,
+    "name": "Cocktailkleid von MAJE",
+    "image": "./img/Frauen/Mode/Cocktailkleid-Maje.jpg",
+    "priceFull": 419,
+    "price25": 104.75,
+    "mainVariation": 1265357305,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "T1/36",
+        "article": 1270525901,
+        "image": "./img/Frauen/Mode/Cocktailkleid-Maje.jpg"
+      },
+      {
+        "name": "T2/38",
+        "article": 1270525904,
+        "image": "./img/Frauen/Mode/Cocktailkleid-Maje.jpg"
+      },
+      {
+        "name": "T3/40",
+        "article": 1270525903,
+        "image": "./img/Frauen/Mode/Cocktailkleid-Maje.jpg"
+      },
+      {
+        "name": "T4/42",
+        "article": 1270525902,
+        "image": "./img/Frauen/Mode/Cocktailkleid-Maje.jpg"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
     "urlPath": "Cocktailkleid-Three-Floor",
-    "sort": 14,
+    "sort": 11,
     "name": "Cocktailkleid von THREE FLOOR",
     "image": "./img/Frauen/Mode/Cocktailkleid-Threefloor-Schwarz.jpg",
     "priceFull": 479.9,
@@ -793,12 +827,12 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Kleid-Mykke-Hofmann",
-    "sort": 15,
+    "sort": 12,
     "name": "Kleid von MYKKE HOFMANN",
     "image": "./img/Frauen/Mode/Kleid von Mykke Hofmann.jpg",
     "priceFull": 499.9,
     "price25": 124.95,
-    "mainVariation": 1264802706,
+    "mainVariation": 1264802700120,
     "variationName": "Grösse",
     "variations": [
       {
@@ -825,6 +859,79 @@
         "name": "42",
         "article": 1264802710,
         "image": "./img/Frauen/Mode/Kleid von Mykke Hofmann.jpg"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "Bluse-Alysi",
+    "sort": 13,
+    "name": "Blusen Top von Alysi",
+    "image": "./img/Frauen/Mode/Blusentop-Rot-Alysi.jpg",
+    "priceFull": 289.9,
+    "price25": 72.45,
+    "mainVariation": 1269034206,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "34",
+        "article": 1269034206,
+        "image": "./img/Frauen/Mode/Blusentop-Rot-Alysi.jpg"
+      },
+      {
+        "name": "36",
+        "article": 1269034207,
+        "image": "./img/Frauen/Mode/Blusentop-Rot-Alysi.jpg"
+      },
+      {
+        "name": "38",
+        "article": 1269034208,
+        "image": "./img/Frauen/Mode/Blusentop-Rot-Alysi.jpg"
+      },
+      {
+        "name": "40",
+        "article": 1269034209,
+        "image": "./img/Frauen/Mode/Blusentop-Rot-Alysi.jpg"
+      },
+      {
+        "name": "42",
+        "article": 1259778412,
+        "image": "./img/Frauen/Mode/Blusentop-Rot-Alysi.jpg"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "Bluse-Blugirl-Folies",
+    "sort": 14,
+    "name": "Bluse von BLUGIRL FOLIES",
+    "image": "./img/Frauen/Mode/Bluse-Mint-BlugirlFolies.jpg",
+    "priceFull": 219.9,
+    "price25": 54.95,
+    "mainVariation": 1265463205,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "36",
+        "article": 1265463205,
+        "image": "./img/Frauen/Mode/Bluse-Mint-BlugirlFolies.jpg"
+      },
+      {
+        "name": "38",
+        "article": 1265463206,
+        "image": "./img/Frauen/Mode/Bluse-Mint-BlugirlFolies.jpg"
+      },
+      {
+        "name": "40",
+        "article": 1265463207,
+        "image": "./img/Frauen/Mode/Bluse-Mint-BlugirlFolies.jpg"
+      },
+      {
+        "name": "42",
+        "article": 1265463208,
+        "image": "./img/Frauen/Mode/Bluse-Mint-BlugirlFolies.jpg"
       }
     ]
   },
@@ -1599,10 +1706,30 @@
   {
     "group": "herren",
     "subgroup": "accessoires",
+    "urlPath": "Reisetasche-Northface",
+    "sort": 3,
+    "name": "Reisetasche von THE NORTH FACE",
+    "image": "./img/Herren/Accessoires/Reisetasche-Northface.jpg",
+    "priceFull": 139.9,
+    "price25": 34.95,
+    "mainVariation": 1264596702,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Royal",
+        "article": 1264596702,
+        "image": "./img/Herren/Accessoires/Reisetasche-Northface.jpg",
+        "color": "#002CAA"
+      }
+    ]
+  },
+  {
+    "group": "herren",
+    "subgroup": "accessoires",
     "urlPath": "Rucksack-MCM",
     "sort": 4,
     "name": "Rucksack von MCM",
-    "image": "./img/Herren/Accessoires/Rucksack-MCM-Schwarz-Gelb.jpg",
+    "image": "./img/Herren/Accessoires/Rucksack-MCM-Schwarz.jpg",
     "priceFull": 999.9,
     "price25": 249.95,
     "mainVariation": 1265860901,
@@ -1611,7 +1738,7 @@
       {
         "name": "Schwarz",
         "article": 1265860901,
-        "image": "./img/Herren/Accessoires/Rucksack-MCM-Schwarz-Gelb.jpg",
+        "image": "./img/Herren/Accessoires/Rucksack-MCM-Schwarz.jpg",
         "color": "#000000"
       }
     ]
@@ -1685,6 +1812,26 @@
   {
     "group": "herren",
     "subgroup": "accessoires",
+    "urlPath": "Uhr-Fossil",
+    "sort": 8,
+    "name": "Armbanduhr mit Lederband von Fossil",
+    "image": "./img/Herren/Accessoires/Uhr-Fossil-Mocca.jpg",
+    "priceFull": 239,
+    "price25": 59.75,
+    "mainVariation": 1179634700,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Mocca",
+        "article": 1179634700,
+        "image": "./img/Herren/Accessoires/Uhr-Fossil-Mocca.jpg",
+        "color": "rgb(82, 42, 4)"
+      }
+    ]
+  },
+  {
+    "group": "herren",
+    "subgroup": "accessoires",
     "urlPath": "Uhr-Armani",
     "sort": 9,
     "name": "Armbanduhr mit Edelstahlband von EMPORIO ARMANI",
@@ -1724,6 +1871,26 @@
         "name": "Navy",
         "article": 1265566603,
         "image": "./img/Herren/Accessoires/Krawatte-Windsor-Navy.jpg",
+        "color": "rgb(0, 39, 77)"
+      }
+    ]
+  },
+  {
+    "group": "herren",
+    "subgroup": "accessoires",
+    "urlPath": "Krawatte-Eton",
+    "sort": 11,
+    "name": "Krawatte aus Seide von ETON",
+    "image": "./img/Herren/Accessoires/Krawatte-Eton-Navy.jpg",
+    "priceFull": 149.9,
+    "price25": 37.45,
+    "mainVariation": 1266914804,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Navy",
+        "article": 1266914804,
+        "image": "./img/Herren/Accessoires/Krawatte-Eton-Navy.jpg",
         "color": "rgb(0, 39, 77)"
       }
     ]
@@ -1789,12 +1956,32 @@
   {
     "group": "haushalt",
     "subgroup": "heim",
+    "urlPath": "Trolley-Rimowa",
+    "sort": 2,
+    "name": "Trolley CLASSIC von RIMOWA",
+    "image": "./img/Haushalt/Heim/Trolley-Rimowa-Silber.jpg",
+    "priceFull": 960,
+    "price25": 240,
+    "mainVariation": 1264797800,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Silberfarben",
+        "article": 1264797800,
+        "image": "./img/Haushalt/Heim/Trolley-Rimowa-Silber.jpg",
+        "color": "rgb(230, 230, 230)"
+      }
+    ]
+  },
+  {
+    "group": "haushalt",
+    "subgroup": "heim",
     "urlPath": "Handgepäck-Rimowa",
     "sort": 3,
     "name": "Handgepäck-Trolley CLASSIC von RIMOWA",
     "image": "./img/Haushalt/Heim/Handgepaeck-Rimowa-Silber.jpg",
-    "priceFull": 840,
-    "price25": 210,
+    "priceFull": 800,
+    "price25": 200,
     "mainVariation": 1264797700,
     "variationName": "Farbe",
     "variations": [
@@ -1835,6 +2022,84 @@
         "article": 1256084700,
         "image": "./img/Haushalt/Heim/Leuchte-Lumio-Grau.jpg",
         "color": "rgb(143, 143, 143)"
+      }
+    ]
+  },
+  {
+    "group": "haushalt",
+    "subgroup": "heim",
+    "urlPath": "Lautsprecher-Olufsen",
+    "sort": 5,
+    "name": "Bluetooth Lautsprecher BEOPLAY P6 von BANG&OLUFSEN",
+    "image": "./img/Haushalt/Heim/Lautsprecher-Olufsen-Nature.jpg",
+    "priceFull": 399,
+    "price25": 99.75,
+    "mainVariation": 1266816500,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Nature",
+        "article": 1266816500,
+        "image": "./img/Haushalt/Heim/Lautsprecher-Olufsen-Nature.jpg",
+        "color": "rgb(240, 235, 233)"
+      },
+      {
+        "name": "Schwarz",
+        "article": 1266816400,
+        "image": "./img/Haushalt/Heim/Lautsprecher-Olufsen-Schwarz.jpg",
+        "color": "#000000"
+      }
+    ]
+  },
+  {
+    "group": "haushalt",
+    "subgroup": "heim",
+    "urlPath": "Speaker-Ruark",
+    "sort": 6,
+    "name": "Multiroom Speaker MRx von RUARK AUDIO",
+    "image": "./img/Haushalt/Heim/Speaker-Ruarkaudio-Braun.jpg",
+    "priceFull": 498,
+    "price25": 124.5,
+    "mainVariation": 1265721900,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Braun",
+        "article": 1265721900,
+        "image": "./img/Haushalt/Heim/Speaker-Ruarkaudio-Braun.jpg",
+        "color": "rgb(117, 55, 0)"
+      },
+      {
+        "name": "Grau",
+        "article": 1265722000,
+        "image": "./img/Haushalt/Heim/Speaker-Ruarkaudio-Grau.jpg",
+        "color": "rgb(143, 143, 143)"
+      }
+    ]
+  },
+  {
+    "group": "haushalt",
+    "subgroup": "heim",
+    "urlPath": "KitchenAid-Artisan",
+    "sort": 7,
+    "name": "KitchenAid KSM185 ARTISAN von KITCHENAID",
+    "image": "./img/Haushalt/Heim/KitchenAid-Rot-4.8L.jpg",
+    "priceFull": 1099,
+    "price25": 274.75,
+    "mainVariation": 1265667800,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Rot",
+        "article": 1265667800,
+        "image": "./img/Haushalt/Heim/KitchenAid-Rot-4.8L.jpg",
+        "color": "#a80304"
+      },
+      {
+        "name": "Kupfer",
+        "article": 1265667700,
+        "image": "./img/Haushalt/Heim/KitchenAid-Kupfer-4.8L.jpg",
+        "color": "rgb(212, 85, 0)"
       }
     ]
   },
@@ -2089,6 +2354,12 @@
         "article": 1258855900,
         "image": "./img/Haushalt/Dekoration/Elephant-Vitra-Hellrosa.jpg",
         "color": "rgb(255, 198, 222)"
+      },
+      {
+        "name": "Dunkelorange",
+        "article": 1258858100,
+        "image": "./img/Haushalt/Dekoration/Elephant-Vitra-Dunkelorange.jpg",
+        "color": "rgb(237, 133, 0)"
       }
     ]
   }
