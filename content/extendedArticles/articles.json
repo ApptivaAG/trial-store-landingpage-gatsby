@@ -1065,12 +1065,12 @@
     "image": "./img/Frauen/Accessoires/Armbanduhr-Fossil-Mocca.jpg",
     "priceFull": 229,
     "price25": 57.25,
-    "mainVariation": "1095500500838",
+    "mainVariation": 1095500500838,
     "variationName": "Farbe",
     "variations": [
       {
         "name": "Mocca",
-        "article": "1095500500838",
+        "article": 1095500500838,
         "image": "./img/Frauen/Accessoires/Armbanduhr-Fossil-Mocca.jpg",
         "color": "#522A04"
       }
@@ -1145,18 +1145,18 @@
     "image": "./img/Frauen/Accessoires/Sonnenbrille-Balenciaga-Schwarz.jpg",
     "priceFull": 419.9,
     "price25": 104.95,
-    "mainVariation": "1162990009739",
+    "mainVariation": 1162990009739,
     "variationName": "Farbe",
     "variations": [
       {
         "name": "Schwarz",
-        "article": "1162990009739",
+        "article": 1162990009739,
         "image": "./img/Frauen/Accessoires/Sonnenbrille-Balenciaga-Schwarz.jpg",
         "color": "#000000"
       },
       {
         "name": "Gold",
-        "article": "1162990009921",
+        "article": 1162990009921,
         "image": "./img/Frauen/Accessoires/Sonnenbrille_Balenciaga_Gold.jpg",
         "color": "#D19700"
       }
