@@ -641,44 +641,39 @@
   {
     "group": "frauen",
     "subgroup": "mode",
-    "urlPath": "Blazer-Navyboot",
+    "urlPath": "Blazer-Boss",
     "sort": 7,
-    "name": "Blazer von NAVYBOOT",
-    "image": "./img/Frauen/Mode/Blazer-Schwarz-Navyboot.jpg",
-    "priceFull": 299.9,
-    "price25": 74.95,
-    "mainVariation": 1259778408,
+    "name": "Blazer von BOSS",
+    "image": "./img/Frauen/Mode/Blazer-Schwarz-BOSS.jpg",
+    "priceFull": 449,
+    "price25": 112.25,
+    "mainVariation": 1252759704,
     "variationName": "Grösse",
     "variations": [
       {
         "name": "34",
-        "article": 1259778408,
-        "image": "./img/Frauen/Mode/Blazer-Schwarz-Navyboot.jpg"
+        "article": 1252759704,
+        "image": "./img/Frauen/Mode/Blazer-Schwarz-BOSS.jpg"
       },
       {
         "name": "36",
-        "article": 1259778409,
-        "image": "./img/Frauen/Mode/Blazer-Schwarz-Navyboot.jpg"
+        "article": 125275970138,
+        "image": "./img/Frauen/Mode/Blazer-Schwarz-BOSS.jpg"
       },
       {
         "name": "38",
-        "article": 1259778410,
-        "image": "./img/Frauen/Mode/Blazer-Schwarz-Navyboot.jpg"
+        "article": 1252759703,
+        "image": "./img/Frauen/Mode/Blazer-Schwarz-BOSS.jpg"
       },
       {
         "name": "40",
-        "article": 1259778411,
-        "image": "./img/Frauen/Mode/Blazer-Schwarz-Navyboot.jpg"
+        "article": 1252759706,
+        "image": "./img/Frauen/Mode/Blazer-Schwarz-BOSS.jpg"
       },
       {
         "name": "42",
-        "article": 1259778412,
-        "image": "./img/Frauen/Mode/Blazer-Schwarz-Navyboot.jpg"
-      },
-      {
-        "name": "44",
-        "article": 1259778413,
-        "image": "./img/Frauen/Mode/Blazer-Schwarz-Navyboot.jpg"
+        "article": 1252759702,
+        "image": "./img/Frauen/Mode/Blazer-Schwarz-BOSS.jpg"
       }
     ]
   },
