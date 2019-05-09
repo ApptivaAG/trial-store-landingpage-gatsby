@@ -1705,7 +1705,7 @@
     "urlPath": "Rucksack-MCM",
     "sort": 4,
     "name": "Rucksack von MCM",
-    "image": "./img/Herren/Accessoires/Rucksack-MCM-Schwarz.jpg",
+    "image": "./img/Herren/Accessoires/Rucksack-MCM-Schwarz-Gelb.jpg",
     "priceFull": 999.9,
     "price25": 249.95,
     "mainVariation": 1265860901,
@@ -1714,7 +1714,7 @@
       {
         "name": "Schwarz",
         "article": 1265860901,
-        "image": "./img/Herren/Accessoires/Rucksack-MCM-Schwarz.jpg",
+        "image": "./img/Herren/Accessoires/Rucksack-MCM-Schwarz-Gelb.jpg",
         "color": "#000000"
       }
     ]
