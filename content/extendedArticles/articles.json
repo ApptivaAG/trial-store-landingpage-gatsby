@@ -432,8 +432,130 @@
   {
     "group": "frauen",
     "subgroup": "mode",
-    "urlPath": "Trenchcoate-Calvin-Klein",
+    "urlPath": "Package-Festlich",
     "sort": 1,
+    "name": "Package \"Festlich\"",
+    "image": "./img/Frauen/Mode/Anlass@2x.jpg",
+    "priceFull": 719.6,
+    "price25": 179.9,
+    "mainVariation": 1001001001,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "XS",
+        "article": 1001001001,
+        "image": "./img/Frauen/Mode/Anlass@2x.jpg"
+      },
+      {
+        "name": "S",
+        "article": 1001001001,
+        "image": "./img/Frauen/Mode/Anlass@2x.jpg"
+      },
+      {
+        "name": "M",
+        "article": 1001001001,
+        "image": "./img/Frauen/Mode/Anlass@2x.jpg"
+      },
+      {
+        "name": "L",
+        "article": 1001001001,
+        "image": "./img/Frauen/Mode/Anlass@2x.jpg"
+      },
+      {
+        "name": "XL",
+        "article": 1001001001,
+        "image": "./img/Frauen/Mode/Anlass@2x.jpg"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "Package-Business",
+    "sort": 2,
+    "name": "Package \"Business\"",
+    "image": "./img/Frauen/Mode/Business-Look@2x.jpg",
+    "priceFull": 1499.4,
+    "price25": 374.85,
+    "mainVariation": 2002002002,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "34",
+        "article": 2002002002,
+        "image": "./img/Frauen/Mode/Business-Look@2x.jpg"
+      },
+      {
+        "name": "36",
+        "article": 2002002002,
+        "image": "./img/Frauen/Mode/Business-Look@2x.jpg"
+      },
+      {
+        "name": "38",
+        "article": 2002002002,
+        "image": "./img/Frauen/Mode/Business-Look@2x.jpg"
+      },
+      {
+        "name": "40",
+        "article": 2002002002,
+        "image": "./img/Frauen/Mode/Business-Look@2x.jpg"
+      },
+      {
+        "name": "42",
+        "article": 2002002002,
+        "image": "./img/Frauen/Mode/Business-Look@2x.jpg"
+      },
+      {
+        "name": "44",
+        "article": 2002002002,
+        "image": "./img/Frauen/Mode/Business-Look@2x.jpg"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "Package-Party",
+    "sort": 3,
+    "name": "Package \"Party\"",
+    "image": "./img/Frauen/Mode/Kleid@2x.jpg",
+    "priceFull": 1089.7,
+    "price25": 272.4,
+    "mainVariation": 3003003003,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "34",
+        "article": 3003003003,
+        "image": "./img/Frauen/Mode/Business-Look@2x.jpg"
+      },
+      {
+        "name": "36",
+        "article": 3003003003,
+        "image": "./img/Frauen/Mode/Business-Look@2x.jpg"
+      },
+      {
+        "name": "38",
+        "article": 3003003003,
+        "image": "./img/Frauen/Mode/Business-Look@2x.jpg"
+      },
+      {
+        "name": "40",
+        "article": 3003003003,
+        "image": "./img/Frauen/Mode/Business-Look@2x.jpg"
+      },
+      {
+        "name": "42",
+        "article": 3003003003,
+        "image": "./img/Frauen/Mode/Business-Look@2x.jpg"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "Trenchcoate-Calvin-Klein",
+    "sort": 4,
     "name": "Trenchcoate von CALVIN KLEIN",
     "image": "./img/Frauen/Mode/Trenchcoat Calvin Klein.jpg",
     "priceFull": 499.9,
@@ -472,7 +594,7 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Jeansjacke-Ganni",
-    "sort": 2,
+    "sort": 5,
     "name": "Jeansjacke von GANNI",
     "image": "./img/Frauen/Mode/Jeansjacke von Ganni.jpg",
     "priceFull": 399.9,
@@ -501,7 +623,7 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Kleine-Jacke-Pierlot",
-    "sort": 3,
+    "sort": 6,
     "name": "Kleine Jacke von CLAUDIE PIERLOT",
     "image": "./img/Frauen/Mode/KleineJacke-Pierlot.jpg",
     "priceFull": 489,
@@ -530,7 +652,7 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Lederjacke-Globus",
-    "sort": 4,
+    "sort": 7,
     "name": "Bikerlederjacke von GLOBUS ESSENTIALS",
     "image": "./img/Frauen/Mode/Lederjacke-Globus-Bordeaux.jpg",
     "priceFull": 359.9,
@@ -574,7 +696,7 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Stoffhose-Emporio-Armani",
-    "sort": 5,
+    "sort": 8,
     "name": "Stoff Hose von EMPORIO ARMANI",
     "image": "./img/Frauen/Mode/Stoffhose von Emporio Armani.jpg",
     "priceFull": 479.9,
@@ -608,7 +730,7 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Overall-Maje",
-    "sort": 6,
+    "sort": 9,
     "name": "Overall von MAJE",
     "image": "./img/Frauen/Mode/Overall-Maje.jpg",
     "priceFull": 359,
@@ -642,7 +764,7 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Blazer-Boss",
-    "sort": 7,
+    "sort": 10,
     "name": "Blazer von BOSS",
     "image": "./img/Frauen/Mode/Blazer-Schwarz-BOSS.jpg",
     "priceFull": 449,
@@ -681,7 +803,7 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Bleistiftrock-Globus",
-    "sort": 8,
+    "sort": 11,
     "name": "Rock von GLOBUS ESSENTIALS",
     "image": "./img/Frauen/Mode/Rock-Globus-Hellblau.jpg",
     "priceFull": 229.9,
@@ -720,7 +842,7 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Stoffhose-Cerano",
-    "sort": 9,
+    "sort": 12,
     "name": "Stoff Hose von LUISA CERANO",
     "image": "./img/Frauen/Mode/Stoffhose-Cerano-Schwarz.jpg",
     "priceFull": 279.9,
@@ -759,7 +881,7 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Cocktailkleid-Maje",
-    "sort": 10,
+    "sort": 13,
     "name": "Cocktailkleid von MAJE",
     "image": "./img/Frauen/Mode/Cocktailkleid-Maje.jpg",
     "priceFull": 419,
@@ -793,7 +915,7 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Cocktailkleid-Three-Floor",
-    "sort": 11,
+    "sort": 14,
     "name": "Cocktailkleid von THREE FLOOR",
     "image": "./img/Frauen/Mode/Cocktailkleid-Threefloor-Schwarz.jpg",
     "priceFull": 479.9,
@@ -822,7 +944,7 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Kleid-Mykke-Hofmann",
-    "sort": 12,
+    "sort": 15,
     "name": "Kleid von MYKKE HOFMANN",
     "image": "./img/Frauen/Mode/Kleid von Mykke Hofmann.jpg",
     "priceFull": 499.9,
@@ -861,7 +983,7 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Bluse-Alysi",
-    "sort": 13,
+    "sort": 16,
     "name": "Blusen Top von Alysi",
     "image": "./img/Frauen/Mode/Blusentop-Rot-Alysi.jpg",
     "priceFull": 289.9,
@@ -900,7 +1022,7 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Bluse-Blugirl-Folies",
-    "sort": 14,
+    "sort": 17,
     "name": "Bluse von BLUGIRL FOLIES",
     "image": "./img/Frauen/Mode/Bluse-Mint-BlugirlFolies.jpg",
     "priceFull": 219.9,
