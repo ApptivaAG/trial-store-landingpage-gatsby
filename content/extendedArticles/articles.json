@@ -729,7 +729,7 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Cocktailkleid-Three-Floor",
-    "sort": 14,
+    "sort": 13,
     "name": "Cocktailkleid von THREE FLOOR",
     "image": "./img/Frauen/Mode/Cocktailkleid-Threefloor-Schwarz.jpg",
     "priceFull": 479.9,
@@ -757,19 +757,25 @@
   {
     "group": "frauen",
     "subgroup": "accessoires",
-    "urlPath": "Armband-Fossil",
+    "urlPath": "Sonnenbrille-Fendi",
     "sort": 1,
-    "name": "Armband von Fossil",
-    "image": "./img/Frauen/Accessoires/Armband-Fossil-Schwarz.jpg",
-    "priceFull": 329,
-    "price25": 82.25,
-    "mainVariation": 1262828700,
+    "name": "Sonnenbrille \"FF 0341/S\" von FENDI",
+    "image": "./img/Frauen/Accessoires/Sonnenbrille-Fendi-Rosa.jpg",
+    "priceFull": 399.9,
+    "price25": 99.95,
+    "mainVariation": 1163100049300,
     "variationName": "Farbe",
     "variations": [
       {
-        "name": "schwarz",
-        "article": 1262828700,
-        "image": "./img/Frauen/Accessoires/Armband-Fossil-Schwarz.jpg",
+        "name": "Rosa",
+        "article": 1163100049300,
+        "image": "./img/Frauen/Accessoires/Sonnenbrille-Fendi-Rosa.jpg",
+        "color": "#FF8AC7"
+      },
+      {
+        "name": "Schwarz",
+        "article": 1163100049739,
+        "image": "./img/Frauen/Accessoires/Sonnenbrille-Fendi-Schwarz.jpg",
         "color": "#000000"
       }
     ]
@@ -777,8 +783,114 @@
   {
     "group": "frauen",
     "subgroup": "accessoires",
-    "urlPath": "Halskette-JCrew",
+    "urlPath": "Sonnenbrille-Gucci",
     "sort": 2,
+    "name": "Sonnenbrille \"GG0163S\" von GUCCI",
+    "image": "./img/Frauen/Accessoires/Sonnenbrille-Gucci-Bordeaux.jpg",
+    "priceFull": 289.9,
+    "price25": 72.45,
+    "mainVariation": 1162990024330,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Bordeaux",
+        "article": 1162990024330,
+        "image": "./img/Frauen/Accessoires/Sonnenbrille-Gucci-Bordeaux.jpg",
+        "color": "#6B1200"
+      },
+      {
+        "name": "Dunkelblau",
+        "article": 1162990024530,
+        "image": "./img/Frauen/Accessoires/Sonnenbrille-Gucci-Blau.jpg",
+        "color": "#030091"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "accessoires",
+    "urlPath": "Sonnenbrille-McCartney",
+    "sort": 3,
+    "name": "Sonnenbrille \"SC0188S\" von STELLA MCCARTNEY",
+    "image": "./img/Frauen/Accessoires/Sonnenbrille-Stella-Braun.jpg",
+    "priceFull": 339.9,
+    "price25": 84.95,
+    "mainVariation": 1162990081820,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Braun",
+        "article": 1162990081820,
+        "image": "./img/Frauen/Accessoires/Sonnenbrille-Stella-Braun.jpg",
+        "color": "#753700"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "accessoires",
+    "urlPath": "Armreif-Fortunato",
+    "sort": 4,
+    "name": "Armreif von LIZZIE FORTUNATO",
+    "image": "./img/Frauen/Accessoires/Armreif-Ivory-Fortunato.jpg",
+    "priceFull": 269.9,
+    "price25": 67.45,
+    "mainVariation": 1267332702,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Ivory",
+        "article": 1267332702,
+        "image": "./img/Frauen/Accessoires/Armreif-Ivory-Fortunato.jpg",
+        "color": "#F5E4D3"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "accessoires",
+    "urlPath": "Ohrringe-Fortunato",
+    "sort": 5,
+    "name": "Ohrringe von LIZZIE FORTUNATO",
+    "image": "./img/Frauen/Accessoires/Ohrringe-Nude-Fortunato.jpg",
+    "priceFull": 249.9,
+    "price25": 62.45,
+    "mainVariation": 1267332602,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Nude",
+        "article": 1267332602,
+        "image": "./img/Frauen/Accessoires/Ohrringe-Nude-Fortunato.jpg",
+        "color": "#F0D5BD"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "accessoires",
+    "urlPath": "Ohrringe-Fortunato",
+    "sort": 6,
+    "name": "Ohrringe von LIZZIE FORTUNATO",
+    "image": "./img/Frauen/Accessoires/Ohrringe-Gold-Fortunato.jpg",
+    "priceFull": 299.9,
+    "price25": 74.95,
+    "mainVariation": 1267332402,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Goldfarben",
+        "article": 1267332402,
+        "image": "./img/Frauen/Accessoires/Ohrringe-Gold-Fortunato.jpg",
+        "color": "#D19700"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "accessoires",
+    "urlPath": "Halskette-JCrew",
+    "sort": 7,
     "name": "Halskette von J.CREW",
     "image": "./img/Frauen/Accessoires/Halskette-Hellblau-Jcrew.jpg",
     "priceFull": 138,
@@ -803,100 +915,40 @@
   {
     "group": "frauen",
     "subgroup": "accessoires",
-    "urlPath": "Ohrringe-Rund-Miller",
-    "sort": 3,
-    "name": "Ohrringe von LEIGH MILLER",
-    "image": "./img/Frauen/Accessoires/Ohrringe-Miller-Gold.jpg",
-    "priceFull": 249.9,
-    "price25": 62.45,
-    "mainVariation": 1259211201,
+    "urlPath": "Halskette-Fortunato",
+    "sort": 8,
+    "name": "Halskette mit Anhänger von LIZZIE FORTUNATO",
+    "image": "./img/Frauen/Accessoires/Halskette-Fortunato-Gold.jpg",
+    "priceFull": 299.9,
+    "price25": 74.95,
+    "mainVariation": 1267332002,
     "variationName": "Farbe",
     "variations": [
       {
-        "name": "Gold",
-        "article": 1259211201,
-        "image": "./img/Frauen/Accessoires/Ohrringe-Miller-Gold.jpg",
-        "color": "rgb(209, 151, 0)"
+        "name": "Goldfarben",
+        "article": 1267332002,
+        "image": "./img/Frauen/Accessoires/Halskette-Fortunato-Gold.jpg",
+        "color": "#D19700"
       }
     ]
   },
   {
     "group": "frauen",
     "subgroup": "accessoires",
-    "urlPath": "Armband-Miller",
-    "sort": 4,
-    "name": "Armband von LEIGH MILLER",
-    "image": "./img/Frauen/Accessoires/Armband-Miller-Gold.jpg",
-    "priceFull": 399.9,
-    "price25": 99.95,
-    "mainVariation": 1259211601,
+    "urlPath": "Ohrringe-Buhai",
+    "sort": 9,
+    "name": "Ohrringe von SOPHIE BUHAI",
+    "image": "./img/Frauen/Accessoires/Ohrringe-Buhai-Silber.jpg",
+    "priceFull": 449.9,
+    "price25": 112.45,
+    "mainVariation": 1261776401,
     "variationName": "Farbe",
     "variations": [
       {
-        "name": "Gold",
-        "article": 1259211601,
-        "image": "./img/Frauen/Accessoires/Armband-Miller-Gold.jpg",
-        "color": "rgb(209, 151, 0)"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "accessoires",
-    "urlPath": "Ohrringe-Miller",
-    "sort": 5,
-    "name": "Ohrringe von LEIGH MILLER",
-    "image": "./img/Frauen/Accessoires/Ohrringe-Miller-Klar-Muscheln.jpg",
-    "priceFull": 379.9,
-    "price25": 94.95,
-    "mainVariation": 1259211401,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Gold",
-        "article": 1259211401,
-        "image": "./img/Frauen/Accessoires/Ohrringe-Miller-Klar-Muscheln.jpg",
-        "color": "rgb(209, 151, 0)"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "accessoires",
-    "urlPath": "Halskette-Miller",
-    "sort": 6,
-    "name": "Halskette mit Anhänger von LEIGH MILLER",
-    "image": "./img/Frauen/Accessoires/Halskette-Miller-Gold.jpg",
-    "priceFull": 329.9,
-    "price25": 82.45,
-    "mainVariation": 1259211101,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Gold",
-        "article": 1259211101,
-        "image": "./img/Frauen/Accessoires/Halskette-Miller-Gold.jpg",
-        "color": "rgb(209, 151, 0)"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "accessoires",
-    "urlPath": "Armbanduhr-Leder-Fossil",
-    "sort": 7,
-    "name": "Armbanduhr mit Lederband von Fossil",
-    "image": "./img/Frauen/Accessoires/Armbanduhr-Fossil-Mocca.jpg",
-    "priceFull": 229,
-    "price25": 57.25,
-    "mainVariation": 1095500500838,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Mocca",
-        "article": 1095500500838,
-        "image": "./img/Frauen/Accessoires/Armbanduhr-Fossil-Mocca.jpg",
-        "color": "#522A04"
+        "name": "Silberfarben",
+        "article": 1261776401,
+        "image": "./img/Frauen/Accessoires/Ohrringe-Buhai-Silber.jpg",
+        "color": "#E6E6E6"
       }
     ]
   },
@@ -904,7 +956,7 @@
     "group": "frauen",
     "subgroup": "accessoires",
     "urlPath": "Armbanduhr-Armani",
-    "sort": 8,
+    "sort": 10,
     "name": "Armbanduhr mit Lederband von EMPORIO ARMANI",
     "image": "./img/Frauen/Accessoires/Uhr-Armani-Schwarz.jpg",
     "priceFull": 299,
@@ -924,7 +976,7 @@
     "group": "frauen",
     "subgroup": "accessoires",
     "urlPath": "Armbanduhr-Fossil",
-    "sort": 9,
+    "sort": 11,
     "name": "Armbanduhr mit Edelstahlband von Fossil",
     "image": "./img/Frauen/Accessoires/Uhr-Fossil-Ivory.jpg",
     "priceFull": 189,
@@ -937,52 +989,6 @@
         "article": 1255717400,
         "image": "./img/Frauen/Accessoires/Uhr-Fossil-Ivory.jpg",
         "color": "rgb(245, 228, 211)"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "accessoires",
-    "urlPath": "Seidenschal-Frontline",
-    "sort": 10,
-    "name": "Seidenschal von Fabric Frontline",
-    "image": "./img/Frauen/Accessoires/Seidenschal-Frontline-Navy.jpg",
-    "priceFull": 339.9,
-    "price25": 84.95,
-    "mainVariation": 1259528002,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Navy",
-        "article": 1259528002,
-        "image": "./img/Frauen/Accessoires/Seidenschal-Frontline-Navy.jpg",
-        "color": "rgb(0, 39, 77)"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "accessoires",
-    "urlPath": "Sonnenbrille-Balenciaga",
-    "sort": 11,
-    "name": "Sonnenbrille \"BB0011S\" von BALENCIAGA",
-    "image": "./img/Frauen/Accessoires/Sonnenbrille-Balenciaga-Schwarz.jpg",
-    "priceFull": 419.9,
-    "price25": 104.95,
-    "mainVariation": 1162990009739,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Schwarz",
-        "article": 1162990009739,
-        "image": "./img/Frauen/Accessoires/Sonnenbrille-Balenciaga-Schwarz.jpg",
-        "color": "#000000"
-      },
-      {
-        "name": "Gold",
-        "article": 1162990009921,
-        "image": "./img/Frauen/Accessoires/Sonnenbrille_Balenciaga_Gold.jpg",
-        "color": "#D19700"
       }
     ]
   },
