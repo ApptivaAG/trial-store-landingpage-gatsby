@@ -756,6 +756,40 @@
   },
   {
     "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "Kleid-Ganni",
+    "sort": 14,
+    "name": "Kleid von GANNI",
+    "image": "./img/Frauen/Mode/Kleid-Ganni-Rosa.jpg",
+    "priceFull": 329.9,
+    "price25": 82.45,
+    "mainVariation": 1266972405,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "36",
+        "article": 1266972405,
+        "image": "./img/Frauen/Mode/Kleid-Ganni-Rosa.jpg"
+      },
+      {
+        "name": "38",
+        "article": 1266972406,
+        "image": "./img/Frauen/Mode/Kleid-Ganni-Rosa.jpg"
+      },
+      {
+        "name": "40",
+        "article": 1266972407,
+        "image": "./img/Frauen/Mode/Kleid-Ganni-Rosa.jpg"
+      },
+      {
+        "name": "42",
+        "article": 1266972407,
+        "image": "./img/Frauen/Mode/Kleid-Ganni-Rosa.jpg"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
     "subgroup": "accessoires",
     "urlPath": "Sonnenbrille-Fendi",
     "sort": 1,
