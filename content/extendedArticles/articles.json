@@ -540,7 +540,7 @@
     "image": "./img/Frauen/Mode/Schupfbluse-Flieder-Tibi.jpg",
     "priceFull": 549.9,
     "price25": 137.45,
-    "mainVariation": 1269034206,
+    "mainVariation": 1265519901,
     "variationName": "Grösse",
     "variations": [
       {
@@ -1132,97 +1132,141 @@
   {
     "group": "herren",
     "subgroup": "mode",
-    "urlPath": "Trainingsanzug-Band-of-Outsiders",
+    "urlPath": "Veston-Corneliani",
     "sort": 4,
-    "name": "Trainingsanzug von BAND OF OUTSIDERS",
-    "image": "./img/Herren/Mode/Trainingsanzug-BandofOftsiders.jpg",
-    "priceFull": 299.9,
-    "price25": 74.95,
-    "mainVariation": 1263798505,
+    "name": "Veston Slim Fit von CORNELIANI",
+    "image": "./img/Herren/Mode/Veston-Braun-Corneliani.jpg",
+    "priceFull": 1599,
+    "price25": 399.75,
+    "mainVariation": 1266628617,
     "variationName": "Grösse",
     "variations": [
       {
-        "name": "S",
-        "article": 1263798505,
-        "image": "./img/Herren/Mode/Trainingsanzug-BandofOftsiders.jpg"
+        "name": "48",
+        "article": 1266628617,
+        "image": "./img/Herren/Mode/Veston-Braun-Corneliani.jpg"
       },
       {
-        "name": "M",
-        "article": 1263798503,
-        "image": "./img/Herren/Mode/Trainingsanzug-BandofOftsiders.jpg"
+        "name": "50",
+        "article": 1266628618,
+        "image": "./img/Herren/Mode/Veston-Braun-Corneliani.jpg"
       },
       {
-        "name": "L",
-        "article": 1263798504,
-        "image": "./img/Herren/Mode/Trainingsanzug-BandofOftsiders.jpg"
+        "name": "52",
+        "article": 1266628619,
+        "image": "./img/Herren/Mode/Veston-Braun-Corneliani.jpg"
       },
       {
-        "name": "XL",
-        "article": 1263798506,
-        "image": "./img/Herren/Mode/Trainingsanzug-BandofOftsiders.jpg"
+        "name": "54",
+        "article": 1266628620,
+        "image": "./img/Herren/Mode/Veston-Braun-Corneliani.jpg"
       }
     ]
   },
   {
     "group": "herren",
     "subgroup": "mode",
-    "urlPath": "Jeans-MSGM",
+    "urlPath": "Hemd-Polo",
     "sort": 5,
-    "name": "Jeans Regular Fit von MSGM",
-    "image": "./img/Herren/Mode/Jeans-RegularFit-MSGM.jpg",
-    "priceFull": 329.9,
-    "price25": 82.45,
-    "mainVariation": 1263055904,
+    "name": "Hemd Regular Fit von POLO RALPH LAUREN",
+    "image": "./img/Herren/Mode/Hemd-Hellgrün-Polo.jpg",
+    "priceFull": 149.9,
+    "price25": 37.45,
+    "mainVariation": 1264711306,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "S",
+        "article": 1264711306,
+        "image": "./img/Herren/Mode/Hemd-Hellgrün-Polo.jpg"
+      },
+      {
+        "name": "M",
+        "article": 1264711307,
+        "image": "./img/Herren/Mode/Hemd-Hellgrün-Polo.jpg"
+      },
+      {
+        "name": "L",
+        "article": 1264711308,
+        "image": "./img/Herren/Mode/Hemd-Hellgrün-Polo.jpg"
+      },
+      {
+        "name": "XL",
+        "article": 1264711309,
+        "image": "./img/Herren/Mode/Hemd-Hellgrün-Polo.jpg"
+      },
+      {
+        "name": "XXL",
+        "article": 1264711310,
+        "image": "./img/Herren/Mode/Hemd-Hellgrün-Polo.jpg"
+      }
+    ]
+  },
+  {
+    "group": "herren",
+    "subgroup": "mode",
+    "urlPath": "Bermudas-Circolo",
+    "sort": 6,
+    "name": "Bermudas von CIRCOLO 1901",
+    "image": "./img/Herren/Mode/Bermudas-CIRCOLO.jpg",
+    "priceFull": 219.9,
+    "price25": 54.95,
+    "mainVariation": 1264538001,
     "variationName": "Grösse",
     "variations": [
       {
         "name": "46",
-        "article": 1263055904,
-        "image": "./img/Herren/Mode/Jeans-RegularFit-MSGM.jpg"
+        "article": 1264538001,
+        "image": "./img/Herren/Mode/Bermudas-CIRCOLO.jpg"
       },
       {
         "name": "48",
-        "article": 1263055905,
-        "image": "./img/Herren/Mode/Jeans-RegularFit-MSGM.jpg"
+        "article": 1264538002,
+        "image": "./img/Herren/Mode/Bermudas-CIRCOLO.jpg"
       },
       {
         "name": "50",
-        "article": 1263055906,
-        "image": "./img/Herren/Mode/Jeans-RegularFit-MSGM.jpg"
+        "article": 1264538003,
+        "image": "./img/Herren/Mode/Bermudas-CIRCOLO.jpg"
+      },
+      {
+        "name": "52",
+        "article": 1264538004,
+        "image": "./img/Herren/Mode/Bermudas-CIRCOLO.jpg"
+      },
+      {
+        "name": "54",
+        "article": 1264538005,
+        "image": "./img/Herren/Mode/Bermudas-CIRCOLO.jpg"
       }
     ]
   },
   {
     "group": "herren",
     "subgroup": "mode",
-    "urlPath": "T-Shirt-Reilly",
-    "sort": 6,
-    "name": "T-Shirt von REILLY",
-    "image": "./img/Herren/Mode/Tshirt-Reilly.jpg",
-    "priceFull": 189.9,
-    "price25": 47.45,
-    "mainVariation": 1264418205,
+    "urlPath": "Hemd-Corneliani",
+    "sort": 7,
+    "name": "Hemd Regular Fit von CC CORNELIANI",
+    "image": "./img/Herren/Mode/Hemd-Beige-Corneliani.jpg",
+    "priceFull": 199.9,
+    "price25": 49.95,
+    "mainVariation": 1266109204,
     "variationName": "Grösse",
     "variations": [
       {
-        "name": "S",
-        "article": 1264418205,
-        "image": "./img/Herren/Mode/Tshirt-Reilly.jpg"
+        "name": "39",
+        "article": 1266109204,
+        "image": "./img/Herren/Mode/Hemd-Beige-Corneliani.jpg"
       },
       {
-        "name": "M",
-        "article": 1264418206,
-        "image": "./img/Herren/Mode/Tshirt-Reilly.jpg"
+        "name": "40",
+        "article": 1266109205,
+        "image": "./img/Herren/Mode/Hemd-Beige-Corneliani.jpg"
       },
       {
-        "name": "L",
-        "article": 1264418207,
-        "image": "./img/Herren/Mode/Tshirt-Reilly.jpg"
-      },
-      {
-        "name": "XL",
-        "article": 1264418208,
-        "image": "./img/Herren/Mode/Tshirt-Reilly.jpg"
+        "name": "41",
+        "article": 1266109206,
+        "image": "./img/Herren/Mode/Hemd-Beige-Corneliani.jpg"
       }
     ]
   },
@@ -1230,7 +1274,7 @@
     "group": "herren",
     "subgroup": "mode",
     "urlPath": "Sweatshirt-Armani",
-    "sort": 7,
+    "sort": 8,
     "name": "Sweatshirt von EMPORIO ARMANI",
     "image": "./img/Herren/Mode/Sweatshirt-Armani-Grün.jpg",
     "priceFull": 349.9,
@@ -1263,178 +1307,8 @@
   {
     "group": "herren",
     "subgroup": "mode",
-    "urlPath": "Jeansjacke-Allsaints",
-    "sort": 8,
-    "name": "Jeansjacke von ALLSAINTS",
-    "image": "./img/Herren/Mode/Jeansjacke-AllSaints.jpg",
-    "priceFull": 179.9,
-    "price25": 44.95,
-    "mainVariation": 1266350705,
-    "variationName": "Grösse",
-    "variations": [
-      {
-        "name": "S",
-        "article": 1266350705,
-        "image": "./img/Herren/Mode/Jeansjacke-AllSaints.jpg"
-      },
-      {
-        "name": "M",
-        "article": 1266350706,
-        "image": "./img/Herren/Mode/Jeansjacke-AllSaints.jpg"
-      },
-      {
-        "name": "L",
-        "article": 1266350707,
-        "image": "./img/Herren/Mode/Jeansjacke-AllSaints.jpg"
-      },
-      {
-        "name": "XL",
-        "article": 1266350708,
-        "image": "./img/Herren/Mode/Jeansjacke-AllSaints.jpg"
-      }
-    ]
-  },
-  {
-    "group": "herren",
-    "subgroup": "mode",
-    "urlPath": "Lederjacke-Windsor",
-    "sort": 9,
-    "name": "Lederjacke von WINDSOR",
-    "image": "./img/Herren/Mode/Lederjacke-Windsor.jpg",
-    "priceFull": 799,
-    "price25": 199.75,
-    "mainVariation": 1265549104,
-    "variationName": "Grösse",
-    "variations": [
-      {
-        "name": "48",
-        "article": 1265549104,
-        "image": "./img/Herren/Mode/Lederjacke-Windsor.jpg"
-      },
-      {
-        "name": "50",
-        "article": 1265549105,
-        "image": "./img/Herren/Mode/Lederjacke-Windsor.jpg"
-      },
-      {
-        "name": "52",
-        "article": 1265549106,
-        "image": "./img/Herren/Mode/Lederjacke-Windsor.jpg"
-      }
-    ]
-  },
-  {
-    "group": "herren",
-    "subgroup": "mode",
-    "urlPath": "Hemd-Corneliani",
-    "sort": 10,
-    "name": "Hemd Regular Fit von CC CORNELIANI",
-    "image": "./img/Herren/Mode/Hemd-Beige-Corneliani.jpg",
-    "priceFull": 199.9,
-    "price25": 49.95,
-    "mainVariation": 1266109204,
-    "variationName": "Grösse",
-    "variations": [
-      {
-        "name": "39",
-        "article": 1266109204,
-        "image": "./img/Herren/Mode/Hemd-Beige-Corneliani.jpg"
-      },
-      {
-        "name": "40",
-        "article": 1266109205,
-        "image": "./img/Herren/Mode/Hemd-Beige-Corneliani.jpg"
-      },
-      {
-        "name": "41",
-        "article": 1266109206,
-        "image": "./img/Herren/Mode/Hemd-Beige-Corneliani.jpg"
-      }
-    ]
-  },
-  {
-    "group": "herren",
-    "subgroup": "mode",
-    "urlPath": "Veston-Hilfiger",
-    "sort": 11,
-    "name": "Baukasten Veston Slim Fit navy von TOMMY HILFIGER TAILORED",
-    "image": "./img/Herren/Mode/Veston-Hilfiger-Navy.jpg",
-    "priceFull": 449.9,
-    "price25": 112.45,
-    "mainVariation": 1257719625,
-    "variationName": "Grösse",
-    "variations": [
-      {
-        "name": "46",
-        "article": 1257719625,
-        "image": "./img/Herren/Mode/Veston-Hilfiger-Navy.jpg"
-      },
-      {
-        "name": "48",
-        "article": 1257719626,
-        "image": "./img/Herren/Mode/Veston-Hilfiger-Navy.jpg"
-      },
-      {
-        "name": "50",
-        "article": 1257719627,
-        "image": "./img/Herren/Mode/Veston-Hilfiger-Navy.jpg"
-      },
-      {
-        "name": "52",
-        "article": 1257719628,
-        "image": "./img/Herren/Mode/Veston-Hilfiger-Navy.jpg"
-      },
-      {
-        "name": "54",
-        "article": 1257719629,
-        "image": "./img/Herren/Mode/Veston-Hilfiger-Navy.jpg"
-      }
-    ]
-  },
-  {
-    "group": "herren",
-    "subgroup": "mode",
-    "urlPath": "Hose-Hilfiger",
-    "sort": 12,
-    "name": "Baukasten Hose navy von TOMMY HILFIGER TAILORED",
-    "image": "./img/Herren/Mode/Hose-Hilfiger-Navy.jpg",
-    "priceFull": 169.9,
-    "price25": 42.45,
-    "mainVariation": 1257719740,
-    "variationName": "Grösse",
-    "variations": [
-      {
-        "name": "46",
-        "article": 1257719740,
-        "image": "./img/Herren/Mode/Hose-Hilfiger-Navy.jpg"
-      },
-      {
-        "name": "48",
-        "article": 1257719741,
-        "image": "./img/Herren/Mode/Hose-Hilfiger-Navy.jpg"
-      },
-      {
-        "name": "50",
-        "article": 1257719742,
-        "image": "./img/Herren/Mode/Hose-Hilfiger-Navy.jpg"
-      },
-      {
-        "name": "52",
-        "article": 1257719743,
-        "image": "./img/Herren/Mode/Hose-Hilfiger-Navy.jpg"
-      },
-      {
-        "name": "54",
-        "article": 1257719744,
-        "image": "./img/Herren/Mode/Hose-Hilfiger-Navy.jpg"
-      }
-    ]
-  },
-  {
-    "group": "herren",
-    "subgroup": "mode",
     "urlPath": "Trenchcoat-Kooples",
-    "sort": 13,
+    "sort": 9,
     "name": "Trenchcoat von THE KOOPLES",
     "image": "./img/Herren/Mode/Coat-Kooples-Beige.jpg",
     "priceFull": 625,
@@ -1466,6 +1340,40 @@
         "name": "54",
         "article": 1257719744,
         "image": "./img/Herren/Mode/Coat-Kooples-Beige.jpg"
+      }
+    ]
+  },
+  {
+    "group": "herren",
+    "subgroup": "mode",
+    "urlPath": "Anzug-Corneliani",
+    "sort": 10,
+    "name": "Anzug 2-teilig von CC CORNELIANI",
+    "image": "./img/Herren/Mode/Anzug-Blau-Corneliani.jpg",
+    "priceFull": 799.9,
+    "price25": 199.95,
+    "mainVariation": 1266092305,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "48",
+        "article": 1266092305,
+        "image": "./img/Herren/Mode/Anzug-Blau-Corneliani.jpg"
+      },
+      {
+        "name": "50",
+        "article": 1266092306,
+        "image": "./img/Herren/Mode/Anzug-Blau-Corneliani.jpg"
+      },
+      {
+        "name": "52",
+        "article": 1266092307,
+        "image": "./img/Herren/Mode/Anzug-Blau-Corneliani.jpg"
+      },
+      {
+        "name": "54",
+        "article": 1266092308,
+        "image": "./img/Herren/Mode/Anzug-Blau-Corneliani.jpg"
       }
     ]
   },
