@@ -1668,40 +1668,8 @@
   {
     "group": "haushalt",
     "subgroup": "heim",
-    "urlPath": "Dekoleuchte-Lumio",
-    "sort": 4,
-    "name": "Dekoleuchte von LUMIO",
-    "image": "./img/Haushalt/Heim/Leuchte-Lumio-Schwarz.jpg",
-    "priceFull": 249,
-    "price25": 62.25,
-    "mainVariation": 1256084900,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Schwarz",
-        "article": 1256084900,
-        "image": "./img/Haushalt/Heim/Leuchte-Lumio-Schwarz.jpg",
-        "color": "#000000"
-      },
-      {
-        "name": "Blauschwarz",
-        "article": 1256084800,
-        "image": "./img/Haushalt/Heim/Leuchte-Lumio-Blauschwarzjpg.jpg",
-        "color": "rgb(13, 53, 88)"
-      },
-      {
-        "name": "Grau",
-        "article": 1256084700,
-        "image": "./img/Haushalt/Heim/Leuchte-Lumio-Grau.jpg",
-        "color": "rgb(143, 143, 143)"
-      }
-    ]
-  },
-  {
-    "group": "haushalt",
-    "subgroup": "heim",
     "urlPath": "Lautsprecher-Olufsen",
-    "sort": 5,
+    "sort": 4,
     "name": "Bluetooth Lautsprecher BEOPLAY M5 von BANG&OLUFSEN",
     "image": "./img/Haushalt/Heim/Bluetooth-Lautsprecher-BangOlufsen-Nature.jpg",
     "priceFull": 649,
@@ -1727,7 +1695,7 @@
     "group": "haushalt",
     "subgroup": "heim",
     "urlPath": "Kopfhörer-Olufsen",
-    "sort": 6,
+    "sort": 5,
     "name": "Bluetooth Kopfhörer von BANG&OLUFSEN",
     "image": "./img/Haushalt/Heim/Kopfhörer-BangOlufsen-Silber.jpg",
     "priceFull": 299,
@@ -1752,28 +1720,8 @@
   {
     "group": "haushalt",
     "subgroup": "heim",
-    "urlPath": "Saftpresse-Novis",
-    "sort": 7,
-    "name": "Saftpresse VITA JUICER von NOVIS",
-    "image": "./img/Haushalt/Heim/Saftpresse-Novis-Silber.jpg",
-    "priceFull": 649,
-    "price25": 162.25,
-    "mainVariation": 1104131600,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Silberfarben",
-        "article": 1104131600,
-        "image": "./img/Haushalt/Heim/Saftpresse-Novis-Silber.jpg",
-        "color": "rgb(230, 230, 230)"
-      }
-    ]
-  },
-  {
-    "group": "haushalt",
-    "subgroup": "heim",
     "urlPath": "Aufschnittmaschine-Berkel",
-    "sort": 8,
+    "sort": 6,
     "name": "Aufschnittmaschine Red Line 250 von BERKEL",
     "image": "./img/Haushalt/Heim/Aufschnittmaschine-Berkel-Schwarz.jpg",
     "priceFull": 1239,
@@ -1786,26 +1734,6 @@
         "article": 1254536400,
         "image": "./img/Haushalt/Heim/Aufschnittmaschine-Berkel-Schwarz.jpg",
         "color": "#000000"
-      }
-    ]
-  },
-  {
-    "group": "haushalt",
-    "subgroup": "heim",
-    "urlPath": "Brotbackform-Henry",
-    "sort": 9,
-    "name": "Brotbackform von EMILE HENRY",
-    "image": "./img/Haushalt/Heim/Brotbackform-Henry-Offwhite.jpg",
-    "priceFull": 99.9,
-    "price25": 24.95,
-    "mainVariation": 1262107700,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Offwhite",
-        "article": 1262107700,
-        "image": "./img/Haushalt/Heim/Brotbackform-Henry-Offwhite.jpg",
-        "color": "rgb(254, 248, 250)"
       }
     ]
   },
@@ -1910,64 +1838,52 @@
   {
     "group": "haushalt",
     "subgroup": "dekoration",
-    "urlPath": "Teller-Serax",
+    "urlPath": "Wanduhr-Vitra",
     "sort": 5,
-    "name": "Teller TERRE DE RÊVE von SERAX",
-    "image": "./img/Haushalt/Dekoration/Teller-Serax-Hellblau.jpg",
-    "priceFull": 29.9,
-    "price25": 7.45,
-    "mainVariation": 1266567900,
+    "name": "Wanduhr \"POLYGON\" von VITRA",
+    "image": "./img/Haushalt/Dekoration/Wanduhr-Polygon-Vitra.jpg",
+    "priceFull": 525,
+    "price25": 131.25,
+    "mainVariation": 1274644400,
     "variationName": "Farbe",
     "variations": [
       {
-        "name": "Hellblau",
-        "article": 1266567900,
-        "image": "./img/Haushalt/Dekoration/Teller-Serax-Hellblau.jpg",
-        "color": "rgb(173, 198, 247)"
-      },
-      {
-        "name": "Blaugrau",
-        "article": 1266567700,
-        "image": "./img/Haushalt/Dekoration/Teller-Serax-Blaugrau.jpg",
-        "color": "rgb(154, 192, 205)"
-      },
-      {
-        "name": "Dunkelrot",
-        "article": 1266567800,
-        "image": "./img/Haushalt/Dekoration/Teller-Serax-Dunkelrot.jpg",
-        "color": "#6a0101"
+        "name": "Noisette",
+        "article": 1274644400,
+        "image": "./img/Haushalt/Dekoration/Wanduhr-Polygon-Vitra.jpg",
+        "color": "#8F4A06"
       }
     ]
   },
   {
     "group": "haushalt",
     "subgroup": "dekoration",
-    "urlPath": "Pastateller-Serax",
+    "urlPath": "Vase-Vitra",
     "sort": 6,
-    "name": "Pastateller TERRE DE RÊVE von SERAX",
-    "image": "./img/Haushalt/Dekoration/Pastateller-Serx-Grau.jpg",
-    "priceFull": 44.9,
-    "price25": 11.2,
-    "mainVariation": 1266569400,
+    "name": "Wanduhr \"NUAGE\" von VITRA",
+    "image": "./img/Haushalt/Dekoration/Vase-Nuage-Vitra.jpg",
+    "priceFull": 285,
+    "price25": 71.25,
+    "mainVariation": 1274641300,
     "variationName": "Farbe",
     "variations": [
       {
-        "name": "Grau",
-        "article": 1266569400,
-        "image": "./img/Haushalt/Dekoration/Pastateller-Serx-Grau.jpg",
-        "color": "rgb(143, 143, 143)"
+        "name": "Dunkelgrün",
+        "article": 1274641300,
+        "image": "./img/Haushalt/Dekoration/Vase-Nuage-Vitra.jpg",
+        "color": "#006400"
       },
       {
-        "name": "Blaugrau",
-        "article": 1266569200,
-        "image": "./img/Haushalt/Dekoration/Pastateller-Serax-Blaugrau.jpg",
-        "color": "rgb(154, 192, 205)"
+        "name": "Dunkelorange",
+        "article": 1274641000,
+        "image": "./img/Haushalt/Dekoration/Vase-Nuage-Vitra-Orange.jpg",
+        "color": "#ED8500"
       },
       {
-        "name": "Hellblau",
-        "article": 1266569300,
-        "image": "./img/Haushalt/Dekoration/Pastateller-Serax-Hellblau.jpg",
-        "color": "rgb(173, 198, 247)"
+        "name": "Silberfarben",
+        "article": 1274641600,
+        "image": "./img/Haushalt/Dekoration/Vase-Nuage-Silber-Vitra.jpg",
+        "color": "#E6E6E6"
       }
     ]
   },
