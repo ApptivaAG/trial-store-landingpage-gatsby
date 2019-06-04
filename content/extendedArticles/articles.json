@@ -22,19 +22,19 @@
   {
     "group": "frauen",
     "subgroup": "bags",
-    "urlPath": "Abendtasche-Hazel-Kate-Spade",
+    "urlPath": "Clutch-Millie-MCM",
     "sort": 2,
-    "name": "Abendtasche \"Hazel\" von KATE SPADE NEW YORK",
-    "image": "./img/Frauen/Taschen/Abendtasche-Hazel-KateSapde.jpg",
-    "priceFull": 299.9,
-    "price25": 74.95,
-    "mainVariation": 1264686601,
+    "name": "Clutch \"Millie\" von MCM",
+    "image": "./img/Frauen/Taschen/Clutch-Millie-MCM-Schwarz.jpg",
+    "priceFull": 595,
+    "price25": 148.75,
+    "mainVariation": 1266248605,
     "variationName": "Farbe",
     "variations": [
       {
         "name": "Schwarz",
-        "article": 1264686601,
-        "image": "./img/Frauen/Taschen/Abendtasche-Hazel-KateSapde.jpg",
+        "article": 1266248605,
+        "image": "./img/Frauen/Taschen/Clutch-Millie-MCM-Schwarz.jpg",
         "color": "#000000"
       }
     ]
@@ -42,98 +42,46 @@
   {
     "group": "frauen",
     "subgroup": "bags",
-    "urlPath": "Clutch-Buus-Maison-Mollerus",
+    "urlPath": "Clutch-Marni",
     "sort": 3,
-    "name": "Clutch \"Buus\" von MAISON MOLLERUS",
-    "image": "./img/Frauen/Taschen/Clutch-Buus-Mollerus.jpg",
-    "priceFull": 589,
-    "price25": 147.25,
-    "mainVariation": 1262228102,
+    "name": "Clutch von MARNI",
+    "image": "./img/Frauen/Taschen/Clutch-Beige-Marni.jpg",
+    "priceFull": 689.9,
+    "price25": 172.45,
+    "mainVariation": 1269017903,
     "variationName": "Farbe",
     "variations": [
       {
-        "name": "Schwarz",
-        "article": 1262228102,
-        "image": "./img/Frauen/Taschen/Clutch-Buus-Mollerus.jpg",
-        "color": "#000000"
+        "name": "Beige",
+        "article": 1269017903,
+        "image": "./img/Frauen/Taschen/Clutch-Beige-Marni.jpg",
+        "color": "Beige"
+      },
+      {
+        "name": "Weiss",
+        "article": 1269017901,
+        "image": "./img/Frauen/Taschen/Clutch-Weiss-Marni.jpg",
+        "color": "#FFFFFF"
       }
     ]
   },
   {
     "group": "frauen",
     "subgroup": "bags",
-    "urlPath": "Umhaengetasche-Love-Moschino",
+    "urlPath": "Rucksack-Stark-Flight-MCM",
     "sort": 4,
-    "name": "Umhängetasche von LOVE MOSCHINO",
-    "image": "./img/Frauen/Taschen/Moschino-Tasche-Gelb.jpg",
-    "priceFull": 179.9,
-    "price25": 44.9,
-    "mainVariation": 1268830803,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Gelb",
-        "article": 1268830803,
-        "image": "./img/Frauen/Taschen/Moschino-Tasche-Gelb.jpg",
-        "color": "rgb(255,247,0)"
-      },
-      {
-        "name": "Cognac",
-        "article": 1268830804,
-        "image": "./img/Frauen/Taschen/Moschin-Tasche-Cognac.jpg",
-        "color": "#ab5c00"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "bags",
-    "urlPath": "Umhaengetasche-Marco-Jacobs",
-    "sort": 5,
-    "name": "Umhängetasche \"Snapshot\" von MARC JACOBS",
-    "image": "./img/Frauen/Taschen/Marc-Jacobs-Klein-Tasche.jpg",
-    "priceFull": 379.9,
-    "price25": 94.95,
-    "mainVariation": 1219269400601,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Grün",
-        "article": 1219269400601,
-        "image": "./img/Frauen/Taschen/Marc-Jacobs-Klein-Tasche.jpg",
-        "color": "rgb(0, 148, 13)"
-      },
-      {
-        "name": "Puder",
-        "article": 1219269400010,
-        "image": "./img/Frauen/Taschen/Marc-Jacobs-Klein-Puder.jpg",
-        "color": "rgb(255, 224, 184)"
-      },
-      {
-        "name": "Mittelgrau",
-        "article": 1219269400710,
-        "image": "./img/Frauen/Taschen/Marc-Jacobs-Klein-Mittelgrau.jpg",
-        "color": "rgb(135, 135, 135)"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "bags",
-    "urlPath": "Umhaengetasche-mcm",
-    "sort": 6,
-    "name": "Umhängetasche \"Patricia\" von MCM",
-    "image": "./img/Frauen/Taschen/MCM-Tasche-Patricia.jpg",
-    "priceFull": 925,
-    "price25": 231.25,
-    "mainVariation": 1266246404,
+    "name": "Rucksack \"Stark Flight\" von MCM",
+    "image": "./img/Frauen/Taschen/Rucksack-StarkFlight-MCM.jpg",
+    "priceFull": 1225,
+    "price25": 306.25,
+    "mainVariation": 1269155804,
     "variationName": "Farbe",
     "variations": [
       {
         "name": "Cognac",
-        "article": 1266246404,
-        "image": "./img/Frauen/Taschen/MCM-Tasche-Patricia.jpg",
-        "color": "#ab5c00"
+        "article": 1269155804,
+        "image": "./img/Frauen/Taschen/Rucksack-StarkFlight-MCM.jpg",
+        "color": "#AB5C00"
       }
     ]
   },
@@ -141,7 +89,7 @@
     "group": "frauen",
     "subgroup": "bags",
     "urlPath": "Rucksack-Stark-Side-Stud",
-    "sort": 7,
+    "sort": 5,
     "name": "Rucksack \"Stark Side Studs\" von MCM",
     "image": "./img/Frauen/Taschen/Rucksack-Stark-Side-MCM-Schwarz.jpg",
     "priceFull": 825,
@@ -167,7 +115,7 @@
     "group": "frauen",
     "subgroup": "bags",
     "urlPath": "Guerteltasche-Patricia-MCM",
-    "sort": 8,
+    "sort": 6,
     "name": "Gürteltasche \"Patricia\" von MCM",
     "image": "./img/Frauen/Taschen/Gürteltasche-Patricia-Cognac-MCM.jpg",
     "priceFull": 725,
@@ -192,26 +140,60 @@
   {
     "group": "frauen",
     "subgroup": "bags",
-    "urlPath": "Handtasche-Essential-MCM",
-    "sort": 9,
-    "name": "Handtasche \"Essential\" von MCM",
-    "image": "./img/Frauen/Taschen/Handtasche-Essentiel-MCM-Beige.jpg",
-    "priceFull": 875,
-    "price25": 218.75,
-    "mainVariation": 1269155203,
+    "urlPath": "Beuteltasche-Heritage-Drawstring-MCM",
+    "sort": 7,
+    "name": "Beuteltasche \"Heritage Drawstring Small\" von MCM",
+    "image": "./img/Frauen/Taschen/Beuteltasche-HeritageDrawstringSmall-MCM.jpg",
+    "priceFull": 1099,
+    "price25": 274.75,
+    "mainVariation": 1107233802,
     "variationName": "Farbe",
     "variations": [
       {
-        "name": "Beige",
-        "article": 1269155203,
-        "image": "./img/Frauen/Taschen/Handtasche-Essentiel-MCM-Beige.jpg",
-        "color": "#E0C791"
-      },
+        "name": "Cognac",
+        "article": 1107233802,
+        "image": "./img/Frauen/Taschen/Beuteltasche-HeritageDrawstringSmall-MCM.jpg",
+        "color": "#ab5c00"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "bags",
+    "urlPath": "Umhaengetasche-Diva-Furla",
+    "sort": 8,
+    "name": "Umhängetasche \"Diva\" von FURLA",
+    "image": "./img/Frauen/Taschen/Umhängetasche-Diva-Furla.jpg",
+    "priceFull": 659.9,
+    "price25": 104.95,
+    "mainVariation": 1272641308,
+    "variationName": "Farbe",
+    "variations": [
       {
-        "name": "Schwarz",
-        "article": 1269155201,
-        "image": "./img/Frauen/Taschen/Handtasche-Essentiel-MCM-Schwarz.jpg",
-        "color": "#000000"
+        "name": "Noisette",
+        "article": 1272641308,
+        "image": "./img/Frauen/Taschen/Umhängetasche-Diva-Furla.jpg",
+        "color": "#8F4A06"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "bags",
+    "urlPath": "Handtasche-Navyboot",
+    "sort": 9,
+    "name": "Handtasche von NAVYBOOT",
+    "image": "./img/Frauen/Taschen/Handtasche-Cognac-Navyboot.jpg",
+    "priceFull": 399,
+    "price25": 99.75,
+    "mainVariation": 1269118402,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Cognac",
+        "article": 1269118402,
+        "image": "./img/Frauen/Taschen/Handtasche-Cognac-Navyboot.jpg",
+        "color": "#ab5c00"
       }
     ]
   },
@@ -270,58 +252,6 @@
   {
     "group": "frauen",
     "subgroup": "bags",
-    "urlPath": "Rucksack-Corvatch-Mollerus",
-    "sort": 12,
-    "name": "Rucksack \"Corvatch\" von MAISON MOLLERUS",
-    "image": "./img/Frauen/Taschen/Rucksack-Corvatch-Mollerus-Schwarz.jpg",
-    "priceFull": 699,
-    "price25": 174.75,
-    "mainVariation": 1249201201,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Schwarz",
-        "article": 1249201201,
-        "image": "./img/Frauen/Taschen/Rucksack-Corvatch-Mollerus-Schwarz.jpg",
-        "color": "#000000"
-      },
-      {
-        "name": "Weiss",
-        "article": 1249201203,
-        "image": "Rucksack-Corvatch-Mollerus-Weiss.jpg",
-        "color": "#FFFFFF"
-      },
-      {
-        "name": "Taupe",
-        "article": 1249201204,
-        "image": "Rucksack-Corvatch-Mollerus-Taupe.jpg",
-        "color": "#A18E7E"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "bags",
-    "urlPath": "Beuteltasche-Dryden-Debby-Lauren",
-    "sort": 13,
-    "name": "Beuteltasche \"Dryden Debby\" von LAUREN RALPH LAUREN",
-    "image": "./img/Frauen/Taschen/Beuteltasche-DrydenDebby-Lauren.jpg",
-    "priceFull": 329.9,
-    "price25": 82.45,
-    "mainVariation": 1266098201,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Schwarz",
-        "article": 1266098201,
-        "image": "./img/Frauen/Taschen/Beuteltasche-DrydenDebby-Lauren.jpg",
-        "color": "#000000"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "bags",
     "urlPath": "Shopper-Highline-Coach",
     "sort": 14,
     "name": "Shopper \"Highline Tote\" von COACH",
@@ -354,38 +284,12 @@
   {
     "group": "frauen",
     "subgroup": "bags",
-    "urlPath": "Handtasche-Tommy-Hilfiger",
-    "sort": 15,
-    "name": "Handtasche von TOMMY HILFIGER",
-    "image": "./img/Frauen/Taschen/Handtasche-Tommy-Hilfiger.jpg",
-    "priceFull": 199.9,
-    "price25": 49.95,
-    "mainVariation": 1268993803,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Navy",
-        "article": 1268993803,
-        "image": "./img/Frauen/Taschen/Handtasche-Tommy-Hilfiger.jpg",
-        "color": "#00274D"
-      },
-      {
-        "name": "Pastellblau",
-        "article": 1268993802,
-        "image": "./img/Frauen/Taschen/Handtasche-Pastellblau-Tommy-Hilfiger.jpg",
-        "color": "#A2D7DE"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "bags",
     "urlPath": "Handtasche-GUM",
     "sort": 16,
     "name": "Handtasche von GUM",
     "image": "./img/Frauen/Taschen/Handtasche-Silber-Gum.jpg",
-    "priceFull": 169.9,
-    "price25": 42.45,
+    "priceFull": 118.9,
+    "price25": 29.7,
     "mainVariation": 1267371704,
     "variationName": "Farbe",
     "variations": [
@@ -400,32 +304,6 @@
         "article": 1267371703,
         "image": "./img/Frauen/Taschen/Handtasche-Kirschrot-Gum.jpg",
         "color": "#DE004B"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "bags",
-    "urlPath": "Handtasche-Michael-Kors",
-    "sort": 17,
-    "name": "Handtasche \"Rollins\" von MICHAEL MICHAEL KORS",
-    "image": "./img/Frauen/Taschen/Michael-Kors-Tasche-Dunkelrot.jpg",
-    "priceFull": 459.9,
-    "price25": 114.95,
-    "mainVariation": 1262787504,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Dunkelrot",
-        "article": 1262787504,
-        "image": "./img/Frauen/Taschen/Michael-Kors-Tasche-Dunkelrot.jpg",
-        "color": "rgb(153, 1, 1)"
-      },
-      {
-        "name": "Schwarz",
-        "article": 1262787502,
-        "image": "./img/Frauen/Taschen/Michael-Kors-Tasche-Schwarz.jpg",
-        "color": "#000000"
       }
     ]
   },
