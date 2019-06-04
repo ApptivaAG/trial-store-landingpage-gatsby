@@ -1380,28 +1380,8 @@
   {
     "group": "herren",
     "subgroup": "accessoires",
-    "urlPath": "Reisetasche-MCM",
-    "sort": 1,
-    "name": "Reisetasche von MCM",
-    "image": "./img/Herren/Accessoires/Reisetasche-MCM-Schwarz.jpg",
-    "priceFull": 1299,
-    "price25": 324.75,
-    "mainVariation": 1255397201,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Schwarz",
-        "article": 1255397201,
-        "image": "./img/Herren/Accessoires/Reisetasche-MCM-Schwarz.jpg",
-        "color": "#000000"
-      }
-    ]
-  },
-  {
-    "group": "herren",
-    "subgroup": "accessoires",
     "urlPath": "Reisetasche-La-Martina",
-    "sort": 2,
+    "sort": 1,
     "name": "Reisetasche von LA MARTINA",
     "image": "./img/Herren/Accessoires/Reisetasche-LaMartina.jpg",
     "priceFull": 599.9,
@@ -1420,86 +1400,20 @@
   {
     "group": "herren",
     "subgroup": "accessoires",
-    "urlPath": "Reisetasche-Northface",
-    "sort": 3,
-    "name": "Reisetasche von THE NORTH FACE",
-    "image": "./img/Herren/Accessoires/Reisetasche-Northface.jpg",
-    "priceFull": 139.9,
-    "price25": 34.95,
-    "mainVariation": 1264596702,
+    "urlPath": "Sonnenbrille-Persol",
+    "sort": 2,
+    "name": "Sonnenbrille \"0PO3199S\" von PERSOL",
+    "image": "./img/Herren/Accessoires/Sonnenbrille-Persol-Cognac.jpg",
+    "priceFull": 299.9,
+    "price25": 74.95,
+    "mainVariation": 1269836900,
     "variationName": "Farbe",
     "variations": [
       {
-        "name": "Royal",
-        "article": 1264596702,
-        "image": "./img/Herren/Accessoires/Reisetasche-Northface.jpg",
-        "color": "#002CAA"
-      }
-    ]
-  },
-  {
-    "group": "herren",
-    "subgroup": "accessoires",
-    "urlPath": "Rucksack-MCM",
-    "sort": 4,
-    "name": "Rucksack von MCM",
-    "image": "./img/Herren/Accessoires/Rucksack-MCM-Schwarz-Gelb.jpg",
-    "priceFull": 999.9,
-    "price25": 249.95,
-    "mainVariation": 1265860901,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Schwarz",
-        "article": 1265860901,
-        "image": "./img/Herren/Accessoires/Rucksack-MCM-Schwarz-Gelb.jpg",
-        "color": "#000000"
-      }
-    ]
-  },
-  {
-    "group": "herren",
-    "subgroup": "accessoires",
-    "urlPath": "Businesstasche-Navyboot",
-    "sort": 5,
-    "name": "Businesstasche schwarz von NAVYBOOT",
-    "image": "./img/Herren/Accessoires/Businesstasche-Navyboot-Schwarzjpg.jpg",
-    "priceFull": 299,
-    "price25": 74.75,
-    "mainVariation": 1255146401,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Schwarz",
-        "article": 1255146401,
-        "image": "./img/Herren/Accessoires/Businesstasche-Navyboot-Schwarzjpg.jpg",
-        "color": "#000000"
-      },
-      {
-        "name": "Braun",
-        "article": 1255146403,
-        "image": "./img/Herren/Accessoires/Businesstasche-Navyboot-Braun.jpg",
-        "color": "rgb(117, 55, 0)"
-      }
-    ]
-  },
-  {
-    "group": "herren",
-    "subgroup": "accessoires",
-    "urlPath": "Sonnenbrille-Polo-Ralph-Lauren",
-    "sort": 6,
-    "name": "Sonnenbrille \"0PH4110\" von POLO RALPH LAUREN",
-    "image": "./img/Herren/Accessoires/Sonnenbrille-RalphLauren.jpg",
-    "priceFull": 199,
-    "price25": 49.75,
-    "mainVariation": 1173598400,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Silberfarben",
-        "article": 1173598400,
-        "image": "./img/Herren/Accessoires/Sonnenbrille-RalphLauren.jpg",
-        "color": "#E6E6E6"
+        "name": "Cognac",
+        "article": 1269836900,
+        "image": "./img/Herren/Accessoires/Sonnenbrille-Persol-Cognac.jpg",
+        "color": "#AB5C00"
       }
     ]
   },
@@ -1507,7 +1421,7 @@
     "group": "herren",
     "subgroup": "accessoires",
     "urlPath": "Sonnenbrille-Ahlem",
-    "sort": 7,
+    "sort": 3,
     "name": "Sonnenbrille \"Place d'Anvers\" von AHLEM",
     "image": "./img/Herren/Accessoires/Sonnenbrille-Ahlem-Rosegold.jpg",
     "priceFull": 559.9,
@@ -1526,8 +1440,28 @@
   {
     "group": "herren",
     "subgroup": "accessoires",
+    "urlPath": "Armband-Wood",
+    "sort": 4,
+    "name": "Armband von TOM WOOD",
+    "image": "./img/Herren/Accessoires/Armband-Silber-Wood.jpg",
+    "priceFull": 1659,
+    "price25": 414.75,
+    "mainVariation": 1264285001,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Silberfarben",
+        "article": 1264285001,
+        "image": "./img/Herren/Accessoires/Armband-Silber-Wood.jpg",
+        "color": "#E6E6E6"
+      }
+    ]
+  },
+  {
+    "group": "herren",
+    "subgroup": "accessoires",
     "urlPath": "Uhr-Fossil",
-    "sort": 8,
+    "sort": 5,
     "name": "Armbanduhr mit Lederband von Fossil",
     "image": "./img/Herren/Accessoires/Uhr-Fossil-Mocca.jpg",
     "priceFull": 239,
@@ -1547,7 +1481,7 @@
     "group": "herren",
     "subgroup": "accessoires",
     "urlPath": "Uhr-Armani",
-    "sort": 9,
+    "sort": 6,
     "name": "Armbanduhr mit Edelstahlband von EMPORIO ARMANI",
     "image": "./img/Herren/Accessoires/Uhr-Armani-Dunkelblau.jpg",
     "priceFull": 299,
@@ -1572,8 +1506,40 @@
   {
     "group": "herren",
     "subgroup": "accessoires",
+    "urlPath": "Krawatte-Milano",
+    "sort": 7,
+    "name": "Krawatte aus Seide von GIERRE MILANO",
+    "image": "./img/Herren/Accessoires/Krawatte-Weiss-Milano.jpg",
+    "priceFull": 119.9,
+    "price25": 29.95,
+    "mainVariation": 1268144105,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Weiss",
+        "article": 1268144105,
+        "image": "./img/Herren/Accessoires/Krawatte-Weiss-Milano.jpg",
+        "color": "#FBF8EF"
+      },
+      {
+        "name": "Navy",
+        "article": 1268144109,
+        "image": "./img/Herren/Accessoires/Krawatte-Navy-Milano.jpg",
+        "color": "#003473"
+      },
+      {
+        "name": "Lila",
+        "article": 1268144107,
+        "image": "./img/Herren/Accessoires/Krawatte-Lila-Milano.jpg",
+        "color": "#910099"
+      }
+    ]
+  },
+  {
+    "group": "herren",
+    "subgroup": "accessoires",
     "urlPath": "Krawatte-Windsor",
-    "sort": 10,
+    "sort": 8,
     "name": "Krawatte aus Seide von WINDSOR",
     "image": "./img/Herren/Accessoires/Krawatte-Windsor-Navy.jpg",
     "priceFull": 119,
@@ -1593,27 +1559,7 @@
     "group": "herren",
     "subgroup": "accessoires",
     "urlPath": "Krawatte-Eton",
-    "sort": 11,
-    "name": "Krawatte aus Seide von ETON",
-    "image": "./img/Herren/Accessoires/Krawatte-Eton-Navy.jpg",
-    "priceFull": 149.9,
-    "price25": 37.45,
-    "mainVariation": 1266914804,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Navy",
-        "article": 1266914804,
-        "image": "./img/Herren/Accessoires/Krawatte-Eton-Navy.jpg",
-        "color": "rgb(0, 39, 77)"
-      }
-    ]
-  },
-  {
-    "group": "herren",
-    "subgroup": "accessoires",
-    "urlPath": "Krawatte-Eton",
-    "sort": 12,
+    "sort": 9,
     "name": "Krawatte aus Seide von ETON",
     "image": "./img/Herren/Accessoires/Krawatte-Eton-Orange.jpg",
     "priceFull": 99.9,
