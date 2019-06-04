@@ -432,47 +432,8 @@
   {
     "group": "frauen",
     "subgroup": "mode",
-    "urlPath": "Trenchcoate-Calvin-Klein",
-    "sort": 4,
-    "name": "Trenchcoate von CALVIN KLEIN",
-    "image": "./img/Frauen/Mode/Trenchcoat Calvin Klein.jpg",
-    "priceFull": 499.9,
-    "price25": 124.95,
-    "mainVariation": 1264327605,
-    "variationName": "Grösse",
-    "variations": [
-      {
-        "name": "34",
-        "article": 1264327605,
-        "image": "./img/Frauen/Mode/Trenchcoat Calvin Klein.jpg"
-      },
-      {
-        "name": "36",
-        "article": 1264327606,
-        "image": "./img/Frauen/Mode/Trenchcoat Calvin Klein.jpg"
-      },
-      {
-        "name": "38",
-        "article": 1264327607,
-        "image": "./img/Frauen/Mode/Trenchcoat Calvin Klein.jpg"
-      },
-      {
-        "name": "40",
-        "article": 1264327608,
-        "image": "./img/Frauen/Mode/Trenchcoat Calvin Klein.jpg"
-      },
-      {
-        "name": "42",
-        "article": 1264327609,
-        "image": "./img/Frauen/Mode/Trenchcoat Calvin Klein.jpg"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "mode",
     "urlPath": "Jeansjacke-Ganni",
-    "sort": 5,
+    "sort": 4,
     "name": "Jeansjacke von GANNI",
     "image": "./img/Frauen/Mode/Jeansjacke von Ganni.jpg",
     "priceFull": 399.9,
@@ -500,360 +461,102 @@
   {
     "group": "frauen",
     "subgroup": "mode",
-    "urlPath": "Kleine-Jacke-Pierlot",
+    "urlPath": "Fieldjacket-Ganni",
+    "sort": 5,
+    "name": "Fieldjacket von GANNI",
+    "image": "./img/Frauen/Mode/Fieldjacket-Beige-Ganni.jpg",
+    "priceFull": 369.9,
+    "price25": 92.45,
+    "mainVariation": 1266972104,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "34",
+        "article": 1266972104,
+        "image": "./img/Frauen/Mode/Fieldjacket-Beige-Ganni.jpg"
+      },
+      {
+        "name": "36",
+        "article": 1266972105,
+        "image": "./img/Frauen/Mode/Fieldjacket-Beige-Ganni.jpg"
+      },
+      {
+        "name": "38",
+        "article": 1266972106,
+        "image": "./img/Frauen/Mode/Fieldjacket-Beige-Ganni.jpg"
+      },
+      {
+        "name": "40",
+        "article": 1266972107,
+        "image": "./img/Frauen/Mode/Fieldjacket-Beige-Ganni.jpg"
+      },
+      {
+        "name": "42",
+        "article": 1266972108,
+        "image": "./img/Frauen/Mode/Fieldjacket-Beige-Ganni.jpg"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "Long-Blazer-Tibi",
     "sort": 6,
-    "name": "Kleine Jacke von CLAUDIE PIERLOT",
-    "image": "./img/Frauen/Mode/KleineJacke-Pierlot.jpg",
-    "priceFull": 489,
-    "price25": 122.25,
-    "mainVariation": 1267606301,
+    "name": "Long Blazer von TIBI",
+    "image": "./img/Frauen/Mode/Blazer-Tibi.jpg",
+    "priceFull": 849.9,
+    "price25": 212.45,
+    "mainVariation": 1268829301,
     "variationName": "Grösse",
     "variations": [
       {
+        "name": "34",
+        "article": 1268829301,
+        "image": "./img/Frauen/Mode/Blazer-Tibi.jpg"
+      },
+      {
         "name": "36",
-        "article": 1267606301,
-        "image": "./img/Frauen/Mode/KleineJacke-Pierlot.jpg"
+        "article": 1268829302,
+        "image": "./img/Frauen/Mode/Blazer-Tibi.jpg"
       },
       {
         "name": "38",
-        "article": 1267606302,
-        "image": "./img/Frauen/Mode/KleineJacke-Pierlot.jpg"
+        "article": 1268829303,
+        "image": "./img/Frauen/Mode/Blazer-Tibi.jpg"
       },
       {
         "name": "40",
-        "article": 1267606303,
-        "image": "./img/Frauen/Mode/KleineJacke-Pierlot.jpg"
+        "article": 1268829304,
+        "image": "./img/Frauen/Mode/Blazer-Tibi.jpg"
       }
     ]
   },
   {
     "group": "frauen",
     "subgroup": "mode",
-    "urlPath": "Lederjacke-Globus",
+    "urlPath": "Schlupfbluse-Tibi",
     "sort": 7,
-    "name": "Bikerlederjacke von GLOBUS ESSENTIALS",
-    "image": "./img/Frauen/Mode/Lederjacke-Globus-Bordeaux.jpg",
-    "priceFull": 359.9,
-    "price25": 89.95,
-    "mainVariation": 1262767607,
+    "name": "Schlupfbluse von TIBI",
+    "image": "./img/Frauen/Mode/Schupfbluse-Flieder-Tibi.jpg",
+    "priceFull": 549.9,
+    "price25": 137.45,
+    "mainVariation": 1269034206,
     "variationName": "Grösse",
     "variations": [
       {
-        "name": "34",
-        "article": 1262767607,
-        "image": "./img/Frauen/Mode/Lederjacke-Globus-Bordeaux.jpg"
+        "name": "S",
+        "article": 1265519901,
+        "image": "./img/Frauen/Mode/Schupfbluse-Flieder-Tibi.jpg"
       },
       {
-        "name": "36",
-        "article": 1262767608,
-        "image": "./img/Frauen/Mode/Lederjacke-Globus-Bordeaux.jpg"
+        "name": "M",
+        "article": 1265519902,
+        "image": "./img/Frauen/Mode/Schupfbluse-Flieder-Tibi.jpg"
       },
       {
-        "name": "38",
-        "article": 1262767609,
-        "image": "./img/Frauen/Mode/Lederjacke-Globus-Bordeaux.jpg"
-      },
-      {
-        "name": "40",
-        "article": 1262767610,
-        "image": "./img/Frauen/Mode/Lederjacke-Globus-Bordeaux.jpg"
-      },
-      {
-        "name": "42",
-        "article": 1262767611,
-        "image": "./img/Frauen/Mode/Lederjacke-Globus-Bordeaux.jpg"
-      },
-      {
-        "name": "44",
-        "article": 1262767612,
-        "image": "./img/Frauen/Mode/Lederjacke-Globus-Bordeaux.jpg"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "mode",
-    "urlPath": "Stoffhose-Emporio-Armani",
-    "sort": 8,
-    "name": "Stoff Hose von EMPORIO ARMANI",
-    "image": "./img/Frauen/Mode/Stoffhose von Emporio Armani.jpg",
-    "priceFull": 479.9,
-    "price25": 119.95,
-    "mainVariation": 1269112607,
-    "variationName": "Grösse",
-    "variations": [
-      {
-        "name": "36",
-        "article": 1269112607,
-        "image": "./img/Frauen/Mode/Stoffhose von Emporio Armani.jpg"
-      },
-      {
-        "name": "38",
-        "article": 1269112608,
-        "image": "./img/Frauen/Mode/Stoffhose von Emporio Armani.jpg"
-      },
-      {
-        "name": "40",
-        "article": 1269112609,
-        "image": "./img/Frauen/Mode/Stoffhose von Emporio Armani.jpg"
-      },
-      {
-        "name": "42",
-        "article": 1269112610,
-        "image": "./img/Frauen/Mode/Stoffhose von Emporio Armani.jpg"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "mode",
-    "urlPath": "Overall-Maje",
-    "sort": 9,
-    "name": "Overall von MAJE",
-    "image": "./img/Frauen/Mode/Overall-Maje.jpg",
-    "priceFull": 359,
-    "price25": 89.75,
-    "mainVariation": 1268120601,
-    "variationName": "Grösse",
-    "variations": [
-      {
-        "name": "T34/34",
-        "article": 1268120601,
-        "image": "./img/Frauen/Mode/Overall-Maje.jpg"
-      },
-      {
-        "name": "T36/36",
-        "article": 1268120602,
-        "image": "./img/Frauen/Mode/Overall-Maje.jpg"
-      },
-      {
-        "name": "T38/38",
-        "article": 1268120603,
-        "image": "./img/Frauen/Mode/Overall-Maje.jpg"
-      },
-      {
-        "name": "T40/40",
-        "article": 1268120604,
-        "image": "./img/Frauen/Mode/Overall-Maje.jpg"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "mode",
-    "urlPath": "Blazer-Boss",
-    "sort": 10,
-    "name": "Blazer von BOSS",
-    "image": "./img/Frauen/Mode/Blazer-Schwarz-BOSS.jpg",
-    "priceFull": 449,
-    "price25": 112.25,
-    "mainVariation": 1252759704,
-    "variationName": "Grösse",
-    "variations": [
-      {
-        "name": "34",
-        "article": 1252759704,
-        "image": "./img/Frauen/Mode/Blazer-Schwarz-BOSS.jpg"
-      },
-      {
-        "name": "36",
-        "article": 125275970138,
-        "image": "./img/Frauen/Mode/Blazer-Schwarz-BOSS.jpg"
-      },
-      {
-        "name": "38",
-        "article": 1252759703,
-        "image": "./img/Frauen/Mode/Blazer-Schwarz-BOSS.jpg"
-      },
-      {
-        "name": "40",
-        "article": 1252759706,
-        "image": "./img/Frauen/Mode/Blazer-Schwarz-BOSS.jpg"
-      },
-      {
-        "name": "42",
-        "article": 1252759702,
-        "image": "./img/Frauen/Mode/Blazer-Schwarz-BOSS.jpg"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "mode",
-    "urlPath": "Bleistiftrock-Globus",
-    "sort": 11,
-    "name": "Rock von GLOBUS ESSENTIALS",
-    "image": "./img/Frauen/Mode/Rock-Globus-Hellblau.jpg",
-    "priceFull": 229.9,
-    "price25": 57.45,
-    "mainVariation": 1264437007,
-    "variationName": "Grösse",
-    "variations": [
-      {
-        "name": "34",
-        "article": 1264437007,
-        "image": "./img/Frauen/Mode/Rock-Globus-Hellblau.jpg"
-      },
-      {
-        "name": "36",
-        "article": 1264437008,
-        "image": "./img/Frauen/Mode/Rock-Globus-Hellblau.jpg"
-      },
-      {
-        "name": "38",
-        "article": 1264437009,
-        "image": "./img/Frauen/Mode/Rock-Globus-Hellblau.jpg"
-      },
-      {
-        "name": "40",
-        "article": 1264437010,
-        "image": "./img/Frauen/Mode/Rock-Globus-Hellblau.jpg"
-      },
-      {
-        "name": "42",
-        "article": 1264437011,
-        "image": "./img/Frauen/Mode/Rock-Globus-Hellblau.jpg"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "mode",
-    "urlPath": "Stoffhose-Cerano",
-    "sort": 12,
-    "name": "Stoff Hose von LUISA CERANO",
-    "image": "./img/Frauen/Mode/Stoffhose-Cerano-Schwarz.jpg",
-    "priceFull": 279.9,
-    "price25": 69.95,
-    "mainVariation": 1258021301,
-    "variationName": "Grösse",
-    "variations": [
-      {
-        "name": "34",
-        "article": 1258021301,
-        "image": "./img/Frauen/Mode/Stoffhose-Cerano-Schwarz.jpg"
-      },
-      {
-        "name": "36",
-        "article": 1258021302,
-        "image": "./img/Frauen/Mode/Stoffhose-Cerano-Schwarz.jpg"
-      },
-      {
-        "name": "38",
-        "article": 1258021303,
-        "image": "./img/Frauen/Mode/Stoffhose-Cerano-Schwarz.jpg"
-      },
-      {
-        "name": "40",
-        "article": 1258021304,
-        "image": "./img/Frauen/Mode/Stoffhose-Cerano-Schwarz.jpg"
-      },
-      {
-        "name": "42",
-        "article": 1258021305,
-        "image": "./img/Frauen/Mode/Stoffhose-Cerano-Schwarz.jpg"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "mode",
-    "urlPath": "Cocktailkleid-Maje",
-    "sort": 13,
-    "name": "Cocktailkleid von MAJE",
-    "image": "./img/Frauen/Mode/Cocktailkleid-Maje.jpg",
-    "priceFull": 419,
-    "price25": 104.75,
-    "mainVariation": 1270525901,
-    "variationName": "Grösse",
-    "variations": [
-      {
-        "name": "T1/36",
-        "article": 1270525901,
-        "image": "./img/Frauen/Mode/Cocktailkleid-Maje.jpg"
-      },
-      {
-        "name": "T2/38",
-        "article": 1270525904,
-        "image": "./img/Frauen/Mode/Cocktailkleid-Maje.jpg"
-      },
-      {
-        "name": "T3/40",
-        "article": 1270525903,
-        "image": "./img/Frauen/Mode/Cocktailkleid-Maje.jpg"
-      },
-      {
-        "name": "T4/42",
-        "article": 1270525902,
-        "image": "./img/Frauen/Mode/Cocktailkleid-Maje.jpg"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "mode",
-    "urlPath": "Cocktailkleid-Three-Floor",
-    "sort": 14,
-    "name": "Cocktailkleid von THREE FLOOR",
-    "image": "./img/Frauen/Mode/Cocktailkleid-Threefloor-Schwarz.jpg",
-    "priceFull": 479.9,
-    "price25": 119.95,
-    "mainVariation": 1265357305,
-    "variationName": "Grösse",
-    "variations": [
-      {
-        "name": "36",
-        "article": 1265357305,
-        "image": "./img/Frauen/Mode/Cocktailkleid-Threefloor-Schwarz.jpg"
-      },
-      {
-        "name": "38",
-        "article": 1265357306,
-        "image": "./img/Frauen/Mode/Cocktailkleid-Threefloor-Schwarz.jpg"
-      },
-      {
-        "name": "40",
-        "article": 1265357307,
-        "image": "./img/Frauen/Mode/Cocktailkleid-Threefloor-Schwarz.jpg"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "mode",
-    "urlPath": "Kleid-Mykke-Hofmann",
-    "sort": 15,
-    "name": "Kleid von MYKKE HOFMANN",
-    "image": "./img/Frauen/Mode/Kleid von Mykke Hofmann.jpg",
-    "priceFull": 499.9,
-    "price25": 124.95,
-    "mainVariation": 1264802700120,
-    "variationName": "Grösse",
-    "variations": [
-      {
-        "name": "34",
-        "article": 1264802706,
-        "image": "./img/Frauen/Mode/Kleid von Mykke Hofmann.jpg"
-      },
-      {
-        "name": "36",
-        "article": 1264802707,
-        "image": "./img/Frauen/Mode/Kleid von Mykke Hofmann.jpg"
-      },
-      {
-        "name": "38",
-        "article": 1264802708,
-        "image": "./img/Frauen/Mode/Kleid von Mykke Hofmann.jpg"
-      },
-      {
-        "name": "40",
-        "article": 1264802709,
-        "image": "./img/Frauen/Mode/Kleid von Mykke Hofmann.jpg"
-      },
-      {
-        "name": "42",
-        "article": 1264802710,
-        "image": "./img/Frauen/Mode/Kleid von Mykke Hofmann.jpg"
+        "name": "L",
+        "article": 1265519903,
+        "image": "./img/Frauen/Mode/Schupfbluse-Flieder-Tibi.jpg"
       }
     ]
   },
@@ -861,7 +564,7 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Bluse-Alysi",
-    "sort": 16,
+    "sort": 8,
     "name": "Blusen Top von Alysi",
     "image": "./img/Frauen/Mode/Blusentop-Rot-Alysi.jpg",
     "priceFull": 289.9,
@@ -899,34 +602,155 @@
   {
     "group": "frauen",
     "subgroup": "mode",
-    "urlPath": "Bluse-Blugirl-Folies",
-    "sort": 17,
-    "name": "Bluse von BLUGIRL FOLIES",
-    "image": "./img/Frauen/Mode/Bluse-Mint-BlugirlFolies.jpg",
-    "priceFull": 219.9,
-    "price25": 54.95,
-    "mainVariation": 1265463205,
+    "urlPath": "Stoff-Hose-Helmut-Lang",
+    "sort": 9,
+    "name": "Stoff Hose von HELMUT LANG",
+    "image": "./img/Frauen/Mode/Stoffhose-Weiss-Lang.jpg",
+    "priceFull": 599.9,
+    "price25": 149.95,
+    "mainVariation": 1267030602,
     "variationName": "Grösse",
     "variations": [
       {
         "name": "36",
-        "article": 1265463205,
-        "image": "./img/Frauen/Mode/Bluse-Mint-BlugirlFolies.jpg"
+        "article": 1267030602,
+        "image": "./img/Frauen/Mode/Stoffhose-Weiss-Lang.jpg"
       },
       {
         "name": "38",
-        "article": 1265463206,
-        "image": "./img/Frauen/Mode/Bluse-Mint-BlugirlFolies.jpg"
+        "article": 1267030603,
+        "image": "./img/Frauen/Mode/Stoffhose-Weiss-Lang.jpg"
       },
       {
         "name": "40",
-        "article": 1265463207,
-        "image": "./img/Frauen/Mode/Bluse-Mint-BlugirlFolies.jpg"
+        "article": 1267030604,
+        "image": "./img/Frauen/Mode/Stoffhose-Weiss-Lang.jpg"
       },
       {
         "name": "42",
-        "article": 1265463208,
-        "image": "./img/Frauen/Mode/Bluse-Mint-BlugirlFolies.jpg"
+        "article": 1267030605,
+        "image": "./img/Frauen/Mode/Stoffhose-Weiss-Lang.jpg"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "Faltenrock-MSGM",
+    "sort": 10,
+    "name": "Faltenrock von MSGM",
+    "image": "./img/Frauen/Mode/Faltenrock-Schwarz-MSGM.jpg",
+    "priceFull": 579.9,
+    "price25": 144.95,
+    "mainVariation": 1266141801,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "36",
+        "article": 1266141801,
+        "image": "./img/Frauen/Mode/Faltenrock-Schwarz-MSGM.jpg"
+      },
+      {
+        "name": "38",
+        "article": 1266141802,
+        "image": "./img/Frauen/Mode/Faltenrock-Schwarz-MSGM.jpg"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "Strickkleid-Missoni",
+    "sort": 11,
+    "name": "Strickkleid von MISSONI",
+    "image": "./img/Frauen/Mode/Strickkleid-Missoni-Rosa.jpg",
+    "priceFull": 699.9,
+    "price25": 174.95,
+    "mainVariation": 1264644705,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "34",
+        "article": 1264644705,
+        "image": "./img/Frauen/Mode/Strickkleid-Missoni-Rosa.jpg"
+      },
+      {
+        "name": "36",
+        "article": 1264644706,
+        "image": "./img/Frauen/Mode/Strickkleid-Missoni-Rosa.jpg"
+      },
+      {
+        "name": "38",
+        "article": 1264644707,
+        "image": "./img/Frauen/Mode/Strickkleid-Missoni-Rosa.jpg"
+      },
+      {
+        "name": "40",
+        "article": 1264644708,
+        "image": "./img/Frauen/Mode/Strickkleid-Missoni-Rosa.jpg"
+      },
+      {
+        "name": "42",
+        "article": 1264644709,
+        "image": "./img/Frauen/Mode/Strickkleid-Missoni-Rosa.jpg"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "Overall-Maje",
+    "sort": 12,
+    "name": "Overall von MAJE",
+    "image": "./img/Frauen/Mode/Overall-Ecru-Maje.jpg",
+    "priceFull": 359,
+    "price25": 89.75,
+    "mainVariation": 1270642001,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "T34/34",
+        "article": 1270642001,
+        "image": "./img/Frauen/Mode/Overall-Ecru-Maje.jpg"
+      },
+      {
+        "name": "T38/38",
+        "article": 1270642003,
+        "image": "./img/Frauen/Mode/Overall-Ecru-Maje.jpg"
+      },
+      {
+        "name": "T40/40",
+        "article": 1270642004,
+        "image": "./img/Frauen/Mode/Overall-Ecru-Maje.jpg"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "Cocktailkleid-Three-Floor",
+    "sort": 14,
+    "name": "Cocktailkleid von THREE FLOOR",
+    "image": "./img/Frauen/Mode/Cocktailkleid-Threefloor-Schwarz.jpg",
+    "priceFull": 479.9,
+    "price25": 119.95,
+    "mainVariation": 1265357305,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "36",
+        "article": 1265357305,
+        "image": "./img/Frauen/Mode/Cocktailkleid-Threefloor-Schwarz.jpg"
+      },
+      {
+        "name": "38",
+        "article": 1265357306,
+        "image": "./img/Frauen/Mode/Cocktailkleid-Threefloor-Schwarz.jpg"
+      },
+      {
+        "name": "40",
+        "article": 1265357307,
+        "image": "./img/Frauen/Mode/Cocktailkleid-Threefloor-Schwarz.jpg"
       }
     ]
   },
