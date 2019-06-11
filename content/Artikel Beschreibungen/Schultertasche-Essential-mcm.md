@@ -1,5 +1,5 @@
 ---
-Schultertasche-Essential-MCM
+urlPath: Schultertasche-Essential-MCM
 ---
 TEAM's CHOICE
 
