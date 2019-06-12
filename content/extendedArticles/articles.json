@@ -611,11 +611,6 @@
         "name": "40",
         "article": 1269034209,
         "image": "./img/Frauen/Mode/Blusentop-Rot-Alysi.jpg"
-      },
-      {
-        "name": "42",
-        "article": 1259778412,
-        "image": "./img/Frauen/Mode/Blusentop-Rot-Alysi.jpg"
       }
     ]
   },
@@ -798,11 +793,6 @@
       },
       {
         "name": "40",
-        "article": 1266972407,
-        "image": "./img/Frauen/Mode/Kleid-Ganni-Rosa.jpg"
-      },
-      {
-        "name": "42",
         "article": 1266972407,
         "image": "./img/Frauen/Mode/Kleid-Ganni-Rosa.jpg"
       }
@@ -1389,11 +1379,6 @@
         "name": "52",
         "article": 1267874205,
         "image": "./img/Herren/Mode/Coat-Kooples-Beige.jpg"
-      },
-      {
-        "name": "54",
-        "article": 1257719744,
-        "image": "./img/Herren/Mode/Coat-Kooples-Beige.jpg"
       }
     ]
   },
@@ -1658,12 +1643,6 @@
         "article": 1266648500,
         "image": "./img/Haushalt/Heim/Handgepaeck-Horizn-Olive.jpg",
         "color": "rgb(128, 124, 0)"
-      },
-      {
-        "name": "Nachtblau",
-        "article": 1266648400,
-        "image": "./img/Haushalt/Heim/Handgepaeck-Horizn-Nachtblau.jpg",
-        "color": "rgb(0, 0, 0)"
       }
     ]
   },
