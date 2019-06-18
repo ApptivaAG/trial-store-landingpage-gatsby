@@ -2,40 +2,20 @@
   {
     "group": "frauen",
     "subgroup": "bags",
-    "urlPath": "Schultertasche-Proenza-Schouler",
+    "urlPath": "Handtasche-Cult-Gaia",
     "sort": 1,
-    "name": "Schultertasche von Proenza Schouler",
-    "image": "./img/Frauen/Taschen/Schultertasche-Proenza-Schouler.jpg",
-    "priceFull": 2149,
-    "price25": 537.25,
-    "mainVariation": 1271925302,
+    "name": "Handtasche \"Gaia's Ark\" von CULT GAIA  ",
+    "image": "./img/Frauen/Taschen/Handtasche-Gaia-Ark.jpg",
+    "priceFull": 189.9,
+    "price25": 47.45,
+    "mainVariation": 1266398402,
     "variationName": "Farbe",
     "variations": [
       {
-        "name": "Schwarz",
-        "article": 1271925302,
-        "image": "./img/Frauen/Taschen/Schultertasche-Proenza-Schouler.jpg",
-        "color": "#000000"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "bags",
-    "urlPath": "Clutch-Millie-MCM",
-    "sort": 2,
-    "name": "Clutch \"Millie\" von MCM",
-    "image": "./img/Frauen/Taschen/Clutch-Millie-MCM-Schwarz.jpg",
-    "priceFull": 595,
-    "price25": 148.75,
-    "mainVariation": 1266248605,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Schwarz",
-        "article": 1266248605,
-        "image": "./img/Frauen/Taschen/Clutch-Millie-MCM-Schwarz.jpg",
-        "color": "#000000"
+        "name": "Buche",
+        "article": 1266398402,
+        "image": "./img/Frauen/Taschen/Handtasche-Gaia-Ark.jpg",
+        "color": "#E6B577"
       }
     ]
   },
@@ -43,7 +23,7 @@
     "group": "frauen",
     "subgroup": "bags",
     "urlPath": "Clutch-Marni",
-    "sort": 3,
+    "sort": 2,
     "name": "Clutch von MARNI",
     "image": "./img/Frauen/Taschen/Clutch-Beige-Marni.jpg",
     "priceFull": 689.9,
@@ -68,8 +48,48 @@
   {
     "group": "frauen",
     "subgroup": "bags",
-    "urlPath": "Schultertasche-Essential-MCM",
+    "urlPath": "Schultertasche-Proenza-Schouler",
+    "sort": 3,
+    "name": "Schultertasche von Proenza Schouler",
+    "image": "./img/Frauen/Taschen/Schultertasche-Proenza-Schouler.jpg",
+    "priceFull": 2149,
+    "price25": 537.25,
+    "mainVariation": 1271925302,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Schwarz",
+        "article": 1271925302,
+        "image": "./img/Frauen/Taschen/Schultertasche-Proenza-Schouler.jpg",
+        "color": "#000000"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "bags",
+    "urlPath": "Clutch-Millie-MCM",
     "sort": 4,
+    "name": "Clutch \"Millie\" von MCM",
+    "image": "./img/Frauen/Taschen/Clutch-Millie-MCM-Schwarz.jpg",
+    "priceFull": 595,
+    "price25": 148.75,
+    "mainVariation": 1266248605,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Schwarz",
+        "article": 1266248605,
+        "image": "./img/Frauen/Taschen/Clutch-Millie-MCM-Schwarz.jpg",
+        "color": "#000000"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "bags",
+    "urlPath": "Schultertasche-Essential-MCM",
+    "sort": 5,
     "name": "Schultertasche \"Essential\" von MCM",
     "image": "./img/Frauen/Taschen/Schultertasche-Essential-Cognac-mcm.jpg",
     "priceFull": 750,
@@ -89,7 +109,7 @@
     "group": "frauen",
     "subgroup": "bags",
     "urlPath": "Rucksack-Stark-Flight-MCM",
-    "sort": 5,
+    "sort": 6,
     "name": "Rucksack \"Stark Flight\" von MCM",
     "image": "./img/Frauen/Taschen/Rucksack-StarkFlight-MCM.jpg",
     "priceFull": 1225,
@@ -109,7 +129,7 @@
     "group": "frauen",
     "subgroup": "bags",
     "urlPath": "Rucksack-Stark-Side-Stud",
-    "sort": 6,
+    "sort": 7,
     "name": "Rucksack \"Stark Side Studs\" von MCM",
     "image": "./img/Frauen/Taschen/Rucksack-Stark-Side-MCM-Schwarz.jpg",
     "priceFull": 825,
@@ -135,7 +155,7 @@
     "group": "frauen",
     "subgroup": "bags",
     "urlPath": "Guerteltasche-Patricia-MCM",
-    "sort": 7,
+    "sort": 8,
     "name": "Gürteltasche \"Patricia\" von MCM",
     "image": "./img/Frauen/Taschen/Gürteltasche-Patricia-Cognac-MCM.jpg",
     "priceFull": 725,
@@ -161,7 +181,7 @@
     "group": "frauen",
     "subgroup": "bags",
     "urlPath": "Beuteltasche-Heritage-Drawstring-MCM",
-    "sort": 8,
+    "sort": 9,
     "name": "Beuteltasche \"Heritage Drawstring Small\" von MCM",
     "image": "./img/Frauen/Taschen/Beuteltasche-HeritageDrawstringSmall-MCM.jpg",
     "priceFull": 1099,
@@ -181,7 +201,7 @@
     "group": "frauen",
     "subgroup": "bags",
     "urlPath": "Umhaengetasche-Diva-Furla",
-    "sort": 9,
+    "sort": 10,
     "name": "Umhängetasche \"Diva\" von FURLA",
     "image": "./img/Frauen/Taschen/Umhängetasche-Diva-Furla.jpg",
     "priceFull": 659.9,
@@ -201,7 +221,7 @@
     "group": "frauen",
     "subgroup": "bags",
     "urlPath": "Handtasche-Navyboot",
-    "sort": 10,
+    "sort": 11,
     "name": "Handtasche von NAVYBOOT",
     "image": "./img/Frauen/Taschen/Handtasche-Cognac-Navyboot.jpg",
     "priceFull": 399,
@@ -221,7 +241,7 @@
     "group": "frauen",
     "subgroup": "bags",
     "urlPath": "shopper-mollerus",
-    "sort": 11,
+    "sort": 12,
     "name": "Shopper \"Bern\" von MAISON MOLLERUS",
     "image": "./img/Frauen/Taschen/Shopper-Mollerus-schwarz.jpg",
     "priceFull": 499,
@@ -253,7 +273,7 @@
     "group": "frauen",
     "subgroup": "bags",
     "urlPath": "Beuteltasche-Mollerus",
-    "sort": 12,
+    "sort": 13,
     "name": "Beuteltasche \"Montelliez\" von MAISON MOLLERUS",
     "image": "./img/Frauen/Taschen/Beuteltasche-Montelliez-Mollerus.jpg",
     "priceFull": 849,
@@ -273,7 +293,7 @@
     "group": "frauen",
     "subgroup": "bags",
     "urlPath": "Shopper-Highline-Coach",
-    "sort": 13,
+    "sort": 14,
     "name": "Shopper \"Highline Tote\" von COACH",
     "image": "./img/Frauen/Taschen/Shopper-Dunkelblau-Coach.jpg",
     "priceFull": 229.9,
@@ -305,7 +325,7 @@
     "group": "frauen",
     "subgroup": "bags",
     "urlPath": "Handtasche-GUM",
-    "sort": 14,
+    "sort": 15,
     "name": "Handtasche von GUM",
     "image": "./img/Frauen/Taschen/Handtasche-Silber-Gum.jpg",
     "priceFull": 118.9,
@@ -330,130 +350,8 @@
   {
     "group": "frauen",
     "subgroup": "mode",
-    "urlPath": "Package-Festlich",
-    "sort": 1,
-    "name": "Package \"Festlich\"",
-    "image": "./img/Frauen/Mode/Anlass@2x.jpg",
-    "priceFull": 719.6,
-    "price25": 179.9,
-    "mainVariation": 1001001001,
-    "variationName": "Grösse",
-    "variations": [
-      {
-        "name": "XS",
-        "article": 1001001001,
-        "image": "./img/Frauen/Mode/Anlass@2x.jpg"
-      },
-      {
-        "name": "S",
-        "article": 1001001002,
-        "image": "./img/Frauen/Mode/Anlass@2x.jpg"
-      },
-      {
-        "name": "M",
-        "article": 1001001003,
-        "image": "./img/Frauen/Mode/Anlass@2x.jpg"
-      },
-      {
-        "name": "L",
-        "article": 1001001004,
-        "image": "./img/Frauen/Mode/Anlass@2x.jpg"
-      },
-      {
-        "name": "XL",
-        "article": 1001001005,
-        "image": "./img/Frauen/Mode/Anlass@2x.jpg"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "mode",
-    "urlPath": "Package-Business",
-    "sort": 2,
-    "name": "Package \"Business\"",
-    "image": "./img/Frauen/Mode/Business-Look@2x.jpg",
-    "priceFull": 1499.4,
-    "price25": 374.85,
-    "mainVariation": 2002002002,
-    "variationName": "Grösse",
-    "variations": [
-      {
-        "name": "34",
-        "article": 2002002002,
-        "image": "./img/Frauen/Mode/Business-Look@2x.jpg"
-      },
-      {
-        "name": "36",
-        "article": 2002002003,
-        "image": "./img/Frauen/Mode/Business-Look@2x.jpg"
-      },
-      {
-        "name": "38",
-        "article": 2002002004,
-        "image": "./img/Frauen/Mode/Business-Look@2x.jpg"
-      },
-      {
-        "name": "40",
-        "article": 2002002005,
-        "image": "./img/Frauen/Mode/Business-Look@2x.jpg"
-      },
-      {
-        "name": "42",
-        "article": 2002002006,
-        "image": "./img/Frauen/Mode/Business-Look@2x.jpg"
-      },
-      {
-        "name": "44",
-        "article": 2002002007,
-        "image": "./img/Frauen/Mode/Business-Look@2x.jpg"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "mode",
-    "urlPath": "Package-Party",
-    "sort": 3,
-    "name": "Package \"Party\"",
-    "image": "./img/Frauen/Mode/Kleid@2x.jpg",
-    "priceFull": 1089.7,
-    "price25": 272.4,
-    "mainVariation": 3003003003,
-    "variationName": "Grösse",
-    "variations": [
-      {
-        "name": "34",
-        "article": 3003003003,
-        "image": "./img/Frauen/Mode/Kleid@2x.jpg"
-      },
-      {
-        "name": "36",
-        "article": 3003003004,
-        "image": "./img/Frauen/Mode/Kleid@2x.jpg"
-      },
-      {
-        "name": "38",
-        "article": 3003003005,
-        "image": "./img/Frauen/Mode/Kleid@2x.jpg"
-      },
-      {
-        "name": "40",
-        "article": 3003003006,
-        "image": "./img/Frauen/Mode/Kleid@2x.jpg"
-      },
-      {
-        "name": "42",
-        "article": 3003003007,
-        "image": "./img/Frauen/Mode/Kleid@2x.jpg"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "mode",
     "urlPath": "Jeansjacke-Ganni",
-    "sort": 4,
+    "sort": 1,
     "name": "Jeansjacke von GANNI",
     "image": "./img/Frauen/Mode/Jeansjacke von Ganni.jpg",
     "priceFull": 399.9,
@@ -482,7 +380,7 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Fieldjacket-Ganni",
-    "sort": 5,
+    "sort": 2,
     "name": "Fieldjacket von GANNI",
     "image": "./img/Frauen/Mode/Fieldjacket-Beige-Ganni.jpg",
     "priceFull": 369.9,
@@ -521,7 +419,7 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Long-Blazer-Tibi",
-    "sort": 6,
+    "sort": 3,
     "name": "Long Blazer von TIBI",
     "image": "./img/Frauen/Mode/Blazer-Tibi.jpg",
     "priceFull": 849.9,
@@ -555,7 +453,7 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Schlupfbluse-Tibi",
-    "sort": 7,
+    "sort": 4,
     "name": "Schlupfbluse von TIBI",
     "image": "./img/Frauen/Mode/Schupfbluse-Flieder-Tibi.jpg",
     "priceFull": 549.9,
@@ -584,7 +482,7 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Bluse-Alysi",
-    "sort": 8,
+    "sort": 5,
     "name": "Blusen Top von Alysi",
     "image": "./img/Frauen/Mode/Blusentop-Rot-Alysi.jpg",
     "priceFull": 289.9,
@@ -618,7 +516,7 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Stoff-Hose-Helmut-Lang",
-    "sort": 9,
+    "sort": 6,
     "name": "Stoff Hose von HELMUT LANG",
     "image": "./img/Frauen/Mode/Stoffhose-Weiss-Lang.jpg",
     "priceFull": 599.9,
@@ -652,7 +550,7 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Faltenrock-MSGM",
-    "sort": 10,
+    "sort": 7,
     "name": "Faltenrock von MSGM",
     "image": "./img/Frauen/Mode/Faltenrock-Schwarz-MSGM.jpg",
     "priceFull": 579.9,
@@ -676,7 +574,7 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Strickkleid-Missoni",
-    "sort": 11,
+    "sort": 8,
     "name": "Strickkleid von MISSONI",
     "image": "./img/Frauen/Mode/Strickkleid-Missoni-Rosa.jpg",
     "priceFull": 699.9,
@@ -715,7 +613,7 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Overall-Maje",
-    "sort": 12,
+    "sort": 9,
     "name": "Overall von MAJE",
     "image": "./img/Frauen/Mode/Overall-Ecru-Maje.jpg",
     "priceFull": 359,
@@ -744,7 +642,7 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Cocktailkleid-Three-Floor",
-    "sort": 13,
+    "sort": 10,
     "name": "Cocktailkleid von THREE FLOOR",
     "image": "./img/Frauen/Mode/Cocktailkleid-Threefloor-Schwarz.jpg",
     "priceFull": 479.9,
@@ -773,7 +671,7 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Kleid-Ganni",
-    "sort": 14,
+    "sort": 11,
     "name": "Kleid von GANNI",
     "image": "./img/Frauen/Mode/Kleid-Ganni-Rosa.jpg",
     "priceFull": 329.9,
@@ -933,8 +831,28 @@
   {
     "group": "frauen",
     "subgroup": "accessoires",
-    "urlPath": "Halskette-JCrew",
+    "urlPath": "Halskette-Grau-Fortunato",
     "sort": 7,
+    "name": "Halskette von LIZZIE FORTUNATO",
+    "image": "./img/Frauen/Accessoires/Halskette-Fortunato-Grau.jpg",
+    "priceFull": 399.9,
+    "price25": 99.95,
+    "mainVariation": 1259032801,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Grau",
+        "article": 1259032801,
+        "image": "./img/Frauen/Accessoires/Halskette-Fortunato-Grau.jpg",
+        "color": "#8F8F8F"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "accessoires",
+    "urlPath": "Halskette-JCrew",
+    "sort": 8,
     "name": "Halskette von J.CREW",
     "image": "./img/Frauen/Accessoires/Halskette-Hellblau-Jcrew.jpg",
     "priceFull": 138,
@@ -960,7 +878,7 @@
     "group": "frauen",
     "subgroup": "accessoires",
     "urlPath": "Halskette-Fortunato",
-    "sort": 8,
+    "sort": 9,
     "name": "Halskette mit Anhänger von LIZZIE FORTUNATO",
     "image": "./img/Frauen/Accessoires/Halskette-Fortunato-Gold.jpg",
     "priceFull": 299.9,
@@ -980,7 +898,7 @@
     "group": "frauen",
     "subgroup": "accessoires",
     "urlPath": "Ohrringe-Buhai",
-    "sort": 9,
+    "sort": 10,
     "name": "Ohrringe von SOPHIE BUHAI",
     "image": "./img/Frauen/Accessoires/Ohrringe-Buhai-Silber.jpg",
     "priceFull": 449.9,
@@ -1000,7 +918,7 @@
     "group": "frauen",
     "subgroup": "accessoires",
     "urlPath": "Armbanduhr-Armani",
-    "sort": 10,
+    "sort": 11,
     "name": "Armbanduhr mit Lederband von EMPORIO ARMANI",
     "image": "./img/Frauen/Accessoires/Uhr-Armani-Schwarz.jpg",
     "priceFull": 299,
@@ -1020,7 +938,7 @@
     "group": "frauen",
     "subgroup": "accessoires",
     "urlPath": "Armbanduhr-Fossil",
-    "sort": 11,
+    "sort": 12,
     "name": "Armbanduhr mit Edelstahlband von Fossil",
     "image": "./img/Frauen/Accessoires/Uhr-Fossil-Ivory.jpg",
     "priceFull": 189,
@@ -1040,7 +958,7 @@
     "group": "frauen",
     "subgroup": "accessoires",
     "urlPath": "Portemonnaie-MCM",
-    "sort": 12,
+    "sort": 13,
     "name": "Portemonnaie \"Original\" von MCM",
     "image": "./img/Frauen/Accessoires/Portemonnaie-Original-Cognac-MCM.jpg",
     "priceFull": 379,
@@ -1317,68 +1235,34 @@
   {
     "group": "herren",
     "subgroup": "mode",
-    "urlPath": "Sweatshirt-Armani",
+    "urlPath": "Regenjacke-Polo",
     "sort": 8,
-    "name": "Sweatshirt von EMPORIO ARMANI",
-    "image": "./img/Herren/Mode/Sweatshirt-Armani-Grün.jpg",
-    "priceFull": 349.9,
-    "price25": 87.45,
-    "mainVariation": 1261925907,
+    "name": "Regenjacke von POLO RALPH LAUREN",
+    "image": "./img/Herren/Mode/Regenjacke-Polo.jpg",
+    "priceFull": 379,
+    "price25": 94.75,
+    "mainVariation": 1269896506,
     "variationName": "Grösse",
     "variations": [
       {
+        "name": "S",
+        "article": 1269896506,
+        "image": "./img/Herren/Mode/Regenjacke-Polo.jpg"
+      },
+      {
         "name": "M",
-        "article": 1261925907,
-        "image": "./img/Herren/Mode/Sweatshirt-Armani-Grün.jpg"
+        "article": 1269896507,
+        "image": "./img/Herren/Mode/Regenjacke-Polo.jpg"
       },
       {
         "name": "L",
-        "article": 1261925908,
-        "image": "./img/Herren/Mode/Sweatshirt-Armani-Grün.jpg"
+        "article": 1269896508,
+        "image": "./img/Herren/Mode/Regenjacke-Polo.jpg"
       },
       {
         "name": "XL",
-        "article": 1261925909,
-        "image": "./img/Herren/Mode/Sweatshirt-Armani-Grün.jpg"
-      },
-      {
-        "name": "XXL",
-        "article": 1261925910,
-        "image": "./img/Herren/Mode/Sweatshirt-Armani-Grün.jpg"
-      }
-    ]
-  },
-  {
-    "group": "herren",
-    "subgroup": "mode",
-    "urlPath": "Trenchcoat-Kooples",
-    "sort": 9,
-    "name": "Trenchcoat von THE KOOPLES",
-    "image": "./img/Herren/Mode/Coat-Kooples-Beige.jpg",
-    "priceFull": 625,
-    "price25": 156.25,
-    "mainVariation": 1267874202,
-    "variationName": "Grösse",
-    "variations": [
-      {
-        "name": "46",
-        "article": 1267874202,
-        "image": "./img/Herren/Mode/Coat-Kooples-Beige.jpg"
-      },
-      {
-        "name": "48",
-        "article": 1267874203,
-        "image": "./img/Herren/Mode/Coat-Kooples-Beige.jpg"
-      },
-      {
-        "name": "50",
-        "article": 1267874204,
-        "image": "./img/Herren/Mode/Coat-Kooples-Beige.jpg"
-      },
-      {
-        "name": "52",
-        "article": 1267874205,
-        "image": "./img/Herren/Mode/Coat-Kooples-Beige.jpg"
+        "article": 1269896509,
+        "image": "./img/Herren/Mode/Regenjacke-Polo.jpg"
       }
     ]
   },
@@ -1386,7 +1270,7 @@
     "group": "herren",
     "subgroup": "mode",
     "urlPath": "Anzug-Corneliani",
-    "sort": 10,
+    "sort": 9,
     "name": "Anzug 2-teilig von CC CORNELIANI",
     "image": "./img/Herren/Mode/Anzug-Blau-Corneliani.jpg",
     "priceFull": 799.9,
