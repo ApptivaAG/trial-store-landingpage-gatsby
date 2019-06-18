@@ -2,6 +2,8 @@
 urlPath: Sonnenbrille-Fendi
 ---
 
+# TEAM's CHOICE
+
 # Beschreibung
 - Mit rotfarbenen Gläsern
 - Brillengläser in Katzenaugenform
