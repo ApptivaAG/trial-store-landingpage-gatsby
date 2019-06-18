@@ -1,7 +1,6 @@
 ---
 urlPath: Schultertasche-Essential-MCM
 ---
-TEAM's CHOICE
 
 # Beschreibung
 - Innenausstattung: Fach mit Reissverschluss, Vollfutter, Steckfächer
