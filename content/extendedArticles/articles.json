@@ -52,8 +52,8 @@
     "sort": 3,
     "name": "Schultertasche von Proenza Schouler",
     "image": "./img/Frauen/Taschen/Schultertasche-Proenza-Schouler.jpg",
-    "priceFull": 2149,
-    "price25": 537.25,
+    "priceFull": 1074.5,
+    "price25": 268.6,
     "mainVariation": 1271925302,
     "variationName": "Farbe",
     "variations": [
@@ -142,12 +142,6 @@
         "article": 1256539702,
         "image": "./img/Frauen/Taschen/Rucksack-Stark-Side-MCM-Schwarz.jpg",
         "color": "#000000"
-      },
-      {
-        "name": "Beige",
-        "article": 1256539704,
-        "image": "./img/Frauen/Taschen/Rucksack-Stark-Side-MCM-Beige.jpg",
-        "color": "#E0C791"
       }
     ]
   },
@@ -224,8 +218,8 @@
     "sort": 11,
     "name": "Handtasche von NAVYBOOT",
     "image": "./img/Frauen/Taschen/Handtasche-Cognac-Navyboot.jpg",
-    "priceFull": 399,
-    "price25": 99.75,
+    "priceFull": 279.3,
+    "price25": 69.8,
     "mainVariation": 1269118402,
     "variationName": "Farbe",
     "variations": [
@@ -318,32 +312,6 @@
         "article": 1268950301,
         "image": "./img/Frauen/Taschen/Shopper-Schwarz-Coach.jpg",
         "color": "#000000"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "bags",
-    "urlPath": "Handtasche-GUM",
-    "sort": 15,
-    "name": "Handtasche von GUM",
-    "image": "./img/Frauen/Taschen/Handtasche-Silber-Gum.jpg",
-    "priceFull": 118.9,
-    "price25": 29.7,
-    "mainVariation": 1267371704,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Silberfarben",
-        "article": 1267371704,
-        "image": "./img/Frauen/Taschen/Handtasche-Silber-Gum.jpg",
-        "color": "#E6E6E6"
-      },
-      {
-        "name": "Kirschrot",
-        "article": 1267371703,
-        "image": "./img/Frauen/Taschen/Handtasche-Kirschrot-Gum.jpg",
-        "color": "#DE004B"
       }
     ]
   },
@@ -901,8 +869,8 @@
     "sort": 10,
     "name": "Ohrringe von SOPHIE BUHAI",
     "image": "./img/Frauen/Accessoires/Ohrringe-Buhai-Silber.jpg",
-    "priceFull": 449.9,
-    "price25": 112.45,
+    "priceFull": 224.95,
+    "price25": 56.2,
     "mainVariation": 1261776401,
     "variationName": "Farbe",
     "variations": [
@@ -1433,8 +1401,8 @@
     "sort": 7,
     "name": "Krawatte aus Seide von GIERRE MILANO",
     "image": "./img/Herren/Accessoires/Krawatte-Weiss-Milano.jpg",
-    "priceFull": 119.9,
-    "price25": 29.95,
+    "priceFull": 71.9,
+    "price25": 17.95,
     "mainVariation": 1268144105,
     "variationName": "Farbe",
     "variations": [
@@ -1773,28 +1741,8 @@
   {
     "group": "haushalt",
     "subgroup": "dekoration",
-    "urlPath": "Schüssel-Alessi",
-    "sort": 4,
-    "name": "Schüssel von ALESSI",
-    "image": "./img/Haushalt/Dekoration/Schuessel-Alessi-Gold.jpg",
-    "priceFull": 109,
-    "price25": 27.25,
-    "mainVariation": 1251084500,
-    "variationName": "Farbe",
-    "variations": [
-      {
-        "name": "Goldfarben",
-        "article": 1251084500,
-        "image": "./img/Haushalt/Dekoration/Schuessel-Alessi-Gold.jpg",
-        "color": "rgb(209, 151, 0)"
-      }
-    ]
-  },
-  {
-    "group": "haushalt",
-    "subgroup": "dekoration",
     "urlPath": "Wanduhr-Vitra",
-    "sort": 5,
+    "sort": 4,
     "name": "Wanduhr \"POLYGON\" von VITRA",
     "image": "./img/Haushalt/Dekoration/Wanduhr-Polygon-Vitra.jpg",
     "priceFull": 525,
@@ -1814,7 +1762,7 @@
     "group": "haushalt",
     "subgroup": "dekoration",
     "urlPath": "Vase-Vitra",
-    "sort": 6,
+    "sort": 5,
     "name": "Wanduhr \"NUAGE\" von VITRA",
     "image": "./img/Haushalt/Dekoration/Vase-Nuage-Vitra.jpg",
     "priceFull": 285,
@@ -1846,7 +1794,7 @@
     "group": "haushalt",
     "subgroup": "dekoration",
     "urlPath": "Elephant-Vitra",
-    "sort": 7,
+    "sort": 6,
     "name": "EAMES ELEPHANT von VITRA",
     "image": "./img/Haushalt/Dekoration/Elephant-Vitra-Gruen.jpg",
     "priceFull": 94,
