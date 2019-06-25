@@ -1513,8 +1513,46 @@
   {
     "group": "haushalt",
     "subgroup": "heim",
-    "urlPath": "Handgepäck-Globus",
+    "urlPath": "Trolley-Horizn",
     "sort": 1,
+    "name": " Trolley MODEL H6 von Horizn Studios",
+    "image": "./img/Haushalt/Heim/Trolley-Horizn-Mint.jpg",
+    "priceFull": 449.9,
+    "price25": 112.45,
+    "mainVariation": 1266651100,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Mint",
+        "article": 1266651100,
+        "image": "./img/Haushalt/Heim/Trolley-Horizn-Mint.jpg",
+        "color": "rgb(184, 255, 219)"
+      },
+      {
+        "name": "Olive",
+        "article": 1266648500,
+        "image": "./img/Haushalt/Heim/Trolley-Horizn-Olive.jpg",
+        "color": "rgb(128, 124, 0)"
+      },
+      {
+        "name": "Hellgrau",
+        "article": 1266650700,
+        "image": "./img/Haushalt/Heim/Trolley-Horizn-Hellgrau.jpg",
+        "color": "rgb(228, 228, 228)"
+      },
+      {
+        "name": "Schwarz",
+        "article": 1266648600,
+        "image": "./img/Haushalt/Heim/Trolley-Horizn-Schwarz.jpg",
+        "color": "#000000"
+      }
+    ]
+  },
+  {
+    "group": "haushalt",
+    "subgroup": "heim",
+    "urlPath": "Handgepäck-Globus",
+    "sort": 2,
     "name": "Handgepäck-Trolley MODEL H5 von GLOBUS",
     "image": "./img/Haushalt/Heim/Handgepaeck-Horizn-Olive.jpg",
     "priceFull": 329.9,
@@ -1534,7 +1572,7 @@
     "group": "haushalt",
     "subgroup": "heim",
     "urlPath": "Trolley-Rimowa-Topas",
-    "sort": 2,
+    "sort": 3,
     "name": "Trolley TOPAS TITANIUM MULTIWHEEL E-TAG von RIMOWA",
     "image": "./img/Haushalt/Heim/Rimowa-Koffer-Beige.jpg",
     "priceFull": 1100,
@@ -1554,7 +1592,7 @@
     "group": "haushalt",
     "subgroup": "heim",
     "urlPath": "Sonnenschirm-Business-Pleasure",
-    "sort": 3,
+    "sort": 4,
     "name": "Sonnenschrim von BUSINESS & PLEASURE",
     "image": "./img/Haushalt/Heim/Sonnenschirm-Rosa.jpg",
     "priceFull": 199,
@@ -1586,7 +1624,7 @@
     "group": "haushalt",
     "subgroup": "heim",
     "urlPath": "Lautsprecher-Olufsen",
-    "sort": 4,
+    "sort": 5,
     "name": "Bluetooth Lautsprecher BEOPLAY M5 von BANG&OLUFSEN",
     "image": "./img/Haushalt/Heim/Bluetooth-Lautsprecher-BangOlufsen-Nature.jpg",
     "priceFull": 649,
@@ -1612,7 +1650,7 @@
     "group": "haushalt",
     "subgroup": "heim",
     "urlPath": "Kopfhörer-Olufsen",
-    "sort": 5,
+    "sort": 6,
     "name": "Bluetooth Kopfhörer von BANG&OLUFSEN",
     "image": "./img/Haushalt/Heim/Kopfhörer-BangOlufsen-Silber.jpg",
     "priceFull": 299,
@@ -1638,7 +1676,7 @@
     "group": "haushalt",
     "subgroup": "heim",
     "urlPath": "Aufschnittmaschine-Berkel",
-    "sort": 6,
+    "sort": 7,
     "name": "Aufschnittmaschine Red Line 250 von BERKEL",
     "image": "./img/Haushalt/Heim/Aufschnittmaschine-Berkel-Schwarz.jpg",
     "priceFull": 1239,
