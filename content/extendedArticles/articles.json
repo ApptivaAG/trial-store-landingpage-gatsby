@@ -48,8 +48,28 @@
   {
     "group": "frauen",
     "subgroup": "bags",
-    "urlPath": "Schultertasche-Proenza-Schouler",
+    "urlPath": "Umhängetasche-Whitney-Michael-Kors",
     "sort": 3,
+    "name": "Umhängetasche \"Whitney\" von MICHAEL MICHAEL KORS",
+    "image": "./img/Frauen/Taschen/Umhängetasche-Whitney-Korall-Kors.jpg",
+    "priceFull": 379.9,
+    "price25": 94.95,
+    "mainVariation": 1272480614,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Korall",
+        "article": 1272480614,
+        "image": "./img/Frauen/Taschen/Umhängetasche-Whitney-Korall-Kors.jpg",
+        "color": "#FF6970"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "bags",
+    "urlPath": "Schultertasche-Proenza-Schouler",
+    "sort": 4,
     "name": "Schultertasche von Proenza Schouler",
     "image": "./img/Frauen/Taschen/Schultertasche-Proenza-Schouler.jpg",
     "priceFull": 1074.5,
@@ -68,8 +88,28 @@
   {
     "group": "frauen",
     "subgroup": "bags",
+    "urlPath": "Gürteltasche-Essential-MCM",
+    "sort": 5,
+    "name": "Gürteltasche \"Essential\" von MCM",
+    "image": "./img/Frauen/Taschen/Gürteltasche-Essential-Cognac-MCM.jpg",
+    "priceFull": 725,
+    "price25": 181.25,
+    "mainVariation": 1270035001,
+    "variationName": "Farbe",
+    "variations": [
+      {
+        "name": "Cognac",
+        "article": 1270035001,
+        "image": "./img/Frauen/Taschen/Gürteltasche-Essential-Cognac-MCM.jpg",
+        "color": "#AB5C00"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "bags",
     "urlPath": "Clutch-Millie-MCM",
-    "sort": 4,
+    "sort": 6,
     "name": "Clutch \"Millie\" von MCM",
     "image": "./img/Frauen/Taschen/Clutch-Millie-MCM-Schwarz.jpg",
     "priceFull": 595,
@@ -89,7 +129,7 @@
     "group": "frauen",
     "subgroup": "bags",
     "urlPath": "Schultertasche-Essential-MCM",
-    "sort": 5,
+    "sort": 7,
     "name": "Schultertasche \"Essential\" von MCM",
     "image": "./img/Frauen/Taschen/Schultertasche-Essential-Cognac-mcm.jpg",
     "priceFull": 750,
@@ -109,7 +149,7 @@
     "group": "frauen",
     "subgroup": "bags",
     "urlPath": "Rucksack-Stark-Flight-MCM",
-    "sort": 6,
+    "sort": 8,
     "name": "Rucksack \"Stark Flight\" von MCM",
     "image": "./img/Frauen/Taschen/Rucksack-StarkFlight-MCM.jpg",
     "priceFull": 1225,
@@ -129,7 +169,7 @@
     "group": "frauen",
     "subgroup": "bags",
     "urlPath": "Rucksack-Stark-Side-Stud",
-    "sort": 7,
+    "sort": 9,
     "name": "Rucksack \"Stark Side Studs\" von MCM",
     "image": "./img/Frauen/Taschen/Rucksack-Stark-Side-MCM-Schwarz.jpg",
     "priceFull": 825,
@@ -149,7 +189,7 @@
     "group": "frauen",
     "subgroup": "bags",
     "urlPath": "Guerteltasche-Patricia-MCM",
-    "sort": 8,
+    "sort": 10,
     "name": "Gürteltasche \"Patricia\" von MCM",
     "image": "./img/Frauen/Taschen/Gürteltasche-Patricia-Cognac-MCM.jpg",
     "priceFull": 725,
@@ -175,7 +215,7 @@
     "group": "frauen",
     "subgroup": "bags",
     "urlPath": "Beuteltasche-Heritage-Drawstring-MCM",
-    "sort": 9,
+    "sort": 11,
     "name": "Beuteltasche \"Heritage Drawstring Small\" von MCM",
     "image": "./img/Frauen/Taschen/Beuteltasche-HeritageDrawstringSmall-MCM.jpg",
     "priceFull": 1099,
@@ -195,7 +235,7 @@
     "group": "frauen",
     "subgroup": "bags",
     "urlPath": "Umhaengetasche-Diva-Furla",
-    "sort": 10,
+    "sort": 12,
     "name": "Umhängetasche \"Diva\" von FURLA",
     "image": "./img/Frauen/Taschen/Umhängetasche-Diva-Furla.jpg",
     "priceFull": 659.9,
@@ -215,7 +255,7 @@
     "group": "frauen",
     "subgroup": "bags",
     "urlPath": "Handtasche-Navyboot",
-    "sort": 11,
+    "sort": 13,
     "name": "Handtasche von NAVYBOOT",
     "image": "./img/Frauen/Taschen/Handtasche-Cognac-Navyboot.jpg",
     "priceFull": 279.3,
@@ -235,7 +275,7 @@
     "group": "frauen",
     "subgroup": "bags",
     "urlPath": "shopper-mollerus",
-    "sort": 12,
+    "sort": 14,
     "name": "Shopper \"Bern\" von MAISON MOLLERUS",
     "image": "./img/Frauen/Taschen/Shopper-Mollerus-schwarz.jpg",
     "priceFull": 499,
@@ -267,7 +307,7 @@
     "group": "frauen",
     "subgroup": "bags",
     "urlPath": "Beuteltasche-Mollerus",
-    "sort": 13,
+    "sort": 15,
     "name": "Beuteltasche \"Montelliez\" von MAISON MOLLERUS",
     "image": "./img/Frauen/Taschen/Beuteltasche-Montelliez-Mollerus.jpg",
     "priceFull": 849,
@@ -287,7 +327,7 @@
     "group": "frauen",
     "subgroup": "bags",
     "urlPath": "Shopper-Highline-Coach",
-    "sort": 14,
+    "sort": 16,
     "name": "Shopper \"Highline Tote\" von COACH",
     "image": "./img/Frauen/Taschen/Shopper-Dunkelblau-Coach.jpg",
     "priceFull": 229.9,
@@ -318,102 +358,199 @@
   {
     "group": "frauen",
     "subgroup": "mode",
-    "urlPath": "Jeansjacke-Ganni",
+    "urlPath": "Cocktailkleid-Three-Floor",
     "sort": 1,
-    "name": "Jeansjacke von GANNI",
-    "image": "./img/Frauen/Mode/Jeansjacke von Ganni.jpg",
-    "priceFull": 399.9,
-    "price25": 99.95,
-    "mainVariation": 1267047801,
+    "name": "Cocktailkleid von THREE FLOOR",
+    "image": "./img/Frauen/Mode/Cocktailkleid-Apricot-ThreeFloor.jpg",
+    "priceFull": 449.9,
+    "price25": 112.45,
+    "mainVariation": 1265363805,
     "variationName": "Grösse",
     "variations": [
       {
         "name": "36",
-        "article": 1267047801,
-        "image": "./img/Frauen/Mode/Jeansjacke von Ganni.jpg"
+        "article": 1265363805,
+        "image": "./img/Frauen/Mode/Cocktailkleid-Apricot-ThreeFloor.jpg"
       },
       {
         "name": "38",
-        "article": 1267047802,
-        "image": "./img/Frauen/Mode/Jeansjacke von Ganni.jpg"
+        "article": 1265363806,
+        "image": "./img/Frauen/Mode/Cocktailkleid-Apricot-ThreeFloor.jpg"
       },
       {
         "name": "40",
-        "article": 1267047803,
-        "image": "./img/Frauen/Mode/Jeansjacke von Ganni.jpg"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "mode",
-    "urlPath": "Fieldjacket-Ganni",
-    "sort": 2,
-    "name": "Fieldjacket von GANNI",
-    "image": "./img/Frauen/Mode/Fieldjacket-Beige-Ganni.jpg",
-    "priceFull": 369.9,
-    "price25": 92.45,
-    "mainVariation": 1266972104,
-    "variationName": "Grösse",
-    "variations": [
-      {
-        "name": "34",
-        "article": 1266972104,
-        "image": "./img/Frauen/Mode/Fieldjacket-Beige-Ganni.jpg"
-      },
-      {
-        "name": "36",
-        "article": 1266972105,
-        "image": "./img/Frauen/Mode/Fieldjacket-Beige-Ganni.jpg"
-      },
-      {
-        "name": "38",
-        "article": 1266972106,
-        "image": "./img/Frauen/Mode/Fieldjacket-Beige-Ganni.jpg"
-      },
-      {
-        "name": "40",
-        "article": 1266972107,
-        "image": "./img/Frauen/Mode/Fieldjacket-Beige-Ganni.jpg"
+        "article": 1265363807,
+        "image": "./img/Frauen/Mode/Cocktailkleid-Apricot-ThreeFloor.jpg"
       },
       {
         "name": "42",
-        "article": 1266972108,
-        "image": "./img/Frauen/Mode/Fieldjacket-Beige-Ganni.jpg"
+        "article": 1265363808,
+        "image": "./img/Frauen/Mode/Cocktailkleid-Apricot-ThreeFloor.jpg"
       }
     ]
   },
   {
     "group": "frauen",
     "subgroup": "mode",
-    "urlPath": "Long-Blazer-Tibi",
-    "sort": 3,
-    "name": "Long Blazer von TIBI",
-    "image": "./img/Frauen/Mode/Blazer-Tibi.jpg",
-    "priceFull": 849.9,
-    "price25": 212.45,
-    "mainVariation": 1268829301,
+    "urlPath": "Strickkleid-Missoni",
+    "sort": 2,
+    "name": "Strickkleid von MISSONI",
+    "image": "./img/Frauen/Mode/Strickkleid-Rost-Missoni.jpg",
+    "priceFull": 799.9,
+    "price25": 199.95,
+    "mainVariation": 1272094610,
     "variationName": "Grösse",
     "variations": [
       {
         "name": "34",
-        "article": 1268829301,
-        "image": "./img/Frauen/Mode/Blazer-Tibi.jpg"
+        "article": 1272094610,
+        "image": "./img/Frauen/Mode/Strickkleid-Rost-Missoni.jpg"
       },
       {
         "name": "36",
-        "article": 1268829302,
-        "image": "./img/Frauen/Mode/Blazer-Tibi.jpg"
+        "article": 1272094606,
+        "image": "./img/Frauen/Mode/Strickkleid-Rost-Missoni.jpg"
       },
       {
         "name": "38",
-        "article": 1268829303,
-        "image": "./img/Frauen/Mode/Blazer-Tibi.jpg"
+        "article": 1272094607,
+        "image": "./img/Frauen/Mode/Strickkleid-Rost-Missoni.jpg"
       },
       {
         "name": "40",
-        "article": 1268829304,
-        "image": "./img/Frauen/Mode/Blazer-Tibi.jpg"
+        "article": 1272094608,
+        "image": "./img/Frauen/Mode/Strickkleid-Rost-Missoni.jpg"
+      },
+      {
+        "name": "42",
+        "article": 1272094609,
+        "image": "./img/Frauen/Mode/Strickkleid-Rost-Missoni.jpg"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "Kleid-Rag-Bone",
+    "sort": 3,
+    "name": "Kleid von RAG & BONE",
+    "image": "./img/Frauen/Mode/Kleid-Schilfgrün-RagBone.jpg",
+    "priceFull": 559.9,
+    "price25": 139.95,
+    "mainVariation": 1273331709,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "XS",
+        "article": 1273331709,
+        "image": "./img/Frauen/Mode/Kleid-Schilfgrün-RagBone.jpg"
+      },
+      {
+        "name": "S",
+        "article": 1273331710,
+        "image": "./img/Frauen/Mode/Kleid-Schilfgrün-RagBone.jpg"
+      },
+      {
+        "name": "M",
+        "article": 1273331711,
+        "image": "./img/Frauen/Mode/Kleid-Schilfgrün-RagBone.jpg"
+      },
+      {
+        "name": "L",
+        "article": 1273331712,
+        "image": "./img/Frauen/Mode/Kleid-Schilfgrün-RagBone.jpg"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "Rock-Polo",
+    "sort": 4,
+    "name": "Rock von POLO RALPH LAUREN",
+    "image": "./img/Frauen/Mode/Rock-Korall-Polo.jpg",
+    "priceFull": 229.9,
+    "price25": 57.45,
+    "mainVariation": 1273386101,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "34",
+        "article": 1273386101,
+        "image": "./img/Frauen/Mode/Rock-Korall-Polo.jpg"
+      },
+      {
+        "name": "36",
+        "article": 1273386102,
+        "image": "./img/Frauen/Mode/Rock-Korall-Polo.jpg"
+      },
+      {
+        "name": "38",
+        "article": 1273386103,
+        "image": "./img/Frauen/Mode/Rock-Korall-Polo.jpg"
+      },
+      {
+        "name": "40",
+        "article": 1273386104,
+        "image": "./img/Frauen/Mode/Rock-Korall-Polo.jpg"
+      },
+      {
+        "name": "42",
+        "article": 1273386105,
+        "image": "./img/Frauen/Mode/Rock-Korall-Polo.jpg"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "Faltenrock-MSGM",
+    "sort": 5,
+    "name": "Faltenrock von MSGM",
+    "image": "./img/Frauen/Mode/Faltenrock-Schwarz-MSGM.jpg",
+    "priceFull": 405.9,
+    "price25": 101.45,
+    "mainVariation": 1266141801,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "36",
+        "article": 1266141801,
+        "image": "./img/Frauen/Mode/Faltenrock-Schwarz-MSGM.jpg"
+      },
+      {
+        "name": "38",
+        "article": 1266141802,
+        "image": "./img/Frauen/Mode/Faltenrock-Schwarz-MSGM.jpg"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "Overall-Maje",
+    "sort": 6,
+    "name": "Overall von MAJE",
+    "image": "./img/Frauen/Mode/Overall-Ecru-Maje.jpg",
+    "priceFull": 359,
+    "price25": 89.75,
+    "mainVariation": 1270642001,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "T34/34",
+        "article": 1270642001,
+        "image": "./img/Frauen/Mode/Overall-Ecru-Maje.jpg"
+      },
+      {
+        "name": "T38/38",
+        "article": 1270642003,
+        "image": "./img/Frauen/Mode/Overall-Ecru-Maje.jpg"
+      },
+      {
+        "name": "T40/40",
+        "article": 1270642004,
+        "image": "./img/Frauen/Mode/Overall-Ecru-Maje.jpg"
       }
     ]
   },
@@ -421,11 +558,11 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Schlupfbluse-Tibi",
-    "sort": 4,
+    "sort": 7,
     "name": "Schlupfbluse von TIBI",
     "image": "./img/Frauen/Mode/Schupfbluse-Flieder-Tibi.jpg",
-    "priceFull": 549.9,
-    "price25": 137.45,
+    "priceFull": 274.95,
+    "price25": 68.7,
     "mainVariation": 1265519901,
     "variationName": "Grösse",
     "variations": [
@@ -450,7 +587,7 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Bluse-Alysi",
-    "sort": 5,
+    "sort": 8,
     "name": "Blusen Top von Alysi",
     "image": "./img/Frauen/Mode/Blusentop-Rot-Alysi.jpg",
     "priceFull": 289.9,
@@ -484,11 +621,11 @@
     "group": "frauen",
     "subgroup": "mode",
     "urlPath": "Stoff-Hose-Helmut-Lang",
-    "sort": 6,
+    "sort": 9,
     "name": "Stoff Hose von HELMUT LANG",
     "image": "./img/Frauen/Mode/Stoffhose-Weiss-Lang.jpg",
-    "priceFull": 599.9,
-    "price25": 149.95,
+    "priceFull": 419.9,
+    "price25": 104.95,
     "mainVariation": 1267030602,
     "variationName": "Grösse",
     "variations": [
@@ -517,150 +654,73 @@
   {
     "group": "frauen",
     "subgroup": "mode",
-    "urlPath": "Faltenrock-MSGM",
-    "sort": 7,
-    "name": "Faltenrock von MSGM",
-    "image": "./img/Frauen/Mode/Faltenrock-Schwarz-MSGM.jpg",
-    "priceFull": 579.9,
-    "price25": 144.95,
-    "mainVariation": 1266141801,
-    "variationName": "Grösse",
-    "variations": [
-      {
-        "name": "36",
-        "article": 1266141801,
-        "image": "./img/Frauen/Mode/Faltenrock-Schwarz-MSGM.jpg"
-      },
-      {
-        "name": "38",
-        "article": 1266141802,
-        "image": "./img/Frauen/Mode/Faltenrock-Schwarz-MSGM.jpg"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "mode",
-    "urlPath": "Strickkleid-Missoni",
-    "sort": 8,
-    "name": "Strickkleid von MISSONI",
-    "image": "./img/Frauen/Mode/Strickkleid-Missoni-Rosa.jpg",
-    "priceFull": 699.9,
-    "price25": 174.95,
-    "mainVariation": 1264644705,
+    "urlPath": "Long-Blazer-Calvin-Klein",
+    "sort": 10,
+    "name": "Long Blazer von Calvin Klein",
+    "image": "./img/Frauen/Mode/LongBlazer-Hellbraun-CalvinKlein.jpg",
+    "priceFull": 449.9,
+    "price25": 112.45,
+    "mainVariation": 1271875507,
     "variationName": "Grösse",
     "variations": [
       {
         "name": "34",
-        "article": 1264644705,
-        "image": "./img/Frauen/Mode/Strickkleid-Missoni-Rosa.jpg"
+        "article": 1271875507,
+        "image": "./img/Frauen/Mode/LongBlazer-Hellbraun-CalvinKlein.jpg"
       },
       {
         "name": "36",
-        "article": 1264644706,
-        "image": "./img/Frauen/Mode/Strickkleid-Missoni-Rosa.jpg"
+        "article": 1271875508,
+        "image": "./img/Frauen/Mode/LongBlazer-Hellbraun-CalvinKlein.jpg"
       },
       {
         "name": "38",
-        "article": 1264644707,
-        "image": "./img/Frauen/Mode/Strickkleid-Missoni-Rosa.jpg"
+        "article": 1271875509,
+        "image": "./img/Frauen/Mode/LongBlazer-Hellbraun-CalvinKlein.jpg"
       },
       {
         "name": "40",
-        "article": 1264644708,
-        "image": "./img/Frauen/Mode/Strickkleid-Missoni-Rosa.jpg"
+        "article": 1271875510,
+        "image": "./img/Frauen/Mode/LongBlazer-Hellbraun-CalvinKlein.jpg"
+      }
+    ]
+  },
+  {
+    "group": "frauen",
+    "subgroup": "mode",
+    "urlPath": "Fieldjacket-Ganni",
+    "sort": 11,
+    "name": "Fieldjacket von GANNI",
+    "image": "./img/Frauen/Mode/Fieldjacket-Beige-Ganni.jpg",
+    "priceFull": 221.9,
+    "price25": 55.45,
+    "mainVariation": 1266972104,
+    "variationName": "Grösse",
+    "variations": [
+      {
+        "name": "34",
+        "article": 1266972104,
+        "image": "./img/Frauen/Mode/Fieldjacket-Beige-Ganni.jpg"
+      },
+      {
+        "name": "36",
+        "article": 1266972105,
+        "image": "./img/Frauen/Mode/Fieldjacket-Beige-Ganni.jpg"
+      },
+      {
+        "name": "38",
+        "article": 1266972106,
+        "image": "./img/Frauen/Mode/Fieldjacket-Beige-Ganni.jpg"
+      },
+      {
+        "name": "40",
+        "article": 1266972107,
+        "image": "./img/Frauen/Mode/Fieldjacket-Beige-Ganni.jpg"
       },
       {
         "name": "42",
-        "article": 1264644709,
-        "image": "./img/Frauen/Mode/Strickkleid-Missoni-Rosa.jpg"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "mode",
-    "urlPath": "Overall-Maje",
-    "sort": 9,
-    "name": "Overall von MAJE",
-    "image": "./img/Frauen/Mode/Overall-Ecru-Maje.jpg",
-    "priceFull": 359,
-    "price25": 89.75,
-    "mainVariation": 1270642001,
-    "variationName": "Grösse",
-    "variations": [
-      {
-        "name": "T34/34",
-        "article": 1270642001,
-        "image": "./img/Frauen/Mode/Overall-Ecru-Maje.jpg"
-      },
-      {
-        "name": "T38/38",
-        "article": 1270642003,
-        "image": "./img/Frauen/Mode/Overall-Ecru-Maje.jpg"
-      },
-      {
-        "name": "T40/40",
-        "article": 1270642004,
-        "image": "./img/Frauen/Mode/Overall-Ecru-Maje.jpg"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "mode",
-    "urlPath": "Cocktailkleid-Three-Floor",
-    "sort": 10,
-    "name": "Cocktailkleid von THREE FLOOR",
-    "image": "./img/Frauen/Mode/Cocktailkleid-Threefloor-Schwarz.jpg",
-    "priceFull": 479.9,
-    "price25": 119.95,
-    "mainVariation": 1265357305,
-    "variationName": "Grösse",
-    "variations": [
-      {
-        "name": "36",
-        "article": 1265357305,
-        "image": "./img/Frauen/Mode/Cocktailkleid-Threefloor-Schwarz.jpg"
-      },
-      {
-        "name": "38",
-        "article": 1265357306,
-        "image": "./img/Frauen/Mode/Cocktailkleid-Threefloor-Schwarz.jpg"
-      },
-      {
-        "name": "40",
-        "article": 1265357307,
-        "image": "./img/Frauen/Mode/Cocktailkleid-Threefloor-Schwarz.jpg"
-      }
-    ]
-  },
-  {
-    "group": "frauen",
-    "subgroup": "mode",
-    "urlPath": "Kleid-Ganni",
-    "sort": 11,
-    "name": "Kleid von GANNI",
-    "image": "./img/Frauen/Mode/Kleid-Ganni-Rosa.jpg",
-    "priceFull": 329.9,
-    "price25": 82.45,
-    "mainVariation": 1266972405,
-    "variationName": "Grösse",
-    "variations": [
-      {
-        "name": "36",
-        "article": 1266972405,
-        "image": "./img/Frauen/Mode/Kleid-Ganni-Rosa.jpg"
-      },
-      {
-        "name": "38",
-        "article": 1266972406,
-        "image": "./img/Frauen/Mode/Kleid-Ganni-Rosa.jpg"
-      },
-      {
-        "name": "40",
-        "article": 1266972407,
-        "image": "./img/Frauen/Mode/Kleid-Ganni-Rosa.jpg"
+        "article": 1266972108,
+        "image": "./img/Frauen/Mode/Fieldjacket-Beige-Ganni.jpg"
       }
     ]
   },
@@ -949,8 +1009,8 @@
     "sort": 1,
     "name": "Veston Slim Fit von WINDSOR",
     "image": "./img/Herren/Mode/Veston-Slim-Fit-Windsor.jpg",
-    "priceFull": 999,
-    "price25": 249.75,
+    "priceFull": 699.3,
+    "price25": 174.8,
     "mainVariation": 1265571417,
     "variationName": "Grösse",
     "variations": [
@@ -1032,8 +1092,8 @@
     "sort": 3,
     "name": "Hemd Regular Fit von ALTEA",
     "image": "./img/Herren/Mode/Hemd-Regular-Fit-Altea.jpg",
-    "priceFull": 199.9,
-    "price25": 49.95,
+    "priceFull": 119.9,
+    "price25": 29.95,
     "mainVariation": 1264692608,
     "variationName": "Grösse",
     "variations": [
@@ -1100,8 +1160,8 @@
     "sort": 5,
     "name": "Hemd Regular Fit von POLO RALPH LAUREN",
     "image": "./img/Herren/Mode/Hemd-Hellgrün-Polo.jpg",
-    "priceFull": 149.9,
-    "price25": 37.45,
+    "priceFull": 104.9,
+    "price25": 26.2,
     "mainVariation": 1264711306,
     "variationName": "Grösse",
     "variations": [
@@ -1139,8 +1199,8 @@
     "sort": 6,
     "name": "Bermudas von CIRCOLO 1901",
     "image": "./img/Herren/Mode/Bermudas-CIRCOLO.jpg",
-    "priceFull": 219.9,
-    "price25": 54.95,
+    "priceFull": 153.9,
+    "price25": 38.45,
     "mainVariation": 1264538001,
     "variationName": "Grösse",
     "variations": [
@@ -1241,8 +1301,8 @@
     "sort": 9,
     "name": "Anzug 2-teilig von CC CORNELIANI",
     "image": "./img/Herren/Mode/Anzug-Blau-Corneliani.jpg",
-    "priceFull": 799.9,
-    "price25": 199.95,
+    "priceFull": 479.9,
+    "price25": 119.95,
     "mainVariation": 1266092305,
     "variationName": "Grösse",
     "variations": [
@@ -1449,32 +1509,26 @@
   {
     "group": "herren",
     "subgroup": "accessoires",
-    "urlPath": "Krawatte-Eton",
+    "urlPath": "Krawatte-Eton-Seide",
     "sort": 9,
     "name": "Krawatte aus Seide von ETON",
-    "image": "./img/Herren/Accessoires/Krawatte-Eton-Orange.jpg",
-    "priceFull": 99.9,
-    "price25": 24.95,
-    "mainVariation": 1266913004,
+    "image": "./img/Herren/Accessoires/Krawatte-Eton-Grafisch-Blau.jpg",
+    "priceFull": 129.9,
+    "price25": 32.45,
+    "mainVariation": 1266892602,
     "variationName": "Farbe",
     "variations": [
       {
-        "name": "Orange",
-        "article": 1266913004,
-        "image": "./img/Herren/Accessoires/Krawatte-Eton-Orange.jpg",
-        "color": "rgb(255, 128, 0)"
+        "name": "Blau",
+        "article": 1266892602,
+        "image": "./img/Herren/Accessoires/Krawatte-Eton-Grafisch-Blau.jpg",
+        "color": "#1C00FF"
       },
       {
         "name": "Rot",
-        "article": 1266913002,
-        "image": "./img/Herren/Accessoires/Krawatte-Eton-Rot.jpg",
-        "color": "rgb(245, 0, 2)"
-      },
-      {
-        "name": "Navy",
-        "article": 1266913001,
-        "image": "./img/Herren/Accessoires/Krawatte-Eton-Navy-Punkte.jpg",
-        "color": "rgb(0, 39, 77)"
+        "article": 1266892605,
+        "image": "./img/Herren/Accessoires/Krawatte-Eton-Grafisch-Rot.jpg",
+        "color": "#F50002"
       }
     ]
   },
