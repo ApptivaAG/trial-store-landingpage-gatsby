@@ -30,45 +30,6 @@ export default class HTML extends React.Component {
         <body id="page-top">
           <div id="___gatsby" dangerouslySetInnerHTML={{ __html: this.props.body }} />
           {this.props.postBodyComponents}
-
-          <script
-            src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"
-            id="jquery"
-            type="text/javascript"
-          />
-          <script
-            src="https://cdn.snipcart.com/scripts/2.0/snipcart.js"
-            id="snipcart"
-            data-api-key="YzAwODQyZjgtODMzNi00NWZjLTljOGYtODY1NGJmY2M4ZGYzNjM2NzU4MTcwNzI0MTI4Njcy"
-            data-cart-custom1-name="Jahrgang"
-            data-cart-custom1-required="true"
-            data-cart-custom2-name="Allgemeine Geschäftsbedingungen akzeptieren"
-            data-cart-custom2-options="true|false"
-            data-cart-custom2-required="true"
-            type="text/javascript"
-          />
-          <link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" type="text/css" rel="stylesheet" />
-          <script type="text/javascript" src="/locale/de.js" />
-
-          <script id="cart-content-text" type="text/template">
-            <div className="custom-snipcart-footer-text">
-              <h2>* So einfach funktioniert die Bezahlung</h2>
-              <p>
-                Für jedes ausgewählte Produkt bezahlst du die ersten 100 Tage eine einmalige Ausleihgebühr von 25% des
-                Originalpreises. Diesen Betrag zahlst du bequem per Rechnung.
-              </p>
-              <p>
-                Die Ausleihphase beginnt, sobald du das Produkt erhältst. In dieser Zeit kannst du den Artikel ausgiebig
-                testen.
-              </p>
-              <p>
-                Wenn du das Produkt nach Ablauf der 100 Tage weiterhin behältst, bekommst du automatisch eine zweite und
-                letzte Rechnung über die restlichen 75% des Originalpreises. Mit der Überweisung gehört der Artikel dir.
-                Keine versteckten Kosten, keine Zinsen, kein Risiko.
-              </p>
-              <a className="agbs-link">Allgemeine Geschäftsbedingungen</a>
-            </div>
-          </script>
         </body>
       </html>
     )
