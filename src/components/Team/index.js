@@ -10,8 +10,8 @@ const Team = ({ data }) => (
       <h2 className="section-heading text-uppercase">Trial Store Team</h2>
       <blockquote>Jeden Tag für den Trial Store engagiert</blockquote>
       <p className="section-heading">
-        Wir suchen für dich die angesagtesten Produkte, versenden deine Artikel, updaten die Website und vieles mehr.
-        Bei Fragen stehen wir jederzeit zur Verfügung.
+        Wir ziehen uns in unser Ideenreich zurück und gestalten für euch die neue Art des Einkaufens oder eben des
+        Ausleihens.
       </p>
       <p>Dein Trial Store Team.</p>
 

@@ -15,28 +15,6 @@ class Navi extends React.Component {
               <div className="subline">by GLOBUS</div>
             </a>
           </div>
-          {detail ? (
-            <>
-              <Link className="nav-locations text-uppercase" to={root + '#group-navi'}>
-                Produkte
-              </Link>
-              <Link className="nav-locations text-uppercase" to={root + '#howitworks'}>
-                So funktionierts
-              </Link>
-            </>
-          ) : (
-            <>
-              <a className="nav-locations text-uppercase" href="#group-navi">
-                Produkte
-              </a>
-              <a className="nav-locations text-uppercase" href="#howitworks">
-                So funktionierts
-              </a>
-            </>
-          )}
-          <Link to={root} className="snipcart-checkout nav-locations text-uppercase">
-            Warenkorb
-          </Link>
         </div>
       </nav>
     )
