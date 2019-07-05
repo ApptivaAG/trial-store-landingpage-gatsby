@@ -95,8 +95,6 @@ const Impressum = () => (
                   <br />
                   Lintheschergasse 7<br /> 8001 Zürich
                   <br />
-                  Tel. 044 504 83 00
-                  <br />
                   trialstore@globus.ch
                 </p>
                 <p>

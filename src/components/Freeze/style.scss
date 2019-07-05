@@ -1,0 +1,10 @@
+@import 'scss/colors.scss';
+
+#faq {
+  background-color: $gray-200;
+  color: $gray-900;
+
+  .container {
+    max-width: 900px;
+  }
+}

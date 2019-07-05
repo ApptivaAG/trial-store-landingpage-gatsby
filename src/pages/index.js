@@ -21,6 +21,7 @@ import ExtendedArticleHeader from 'components/ExtendedArticleHeader'
 import HowItWorksExtended from 'components/HowItWorksExtended'
 import Team from 'components/Team'
 import Learnings from 'components/Learnings/index'
+import Freeze from 'components/Freeze/index'
 
 const Index = ({ data, location }) => {
   const women = get(data, 'articles.edges')
@@ -31,53 +32,11 @@ const Index = ({ data, location }) => {
   return (
     <Layout root="/">
       <Meta site={get(data, 'site.meta')} />
-      <Header image={data.hero.fluid}>
-        <Link className="js-scroll-trigger header-button" to="/#locations">
-          <div className="round-button">
-            <div>
-              Nur Online <br />
-              und in allen teilnehmenden Filialen.
-              <br />
-              <u>
-                <small>MEHR</small>
-              </u>
-            </div>
-          </div>
-        </Link>
-      </Header>
+      <Header image={data.hero.fluid} />
 
-      <ExtendedArticleHeader />
+      <Freeze />
 
-      <GroupNavi>
-        <div>
-          <a href="#bags">Taschen</a>
-          <a href="#mode">Mode</a>
-          <a href="#accessoires">Accessoires</a>
-        </div>
-      </GroupNavi>
-      <ExtendedArticleSection heading="Taschen" group="bags">
-        {bags.map((article, i) => (
-          <ArticlePreview root="/" article={article} key={i} />
-        ))}
-      </ExtendedArticleSection>
-      <ExtendedArticleSection heading="Mode" group="mode" backgroundColor="#E9DDD2">
-        {mode.map((article, i) => (
-          <ArticlePreview root="/" article={article} key={i} />
-        ))}
-      </ExtendedArticleSection>
-      <ExtendedArticleSection heading="Accessoires" group="accessoires">
-        {accessoires.map((article, i) => (
-          <ArticlePreview root="/" article={article} key={i} />
-        ))}
-      </ExtendedArticleSection>
-      <HowItWorksExtended />
       <Team />
-      <Learnings />
-      <Locations />
-      <Lab />
-      <FAQ />
-      <Mission />
-      <Newsletter path={location.pathname} />
     </Layout>
   )
 }
