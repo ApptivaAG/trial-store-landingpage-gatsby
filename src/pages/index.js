@@ -45,7 +45,7 @@ export default Index
 
 export const rootQuery = graphql`
   query rootQuery {
-    hero: imageSharp(fluid: { originalName: { regex: "/trialstore-root/" } }) {
+    hero: imageSharp(fluid: { originalName: { regex: "/trialstore-freeze/" } }) {
       fluid(maxWidth: 2400, quality: 80) {
         ...GatsbyImageSharpFluid_withWebp
       }
